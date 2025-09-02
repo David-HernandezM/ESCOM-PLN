@@ -71,13 +71,13 @@ se pueden separar.
 
 ## Basic regular expressions:
 
-|Pattern  | Description
-|:-------:|
-| a	  | Matches with the character 'a'
-| abc	  | Matches with the string 'abc'
-| [abc]   | Matches with 'a', 'b' or 'c'
-| [^abc]  | Matches anu character except 'a', 'b' and 'c'
-| abc|def | Matches with 'abc' or 'def'
+|Pattern  | Description|
+|:-------:|:-------------------------------:|
+| a	  | Matches with the character 'a'|
+| abc	  | Matches with the string 'abc'|
+| [abc]   | Matches with 'a', 'b' or 'c'|
+| [^abc]  | Matches anu character except 'a', 'b' and 'c'|
+| abc|def | Matches with 'abc' or 'def'|
 
 # Character classes
 
