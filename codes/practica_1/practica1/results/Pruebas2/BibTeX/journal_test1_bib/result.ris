@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Sundar, Varun
+AU  - Gupta, Mohit
+PY  - 2025
+DA  - 2025//
+TI  - Quanta Computer Vision
+JO  - XRDS
+VL  - 31
+IS  - 2
+SP  - 38
+EP  - 43
+PB  - Association for Computing Machinery
+CY  - New York
+PP  - NY, USA
+AB  - Light impinges on a camera's sensor as a collection of discrete quantized elements, or photons. An emerging class of devices, called single-photon sensors, offers the unique capability of detecting individual photons with high-timing precision. With the increasing accessibility of high-resolution single-photon sensors, we can now explore what computer vision would look like if we could operate on light, one photon at a time.
+DO  - 10.1145/3703403
+UR  - https://doi.org/10.1145/3703403
+SN  - 1528-4972
+ID  - 10.1145/3703403
+ER  - 
