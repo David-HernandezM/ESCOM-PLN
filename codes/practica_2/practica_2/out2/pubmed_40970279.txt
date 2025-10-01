@@ -1,0 +1,94 @@
+PMID- 40970279
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+DP  - 2025 Sep 19
+TI  - Fibroblast-Specific Loss of TGF-β Signaling Mediates Lipomatous Metaplasia in the 
+      Infarcted Heart.
+LID - 10.1161/CIRCULATIONAHA.125.075676 [doi]
+AB  - BACKGROUND: In patients surviving myocardial infarction, adipose tissue 
+      infiltration within the scar is a common pathological finding and has been 
+      suggested to contribute to dysfunction and arrhythmogenesis. However, the 
+      cellular mechanisms for lipomatous metaplasia after infarction remain enigmatic. 
+      Our study reveals a novel molecular mechanism that mediates 
+      fibroblast-to-adipocyte conversion and causes fatty infiltration in the infarcted 
+      heart. METHODS: Mice with fibroblast-specific disruption of TGF-β (transforming 
+      growth factor β) or Smad-dependent signaling and corresponding controls were 
+      generated and underwent reperfusion and nonreperfusion myocardial infarction 
+      protocols. Echocardiography, histological studies, and transcriptomic analysis 
+      were used to study effects on cardiac repair and remodeling. Lineage tracing 
+      experiments were used to document fibroblast-to-adipocyte conversion. In vitro, 
+      the effects of genetic disruption or pharmacological blockade of TGF-β signaling 
+      on mouse cardiac fibroblasts were examined. Single-cell RNA sequencing data from 
+      human patients with myocardial infarction were analyzed to assess 
+      fibroblast-to-adipocyte conversion. RESULTS: Fibroblast-specific abrogation of 
+      TGF-β signaling through deletion of TbR2 (type 2 TGF-β receptor) increased the 
+      incidence of early postinfarction cardiac rupture, promoting a matrix-degrading 
+      fibroblast phenotype. Moreover, fibroblast-specific TbR2 loss resulted in 
+      replacement of 30% to 40% of the mature scar with adipocytes in both reperfused 
+      and nonreperfused infarcts. Lineage tracing demonstrated that fibroblast-specific 
+      TbR2 loss promotes fibroblast-to-adipocyte conversion through effects that 
+      involve Smad-independent cascades. In vitro, TbR2 inhibition induced expression 
+      of adipogenesis-associated genes in primary cardiac fibroblasts. Genetic TbR2 
+      loss promoted conversion of infarct fibroblasts to adipocytes upon stimulation 
+      with adipogenic medium. A subpopulation of fibroblasts in human fibrotic 
+      infarcted hearts acquired expression of adipocyte genes. CONCLUSIONS: TGF-β 
+      signaling plays a central role in maintaining fibroblast cell specification after 
+      cardiac injury. Fibroblast-to-adipocyte conversion induced by disrupted TGF-β 
+      signaling may underlie scar-associated lipomatous metaplasia and may play an 
+      important role in the pathogenesis of heart failure and arrhythmogenesis in 
+      patients with ischemic cardiomyopathy.
+FAU - Tuleta, Izabela
+AU  - Tuleta I
+AUID- ORCID: 0000-0002-8482-591X
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY. 
+      (Cardiology; I.T., H.V., N.G.F.).
+FAU - Venugopal, Harikrishnan
+AU  - Venugopal H
+AUID- ORCID: 0000-0002-1277-3612
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY. 
+      (Cardiology; I.T., H.V., N.G.F.).
+FAU - O'Leary, Kevin
+AU  - O'Leary K
+AUID- ORCID: 0000-0001-7120-0550
+AD  - Department of Genetics, Albert Einstein College of Medicine, Bronx, NY. (K.O., 
+      D.Z.).
+FAU - Zheng, Deyou
+AU  - Zheng D
+AUID- ORCID: 0000-0003-4354-5337
+AD  - Department of Genetics, Albert Einstein College of Medicine, Bronx, NY. (K.O., 
+      D.Z.).
+AD  - Department of Neurology and Neuroscience, Albert Einstein College of Medicine, 
+      Bronx, NY. (D.Z.).
+FAU - Frangogiannis, Nikolaos G
+AU  - Frangogiannis NG
+AUID- ORCID: 0000-0002-8186-5131
+AD  - Department of Medicine, Albert Einstein College of Medicine, Bronx, NY. 
+      (Cardiology; I.T., H.V., N.G.F.).
+AD  - Department of Microbiology and Immunology, Albert Einstein College of Medicine, 
+      Bronx, NY. (N.G.F.).
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+SB  - IM
+OTO - NOTNLM
+OT  - TGF-β
+OT  - adipocyte
+OT  - fibroblast
+OT  - heart failure
+OT  - myocardial infarction
+EDAT- 2025/09/19 06:32
+MHDA- 2025/09/19 06:32
+CRDT- 2025/09/19 05:14
+PHST- 2025/09/19 06:32 [medline]
+PHST- 2025/09/19 06:32 [pubmed]
+PHST- 2025/09/19 05:14 [entrez]
+AID - 10.1161/CIRCULATIONAHA.125.075676 [doi]
+PST - aheadofprint
+SO  - Circulation. 2025 Sep 19. doi: 10.1161/CIRCULATIONAHA.125.075676.

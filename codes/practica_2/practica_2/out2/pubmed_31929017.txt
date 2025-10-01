@@ -1,0 +1,41 @@
+PMID- 31929017
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200129
+LR  - 20200129
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 395
+IP  - 10218
+DP  - 2020 Jan 11
+TI  - Protecting Chinese doctors.
+PG  - 90
+LID - S0140-6736(20)30003-9 [pii]
+LID - 10.1016/S0140-6736(20)30003-9 [doi]
+FAU - The Lancet
+AU  - The Lancet
+LA  - eng
+PT  - Editorial
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+MH  - China/epidemiology
+MH  - Emergency Medicine
+MH  - Health Care Reform/legislation & jurisprudence
+MH  - Humans
+MH  - Physician-Patient Relations/*ethics
+MH  - Physicians/*statistics & numerical data
+MH  - Workplace Violence/*legislation & jurisprudence/prevention & control
+MH  - Wounds, Penetrating/complications/epidemiology
+EDAT- 2020/01/14 06:00
+MHDA- 2020/01/30 06:00
+CRDT- 2020/01/14 06:00
+PHST- 2020/01/14 06:00 [entrez]
+PHST- 2020/01/14 06:00 [pubmed]
+PHST- 2020/01/30 06:00 [medline]
+AID - S0140-6736(20)30003-9 [pii]
+AID - 10.1016/S0140-6736(20)30003-9 [doi]
+PST - ppublish
+SO  - Lancet. 2020 Jan 11;395(10218):90. doi: 10.1016/S0140-6736(20)30003-9.

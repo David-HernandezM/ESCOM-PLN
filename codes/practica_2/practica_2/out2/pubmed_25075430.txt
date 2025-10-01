@@ -1,0 +1,80 @@
+PMID- 25075430
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150330
+LR  - 20161125
+IS  - 1751-2441 (Electronic)
+IS  - 1751-2433 (Linking)
+VI  - 7
+IP  - 5
+DP  - 2014 Sep
+TI  - New problems arising from old drugs: second-generation effects of acetaminophen.
+PG  - 655-62
+LID - 10.1586/17512433.2014.944502 [doi]
+AB  - Acetaminophen (APAP)/paracetamol is one of the most commonly used 
+      over-the-counter drugs taken worldwide for treatment of pain and fever. Although 
+      considered as safe when taken in recommended doses not higher than 4 g/day, APAP 
+      overdose is currently the most important cause of acute liver failure (ALF). ALF 
+      may require liver transplantation and can be fatal. The reasons for APAP-related 
+      ALF are mostly intentional (suicidal) or unintentional overdose. However, results 
+      from large scale epidemiological studies provide increasing evidence for second 
+      generation effects of APAP, even when taken in pharmacological doses. Most 
+      strikingly, APAP medication during pregnancy has been associated with health 
+      problems including neurodevelopmental and behavioral disorders such as attention 
+      deficit hyperactivity disorder and increase in the risk of wheezing and incidence 
+      of asthma among offspring. This article reviews the epidemiological findings and 
+      aims to shed light into the molecular and cellular mechanisms responsible for 
+      APAP-mediated prenatal risk for asthma.
+FAU - Tiegs, Gisa
+AU  - Tiegs G
+AD  - Institute of Experimental Immunology and Hepatology, University Medical Center 
+      Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Karimi, Khalil
+AU  - Karimi K
+FAU - Brune, Kay
+AU  - Brune K
+FAU - Arck, Petra
+AU  - Arck P
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20140730
+PL  - England
+TA  - Expert Rev Clin Pharmacol
+JT  - Expert review of clinical pharmacology
+JID - 101278296
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/administration & dosage/*adverse effects
+MH  - Analgesics, Non-Narcotic/administration & dosage/adverse effects
+MH  - Animals
+MH  - Asthma/*chemically induced/epidemiology
+MH  - Chemical and Drug Induced Liver Injury/etiology
+MH  - Child
+MH  - Drug Overdose
+MH  - Female
+MH  - Humans
+MH  - Liver Failure, Acute/chemically induced
+MH  - Maternal Exposure/adverse effects
+MH  - Pregnancy
+MH  - Pregnancy Complications/chemically induced/epidemiology
+MH  - Prenatal Exposure Delayed Effects/*chemically induced/epidemiology
+OTO - NOTNLM
+OT  - asthma
+OT  - childhood asthma
+OT  - fetal development
+OT  - immune adaptation to pregnancy
+OT  - paracetamol
+OT  - pregnancy
+OT  - prenatal acetaminophen exposure
+EDAT- 2014/07/31 06:00
+MHDA- 2015/03/31 06:00
+CRDT- 2014/07/31 06:00
+PHST- 2014/07/31 06:00 [entrez]
+PHST- 2014/07/31 06:00 [pubmed]
+PHST- 2015/03/31 06:00 [medline]
+AID - 10.1586/17512433.2014.944502 [doi]
+PST - ppublish
+SO  - Expert Rev Clin Pharmacol. 2014 Sep;7(5):655-62. doi: 
+      10.1586/17512433.2014.944502. Epub 2014 Jul 30.

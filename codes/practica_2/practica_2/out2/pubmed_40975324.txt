@@ -1,0 +1,103 @@
+PMID- 40975324
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1872-7573 (Electronic)
+IS  - 0378-8741 (Linking)
+DP  - 2025 Sep 18
+TI  - Multi-omics analysis reveals the mechanism of Cistanche deserticola against 
+      alcoholic liver disease through bile salt hydrolase to SCD1.
+PG  - 120626
+LID - S0378-8741(25)01318-2 [pii]
+LID - 10.1016/j.jep.2025.120626 [doi]
+AB  - ETHNOPHARMACOLOGICAL RELEVANCE: Cistanche deserticola Y.C.Ma, revered as "desert 
+      ginseng" in Traditional Chinese Medicine, has been historically prescribed for 
+      treating five strains and seven injuries, and nourishing the five zang organs. 
+      While its total glycosides (GCs) demonstrate hepatoprotective potential against 
+      acute alcoholic liver disease (ALD), their efficacy in chronic ALD and mechanism 
+      remain unexplored. AIM OF THE STUDY: This study aimed to investigate the 
+      protective effects of GCs against chronic ALD and to elucidate its molecular 
+      mechanisms by multi-omics approach. MATERIALS AND METHODS: A chronic ALD mouse 
+      model evaluated the therapeutic effects of GCs, with systematic assessment of 
+      hepatic pathological features including liver index, liver functions, and 
+      oxidative stress, etc. Integrated multi-omics strategies (plasma-targeted 
+      metabolomics, bile acid-specific profiling, hepatic transcriptomic) were employed 
+      to delineate metabolic reprogramming and identify critical signaling pathways. 
+      Mechanistic investigations revealed that GCs attenuated bile salt hydrolase (BSH) 
+      activity. The BSH inhibitor caffeic acid phenethyl ester (CAPE) was used as a 
+      pharmacological tool for the mechanistic investigation of GCs. The molecular 
+      mechanism was validated by qRT-PCR, Western blot, and small interfering RNA 
+      (siRNA)-mediated gene silencing methods. RESULTS: GCs treatment significantly 
+      attenuated ALD pathologies. Plasma-targeted metabolomics and bile acid profiling 
+      demonstrated GCs-mediated remodeling of bile acid homeostasis and lipid metabolic 
+      networks. Mechanistically, GCs potently inhibited BSH activity, which was 
+      validated the pivotal role in ALD pathogenesis by CAPE. Transcriptomic and 
+      molecular analyses revealed that GCs subsequently reduced SCD1, and activated 
+      AMPK/mTOR signaling, thereby coordinately regulating lipid catabolism, and 
+      inflammatory cascades. CONCLUSION: These findings highlight the protective 
+      effects of GCs against chronic ALD through inhibition of BSH activity to dictate 
+      bile acid metabolism, thereby alleviating cholestasis, which subsequently 
+      regulate SCD1/AMPK/mTOR signaling pathway.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Yuan, Shuo
+AU  - Yuan S
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Gao, Peng
+AU  - Gao P
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Lei, Jun
+AU  - Lei J
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Sun, Jiaxu
+AU  - Sun J
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Fang, Xinlan
+AU  - Fang X
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Tu, Pengfei
+AU  - Tu P
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University.
+FAU - Lu, Yingyuan
+AU  - Lu Y
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University. Electronic address: luyingyuan518@bjmu.edu.cn.
+FAU - Jiang, Yong
+AU  - Jiang Y
+AD  - State Key Laboratory of Natural and Biomimetic Drugs, School of Pharmaceutical 
+      Sciences, Peking University. Electronic address: yongjiang@bjmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - Ireland
+TA  - J Ethnopharmacol
+JT  - Journal of ethnopharmacology
+JID - 7903310
+SB  - IM
+OTO - NOTNLM
+OT  - Cistanche deserticola Y.C.Ma
+OT  - SCD1/AMPK/mTOR pathway
+OT  - alcoholic liver disease
+OT  - bile salt hydrolase
+OT  - multi-omics
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 19:40
+PHST- 2025/06/08 00:00 [received]
+PHST- 2025/09/03 00:00 [revised]
+PHST- 2025/09/18 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 19:40 [entrez]
+AID - S0378-8741(25)01318-2 [pii]
+AID - 10.1016/j.jep.2025.120626 [doi]
+PST - aheadofprint
+SO  - J Ethnopharmacol. 2025 Sep 18:120626. doi: 10.1016/j.jep.2025.120626.

@@ -1,0 +1,107 @@
+PMID- 40976828
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1534-4681 (Electronic)
+IS  - 1068-9265 (Linking)
+DP  - 2025 Sep 22
+TI  - Harnessing Machine Learning and Multiomics to Construct a Tumor-Specific T Cell 
+      Signature for Prognostic Assessment and Precision Medicine in Lung 
+      Adenocarcinoma.
+LID - 10.1245/s10434-025-18330-5 [doi]
+AB  - BACKGROUND: T cells are pivotal in mediating antitumor immunity in lung 
+      adenocarcinoma (LUAD). In this study, we aimed to profile T cell-related gene 
+      (TRG) expression and develop a prognostic indicator to identify patients with 
+      LUAD who may derive greater benefit from immunotherapy. PATIENTS AND METHODS: 
+      Transcriptomic and clinical data of patients with LUAD were sourced from The 
+      Cancer Genome Atlas and Gene Expression Omnibus databases. The prognostic 
+      relevance of tumor-infiltrating T cells was assessed, and TRGs were further 
+      pinpointed through single-cell RNA-seq (scRNA-seq) analysis. Weighted gene 
+      coexpression network analysis identified LUAD-specific modules. A T cell-related 
+      gene prognostic indicator (TRGPI) was subsequently developed using a machine 
+      learning framework, with the RSF + Ridge model chosen on the basis of 
+      cross-cohort performance. We further employed spatial transcriptomics to evaluate 
+      the most impactful prognostic TRG, providing spatial context to its expression 
+      patterns. RESULTS: Increased T cell infiltration correlated with improved 
+      survival outcomes in LUAD. The TRGPI, derived from both scRNA-seq and bulk 
+      transcriptomic data, demonstrated robust prognostic and predictive capabilities 
+      across multiple cohorts. Patients with a low TRGPI exhibited enhanced overall 
+      survival, more active immune and antibacterial pathways, a higher tumor mutation 
+      burden, and more favorable predicted responses to immunotherapy. TPI1 was 
+      identified as the most impactful prognostic TRG, and spatial transcriptomics 
+      analysis and functional assays further established the oncogenic role of TPI1 in 
+      LUAD. CONCLUSIONS: This study developed a novel, robust TRGPI that accurately 
+      predicts patient prognosis and immunotherapy responses in LUAD, providing a 
+      valuable tool for precision medicine and personalized treatment strategies.
+CI  - © 2025. Society of Surgical Oncology.
+FAU - Shang, Fumei
+AU  - Shang F
+AD  - Department of Medical Oncology, Nanyang Central Hospital, Nanyang, China.
+FAU - Huang, Mudan
+AU  - Huang M
+AD  - Department of Radiation Oncology, The Third Affiliated Hospital of Shenzhen 
+      University, Shenzhen Luohu Hospital Group, Shenzhen, China.
+FAU - Ji, Ye
+AU  - Ji Y
+AD  - Department of Medical Oncology, Nanyang Central Hospital, Nanyang, China.
+FAU - Zhang, Siping
+AU  - Zhang S
+AD  - Department of Scientific Research, Nanyang Central Hospital, Nanyang, China.
+FAU - Fan, Chunhui
+AU  - Fan C
+AD  - Department of Breast Surgery, Nanyang Central Hospital, Nanyang, China.
+FAU - Zhang, Kai
+AU  - Zhang K
+AD  - Department of Radiation Oncology, Nanyang Central Hospital, Nanyang, China.
+FAU - Fang, Yifei
+AU  - Fang Y
+AD  - Department of Pulmonary and Critical Care Medicine, Nanyang Central Hospital, 
+      Nanyang, China.
+FAU - Li, Xu
+AU  - Li X
+AD  - Surgery Department 3, Nanyang Central Hospital, Nanyang, China.
+FAU - Gu, Lichao
+AU  - Gu L
+AD  - Department of Party Committee Office, Nanyang Central Hospital, Nanyang, China.
+FAU - Guan, Zhonghua
+AU  - Guan Z
+AD  - Department of Anaesthesiology, The Wujin Clinical College of Xuzhou Medical 
+      University, Changzhou, China. 1362667719@qq.com.
+FAU - Jiang, Juanjuan
+AU  - Jiang J
+AD  - School of Medicine and Health Management, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan, China. jiangjuanjuantj@163.com.
+AD  - Medical Academic Affairs Office, Tongji Medical College, Huazhong University of 
+      Science and Technology, Wuhan, China. jiangjuanjuantj@163.com.
+LA  - eng
+GR  - 242102310122/Henan Provincial Science and Technology Research Project/
+GR  - 23JCQY2041/Nanyang Basic and Frontier Technology Research Project/
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+JID - 9420840
+SB  - IM
+OTO - NOTNLM
+OT  - Immunotherapy
+OT  - Lung adenocarcinoma
+OT  - Machine learning
+OT  - Multiomics
+OT  - Prognostic indictor
+COIS- Disclosure: The authors have no potential conflicts of interest to disclose. 
+      Ethics approval: The study was conducted in accordance with the Declaration of 
+      Helsinki, and the protocol was approved by the Ethics Committee of Nanyang 
+      Central Hospital (approval no. 20200901015).
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 23:15
+PHST- 2025/07/09 00:00 [received]
+PHST- 2025/08/28 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 23:15 [entrez]
+AID - 10.1245/s10434-025-18330-5 [pii]
+AID - 10.1245/s10434-025-18330-5 [doi]
+PST - aheadofprint
+SO  - Ann Surg Oncol. 2025 Sep 22. doi: 10.1245/s10434-025-18330-5.

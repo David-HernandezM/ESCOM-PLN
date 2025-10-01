@@ -1,0 +1,126 @@
+PMID- 40977487
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2047-4881 (Electronic)
+IS  - 2047-4873 (Linking)
+DP  - 2025 Sep 22
+TI  - Variations in remnant cholesterol and the risk of cardiovascular disease: a 
+      national longitudinal cohort study.
+LID - zwaf598 [pii]
+LID - 10.1093/eurjpc/zwaf598 [doi]
+AB  - AIM: Remnant cholesterol (RC) has been recognized as a modifiable risk factor for 
+      cardiovascular disease (CVD). However, the association between long-term changes 
+      in RC during follow-up and incident CVD remains underexplored, with most research 
+      focusing on baseline RC levels. METHODS: Data for this prospective cohort study 
+      were derived from the China Health and Retirement Longitudinal Study (CHARLS). RC 
+      levels were calculated using the Friedewald equation. Changes in RC, cumulative 
+      RC, and the change in RC (ΔRC) were assessed by comparing RC levels at Waves 1 
+      and 3. Cox proportional hazard models, adjusted for potential confounders, were 
+      used to evaluate the impact of baseline and dynamic RC levels on incident CVD 
+      risk. RESULTS: Among 3,866 participants (46.23% male, mean age: 57.50 years) 
+      followed for 5.0 years, participants with initially high RC who decreased to low 
+      levels showed reduced CVD risk (HR 0.71, 95% CI 0.54-0.94). Those with low 
+      baseline RC escalating to high levels showed similar risk (HR 0.85, 95% CI 
+      0.68-1.06) compared to consistently high RC levels. Highest tertile cumulative RC 
+      significantly increased CVD risk (HR 1.37, 95% CI 1.11-1.69). Among high baseline 
+      RC participants, those in the lowest ΔRC tertile had reduced CVD risk (HR 0.68, 
+      95% CI 0.52-0.89). CONCLUSIONS: Longitudinal RC increases were associated with 
+      higher CVD risks, while RC reductions were associated with decreased risks. RC 
+      monitoring and management may contribute to CVD risk assessment and prevention, 
+      though further research with direct RC measurement and clinically validated 
+      outcomes is needed.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      European Society of Cardiology. All rights reserved. For commercial re-use, 
+      please contact reprints@oup.com for reprints and translation rights for reprints. 
+      All other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Zhu, Xiaoqing
+AU  - Zhu X
+AUID- ORCID: 0009-0007-3358-3504
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+AD  - Medical School of Chinese PLA, Beijing, China.
+FAU - Xu, Weihao
+AU  - Xu W
+AD  - Haikou Cadre's Sanitarium of Hainan Military Region, Haikou, China.
+AD  - Department of Cardiology, Guangdong Provincial Cardiovascular Institute, 
+      Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, 
+      Guangzhou, China.
+FAU - Hao, Benchuan
+AU  - Hao B
+AD  - Department of Cardiology, The Ninth Medical Center, Chinese PLA General Hospital, 
+      Beijing, China.
+FAU - Chen, Qi
+AU  - Chen Q
+AD  - Senior Department of Traditional Chinese Medicine, The Sixth Medical Center of 
+      PLA General Hospital, Beijing, China.
+FAU - Xiong, Zhenyu
+AU  - Xiong Z
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+FAU - Wang, Qingsong
+AU  - Wang Q
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+AD  - Medical School of Chinese PLA, Beijing, China.
+FAU - Hou, Xiaofei
+AU  - Hou X
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+AD  - Medical School of Chinese PLA, Beijing, China.
+FAU - Chen, Yundai
+AU  - Chen Y
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+FAU - Guo, Jun
+AU  - Guo J
+AUID- ORCID: 0000-0002-7225-3264
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+AD  - Medical School of Chinese PLA, Beijing, China.
+FAU - Chen, Tao
+AU  - Chen T
+AUID- ORCID: 0000-0003-3303-180X
+AD  - Senior Department of Cardiology, The Sixth Medical Center of PLA General 
+      Hospital, Beijing, China.
+AD  - Medical School of Chinese PLA, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Eur J Prev Cardiol
+JT  - European journal of preventive cardiology
+JID - 101564430
+SB  - IM
+OAB - This study shows that remnant cholesterol (RC) is a modifiable risk factor for 
+      cardiovascular disease (CVD), highlighting the importance of tracking RC level 
+      and the necessity of early effective intervention in individuals with high RC 
+      level, thereby reducing risks of CVD. The study found the significant 
+      associations between the changes in RC and the risk of incident CVD. The 
+      progression of RC level increased the risk of CVD, while the remission of RC 
+      reduced the risk of CVD. Cumulative exposure to high RC levels was significantly 
+      associated with increased CVD risks. Decreases in RC level in participants with 
+      high baseline RC was correlated with reduced incidence of CVD. Keeping or 
+      returning to a normal BMI and high cumulative physical activity were associated 
+      with a higher likelihood of RC reduction, which highlights the potential 
+      modifiable approaches for controlling RC.
+OABL- eng
+OTO - NOTNLM
+OT  - Cardiovascular disease
+OT  - Dynamic change
+OT  - Middle-aged and older adults
+OT  - Remnant cholesterol
+EDAT- 2025/09/22 06:31
+MHDA- 2025/09/22 06:31
+CRDT- 2025/09/22 05:52
+PHST- 2025/04/25 00:00 [received]
+PHST- 2025/08/03 00:00 [revised]
+PHST- 2025/09/22 06:31 [medline]
+PHST- 2025/09/22 06:31 [pubmed]
+PHST- 2025/09/22 05:52 [entrez]
+AID - 8261258 [pii]
+AID - 10.1093/eurjpc/zwaf598 [doi]
+PST - aheadofprint
+SO  - Eur J Prev Cardiol. 2025 Sep 22:zwaf598. doi: 10.1093/eurjpc/zwaf598.

@@ -1,0 +1,35 @@
+PMID- 29035486
+STAT- Publisher
+ISBN- 9781786390042
+ISBN- 9781786390059
+PB  - CAB International
+CTI - Wellcome Trust–Funded Monographs and Book Chapters
+DP  - 2016
+BTI - Global Health Research in an Unequal World: Ethics Case Studies from Africa
+AB  - This book is a collection of fictionalised case studies of everyday ethical 
+      dilemmas and challenges, encountered in the process of conducting global health 
+      research in places where the effects of global, political and economic inequality 
+      are particularly evident. It is a training tool to fill the gap between research 
+      ethics guidelines, and their implementation 'on the ground'. The case studies, 
+      therefore, focus on 'relational' ethics: ethical actions and ideas that emerge 
+      through relations with others, rather than in regulations.
+CI  - © 2016 by CAB International, Gemma Aellah, Tracey Chantler, P.Wenzel Geissler.
+FAU - Aellah, Gemma
+AU  - Aellah G
+AD  - Research Officer at the Royal Anthropological Insitutite
+AD  - PhD researcher at the London School of Hygiene and Tropical Medicine
+FAU - Chantler, Tracey
+AU  - Chantler T
+AD  - Research Fellow at the London School of Hygiene and Tropical Medicine
+FAU - Geissler, P Wenzel
+AU  - Geissler PW
+AD  - Professor of Social Anthropology at the University of Oslo, 
+      Norwayp.w.geissler@sai.uio.no
+AD  - Part-time Director of research at University of Cambridge
+LA  - eng
+PT  - Review
+PT  - Book
+PL  - Oxfordshire (UK)
+EDAT- 2016/01/01 00:00
+CRDT- 2016/01/01 00:00
+AID - NBK458764 [bookaccession]

@@ -1,0 +1,111 @@
+PMID- 40971821
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1523-5866 (Electronic)
+IS  - 1522-8517 (Linking)
+DP  - 2025 Sep 15
+TI  - Co-activation of super-enhancer complex SOX2 and HDAC1 confers temozolomide 
+      resistance by promoting PDGFB transcription in glioblastoma.
+LID - noaf219 [pii]
+LID - 10.1093/neuonc/noaf219 [doi]
+AB  - BACKGROUND: Temozolomide (TMZ) resistance remains the major obstacle in the 
+      treatment of glioblastoma (GBM). We previously found that the super-enhancer (SE) 
+      complex is involved in the regulation of genes related to tumor biology, but its 
+      mechanisms in mediating TMZ resistance in GBM remain poorly characterized. 
+      METHODS: Comprehensive in vitro and in vivo functional experiments were conducted 
+      using patient-derived cells (PDCs), patient-derived organoids, and PDCs xenograft 
+      models. Cleavage Under Targets and Tagmentation, chromatin immunoprecipitation, 
+      co-immunoprecipitation, mass spectrometry, protein fragment complementation 
+      assay, dual-luciferase reporter assay, fluorescence polarization assay, and 
+      surface plasmon resonance assay were employed to unravel the molecular 
+      mechanisms. RESULTS: We found that SOX2 is significantly upregulated in 
+      TMZ-resistant PDCs and associated with the poor prognosis of recurrent GBM 
+      patients. Moreover, inhibition of SOX2 enhanced TMZ-induced apoptosis and DNA 
+      damage response, thereby promoting TMZ chemosensitivity. Mechanically, we 
+      identified PDGFB as a novel SE-associated oncogene mediated by SOX2. SE complex 
+      SOX2 and HDAC1 were recruited together to the SE region of PDGFB, synergistically 
+      triggering the PDGFB-MAPK/PI3K signaling axis and ultimately promoting TMZ 
+      resistance. Notably, virtual screening targeting the critical interaction domain 
+      between SOX2 and HDAC1 identified the FDA-approved drug fluvastatin as a potent 
+      SOX2 inhibitor that effectively sensitizes GBM cells to TMZ. CONCLUSIONS: 
+      Targeting the SE complex enhances TMZ chemosensitivity in GBM, providing a 
+      promising therapeutic avenue to overcome drug resistance and improve clinical 
+      outcomes.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Society for Neuro-Oncology. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Xie, Han
+AU  - Xie H
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Ji, Tongjie
+AU  - Ji T
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Zhang, Chunyu
+AU  - Zhang C
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Cheng, Meng
+AU  - Cheng M
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Wang, Rui
+AU  - Wang R
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Wu, Yueyao
+AU  - Wu Y
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Wang, Jingzhe
+AU  - Wang J
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Wang, Honghao
+AU  - Wang H
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Yang, Junyu
+AU  - Yang J
+FAU - Xu, Siyi
+AU  - Xu S
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Liu, Min
+AU  - Liu M
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+FAU - Zhang, Jing
+AU  - Zhang J
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Zhong, Chunlong
+AU  - Zhong C
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai, 200120, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250915
+PL  - England
+TA  - Neuro Oncol
+JT  - Neuro-oncology
+JID - 100887420
+SB  - IM
+OTO - NOTNLM
+OT  - PDGFB
+OT  - SOX2
+OT  - glioblastoma
+OT  - super-enhancer complex
+OT  - temozolomide resistance
+EDAT- 2025/09/19 18:31
+MHDA- 2025/09/19 18:31
+CRDT- 2025/09/19 16:38
+PHST- 2025/05/04 00:00 [received]
+PHST- 2025/09/08 00:00 [accepted]
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:31 [pubmed]
+PHST- 2025/09/19 16:38 [entrez]
+AID - 8254369 [pii]
+AID - 10.1093/neuonc/noaf219 [doi]
+PST - aheadofprint
+SO  - Neuro Oncol. 2025 Sep 15:noaf219. doi: 10.1093/neuonc/noaf219.

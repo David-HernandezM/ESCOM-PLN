@@ -1,0 +1,177 @@
+PMID- 40968272
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1546-170X (Electronic)
+IS  - 1078-8956 (Linking)
+DP  - 2025 Sep 18
+TI  - Clinical implementation of an AI-based prediction model for decision support for 
+      patients undergoing colorectal cancer surgery.
+LID - 10.1038/s41591-025-03942-x [doi]
+AB  - Adverse outcomes after elective cancer surgery are a main contributor to 
+      decreased survival, poorer oncological outcomes and increased healthcare costs. 
+      Identifying high-risk patients and selecting interventions according to 
+      individual risk profiles in the perioperative period in cancer surgery is a 
+      challenge. Using real-world data on 18,403 patients with colorectal cancer from 
+      Danish national registries and consecutive patients from a single center, we 
+      developed, validated and implemented an artificial-intelligence-based risk 
+      prediction model in clinical practice as a decision support tool for personalized 
+      perioperative treatment. Personalized treatment pathways were designed according 
+      to the predicted risk of 1-year mortality with the intensity of interventions 
+      increasing with the predicted risk. The developed model had an area under the 
+      receiver operating characteristic curve of 0.79 in the validation set. Results 
+      from the nonrandomized before/after cohort study showed an incidence proportion 
+      of the comprehensive complication index >20 of 19.1% in the personalized 
+      treatment group versus 28.0% in the standard-of-care group, adjusted odds ratio 
+      of 0.63 (95% confidence interval, 0.42-0.92; P = 0.02). The incidence of any 
+      medical complication was 23.7% in the personalized treatment group and 37.3% in 
+      the standard-of-care group; odds ratio of 0.53 (95% confidence interval, 
+      0.36-0.76; P < 0.001). According to the short-term health economic modeling, 
+      personalized perioperative treatment was cost effective. The study demonstrates a 
+      fully scalable registry-based approach for using readily available data in an 
+      artificial-intelligence-based decision support pipeline in clinical practice. Our 
+      results indicate that this specific approach can be a cost-effective strategy to 
+      improve key surgical clinical outcomes.
+CI  - © 2025. The Author(s).
+FAU - Rosen, Andreas Weinberger
+AU  - Rosen AW
+AUID- ORCID: 0000-0001-9990-8155
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark. anwr@regionsjaelland.dk.
+FAU - Ose, Ilze
+AU  - Ose I
+AUID- ORCID: 0000-0002-7018-9414
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark. ilos@regionsjaelland.dk.
+FAU - Gögenur, Mikail
+AU  - Gögenur M
+AUID- ORCID: 0000-0001-7768-324X
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Andersen, Lars Peter Kloster
+AU  - Andersen LPK
+AD  - Department of Anesthesiology, Zealand University Hospital, Køge, Denmark.
+AD  - Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.
+FAU - Bojesen, Rasmus Dahlin
+AU  - Bojesen RD
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Vogelsang, Rasmus Peuliche
+AU  - Vogelsang RP
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Rose, Martin Høyer
+AU  - Rose MH
+AUID- ORCID: 0009-0007-9187-6620
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Steenfos, Philip Wallentin
+AU  - Steenfos PW
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Hansen, Lasse Bremholm
+AU  - Hansen LB
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Spuur, Helle Skadborg
+AU  - Spuur HS
+AD  - Department of Physiotherapy, Zealand University Hospital, Køge, Denmark.
+FAU - Raben, Ines
+AU  - Raben I
+AD  - Department of Medicine, Zealand University Hospital, Køge, Denmark.
+FAU - Skou, Søren Thorgaard
+AU  - Skou ST
+AUID- ORCID: 0000-0003-4336-7059
+AD  - Department of Sports Science and Clinical Biomechanics, Center for Muscle and 
+      Joint Health, University of Southern Denmark, Odense, Denmark.
+AD  - Department of Physiotherapy and Occupational Therapy, Research and Implementation 
+      Unit PROgrez, Næstved-Slagelse-Ringsted Hospitals, Slagelse, Denmark.
+FAU - Holm, Ellen Astrid
+AU  - Holm EA
+AD  - Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.
+AD  - Department of Medicine, Zealand University Hospital, Køge, Denmark.
+FAU - Mortensen, Karina
+AU  - Mortensen K
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+FAU - Kjær, Trine
+AU  - Kjær T
+AD  - Department of Public Health, Danish Centre for Health Economics, University of 
+      Southern Denmark, Odense, Denmark.
+FAU - Eriksen, Jens Ravn
+AU  - Eriksen JR
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+CN  - AID-SURG study group
+FAU - Gögenur, Ismail
+AU  - Gögenur I
+AD  - Department of Surgery, Center for Surgical Science, Zealand University Hospital, 
+      Køge, Denmark.
+AD  - Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.
+AD  - Danish Colorectal Cancer Group, Copenhagen, Denmark.
+LA  - eng
+GR  - 23-2B-14410/Aage og Johanne Louis-Hansens Fond (Aage and Johanne Louis-Hansen 
+      Foundation)/
+GR  - NNF21OC0069821/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+SB  - IM
+COIS- Competing interests: I.G. and M.H.R. are shareholders in Nordic AI Medical ApS—a 
+      health technology company that has licensed a medical device incorporating a 
+      prediction algorithm to CE mark the algorithm. M.H.R. also serves as a consultant 
+      for Nordic AI Medical ApS. I.G., M.H.R., A.W.R. and J.R.E. are named as inventors 
+      (not patented) on a medical software developed to support MDT meetings 
+      incorporating a prediction model. The other authors declare no competing 
+      interests.
+FIR - Tsouchnikas, Andinoos Eros
+IR  - Tsouchnikas AE
+FIR - Righult, Angelina Astrid
+IR  - Righult AA
+FIR - Ayhan, Emine Ceren
+IR  - Ayhan EC
+FIR - Eraslan, Sule
+IR  - Eraslan S
+FIR - Gögenur, Enise
+IR  - Gögenur E
+FIR - Alexandersen, Christina
+IR  - Alexandersen C
+FIR - Gögenur, Dilara Seyma
+IR  - Gögenur DS
+FIR - Nielsen, Amalie Thomsen
+IR  - Nielsen AT
+FIR - Saqi, Ida Kolukisa
+IR  - Saqi IK
+FIR - Löffler, Lea Maria Elisabeth
+IR  - Löffler LME
+FIR - Schefte, Xenia Lea
+IR  - Schefte XL
+FIR - Fischer, Oliver Wedel
+IR  - Fischer OW
+FIR - Fransgård, Tina
+IR  - Fransgård T
+FIR - Thomsen, Morten Holt
+IR  - Thomsen MH
+FIR - Seiersen, Michael
+IR  - Seiersen M
+FIR - Brisling, Steffen Kirstein
+IR  - Brisling SK
+FIR - Turiño, Stine Ydegaard
+IR  - Turiño SY
+FIR - Frederiksen, Nina Abild
+IR  - Frederiksen NA
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+CRDT- 2025/09/18 23:53
+PHST- 2024/12/20 00:00 [received]
+PHST- 2025/08/01 00:00 [accepted]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 23:53 [entrez]
+AID - 10.1038/s41591-025-03942-x [pii]
+AID - 10.1038/s41591-025-03942-x [doi]
+PST - aheadofprint
+SO  - Nat Med. 2025 Sep 18. doi: 10.1038/s41591-025-03942-x.

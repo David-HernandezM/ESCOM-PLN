@@ -1,0 +1,127 @@
+PMID- 40976895
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1875-6190 (Electronic)
+IS  - 1570-159X (Linking)
+DP  - 2025 Sep 18
+TI  - Unraveling the Role of Perivascular Macrophages in Alzheimer's Disease: Insights 
+      from the Crosstalk between Immunometabolism and Ferroptosis.
+LID - 10.2174/011570159X417328250908080404 [doi]
+AB  - INTRODUCTION: Recent evidence increasingly supports a potential role of 
+      Perivascular Macrophages (PVMs), a unique subpopulation of brain immune cells, in 
+      the pathogenesis of Alzheimer's disease (AD). Strategically positioned at the 
+      brain-vasculature interface, PVMs sense the redox status, modulate immunity, and 
+      potentially influence ferroptosis-an iron-dependent form of regulated cell death 
+      increasingly implicated in AD. However, whether the involvement of PVMs in AD 
+      pathology specifically entails mechanisms related to the crosstalk between 
+      immunometabolism and ferroptosis, and the precise molecular pathways linking 
+      PVMs, immunometabolism, and ferroptosis to AD, remains unclear. METHODS: We first 
+      obtained single-cell RNA sequencing data of PVMs from AD patients and control 
+      subjects via the GEO database, identified Differentially Expressed Genes (DEGs), 
+      and applied Mendelian Randomization (MR), with robustness validated via 
+      leave-one-out analysis to pinpoint key genes among the DEGs with causal relevance 
+      to AD. Next, we identified ferroptosis-related genes within these key genes and 
+      examined their associations with immune cell infiltration and immunometabolic 
+      signaling pathways, while also predicting their regulatory transcription factors 
+      to inform potential therapeutic strategies. RESULTS: We identified 149 DEGs in 
+      PVMs between AD and control groups, which were primarily enriched in immune and 
+      metabolic pathways. MR analysis established eight genes (ACSL1, SPATA6, RAB31, 
+      NIBAN1, HDAC4, GRAMD1B, GCC2, and DENND3) as causally and negatively associated 
+      with AD risk (IVW analysis identified all P < 0.05, with robustness confirmed by 
+      leave-one-out analysis), with ACSL1 being recognized as a known ferroptosis 
+      driver. Immune cell infiltration analysis revealed significant differences in 
+      monocyte and neutrophil proportions in AD, with DENND3 identified as the sole 
+      gene significantly correlated with monocyte abundance. The Key genes demonstrated 
+      distinct associations with immunometabolic pathways: GRAMD1B expression was 
+      positively associated with PI3K/AKT/mTOR signaling, whereas both NIBAN1 and 
+      SPATA6 showed enrichment in cells with high Notch signaling activity. ACSL1 
+      exhibited robust associations with multiple pathways implicated in ferroptosis, 
+      including the IL-6/JAK/STAT3, interferon-γ, TGF-β, bile acid metabolism, and 
+      cholesterol homeostasis pathways, suggesting potential mechanisms that mediate 
+      the crosstalk between immunometabolism and ferroptosis. Transcription factor 
+      analysis highlighted shared regulation by CEBPD and the SP1/2/3/4 family, 
+      indicating convergent transcriptional control of these genes. CONCLUSION: This 
+      study identifies eight key genes in PVMs that may protect against AD through 
+      mechanisms involving the interplay between immunometabolism and ferroptosis. Our 
+      findings provide novel insights into the function of PVMs in AD pathophysiology 
+      and suggest potential therapeutic targets for this devastating neurodegenerative 
+      disease.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Miao, Xiaolei
+AU  - Miao X
+AD  - Department of Anesthesiology, Beijing Chao-Yang Hospital, Capital Medical 
+      University, Beijing 100020, China.
+FAU - Yue, Wei
+AU  - Yue W
+AD  - Jiangsu Province Key Laboratory of Anesthesiology, Xuzhou Medical University, 
+      Xuzhou 221004, Jiangsu Province, China.
+AD  - Department of Anesthesiology, Women's Hospital of Nanjing Medical University, 
+      Nanjing Maternity and Child Health Care Hospital, Nanjing 210009, Jiangsu 
+      Province, China.
+FAU - Wang, Jinxu
+AU  - Wang J
+AD  - Department of Anesthesiology, Beijing Chao-Yang Hospital, Capital Medical 
+      University, Beijing 100020, China.
+FAU - Chen, Jiahui
+AU  - Chen J
+AD  - Jiangsu Province Key Laboratory of Anesthesiology, Xuzhou Medical University, 
+      Xuzhou 221004, Jiangsu Province, China.
+FAU - Qiu, Lei
+AU  - Qiu L
+AD  - Department of Anesthesiology, Jiangsu Cancer Hospital and Jiangsu Institute of 
+      Cancer Research and the Affiliated Cancer Hospital of Nanjing Medical University, 
+      Nanjing 210009, Jiangsu Province, China.
+FAU - Paerhati, Halisa
+AU  - Paerhati H
+AD  - Department of Anesthesiology, Jiangsu Cancer Hospital and Jiangsu Institute of 
+      Cancer Research and the Affiliated Cancer Hospital of Nanjing Medical University, 
+      Nanjing 210009, Jiangsu Province, China.
+FAU - Zhou, Qin
+AU  - Zhou Q
+AD  - Department of Anesthesiology, Jiangsu Cancer Hospital and Jiangsu Institute of 
+      Cancer Research and the Affiliated Cancer Hospital of Nanjing Medical University, 
+      Nanjing 210009, Jiangsu Province, China.
+FAU - Li, Pengyi
+AU  - Li P
+AD  - Department of Anesthesiology, Jiangsu Cancer Hospital and Jiangsu Institute of 
+      Cancer Research and the Affiliated Cancer Hospital of Nanjing Medical University, 
+      Nanjing 210009, Jiangsu Province, China.
+FAU - Wu, Anshi
+AU  - Wu A
+AD  - Department of Anesthesiology, Beijing Chao-Yang Hospital, Capital Medical 
+      University, Beijing 100020, China.
+FAU - Zhang, Minhao
+AU  - Zhang M
+AD  - Department of Anesthesiology, Jiangsu Cancer Hospital and Jiangsu Institute of 
+      Cancer Research and the Affiliated Cancer Hospital of Nanjing Medical University, 
+      Nanjing 210009, Jiangsu Province, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United Arab Emirates
+TA  - Curr Neuropharmacol
+JT  - Current neuropharmacology
+JID - 101157239
+SB  - IM
+OTO - NOTNLM
+OT  - Alzheimer’s disease
+OT  - ferroptosis.
+OT  - immune infiltration
+OT  - mendelian randomization
+OT  - perivascular macrophages
+OT  - single-cell RNA sequencing
+EDAT- 2025/09/22 06:31
+MHDA- 2025/09/22 06:31
+CRDT- 2025/09/22 00:22
+PHST- 2025/05/24 00:00 [received]
+PHST- 2025/08/15 00:00 [revised]
+PHST- 2025/08/19 00:00 [accepted]
+PHST- 2025/09/22 06:31 [medline]
+PHST- 2025/09/22 06:31 [pubmed]
+PHST- 2025/09/22 00:22 [entrez]
+AID - CN-EPUB-150672 [pii]
+AID - 10.2174/011570159X417328250908080404 [doi]
+PST - aheadofprint
+SO  - Curr Neuropharmacol. 2025 Sep 18. doi: 10.2174/011570159X417328250908080404.

@@ -1,0 +1,73 @@
+PMID- 40974167
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1365-2230 (Electronic)
+IS  - 0307-6938 (Linking)
+DP  - 2025 Sep 20
+TI  - Investigation of Infection Risk Associated with Janus Kinase Inhibitors: A 
+      Pharmacovigilance Analysis Using the Food and Drug Administration's Adverse Event 
+      Reporting System Database.
+LID - llaf427 [pii]
+LID - 10.1093/ced/llaf427 [doi]
+AB  - BACKGROUND: The use of JAK inhibitors (JAKis) is growing in dermatology with 
+      approvals for atopic dermatitis, alopecia areata, plaque psoriasis, and psoriatic 
+      arthritis. This study aimed to evaluate infectious adverse events (iAEs) 
+      associated with abrocitinib, baricitinib, deucravacitinib, ritlecitinib, 
+      tofacitinib, and upadacitinib. METHODS: Data were retrieved from the FDA Adverse 
+      Event Reporting System (FAERS) via the open-source AERSMine platform 
+      (version:2025-04-16; Cincinnati Children's Hospital Medical Center, USA). Reports 
+      from 2004Q1 to 2024Q2 were screened under the MedDRA System Organ Class 
+      "Infections and Infestations". The analysis encompassed all indications, not only 
+      dermatologic use. Disproportionality metrics including Reporting Odds Ratio 
+      (ROR), Proportional Reporting Ratio (PRR), and Information Component (IC) were 
+      calculated. RESULTS: Tofacitinib had the highest number of iAE reports 
+      (n=68,669), followed by upadacitinib (n=17,822). Most reports involved females 
+      and those aged 25-65, except baricitinib, which was more frequent in ≥66. 
+      Disproportionality analysis revealed sex- and age-related differences in iAE 
+      risk, with male sex generally associated with lower risk. Pediatric patients 
+      (0-14 years) had an elevated iAE risk with abrocitinib and upadacitinib, while 
+      older adults (≥66) showed increased risk with baricitinib and tofacitinib. 
+      Commonly reported iAEs included COVID-19, herpes zoster, nasopharyngitis, 
+      influenza, urinary tract infection, pneumonia, and sinusitis. Each JAKi was 
+      associated with distinct high-signal iAEs. CONCLUSION: This is the most 
+      comprehensive real-world analysis of iAEs linked to oral JAKis. While infection 
+      risks varied across agents, both common and rare but serious events were 
+      identified. Findings highlight the importance of individualized monitoring and 
+      preventive strategies, and reinforce the value of post-marketing surveillance in 
+      ensuring safe JAKi use.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of British 
+      Association of Dermatologists. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Altınöz Güney, Cansu
+AU  - Altınöz Güney C
+AUID- ORCID: 0000-0001-6920-3779
+AD  - Department of Dermatology and Venereology, Dinar State Hospital, Afyonkarahisar, 
+      Türkiye.
+FAU - Koç, Huriye Aybüke
+AU  - Koç HA
+AD  - Department of Dermatology and Venereology, Giresun University Faculty of 
+      Medicine, Giresun, Türkiye.
+LA  - eng
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Clin Exp Dermatol
+JT  - Clinical and experimental dermatology
+JID - 7606847
+SB  - IM
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:31
+CRDT- 2025/09/20 03:33
+PHST- 2025/06/04 00:00 [received]
+PHST- 2025/08/02 00:00 [revised]
+PHST- 2025/09/20 06:31 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 03:33 [entrez]
+AID - 8259637 [pii]
+AID - 10.1093/ced/llaf427 [doi]
+PST - aheadofprint
+SO  - Clin Exp Dermatol. 2025 Sep 20:llaf427. doi: 10.1093/ced/llaf427.

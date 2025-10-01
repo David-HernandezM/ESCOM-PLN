@@ -1,0 +1,306 @@
+PMID- 40975105
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2352-3026 (Electronic)
+IS  - 2352-3026 (Linking)
+DP  - 2025 Sep 17
+TI  - Rituximab, bendamustine, and cytarabine followed by venetoclax in older patients 
+      with high-risk mantle cell lymphoma (FIL_V-RBAC): a multicentre, single-arm, 
+      phase 2 study.
+LID - S2352-3026(25)00252-2 [pii]
+LID - 10.1016/S2352-3026(25)00252-2 [doi]
+AB  - BACKGROUND: Bendamustine and rituximab combined with intermediate-dose cytarabine 
+      (RBAC) is one of the standard initial treatments for older, fit patients with 
+      mantle cell lymphoma. We aimed to investigate whether the addition of venetoclax 
+      to RBAC would improve progression-free survival in patients with high-risk mantle 
+      cell lymphoma. METHODS: FIL_V-RBAC was a multicentre, single-arm, phase 2 study 
+      done in 35 institutions of the Fondazione Italiana Linfomi in Italy. 
+      Treatment-naive patients with a histological diagnosis of mantle cell lymphoma, 
+      aged 65 years or older and fit according to the Fondazione Italiana Linfomi 
+      modified comprehensive geriatric assessment (or younger than 65 years and 
+      ineligible for high-dose chemotherapy with Eastern Cooperative Oncology Group 
+      performance status of 2 or less), were classified after enrolment as having 
+      low-risk or high-risk disease, based on the presence of blastoid morphology, Ki67 
+      30% or higher, TP53, or 17p deletion. Patients with a low-risk profile received 
+      RBAC intravenously (rituximab 375 mg/m(2) and day 1; bendamustine 70 mg/m(2) on 
+      days 1 and 2; and cytarabine 500 mg/m(2) on days 1, 2, and 3) every 4 weeks for 6 
+      cycles. Patients with a high-risk profile received four cycles of RBAC followed 
+      by fixed-duration oral venetoclax consolidation (4 months, 800 mg/day) and 
+      maintenance (20 months, 400 mg/day). The primary endpoint was 2-year 
+      progression-free survival for patients with a high-risk profile who received at 
+      least one dose of RBAC. This trial was registered with ClinicalTrials.gov, 
+      NCT03567876, and this is the final report. FINDINGS: Between Sept 10, 2018, and 
+      July 26, 2021, 155 patients were screened for inclusion, 140 of whom were 
+      enrolled and analysed for study endpoints. Median age was 72 (IQR 69-76), 107 
+      (76%) patients were male, 33 (24%) were female, and all were White. 54 (39%) 
+      patients had a high-risk profile (28 [20%] with TP53 mutations, 19 [14%] with 17p 
+      deletions, 34 [24%] with Ki67 ≥30%, and 13 [9%] with a blastoid morphology) and 
+      86 (61%) had a low-risk profile. After a median follow-up of 45 months (IQR 
+      40-55), the 2-year progression-free survival in the high-risk group was 60% (95% 
+      CI 48-74) and the median progression-free survival was 37 months (95% CI 19-not 
+      reached). The most frequent grade 3 or worse adverse events during venetoclax 
+      consolidation were neutropenia (12 [28%] of 43 patients), followed by 
+      thrombocytopenia (three [7%]) and skin reactions (three [7%]). During venetoclax 
+      maintenance, the most frequent grade 3 or worse adverse events were neutropenia 
+      (seven [19%] of 37 patients), followed by thrombocytopenia (two [5%]) and anaemia 
+      (two [5%]). One (1%) of 140 patients had a treatment-related death (tumour lysis 
+      syndrome during first induction with RBAC in a patient with a high-risk profile). 
+      INTERPRETATION: To our knowledge, this is the first prospective study to stratify 
+      patients with mantle cell lymphoma to different treatments according to their 
+      risk profile. Our results suggest that the addition of fixed-duration venetoclax 
+      improves the performance of RBAC in patients with a high-risk disease profile. 
+      Our findings point to the importance of identifying patients with high-risk 
+      disease at initial diagnosis. FUNDING: Fondazione Italiana Linfomi-Ente del Terzo 
+      Settore, Leukemia and Lymphoma Society, and Ministry of Health, Italy, and 
+      AbbVie. TRANSLATION: For the Italian translation of the abstract see 
+      Supplementary Materials section.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Visco, Carlo
+AU  - Visco C
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy. Electronic address: carlo.visco@univr.it.
+FAU - Tabanelli, Valentina
+AU  - Tabanelli V
+AD  - IRCCS Istituto Europeo di Oncologia, Ematopatologia, Milan, Italy.
+FAU - Sacchi, Maria Vittoria
+AU  - Sacchi MV
+AD  - Fondazione Italiana Linfomi ETS, sede di Alessandria, Alessandria, Italy.
+FAU - Evangelista, Andrea
+AU  - Evangelista A
+AD  - Azienda Ospedaliera Città della Salute e della Scienza, Unità di Epidemiologia 
+      Clinica, CPO, Turin, Italy.
+FAU - Quaglia, Francesca Maria
+AU  - Quaglia FM
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy.
+FAU - Fiori, Stefano
+AU  - Fiori S
+AD  - IRCCS Ca Granda, Ospedale Maggiore Policlinico, Divisione di Patologia, Milan, 
+      Italy.
+FAU - Bomben, Riccardo
+AU  - Bomben R
+AD  - IRCCS Centro di Riferimento Oncologico (CRO) di Aviano, Aviano, Italy.
+FAU - Tisi, Maria Chiara
+AU  - Tisi MC
+AD  - ULSS 8-Berica-Ospedale San Bortolo, Ematologia, Vicenza, Italy.
+FAU - Riva, Marcello
+AU  - Riva M
+AD  - ULSS 8-Berica-Ospedale San Bortolo, Ematologia, Vicenza, Italy.
+FAU - Merli, Anna
+AU  - Merli A
+AD  - Ospedale degli Infermi, Ematologia, Rimini, Italy.
+FAU - Rotondo, Francesco
+AU  - Rotondo F
+AD  - Ospedale degli Infermi, Ematologia, Rimini, Italy.
+FAU - Fraenza, Costanza
+AU  - Fraenza C
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy.
+FAU - Carazzolo, Maria Elena
+AU  - Carazzolo ME
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy.
+FAU - Corradini, Paolo
+AU  - Corradini P
+AD  - IRCCS Istituto Nazionale dei Tumori, Ematologia, Milan, Italy.
+FAU - Farina, Lucia
+AU  - Farina L
+AD  - IRCCS Istituto Nazionale dei Tumori, Ematologia, Milan, Italy.
+FAU - Castellino, Claudia
+AU  - Castellino C
+AD  - Azienda Ospedaliera Santa Croce e Carle, Ematologia e TMO, Cuneo, Italy.
+FAU - Castellino, Alessia
+AU  - Castellino A
+AD  - Azienda Ospedaliera Santa Croce e Carle, Ematologia e TMO, Cuneo, Italy.
+FAU - Zilioli, Vittorio Ruggero
+AU  - Zilioli VR
+AD  - Azienda Socio-Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda, 
+      Divisione di Ematologia, Milan, Italy.
+FAU - Muzi, Cristina
+AU  - Muzi C
+AD  - Azienda Socio-Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda, 
+      Divisione di Ematologia, Milan, Italy.
+FAU - Piazza, Francesco
+AU  - Piazza F
+AD  - Università di Padova, Dipartimento di Medicina, Unità di Ematologia, Padua, 
+      Italy.
+FAU - Re, Alessandro
+AU  - Re A
+AD  - ASST Spedali Civili di Brescia, Ematologia, Brescia, Italy.
+FAU - Hohaus, Stefan
+AU  - Hohaus S
+AD  - IRCCS Policlinico Universitario Gemelli, Ematologia e Università del Sacro Cuore, 
+      Rome, Italy.
+FAU - Rossi, Francesca Gaia
+AU  - Rossi FG
+AD  - IRCCS Ca Granda, Ospedale Maggiore Policlinico, Ematologia, Milan, Italy.
+FAU - Musuraca, Gerardo
+AU  - Musuraca G
+AD  - IRCCS Istituto Romagnolo per lo studio dei Tumori, Dino Amadori, Ematologia, 
+      Meldola.
+FAU - Di Rocco, Alice
+AU  - Di Rocco A
+AD  - Policlinico Umberto I, Università La Sapienza, Dipartimento di Medicina 
+      Traslazionale e di Precisione, Ematologia, Rome, Italy.
+FAU - Puccini, Benedetta
+AU  - Puccini B
+AD  - Azienda Ospedaliero Universitaria Careggi, Ematologia, Florence, Italy.
+FAU - Sciarra, Roberta
+AU  - Sciarra R
+AD  - IRCCS Policlinico San Matteo, Ematologia, Pavia, Italy.
+FAU - Ballerini, Filippo
+AU  - Ballerini F
+AD  - IRCCS Ospedale Policlinico San Martino, Clinica Ematologica, Genoa, Italy.
+FAU - Cavallo, Federica
+AU  - Cavallo F
+AD  - Azienda Ospedaliero Universitaria Città della Salute e della Scienza, Ematologia 
+      Universitaria and Dipartimento di Biotecnologie Molecolari e Scienze della 
+      Salute, Università di Torino, Turin, Italy.
+FAU - Bruna, Riccardo
+AU  - Bruna R
+AD  - Azienda Ospedaliero Universitaria Maggiore della Carità, SCDU Ematologia, Novara, 
+      Italy.
+FAU - Moia, Riccardo
+AU  - Moia R
+AD  - Azienda Ospedaliero Universitaria Maggiore della Carità, SCDU Ematologia, Novara, 
+      Italy.
+FAU - Moioli, Alessia
+AU  - Moioli A
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy.
+FAU - Bernardelli, Andrea
+AU  - Bernardelli A
+AD  - Dipartimento di Ingegneria per la Medicina di Innovazione, Ematologia, Università 
+      di Verona, Verona, Italy.
+FAU - Drandi, Daniela
+AU  - Drandi D
+AD  - Azienda Ospedaliero Universitaria Città della Salute e della Scienza, Ematologia 
+      Universitaria and Dipartimento di Biotecnologie Molecolari e Scienze della 
+      Salute, Università di Torino, Turin, Italy.
+FAU - Arcari, Annalisa
+AU  - Arcari A
+AD  - Ospedale Guglielmo da Saliceto, Ematologia, Piacenza, Italy.
+FAU - Merli, Francesco
+AU  - Merli F
+AD  - IRCCS Azienda Sanitaria Locale, Ematologia, Reggio Emilia, Italy.
+FAU - Gini, Guido
+AU  - Gini G
+AD  - Azienda Ospedaliero Universitaria delle Marche-Università Politecnica delle 
+      Marche, Ematologia, Ancona, Italy.
+FAU - Freilone, Roberto
+AU  - Freilone R
+AD  - Azienda Ospedaliero Universitaria Città della Salute e della Scienza, SC 
+      Ematologia, Turin, Italy.
+FAU - Tani, Monica
+AU  - Tani M
+AD  - Ospedale Santa Maria delle Croci, Ematologia, Ravenna, Italy.
+FAU - Pavone, Vincenzo
+AU  - Pavone V
+AD  - Azienda Ospedaliera Fondazione Cardinale Panìco, Ematologia e TMO, Tricase, 
+      Italy.
+FAU - Ladetto, Marco
+AU  - Ladetto M
+AD  - Università del Piemonte Orientale, Dipartimento di Medicina Traslazionale, e 
+      Azienda Ospedaliero Universitaria SS Antonio e Biagio e Cesare Arrigo, 
+      Ematologia, Alessandria, Italy.
+FAU - Pileri, Stefano Aldo
+AU  - Pileri SA
+AD  - IRCCS Istituto Europeo di Oncologia, Ematopatologia, Milan, Italy.
+FAU - Balzarotti, Monica
+AU  - Balzarotti M
+AD  - IRCCS Istituto Clinico Humanitas, Ematologia, Rozzano, Italy.
+CN  - Fondazione Italiana Linfomi
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03567876
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Lancet Haematol
+JT  - The Lancet. Haematology
+JID - 101643584
+SB  - IM
+COIS- Declaration of interests CV reports support for the study from the Leukemia & 
+      Lymphoma Society (award number MCL7005–24); payment or honoraria for lectures or 
+      presentations from AbbVie, Bristol Myers Squibb, AstraZeneca, Servier, Incyte, 
+      Roche, Pfizer, Novartis, Gentili, Janssen, Kite-Gilead, BeiGene, Lilly, and Kyowa 
+      Kirin; support for attending meetings and/or travel from AbbVie, Bristol Myers 
+      Squibb, AstraZeneca, Servier, Incyte, Roche, Pfizer, Novartis, Gentili, Janssen, 
+      Kite-Gilead, BeiGene, Lilly, Kyowa Kirin, and Johnson & Johnson; and 
+      participation on a data safety monitoring board or advisory board from AbbVie, 
+      Bristol Myers Squibb, Incyte, Roche, Pfizer, and Johnson & Johnson. FMQ reports 
+      payment or honoraria for lectures or presentations from AstraZeneca and 
+      Kite-Gilead; support for attending meetings and/or travel from Novartis, Roche, 
+      and GSK; and consultant with no compensation for Sandoz. PC reports payment or 
+      honoraria for lectures, presentations, and educational events from AbbVie, Amgen, 
+      BeiGene, Bristol Myers Squibb, Daiichi Sankyo, Eli Lilly, Gilead/Kite, GSK, 
+      Incyte, Janssen, Jazz Pharma, Novartis, Pfizer, Roche, Sanofi, SOBI, and Takeda; 
+      support for attending meetings and/or travel from AbbVie, Amgen, Bristol Myers 
+      Squibb, Gilead/Kite, Janssen, Novartis, Roche, and Takeda; and participation on a 
+      data safety monitoring board or advisory board from AbbVie, Amgen, BeiGene, 
+      Bristol Myers Squibb, Daiichi Sankyo, Eli Lilly, Gilead/Kite, GSK, Incyte, 
+      Janssen, Jazz Pharma, Novartis, Pfizer, Roche, Sanofi, SOBI, and Takeda. LF 
+      reports payment or honoraria for lectures or presentations from BeiGene, AbbVie, 
+      and Janssen. AC reports payment or honoraria for lectures or presentations from 
+      Kite/Gilead, Roche, and Gentili; and support for attending meetings and/or travel 
+      from Roche and Kite/Gilead. VRZ reports support with grants or contracts from 
+      Kite/Gilead; consulting fees from Roche; payment or honoraria for lectures or 
+      presentations from Incyte, Janssen, Lilly, SOBI, and Takeda; support for 
+      attending meetings and/or travel from BeiGene, Janssen, Roche, and Takeda; and 
+      participation on a data safety monitoring board or advisory board from AbbVie, 
+      AstraZeneca, Kite/Gilead, Novartis, Roche, SOBI, and Takeda. FP reports payment 
+      or honoraria for lectures or presentations from Roche, Lilly, Kite/Gilead, 
+      Janssen, SOBI, and AbbVie; support for attending meetings and/or travel from 
+      Roche, Lilly, Kite/Gilead, Janssen, SOBI, and AbbVie; and participation on a data 
+      safety monitoring board or advisory board from Roche, AbbVie, SOBI, and Lilly. AR 
+      reports payment from AbbVie and participation on an advisory board from AbbVie. 
+      SH reports consulting fees from AbbVie, BeiGene, Bristol Myers Squibb, Incyte, 
+      Ipsen, Lilly, Roche, Takeda, Gilead, and Novartis; and support for attending 
+      meetings and/or travel from Roche, Gilead, and Takeda. FGR reports participation 
+      on a data safety monitoring board or advisory board from Takeda, Incyte, and 
+      Johnson & Johnson. ADR reports consulting fees from Roche, Incyte, Kite, 
+      Novartis, AbbVie, and SOBI; payment or honoraria for lectures or presentations 
+      from Roche, Incyte, Kite, Novartis, AbbVie, Ely Lilly, Johnson & Johnson, SOBI, 
+      and Bristol Myers Squibb; support for attending meetings and/or travel from Kite, 
+      BeiGene, and AbbVie. RS reports participation on a data safety monitoring board 
+      or advisory board from Incyte. AB reports payment or honoraria for lectures or 
+      presentations from Roche, Kyowa Kirin, and Takeda. GM reports consulting fees, 
+      payment or honoraria for lectures or presentations, payment for expert testimony, 
+      support for attending meetings and/or travel, participation on a data safety 
+      monitoring board or advisory board, and leadership or fiduciary role in other 
+      board, society, committee, or advocacy group from AbbVie. FM reports payment or 
+      honoraria for lectures or presentations from AstraZeneca, Roche, Sandoz, Incyte, 
+      Gilead, and Novartis; support for attending meetings and/or travel from Kite, 
+      Gilead, BeiGene, Takeda, and Sandoz; participation on a data safety monitoring 
+      board or advisory board from Takeda, Janssen, and Gilead; and leadership or 
+      fiduciary role in other board, society, committee, or advocacy group for 
+      Fondazione Italiana Linfomi, unpaid. GG reports consulting fees from Takeda, 
+      Roche, Lilly, Gilead, Incyte, AbbVie, SOBI, and BeiGene; payment or honoraria for 
+      lectures or presentations from Takeda, Roche, and Incyte; support for attending 
+      meetings and/or travel from Roche and Takeda; and participation on a data safety 
+      monitoring board or advisory board from Takeda, Roche, and AbbVie. RF reports 
+      payment or honoraria for lectures or presentations from Kite, SOBI, Incyte, and 
+      Novartis. ML reports payment or honoraria for lectures or presentations from 
+      AbbVie, Acerta, Amgen, ADC Therapeutics, BeiGene, Celgene/Bristol Myers Squibb, 
+      Eusapharma, GSKI, Gentili, Gilead/Kite, Novartis, Incyte, Johnson & Johnson, 
+      Jazz, Lilly, Regeneron, Roche, and Sandoz; and participation on a data safety 
+      monitoring board or advisory board from Regeneron. MB reports consulting fees 
+      from Roche and SOBI; payment or honoraria for lectures or presentations from 
+      Roche, SOBI, Eli Lilly, Gilead, BeiGene, AstraZeneca, and AbbVie; and support for 
+      attending meetings and/or travel from Roche and BeiGene. All other authors 
+      declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/04/28 00:00 [received]
+PHST- 2025/08/08 00:00 [revised]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S2352-3026(25)00252-2 [pii]
+AID - 10.1016/S2352-3026(25)00252-2 [doi]
+PST - aheadofprint
+SO  - Lancet Haematol. 2025 Sep 17:S2352-3026(25)00252-2. doi: 
+      10.1016/S2352-3026(25)00252-2.

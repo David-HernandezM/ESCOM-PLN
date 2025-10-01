@@ -1,0 +1,111 @@
+PMID- 32024055
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201117
+LR  - 20201117
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2020 Feb 1
+TI  - Precision Psychiatry Applications with Pharmacogenomics: Artificial Intelligence 
+      and Machine Learning Approaches.
+LID - 10.3390/ijms21030969 [doi]
+LID - 969
+AB  - A growing body of evidence now suggests that precision psychiatry, an 
+      interdisciplinary field of psychiatry, precision medicine, and pharmacogenomics, 
+      serves as an indispensable foundation of medical practices by offering the 
+      accurate medication with the accurate dose at the accurate time to patients with 
+      psychiatric disorders. In light of the latest advancements in artificial 
+      intelligence and machine learning techniques, numerous biomarkers and genetic 
+      loci associated with psychiatric diseases and relevant treatments are being 
+      discovered in precision psychiatry research by employing neuroimaging and 
+      multi-omics. In this review, we focus on the latest developments for precision 
+      psychiatry research using artificial intelligence and machine learning 
+      approaches, such as deep learning and neural network algorithms, together with 
+      multi-omics and neuroimaging data. Firstly, we review precision psychiatry and 
+      pharmacogenomics studies that leverage various artificial intelligence and 
+      machine learning techniques to assess treatment prediction, prognosis prediction, 
+      diagnosis prediction, and the detection of potential biomarkers. In addition, we 
+      describe potential biomarkers and genetic loci that have been discovered to be 
+      associated with psychiatric diseases and relevant treatments. Moreover, we 
+      outline the limitations in regard to the previous precision psychiatry and 
+      pharmacogenomics studies. Finally, we present a discussion of directions and 
+      challenges for future research.
+FAU - Lin, Eugene
+AU  - Lin E
+AD  - Department of Biostatistics, University of Washington, Seattle, WA 98195, USA.
+AD  - Department of Electrical & Computer Engineering, University of Washington, 
+      Seattle, WA 98195, USA.
+AD  - Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+      40402, Taiwan.
+FAU - Lin, Chieh-Hsin
+AU  - Lin CH
+AD  - Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+      40402, Taiwan.
+AD  - Department of Psychiatry, Kaohsiung Chang Gung Memorial Hospital, Chang Gung 
+      University College of Medicine, Kaohsiung 83301, Taiwan.
+AD  - School of Medicine, Chang Gung University, Taoyuan 33302, Taiwan.
+FAU - Lane, Hsien-Yuan
+AU  - Lane HY
+AUID- ORCID: 0000-0003-2162-8174
+AD  - Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+      40402, Taiwan.
+AD  - Department of Psychiatry, China Medical University Hospital, Taichung 40402, 
+      Taiwan.
+AD  - Brain Disease Research Center, China Medical University Hospital, Taichung 40402, 
+      Taiwan.
+AD  - Department of Psychology, College of Medical and Health Sciences, Asia 
+      University, Taichung 41354, Taiwan.
+LA  - eng
+GR  - MOST 108-2314-B-039-002/Ministry of Science and Technology, Taiwan/
+GR  - MOST 108-2622-B-039-001-CC2/Ministry of Science and Technology, Taiwan/
+GR  - MOST 108-2312-B-039-002/Ministry of Science and Technology, Taiwan/
+GR  - NHRI-EX108-10731NI/National Health Research Institutes/
+GR  - DMR-108-BC-2/China Medical University Hospital, Taiwan/
+PT  - Journal Article
+PT  - Review
+DEP - 20200201
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+MH  - Algorithms
+MH  - *Artificial Intelligence
+MH  - Humans
+MH  - Interdisciplinary Studies
+MH  - *Machine Learning
+MH  - Mental Disorders/diagnosis/*drug therapy/*genetics
+MH  - Neural Networks, Computer
+MH  - *Pharmacogenetics
+MH  - *Precision Medicine
+PMC - PMC7037937
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - biomarker
+OT  - deep learning
+OT  - machine learning
+OT  - multi-omics
+OT  - neural networks
+OT  - neuroimaging
+OT  - pharmacogenomics
+OT  - precision medicine
+OT  - precision psychiatry
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/02/07 06:00
+MHDA- 2020/11/18 06:00
+PMCR- 2020/02/01
+CRDT- 2020/02/07 06:00
+PHST- 2020/01/06 00:00 [received]
+PHST- 2020/01/25 00:00 [revised]
+PHST- 2020/01/30 00:00 [accepted]
+PHST- 2020/02/07 06:00 [entrez]
+PHST- 2020/02/07 06:00 [pubmed]
+PHST- 2020/11/18 06:00 [medline]
+PHST- 2020/02/01 00:00 [pmc-release]
+AID - ijms21030969 [pii]
+AID - ijms-21-00969 [pii]
+AID - 10.3390/ijms21030969 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Feb 1;21(3):969. doi: 10.3390/ijms21030969.

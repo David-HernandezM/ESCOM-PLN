@@ -1,0 +1,100 @@
+PMID- 29688261
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190624
+LR  - 20190624
+IS  - 1476-6256 (Electronic)
+IS  - 0002-9262 (Linking)
+VI  - 187
+IP  - 8
+DP  - 2018 Aug 1
+TI  - Prenatal Exposure to Acetaminophen and Risk for Attention Deficit Hyperactivity 
+      Disorder and Autistic Spectrum Disorder: A Systematic Review, Meta-Analysis, and 
+      Meta-Regression Analysis of Cohort Studies.
+PG  - 1817-1827
+LID - 10.1093/aje/kwy086 [doi]
+AB  - Acetaminophen is the analgesic and antipyretic most commonly used during 
+      pregnancy. Evidence of neurodisruptive properties is accumulating. Therefore, we 
+      sought to evaluate the risk for attention deficit hyperactivity disorder (ADHD) 
+      and autistic spectrum disorder (ASD) in the offspring of women exposed to 
+      acetaminophen during pregnancy. We searched MEDLINE, Embase, and Cochrane 
+      databases for relevant studies up to January 2017. Data were independently 
+      extracted and assessed by 2 researchers. Seven eligible retrospective cohorts 
+      included 132,738 mother-child pairs, with follow-up periods ranging from 3 to 11 
+      years. The pooled risk ratio for ADHD was 1.34 (95% confidence interval (CI): 
+      1.21, 1.47; I2 = 72%); for ASD, the risk ratio was 1.19 (95% CI: 1.14, 1.25; I2 = 
+      14%), and for hyperactivity symptoms, it was 1.24 (95% CI: 1.04, 1.43; I2 = 93%). 
+      In meta-regression analysis, the association between exposure and ADHD increased 
+      with the child's age upon follow-up (β = 0.03, 95% CI: 0.00, 0.07) and with the 
+      mean duration of exposure (β = 0.00, 95% CI: 0.00, 0.01). The available data is 
+      of observational nature only. Studies differed widely in exposure and outcome 
+      assessment. Acetaminophen use during pregnancy is associated with an increased 
+      risk for ADHD, ASD, and hyperactivity symptoms. These findings are concerning; 
+      however, results should be interpreted with caution given that the available 
+      evidence consists of observational studies and is susceptible to several 
+      potential sources of bias.
+FAU - Masarwa, Reem
+AU  - Masarwa R
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Jerusalem, Israel.
+AD  - Department of Pediatrics, Hadassah-Hebrew University Medical Center, Ein-Kerem, 
+      Jerusalem, Israel.
+FAU - Levine, Hagai
+AU  - Levine H
+AD  - Braun School of Public Health and Community Medicine, Hebrew University-Hadassah, 
+      Jerusalem, Israel.
+FAU - Gorelik, Einat
+AU  - Gorelik E
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Jerusalem, Israel.
+AD  - Pharmacovigilance Department, Ministry of Health, Jerusalem, Israel.
+FAU - Reif, Shimon
+AU  - Reif S
+AD  - Department of Pediatrics, Hadassah-Hebrew University Medical Center, Ein-Kerem, 
+      Jerusalem, Israel.
+FAU - Perlman, Amichai
+AU  - Perlman A
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Jerusalem, Israel.
+FAU - Matok, Ilan
+AU  - Matok I
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Jerusalem, Israel.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+PL  - United States
+TA  - Am J Epidemiol
+JT  - American journal of epidemiology
+JID - 7910653
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CIN - Am J Epidemiol. 2018 Dec 1;187(12):2718. doi: 10.1093/aje/kwy203. PMID: 30192910
+CIN - Am J Epidemiol. 2018 Dec 1;187(12):2717-2718. doi: 10.1093/aje/kwy202. PMID: 
+      30192922
+CIN - Am J Epidemiol. 2020 Jan 31;189(1):6-7. doi: 10.1093/aje/kwz215. PMID: 31576399
+CIN - Am J Epidemiol. 2020 Jan 31;189(1):1-5. doi: 10.1093/aje/kwz214. PMID: 31576401
+MH  - Acetaminophen/*adverse effects
+MH  - Attention Deficit Disorder with Hyperactivity/*chemically induced
+MH  - Autism Spectrum Disorder/*chemically induced
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*chemically induced
+MH  - Regression Analysis
+MH  - Risk Assessment
+MH  - Risk Factors
+EDAT- 2018/04/25 06:00
+MHDA- 2019/06/25 06:00
+CRDT- 2018/04/25 06:00
+PHST- 2017/12/01 00:00 [received]
+PHST- 2018/04/11 00:00 [accepted]
+PHST- 2018/04/25 06:00 [pubmed]
+PHST- 2019/06/25 06:00 [medline]
+PHST- 2018/04/25 06:00 [entrez]
+AID - 4980325 [pii]
+AID - 10.1093/aje/kwy086 [doi]
+PST - ppublish
+SO  - Am J Epidemiol. 2018 Aug 1;187(8):1817-1827. doi: 10.1093/aje/kwy086.

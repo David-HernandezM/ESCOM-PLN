@@ -1,0 +1,91 @@
+PMID- 24996457
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150617
+LR  - 20211021
+IS  - 1471-2334 (Electronic)
+IS  - 1471-2334 (Linking)
+VI  - 14
+DP  - 2014 Jul 5
+TI  - Spatial-temporal excess mortality patterns of the 1918-1919 influenza pandemic in 
+      Spain.
+PG  - 371
+LID - 10.1186/1471-2334-14-371 [doi]
+AB  - BACKGROUND: The impact of socio-demographic factors and baseline health on the 
+      mortality burden of seasonal and pandemic influenza remains debated. Here we 
+      analyzed the spatial-temporal mortality patterns of the 1918 influenza pandemic 
+      in Spain, one of the countries of Europe that experienced the highest mortality 
+      burden. METHODS: We analyzed monthly death rates from respiratory diseases and 
+      all-causes across 49 provinces of Spain, including the Canary and Balearic 
+      Islands, during the period January-1915 to June-1919. We estimated the 
+      influenza-related excess death rates and risk of death relative to baseline 
+      mortality by pandemic wave and province. We then explored the association between 
+      pandemic excess mortality rates and health and socio-demographic factors, which 
+      included population size and age structure, population density, infant mortality 
+      rates, baseline death rates, and urbanization. RESULTS: Our analysis revealed 
+      high geographic heterogeneity in pandemic mortality impact. We identified 3 
+      pandemic waves of varying timing and intensity covering the period from Jan-1918 
+      to Jun-1919, with the highest pandemic-related excess mortality rates occurring 
+      during the months of October-November 1918 across all Spanish provinces. 
+      Cumulative excess mortality rates followed a south-north gradient after 
+      controlling for demographic factors, with the North experiencing highest excess 
+      mortality rates. A model that included latitude, population density, and the 
+      proportion of children living in provinces explained about 40% of the geographic 
+      variability in cumulative excess death rates during 1918-19, but different 
+      factors explained mortality variation in each wave. CONCLUSIONS: A substantial 
+      fraction of the variability in excess mortality rates across Spanish provinces 
+      remained unexplained, which suggests that other unidentified factors such as 
+      comorbidities, climate and background immunity may have affected the 1918-19 
+      pandemic mortality rates. Further archeo-epidemiological research should 
+      concentrate on identifying settings with combined availability of local 
+      historical mortality records and information on the prevalence of underlying risk 
+      factors, or patient-level clinical data, to further clarify the drivers of 1918 
+      pandemic influenza mortality.
+FAU - Chowell, Gerardo
+AU  - Chowell G
+AD  - Division of International Epidemiology and Population Studies, Fogarty 
+      International Center, National Institutes of Health, Bethesda, MD, USA. 
+      gchowell@asu.edu.
+FAU - Erkoreka, Anton
+AU  - Erkoreka A
+FAU - Viboud, Cécile
+AU  - Viboud C
+FAU - Echeverri-Dávila, Beatriz
+AU  - Echeverri-Dávila B
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140705
+PL  - England
+TA  - BMC Infect Dis
+JT  - BMC infectious diseases
+JID - 100968551
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Influenza Pandemic, 1918-1919/*mortality
+MH  - Male
+MH  - Models, Theoretical
+MH  - Pandemics
+MH  - Risk Factors
+MH  - Spain/epidemiology
+MH  - Spatio-Temporal Analysis
+PMC - PMC4094406
+EDAT- 2014/07/06 06:00
+MHDA- 2015/06/18 06:00
+PMCR- 2014/07/05
+CRDT- 2014/07/06 06:00
+PHST- 2014/04/11 00:00 [received]
+PHST- 2014/06/30 00:00 [accepted]
+PHST- 2014/07/06 06:00 [entrez]
+PHST- 2014/07/06 06:00 [pubmed]
+PHST- 2015/06/18 06:00 [medline]
+PHST- 2014/07/05 00:00 [pmc-release]
+AID - 1471-2334-14-371 [pii]
+AID - 10.1186/1471-2334-14-371 [doi]
+PST - epublish
+SO  - BMC Infect Dis. 2014 Jul 5;14:371. doi: 10.1186/1471-2334-14-371.

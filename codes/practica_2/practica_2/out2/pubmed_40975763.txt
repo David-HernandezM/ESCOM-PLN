@@ -1,0 +1,121 @@
+PMID- 40975763
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250923
+IS  - 1471-2407 (Electronic)
+IS  - 1471-2407 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2025 Sep 20
+TI  - Reticulocalbin-1 in clear cell renal cell carcinoma: clinical and functional 
+      evidence for its role as a biomarker and potential therapeutic target.
+PG  - 1425
+LID - 10.1186/s12885-025-14817-2 [doi]
+LID - 1425
+AB  - BACKGROUND: Clear-cell renal cell carcinoma (ccRCC) is the most prevalent subtype 
+      of renal cell carcinoma, and its prognosis in a metastatic stage is poor. 
+      Although therapeutic options are continuously improving, better combination 
+      therapies and individualized approaches are still needed. Reticulocalbin-1 
+      (RCN1), located in the endoplasmic reticulum (ER), is associated with 
+      aggressiveness and poor prognosis in many solid tumors, but its role in ccRCC has 
+      not been analyzed before. METHODS: In this study, we performed in-silico 
+      transcriptomic data mining to analyze RCN1 expression at mRNA and protein levels 
+      using large publicly available databases and conducted the first large-scale 
+      cohort study on the impact of RCN1 in ccRCC, including data from 306 patients who 
+      underwent tumor resection at the Clinic of Urology, University Hospital Bonn. We 
+      examined the correlation of RCN1 expression with clinicopathological parameters 
+      and overall survival. Additionally, we analyzed the association of RCN1 
+      expression with CD8 T-lymphocyte and macrophage infiltration. In vitro functional 
+      analysis was performed by silencing RCN1 using siRNA in Caki-1 and A498 cell 
+      lines to determine its role in tumor cell behavior. RESULTS: RCN1 is highly 
+      expressed in ccRCC at both the mRNA and protein levels in public databases, which 
+      was confirmed by our cohort data, where RCN1 was found to be highly and 
+      homogenously expressed in 63.7% of ccRCCs. High RCN1 expression was associated 
+      with shorter overall survival both at the mRNA (p < 0.001) and protein levels 
+      (p = 0.01). Furthermore, high RCN1 expression was correlated with higher tumor 
+      grade (p = 0.002), tumor stage (p = 0.036), presence of lymph node metastases 
+      (p = 0.004), and distant metastases (p = 0.017). Clusters of macrophages tended 
+      to correlate with RCN1 expression (p = 0.051), but no significant correlation was 
+      found between RCN1 expression and the amount of CD8 T-lymphocytes. Additionally, 
+      silencing RCN1 led to a significant reduction in tumor cell migration and 
+      invasion. CONCLUSION: Our results confirm that RCN1 is highly and homogenously 
+      expressed in ccRCC and correlates with poor prognosis and unfavorable 
+      clinicopathological parameters. RCN1 could serve as a reliable biomarker for 
+      prognosis in ccRCC and shows potential as a target for therapeutic approaches.
+CI  - © 2025. The Author(s).
+FAU - Krause, Finn
+AU  - Krause F
+AD  - Institute of Pathology, University Hospital Bonn, 53127, Bonn, Germany. 
+      s4fikrau@uni-bonn.de.
+FAU - Stoffel, Michael
+AU  - Stoffel M
+AD  - Institute of Pathology, University Hospital Bonn, 53127, Bonn, Germany.
+FAU - Winterhagen, Franziska I
+AU  - Winterhagen FI
+AD  - Department of Urology, University Hospital Bonn, 53127, Bonn, Germany.
+FAU - Ellinger, Jörg
+AU  - Ellinger J
+AD  - Department of Urology, University Hospital Bonn, 53127, Bonn, Germany.
+FAU - Kristiansen, Glen
+AU  - Kristiansen G
+AD  - Institute of Pathology, University Hospital Bonn, 53127, Bonn, Germany.
+FAU - Ritter, Manuel
+AU  - Ritter M
+AD  - Department of Urology, University Hospital Bonn, 53127, Bonn, Germany.
+FAU - Toma, Marieta
+AU  - Toma M
+AD  - Institute of Pathology, University Hospital Bonn, 53127, Bonn, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - BMC Cancer
+JT  - BMC cancer
+JID - 100967800
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Calcium-Binding Proteins)
+SB  - IM
+MH  - Humans
+MH  - *Carcinoma, Renal Cell/pathology/genetics/metabolism/mortality
+MH  - *Kidney Neoplasms/pathology/genetics/metabolism/mortality
+MH  - *Biomarkers, Tumor/genetics/metabolism
+MH  - Male
+MH  - Female
+MH  - Prognosis
+MH  - Middle Aged
+MH  - *Calcium-Binding Proteins/genetics/metabolism
+MH  - Cell Line, Tumor
+MH  - Aged
+MH  - Gene Expression Regulation, Neoplastic
+MH  - CD8-Positive T-Lymphocytes/immunology
+MH  - Cell Movement
+PMC - PMC12450339
+OTO - NOTNLM
+OT  - RCN1
+OT  - Biomarker
+OT  - Clear cell renal cell carcinoma
+OT  - Survival
+OT  - Target-identification
+COIS- Declarations. Ethics approval and consent to participate: The studies were 
+      approved by the Ethics Committee of the University Hospital Bonn (EK 233/20). 
+      Informed consent for the use of patient data was obtained as part of standard 
+      care procedures and all patient information was anonymized to ensure 
+      confidentiality. All procedures were conducted in accordance with the Declaration 
+      of Helsinki. Consent for publication: Not applicable. Competing interests: The 
+      authors declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:31
+PMCR- 2025/09/20
+CRDT- 2025/09/20 23:23
+PHST- 2025/04/09 00:00 [received]
+PHST- 2025/08/06 00:00 [accepted]
+PHST- 2025/09/21 00:31 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 23:23 [entrez]
+PHST- 2025/09/20 00:00 [pmc-release]
+AID - 10.1186/s12885-025-14817-2 [pii]
+AID - 14817 [pii]
+AID - 10.1186/s12885-025-14817-2 [doi]
+PST - epublish
+SO  - BMC Cancer. 2025 Sep 20;25(1):1425. doi: 10.1186/s12885-025-14817-2.

@@ -1,0 +1,108 @@
+PMID- 40973383
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250919
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2025 Sep 18
+TI  - Depression, anxiety and associated factors among caregivers of children and 
+      adolescents with epilepsy attending Muhimbili paediatric neurology clinic: a 
+      cross-sectional study.
+PG  - e098286
+LID - 10.1136/bmjopen-2024-098286 [doi]
+AB  - OBJECTIVES: This study aimed to assess the prevalence of depression and anxiety 
+      and to identify factors associated with these conditions among caregivers of 
+      children and adolescents with epilepsy attending the paediatric neurology clinic 
+      at Muhimbili National Hospital (MNH) in Tanzania. DESIGN: A hospital-based 
+      cross-sectional study. SETTING: The paediatric neurology clinic of a national 
+      referral hospital in Dar es Salaam, Tanzania. PARTICIPANTS: 427 caregivers of 
+      children with epilepsy (CWE) were consecutively enrolled. Eligibility criteria 
+      included being 18 years or older and having provided care for the child for at 
+      least 6 months. Caregivers unable to read and write in Swahili or previously 
+      diagnosed with a mental illness before assuming the caregiving role were 
+      excluded. PRIMARY AND SECONDARY OUTCOME MEASURES: Primary outcomes were the 
+      prevalence of depression (assessed with the Patient Health Questionnaire-9 
+      (PHQ-9), cut-off ≥10), anxiety (assessed with the Generalised Anxiety Disorder-7 
+      tool (GAD-7), cut-off ≥10), and their co-occurrence. Secondary outcomes were the 
+      factors associated with these conditions, analysed using logistic regression and 
+      reported as adjusted odds ratios (aORs). RESULTS: Depression was observed in 74 
+      (17.3%, 95% CI: 13.8 to 21.3) participants and anxiety was found in 74 caregivers 
+      (17.3%,95% CI: 14.1 to 20.8). 38 (9.0%, 95% CI: 6.3 to 11.7) participants had 
+      concurrent depression and anxiety. Factors associated with depression were having 
+      a child: less than 5 years old (adjusted OR (aOR)=6.56, p=0.012), epilepsy 
+      duration of more than 5 years (aOR=2.80, p=0.048), history of epilepsy-related 
+      injuries (aOR=2.64, p=0.015) and three or more admissions (aOR=2.56, p=0.046). 
+      Caregivers whose children had not started school or were in primary school had 
+      lower odds of depression compared with counterparts in secondary school 
+      (aOR=0.02, p=0.003) and (aOR=0.03, p=0.005), respectively. Caregivers' anxiety 
+      was associated with having a child with: another comorbidity (aOR=1.93, p=0.020), 
+      a history of epilepsy-related injuries (aOR=2.37, p=0.030), three or more 
+      admissions (aOR=2.98, p=0.015) and caregiver age between 41 to 50 years 
+      (aOR=3.06, p=0.042). CONCLUSION: Depression and anxiety are prevalent among 
+      caregivers of CWE. The findings indicate a need for the integration of mental 
+      health services within paediatric neurology clinics to support caregiver 
+      well-being.
+CI  - © Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ Group.
+FAU - Ernest, Erneus
+AU  - Ernest E
+AUID- ORCID: 0009-0004-4369-1232
+AD  - Department of Pediatrics and Child Health, Mbeya College of Health and Allied 
+      Sciences, University of Dar es Salaam, Mbeya, Tanzania, United Republic of 
+      erneusernest255@gmail.com.
+FAU - Fakih, Zameer
+AU  - Fakih Z
+AD  - Department of Pediatrics and Child Health, Muhimbili National Hospital, Dar es 
+      Salaam, Tanzania, United Republic of.
+FAU - Urio, Obrey
+AU  - Urio O
+AD  - Department of Pediatrics and Child Health, Muhimbili University of Health and 
+      Allied Sciences, Dar es Salaam, Tanzania, United Republic of.
+FAU - Kisenge, Rodrick
+AU  - Kisenge R
+AD  - Department of Pediatrics and Child Health, Muhimbili University of Health and 
+      Allied Sciences, Dar es Salaam, Tanzania, United Republic of.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+MH  - Humans
+MH  - *Caregivers/psychology
+MH  - Cross-Sectional Studies
+MH  - Male
+MH  - Female
+MH  - *Epilepsy/psychology/therapy
+MH  - Adolescent
+MH  - Child
+MH  - *Anxiety/epidemiology
+MH  - *Depression/epidemiology
+MH  - Tanzania/epidemiology
+MH  - Prevalence
+MH  - Adult
+MH  - Middle Aged
+MH  - Child, Preschool
+MH  - Logistic Models
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Anxiety disorders
+OT  - Caregivers
+OT  - Depression & mood disorders
+OT  - Epilepsy
+COIS- Competing interests: None declared.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:33
+CRDT- 2025/09/19 21:07
+PHST- 2025/09/20 00:33 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 21:07 [entrez]
+AID - bmjopen-2024-098286 [pii]
+AID - 10.1136/bmjopen-2024-098286 [doi]
+PST - epublish
+SO  - BMJ Open. 2025 Sep 18;15(9):e098286. doi: 10.1136/bmjopen-2024-098286.

@@ -1,0 +1,176 @@
+PMID- 40973516
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1468-2060 (Electronic)
+IS  - 0003-4967 (Linking)
+DP  - 2025 Sep 18
+TI  - Integrative spatial multiomics analysis reveals regulatory mechanisms of VCAM1(+) 
+      proximal tubule cells in lupus nephritis.
+LID - S0003-4967(25)04315-8 [pii]
+LID - 10.1016/j.ard.2025.08.015 [doi]
+AB  - OBJECTIVES: Lupus nephritis (LN) is a severe complication of systemic lupus 
+      erythematosus (SLE), characterised by kidney inflammation, tubular injury, and 
+      interstitial fibrosis. However, the spatial organisation of these heterogeneous 
+      cell populations and their regulatory mechanisms in LN remain poorly understood. 
+      The objective of this study was to investigate the regulatory mechanisms 
+      underlying region-specific kidney lesions and tubular damage in LN. METHODS: We 
+      performed single-cell multiome and spatial transcriptomic analyses on kidney 
+      biopsy samples from patients with LN and controls, integrating data from the 
+      largest East Asian SLE genome-wide association studies (GWAS) (208,370 samples) 
+      to date. Validation experiments were performed using multiplex 
+      immunohistochemistry (mIHC), in vitro lentiviral-mediated transcription factor 
+      overexpression, and functional stimulation assays. RESULTS: We identified 
+      VCAM1-expressing proximal tubule (PT_VCAM1) cells as components of an LN-specific 
+      inflammatory niche (niche 5) localised in the kidney cortex. Both in silico and 
+      in vitro experiments demonstrated that interactions between PT_VCAM1 cells and 
+      myofibroblasts, as well as immune cells in niche 5, promote their 
+      epithelial-mesenchymal transition. Trajectory analysis suggested that PT_VCAM1 
+      cells originate from a failed-repair pathway in proximal tubule cells, regulated 
+      by transcriptional networks involving BACH2. Integrative GWAS analysis further 
+      linked SLE-associated risk single-nucleotide polymorphisms to cis-regulatory 
+      elements specific to PT_VCAM1 cells, including single-nucleotide polymorphisms 
+      within the distal enhancer of the BMP2K locus, which establishes a BACH2 motif. 
+      CONCLUSIONS: Collectively, our findings characterise PT_VCAM1 cells as 
+      injury-responsive cell states that contribute to the inflammatory and fibrotic 
+      niche in LN, linking genetic predisposition to cellular injury and disease 
+      progression.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Wang, Junyu
+AU  - Wang J
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China; Division of Life Sciences and Medicine, University of Science and 
+      Technology of China, Hefei, China.
+FAU - Zheng, Ao
+AU  - Zheng A
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China; Division of Life Sciences and Medicine, University of Science and 
+      Technology of China, Hefei, China.
+FAU - Liu, Nianping
+AU  - Liu N
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China; School of Biomedical Engineering, Suzhou Institute for Advanced 
+      Research, University of Science and Technology of China, Suzhou, China.
+FAU - Tan, Zhen
+AU  - Tan Z
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China.
+FAU - Shi, Yu
+AU  - Shi Y
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, Hefei, China.
+FAU - Ma, Tianyi
+AU  - Ma T
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, Hefei, China.
+FAU - Luo, Songwen
+AU  - Luo S
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, Hefei, China.
+FAU - Zhu, Lin
+AU  - Zhu L
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, Hefei, China.
+FAU - Zhou, Zhou
+AU  - Zhou Z
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China.
+FAU - Yuan, Feifei
+AU  - Yuan F
+AD  - Division of Nephrology, Nanfang Hospital, Southern Medical University, Guangzhou, 
+      China.
+FAU - Li, Tiekun
+AU  - Li T
+AD  - Nanjing Kingmed Center for Clinical Laboratory Co, Ltd, Nanjing, Jiangsu, China.
+FAU - Gong, Yuyan
+AU  - Gong Y
+AD  - SeekGene BioSciences Co, Ltd, Beijing, China.
+FAU - Fang, Jingwen
+AU  - Fang J
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, Hefei, China; HanGene Biotech, Hefei, Anhui, China.
+FAU - Liu, Lu
+AU  - Liu L
+AD  - Institute of Dermatology, Anhui Medical University, Anhui, China.
+FAU - Zhang, Xuejun
+AU  - Zhang X
+AD  - Institute of Dermatology, Anhui Medical University, Anhui, China.
+FAU - Bae, Sang-Cheol
+AU  - Bae SC
+AD  - Department of Rheumatology, Hanyang University Hospital for Rheumatic Diseases, 
+      Hanyang University Institute for Rheumatology Research, Hanyang Institute of 
+      Bioscience and Biotechnology, Seoul, Republic of Korea.
+FAU - Terao, Chikashi
+AU  - Terao C
+AD  - Laboratory for Statistical and Translational Genetics Analysis, RIKEN Center for 
+      Integrative Medical Sciences, Wako, Saitama, Japan.
+FAU - Chen, Zhu
+AU  - Chen Z
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China.
+FAU - Li, Xiaomei
+AU  - Li X
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China.
+FAU - Wang, Guosheng
+AU  - Wang G
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China. Electronic address: gswang0551@163.com.
+FAU - Qu, Kun
+AU  - Qu K
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China; Division of Life Sciences and Medicine, University of Science and 
+      Technology of China, Hefei, China; School of Biomedical Engineering, Suzhou 
+      Institute for Advanced Research, University of Science and Technology of China, 
+      Suzhou, China; Institute of Artificial Intelligence, Hefei Comprehensive National 
+      Science Center, Hefei, China. Electronic address: qukun@ustc.edu.cn.
+FAU - Guo, Chuang
+AU  - Guo C
+AD  - Department of Rheumatology and Immunology, The First Affiliated Hospital of USTC, 
+      State Key Laboratory of Eye Health, Division of Life Sciences and Medicine, 
+      School of Basic Medical Sciences, University of Science and Technology of China, 
+      Hefei, China; Division of Life Sciences and Medicine, University of Science and 
+      Technology of China, Hefei, China; School of Pharmacy, Bengbu Medical University, 
+      Bengbu, China. Electronic address: gchuang@ustc.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Ann Rheum Dis
+JT  - Annals of the rheumatic diseases
+JID - 0372355
+SB  - IM
+COIS- Competing interests KQ is the chief scientific advisor of HanGene Biotech and 
+      Bassfish Technology. The other authors declare that they have no competing 
+      interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 21:53
+PHST- 2025/02/09 00:00 [received]
+PHST- 2025/07/20 00:00 [revised]
+PHST- 2025/08/14 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 21:53 [entrez]
+AID - S0003-4967(25)04315-8 [pii]
+AID - 10.1016/j.ard.2025.08.015 [doi]
+PST - aheadofprint
+SO  - Ann Rheum Dis. 2025 Sep 18:S0003-4967(25)04315-8. doi: 10.1016/j.ard.2025.08.015.

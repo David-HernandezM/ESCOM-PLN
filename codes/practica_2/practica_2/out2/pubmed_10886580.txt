@@ -1,0 +1,102 @@
+PMID- 10886580
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000821
+LR  - 20131121
+IS  - 0085-2538 (Print)
+IS  - 0085-2538 (Linking)
+VI  - 58
+IP  - 1
+DP  - 2000 Jul
+TI  - Calculated nitrogen balance in hemodialysis patients: influence of protein 
+      intake.
+PG  - 336-45
+AB  - BACKGROUND: Optimal nutrient intake is important in the maintenance of a positive 
+      nitrogen balance in hemodialysis (HD) patients. The objectives of this study were 
+      (1) to assess the influence of two levels of protein intakes on nitrogen balance 
+      in stable adult HD patients, and (2) to identify a minimum level of protein 
+      intake that would result in a negative nitrogen balance, so that preliminary 
+      recommendations may be made in Indian patients on maintenance HD (MHD). METHODS: 
+      Stable, adult, nondiabetic MHD patients were recruited after informed consent 
+      into a cross over trial with a high-protein (HP) diet [1.2 g/kg ideal body weight 
+      (IBW)/day), followed by a low-protein (LP) diet (0.6 g/kg IBW/day] after 
+      appropriate periods of equilibration; for both diets, 50% of protein was of high 
+      biological value, and calorie intake was 35 kCal/kg IBW/day. Duplicate meals and 
+      residues were weighed, homogenized, and stored at -20 degrees C for analysis of 
+      dietary N by the Kjeldahl method, used to check the consistency of the N content 
+      of the diet supplied. Pre- and post- (30-minute equilibrated) blood urea samples 
+      were drawn, and details of weights and other HD parameters were recorded. 
+      Interdialytic urine collections for urea were obtained. N input came from dietary 
+      protein calculated as 16% of the weight of biological protein; N output was 
+      calculated using blood-side urea measurements and urinary urea excretion and was 
+      the sum of urea N (UN) and nonurea N (NUN) losses (assumed to be equal to 0.031 g 
+      N/kg/day). RESULTS: Fifteen patients were recruited. Twelve patients completed 
+      both limbs of the study. The mean age was 30.3 +/- 12.7 years. The body mass 
+      index was 18.9 +/- 2.4. Serum albumin was 3.8 +/- 0.35 g/dL, and Kt/V 
+      (equilibrated) was 1.17 +/- 0.3 g/dL. Protein consumed was 1.06 +/- 0.18 g/kg 
+      IBW/day in the HP limb versus 0.61 +/- 0.1 g/kg IBW/day in the LP limb (P = 
+      0.000). Energy intake was 33 +/- 6.5 vs. 32.8 +/- 6. 7 kCal/kg IBW/day, 
+      respectively (P = 0.8). The normalized protein N appearance (nPNA) was 0.88 +/- 
+      0.2 g/kg/day in the HP limb versus 0. 78 +/- 0.2 g/kg/day in the LP limb (P = 
+      0.02). Dietary N was 73.5 +/- 15.3 g in the HP week and 42.5 +/- 7.5 g in the LP 
+      week (P = 0. 000). The difference between this and the sum of (UN + NUN) losses 
+      over the week was 29 +/- 13.2 g versus 1.2 +/- 8.1 g, respectively (P = 0.001), 
+      showing a strong, uniformly positive nitrogen balance with HP diet and neutral to 
+      negative nitrogen balance with LP diet. The ratio of dietary protein intake (DPI) 
+      to nPNA was significantly lower (anabolic) in the HP limb (0.7 +/- 0.2 vs. 1.12 
+      +/- 0.3, P = 0. 000). On a scatter plot of nPNA to DPI, a catabolic relationship 
+      was demonstrated below a DPI of 0.75 g/kg/day (95% CI, 0.65 to 0.85 g/kg/day). 
+      CONCLUSION: A DPI of approximately 1.1 g/kg/day produces a positive nitrogen 
+      balance and 0.6 g/kg/day a neutral to negative nitrogen balance, demonstrating 
+      protein anabolism as a function of protein intake. It is suggested that a protein 
+      intake of 0.85 g/kg/day should be considered unsafe. These conclusions apply in 
+      stable nondiabetic adult HD patients in the setting of adequate dialysis and 
+      adequate calorie intake.
+FAU - Rao, M
+AU  - Rao M
+AD  - Department of Nephrology, Christian Medical College and Hospital, Vellore, India. 
+      haranrp@hotmail.com
+FAU - Sharma, M
+AU  - Sharma M
+FAU - Juneja, R
+AU  - Juneja R
+FAU - Jacob, S
+AU  - Jacob S
+FAU - Jacob, C K
+AU  - Jacob CK
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Kidney Int
+JT  - Kidney international
+JID - 0323470
+RN  - 0 (Dietary Proteins)
+RN  - 8W8T17847W (Urea)
+RN  - N762921K75 (Nitrogen)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Blood Urea Nitrogen
+MH  - Diet
+MH  - Dietary Proteins/*pharmacokinetics
+MH  - Female
+MH  - Humans
+MH  - Kidney Failure, Chronic/*diet therapy/*metabolism
+MH  - Male
+MH  - Middle Aged
+MH  - Nitrogen/*metabolism
+MH  - Nutrition Assessment
+MH  - Protein-Energy Malnutrition/metabolism
+MH  - *Renal Dialysis
+MH  - Urea/blood
+EDAT- 2000/07/08 11:00
+MHDA- 2000/08/29 11:01
+CRDT- 2000/07/08 11:00
+PHST- 2000/07/08 11:00 [pubmed]
+PHST- 2000/08/29 11:01 [medline]
+PHST- 2000/07/08 11:00 [entrez]
+AID - S0085-2538(15)47104-2 [pii]
+AID - 10.1046/j.1523-1755.2000.00171.x [doi]
+PST - ppublish
+SO  - Kidney Int. 2000 Jul;58(1):336-45. doi: 10.1046/j.1523-1755.2000.00171.x.

@@ -1,0 +1,123 @@
+PMID- 40970538
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2047-9980 (Electronic)
+IS  - 2047-9980 (Linking)
+DP  - 2025 Sep 19
+TI  - Population-Based Study on the Coexistence of Metabolic Dysfunction-Associated 
+      Steatotic Liver Disease and Chronic Kidney Disease.
+PG  - e041834
+LID - 10.1161/JAHA.125.041834 [doi]
+AB  - BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) and 
+      chronic kidney disease (CKD) are important cardiovascular risk factors. However, 
+      the prognostic impact of coexisting MASLD and CKD remains understudied. METHODS: 
+      This study cohort used the NHANES (National Health and Nutrition Examination 
+      Survey) 2007 to 2018 database, examining outcomes in adults with varying MASLD 
+      and CKD statuses. The primary outcome was all-cause mortality. Secondary outcomes 
+      included coronary heart disease, heart failure, stroke, and cancer. Cox 
+      regression model was constructed to investigate the relationship between 
+      MASLD/CKD and all-cause mortality, adjusted for age, prior coronary heart 
+      disease, body mass index, smoking, poverty-to-income ratio, lipid-lowering and 
+      glucose-lowering medications. Sensitivity analysis was performed with hepatic 
+      fibrosis and CKD. RESULTS: Among 14 818 participants (mean follow-up: 
+      6.9 ± 3.4 years), a majority of participants had MASLD(-)/CKD(-) (50.8%), 
+      followed by MASLD(+)/CKD(-) (34.8%), MASLD(+)/CKD(+) (7.7%), and MASLD(-)/CKD(+) 
+      (6.7%). MASLD(+)/CKD(+) (n = 1142) had the highest rates of obesity (77.6%), 
+      hypertension (77.5%), dyslipidemia (67.0%), and diabetes (49.7%), with the 
+      highest risk of coronary heart disease (risk ratio [RR], 1.79 [95% CI, 
+      1.13-2.82],P = 0.013) and heart failure (RR 2.33 [95% CI, 1.07-5.08], P = 0.033). 
+      Socioeconomic disparities were observed, with lower-income individuals 
+      predominantly in the group with MASLD(+)/CKD(+) (P < 0.001). MASLD(+)/CKD(+) 
+      (adjusted hazard ratio [aHR], 3.28 [95% CI, 1.89-5.70], P < 0.001) and 
+      MASLD(-)/CKD(+) (aHR, 2.18 [95% CI, 1.33-3.66], P = 0.002) phenotypes were 
+      independent mortality predictors. Although MASLD(-)/CKD(+) and MASLD(+)/CKD(+) 
+      had unfavorable 10-year prognoses, survival was worse in those with both hepatic 
+      fibrosis and CKD (P < 0.001). CONCLUSIONS: MASLD(+)/CKD(+) phenotype increases 
+      the risk of cardiometabolic multimorbidity and independently predicts mortality. 
+      Mortality risk increased progressively in individuals with both advanced hepatic 
+      fibrosis and CKD.
+FAU - Goh, Rachel Sze Jen
+AU  - Goh RSJ
+AD  - Yong Loo Lin School of Medicine National University Singapore Singapore 
+      Singapore.
+FAU - Koh, Jaycie
+AU  - Koh J
+AD  - Lee Kong Chian School of Medicine Nanyang Technological University Singapore 
+      Singapore.
+FAU - Utami Intaran, Made Ayu
+AU  - Utami Intaran MA
+AUID- ORCID: 0009-0003-4230-6518
+AD  - Department of Biostatistics, Cardiovascular Research Institute, National 
+      University Heart Centre National University Health System Singapore Singapore.
+FAU - Chin, Yiphan
+AU  - Chin Y
+AUID- ORCID: 0000-0002-8417-5996
+AD  - Department of Medicine National University Hospital Singapore Singapore.
+FAU - Kong, Gwyneth
+AU  - Kong G
+AUID- ORCID: 0000-0002-3385-5078
+AD  - Department of Medicine National University Hospital Singapore Singapore.
+FAU - Chong, Bryan
+AU  - Chong B
+AUID- ORCID: 0000-0002-3565-7657
+AD  - Department of Medicine National University Hospital Singapore Singapore.
+FAU - Chia, Jobelle
+AU  - Chia J
+AUID- ORCID: 0009-0004-8977-4295
+AD  - Department of Biostatistics, Cardiovascular Research Institute, National 
+      University Heart Centre National University Health System Singapore Singapore.
+FAU - Chan, Mark Y
+AU  - Chan MY
+AUID- ORCID: 0000-0003-0389-7450
+AD  - Yong Loo Lin School of Medicine National University Singapore Singapore 
+      Singapore.
+AD  - Department of Cardiology, National University Heart Centre National University 
+      Health System Singapore Singapore.
+FAU - Mehta, Anurag
+AU  - Mehta A
+AUID- ORCID: 0000-0002-6910-5551
+AD  - VCU Health Pauley Heart Centre, Division of Cardiology, Department of Internal 
+      Medicine Virginia Commonwealth University School of Medicine Richmond VA USA.
+FAU - Muthiah, Mark
+AU  - Muthiah M
+AUID- ORCID: 0000-0002-9724-4743
+AD  - Division of Gastroenterology and Hepatology, Department of Medicine National 
+      University Hospital Singapore Singapore.
+AD  - National University Centre for Organ Transplantation National University Health 
+      System Singapore Singapore.
+FAU - Khan, Muhammad Shahzeb
+AU  - Khan MS
+AUID- ORCID: 0000-0003-1250-6351
+AD  - Baylor Scott and White Research Institute Dallas TX USA.
+AD  - Division of Cardiology The Heart Hospital Plano Plano TX USA.
+AD  - Department of Medicine Baylor College of Medicine Temple TX USA.
+FAU - Chew, Nicholas Ws
+AU  - Chew NW
+AUID- ORCID: 0000-0002-0640-0430
+AD  - Yong Loo Lin School of Medicine National University Singapore Singapore 
+      Singapore.
+AD  - Department of Cardiology, National University Heart Centre National University 
+      Health System Singapore Singapore.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - J Am Heart Assoc
+JT  - Journal of the American Heart Association
+JID - 101580524
+SB  - IM
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - chronic kidney disease
+OT  - metabolic dysfunction‐associated steatotic liver
+OT  - mortality
+EDAT- 2025/09/19 12:51
+MHDA- 2025/09/19 12:51
+CRDT- 2025/09/19 07:23
+PHST- 2025/09/19 12:51 [medline]
+PHST- 2025/09/19 12:51 [pubmed]
+PHST- 2025/09/19 07:23 [entrez]
+AID - 10.1161/JAHA.125.041834 [doi]
+PST - aheadofprint
+SO  - J Am Heart Assoc. 2025 Sep 19:e041834. doi: 10.1161/JAHA.125.041834.

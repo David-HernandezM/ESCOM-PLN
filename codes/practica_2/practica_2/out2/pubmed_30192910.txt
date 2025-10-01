@@ -1,0 +1,66 @@
+PMID- 30192910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190902
+LR  - 20190902
+IS  - 1476-6256 (Electronic)
+IS  - 0002-9262 (Linking)
+VI  - 187
+IP  - 12
+DP  - 2018 Dec 1
+TI  - FOUR AUTHORS REPLY.
+PG  - 2718
+LID - 10.1093/aje/kwy203 [doi]
+FAU - Matok, Ilan
+AU  - Matok I
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Israel.
+FAU - Masarwa, Reem
+AU  - Masarwa R
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Israel.
+AD  - Department of Pediatrics, Hadassah-Hebrew University Medical Center, Ein-Kerem, 
+      Jerusalem, Israel.
+FAU - Levine, Hagai
+AU  - Levine H
+AD  - Braun School of Public Health and Community Medicine, Hebrew University-Hadassah, 
+      Jerusalem, Israel.
+FAU - Perlman, Amichai
+AU  - Perlman A
+AD  - Division of Clinical Pharmacy, Institute for Drug Research, School of Pharmacy, 
+      The Hebrew University of Jerusalem, Israel.
+LA  - eng
+PT  - Comment
+PT  - Letter
+PL  - United States
+TA  - Am J Epidemiol
+JT  - American journal of epidemiology
+JID - 7910653
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CON - Am J Epidemiol. 2018 Aug 1;187(8):1817-1827. doi: 10.1093/aje/kwy086. PMID: 
+      29688261
+CON - Am J Epidemiol. 2018 Dec 1;187(12):2717-2718. doi: 10.1093/aje/kwy202. PMID: 
+      30192922
+MH  - Acetaminophen
+MH  - *Attention Deficit Disorder with Hyperactivity
+MH  - *Autistic Disorder
+MH  - Child
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - *Prenatal Exposure Delayed Effects
+MH  - Regression Analysis
+EDAT- 2018/09/08 06:00
+MHDA- 2019/09/03 06:00
+CRDT- 2018/09/08 06:00
+PHST- 2018/08/28 00:00 [received]
+PHST- 2018/09/04 00:00 [accepted]
+PHST- 2018/09/08 06:00 [pubmed]
+PHST- 2019/09/03 06:00 [medline]
+PHST- 2018/09/08 06:00 [entrez]
+AID - 5091521 [pii]
+AID - 10.1093/aje/kwy203 [doi]
+PST - ppublish
+SO  - Am J Epidemiol. 2018 Dec 1;187(12):2718. doi: 10.1093/aje/kwy203.

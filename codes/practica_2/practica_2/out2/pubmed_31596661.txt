@@ -1,0 +1,128 @@
+PMID- 31596661
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210621
+LR  - 20210621
+IS  - 2164-554X (Electronic)
+IS  - 2164-5515 (Print)
+IS  - 2164-5515 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2020 Apr 2
+TI  - Influenza vaccine effectiveness estimates against influenza A(H3N2) and A(H1N1) 
+      pdm09 among children during school-based outbreaks in the 2016-2017 season in 
+      Beijing, China.
+PG  - 816-822
+LID - 10.1080/21645515.2019.1677438 [doi]
+AB  - Background: Since 2007, trivalent inactivated influenza vaccine (TIV) has been 
+      provided free-of-charge to primary, middle school and high school students in 
+      Beijing. However, there have been few school-based studies on influenza vaccine 
+      effectiveness (VE). In this report, we estimated influenza VE against 
+      laboratory-confirmed influenza illness among school children in Beijing, China 
+      during the 2016-2017 influenza season.Methods: The VE of 2016-2017 TIV against 
+      laboratory-confirmed influenza virus infection among school-age children was 
+      assessed through a case-control design. Conditional logistic regression was 
+      conducted on matched case-control sets to estimate VE. The effect of prior 
+      vaccination on current VE was also examined.Results: All 176 samples tested 
+      positive for influenza A virus with the positive rate of 55.5%. The average 
+      coverage rate of 2016-2017 TIV among students across the 37 schools was 30.6%. 
+      The fully adjusted VE of 2016-2017 TIV against laboratory-confirmed influenza was 
+      69% (95% CI: 51 to 81): 60% (95% CI: -15 to 86) for influenza A(H1N1)pdm09 and 
+      73% (95% CI: 52 to 84) for influenza A(H3N2). The overall VE for receipt of 
+      2015-2016 vaccination only, 2016-2017 vaccination only, and vaccinations in both 
+      seasons was 46% (95% CI: -5 to 72), 77% (95% CI: 58 to 87), and 57% (95%CI: 17 to 
+      78), respectively.Conclusions: Our study during school outbreaks found that VE of 
+      2016-2017 TIV was moderate against influenza A(H3N2) as well as A(H1N1)pdm09 
+      viruses.
+FAU - Zhang, Li
+AU  - Zhang L
+AD  - Institute for Infectious Disease and Endemic Disease Control, Beijing Center for 
+      Disease Prevention and Control, Beijing, China.
+AD  - Beijing Research Center for Preventive Medicine, Beijing, China.
+FAU - van der Hoek, Wim
+AU  - van der Hoek W
+AD  - Centre for Infectious Diseases, Epidemiology and Surveillance, National Institute 
+      for Public Health and the Environment, Bilthoven, The Netherlands.
+FAU - Krafft, Thomas
+AU  - Krafft T
+AD  - Department of Health, Ethics & Society, CAPHRI Care and Public Health Research 
+      Institute, Faculty of Health, Medicine and Life Sciences, Maastricht University, 
+      Maastricht, The Netherlands.
+FAU - Pilot, Eva
+AU  - Pilot E
+AD  - Department of Health, Ethics & Society, CAPHRI Care and Public Health Research 
+      Institute, Faculty of Health, Medicine and Life Sciences, Maastricht University, 
+      Maastricht, The Netherlands.
+FAU - Asten, Liselotte van
+AU  - Asten LV
+AD  - Centre for Infectious Diseases, Epidemiology and Surveillance, National Institute 
+      for Public Health and the Environment, Bilthoven, The Netherlands.
+FAU - Lin, Ge
+AU  - Lin G
+AD  - Department of Environmental and Occupational Health, School of Public Health, 
+      University of Nevada Las Vegas, Las Vegas, NV, USA.
+FAU - Wu, Shuangsheng
+AU  - Wu S
+AD  - Institute for Infectious Disease and Endemic Disease Control, Beijing Center for 
+      Disease Prevention and Control, Beijing, China.
+AD  - Beijing Research Center for Preventive Medicine, Beijing, China.
+FAU - Duan, Wei
+AU  - Duan W
+AD  - Institute for Infectious Disease and Endemic Disease Control, Beijing Center for 
+      Disease Prevention and Control, Beijing, China.
+AD  - Beijing Research Center for Preventive Medicine, Beijing, China.
+FAU - Yang, Peng
+AU  - Yang P
+AD  - Institute for Infectious Disease and Endemic Disease Control, Beijing Center for 
+      Disease Prevention and Control, Beijing, China.
+AD  - Beijing Research Center for Preventive Medicine, Beijing, China.
+AD  - School of Public Health, Capital Medical University, Beijing, China.
+FAU - Wang, Quanyi
+AU  - Wang Q
+AD  - Institute for Infectious Disease and Endemic Disease Control, Beijing Center for 
+      Disease Prevention and Control, Beijing, China.
+AD  - Beijing Research Center for Preventive Medicine, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191101
+PL  - United States
+TA  - Hum Vaccin Immunother
+JT  - Human vaccines & immunotherapeutics
+JID - 101572652
+RN  - 0 (Influenza Vaccines)
+SB  - IM
+MH  - Beijing/epidemiology
+MH  - Case-Control Studies
+MH  - Child
+MH  - China/epidemiology
+MH  - Disease Outbreaks/prevention & control
+MH  - Humans
+MH  - *Influenza A Virus, H1N1 Subtype
+MH  - Influenza A Virus, H3N2 Subtype
+MH  - *Influenza Vaccines
+MH  - *Influenza, Human/epidemiology/prevention & control
+MH  - Schools
+MH  - Seasons
+MH  - Vaccination
+PMC - PMC7227706
+OTO - NOTNLM
+OT  - China
+OT  - Influenza
+OT  - children
+OT  - outbreak
+OT  - school
+OT  - vaccine effectiveness
+EDAT- 2019/10/10 06:00
+MHDA- 2021/06/22 06:00
+PMCR- 2020/11/01
+CRDT- 2019/10/10 06:00
+PHST- 2019/10/10 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2019/10/10 06:00 [entrez]
+PHST- 2020/11/01 00:00 [pmc-release]
+AID - 1677438 [pii]
+AID - 10.1080/21645515.2019.1677438 [doi]
+PST - ppublish
+SO  - Hum Vaccin Immunother. 2020 Apr 2;16(4):816-822. doi: 
+      10.1080/21645515.2019.1677438. Epub 2019 Nov 1.

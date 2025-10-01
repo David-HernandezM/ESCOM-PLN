@@ -1,0 +1,127 @@
+PMID- 40975639
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2095-4964 (Print)
+DP  - 2025 Sep 4
+TI  - Astragaloside IV delayed the epithelial-mesenchymal transition in peritoneal 
+      fibrosis by inhibiting the activation of EGFR and PI3K-AKT pathways.
+LID - S2095-4964(25)00137-2 [pii]
+LID - 10.1016/j.joim.2025.09.001 [doi]
+AB  - OBJECTIVE: Peritoneal fibrosis (PF) is an adverse event that occurs during 
+      long-term peritoneal dialysis, significantly impairing treatment efficiency and 
+      adversely affecting patient outcomes. Astragaloside IV (AS-IV), a principal 
+      active component derived from Astragalus membranaceus (Fisch.) Bunge, has 
+      exhibited anti-inflammatory and antifibrotic effects in various settings. This 
+      study aims to investigate the potential therapeutic efficacy and mechanism of 
+      AS-IV in the treatment of PF. METHODS: The PF mouse model was established by 
+      intraperitoneal injection of 4.25% peritoneal dialysis fluid (100 mL/kg). The 
+      epithelial-mesenchymal transition (EMT) of HMrSV5 cells was induced by the 
+      addition of 10 ng/mL transforming growth factor β (TGF-β). The differentially 
+      expressed genes in HMrSV5 cells treated with AS-IV were screened using 
+      transcriptome sequencing analysis. The potential targets of AS-IV were screened 
+      using network pharmacology and analyzed using molecular docking and molecular 
+      dynamics simulations. RESULTS: Administration of AS-IV at doses of 20, 40, or 
+      80 mg/kg effectively mitigated the increase in peritoneal thickness and the 
+      development of fibrosis in mice with PF. The expression of the fibrosis marker 
+      α-smooth muscle actin in the peritoneum was significantly decreased in 
+      AS-IV-treated mice. The treatment of AS-IV at concentrations of 10, 20, and 
+      40 μmol/L significantly delayed the EMT of HMrSV5 cells induced by TGF-β, as 
+      demonstrated by the decreased number of 5-ethynyl-2'-deoxyuridine-positive cells, 
+      reduced migrated area, and decreased expression of fibrosis markers. A total of 
+      460 differentially expressed genes were detected in AS-IV-treated HMrSV5 cells 
+      through transcriptome sequencing, with notable enrichment in the 
+      phosphatidylinositol-4,5-bisphosphate 3-kinase (PI3K)-AKT serine/threonine kinase 
+      1 (AKT) signaling pathway. The reduced levels of phosphorylated PI3K (p-PI3K) and 
+      p-AKT were detected in HMrSV5 cells with AS-IV treatment. Epidermal growth factor 
+      receptor (EGFR) was predicted as a direct target of AS-IV, exhibiting strong 
+      hydrogen bond interactions. The activation of the PI3K-AKT pathway by the 
+      compound 740Y-P, and the activation of the EGFR pathway by NSC 228155 each 
+      partially counteracted the inhibitory effect of AS-IV on the EMT of HMrSV5 cells. 
+      CONCLUSION: AS-IV delayed the EMT process in peritoneal mesothelial cells and 
+      slowed the progression of PF, potentially serving as a therapeutic agent for the 
+      early prevention and treatment of PF. Please cite this article as: Huang Y, Chu 
+      CL, Qiu WH, Chen JY, Cao LX, Ji SY, Zhu B, Wang GK, Shen QQ. Astragaloside IV 
+      delayed the epithelial-mesenchymal transition in peritoneal fibrosis by 
+      inhibiting the activation of EGFR and PI3K-AKT pathways. J Integr Med. 2025; Epub 
+      ahead of print.
+CI  - Copyright © 2025 Shanghai Yueyang Hospital Affiliated to Shanghai University of 
+      Traditional Chinese Medicine. Published by Elsevier B.V. All rights reserved.
+FAU - Huang, Ying
+AU  - Huang Y
+AD  - School of Public Health, Hangzhou Medical College, Hangzhou, Zhejiang Province, 
+      310014 China; Urology & Nephrology Center, Department of Nephrology, Zhejiang 
+      Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical 
+      College, Hangzhou, Zhejiang Province, 310014 China.
+FAU - Chu, Chen-Ling
+AU  - Chu CL
+AD  - Department of Clinical Medicine and Stomatology, Hangzhou Normal University, 
+      Hangzhou, Zhejiang Province, 310014 China; Urology & Nephrology Center, 
+      Department of Nephrology, Zhejiang Provincial People's Hospital, Affiliated 
+      People's Hospital, Hangzhou Medical College, Hangzhou, Zhejiang Province, 310014 
+      China.
+FAU - Qiu, Wen-Hui
+AU  - Qiu WH
+AD  - Basic Medical Sciences, Hangzhou Medical College, Hangzhou, Zhejiang Province, 
+      310014 China; Urology & Nephrology Center, Department of Nephrology, Zhejiang 
+      Provincial People's Hospital, Affiliated People's Hospital, Hangzhou Medical 
+      College, Hangzhou, Zhejiang Province, 310014 China.
+FAU - Chen, Jia-Yi
+AU  - Chen JY
+AD  - Department of Clinical Medicine and Stomatology, Hangzhou Normal University, 
+      Hangzhou, Zhejiang Province, 310014 China; Urology & Nephrology Center, 
+      Department of Nephrology, Zhejiang Provincial People's Hospital, Affiliated 
+      People's Hospital, Hangzhou Medical College, Hangzhou, Zhejiang Province, 310014 
+      China.
+FAU - Cao, Lu-Xi
+AU  - Cao LX
+AD  - Urology & Nephrology Center, Department of Nephrology, Zhejiang Provincial 
+      People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, 
+      Hangzhou, Zhejiang Province, 310014 China.
+FAU - Ji, Shui-Yu
+AU  - Ji SY
+AD  - Urology & Nephrology Center, Department of Nephrology, Zhejiang Provincial 
+      People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, 
+      Hangzhou, Zhejiang Province, 310014 China.
+FAU - Zhu, Bin
+AU  - Zhu B
+AD  - Urology & Nephrology Center, Department of Nephrology, Zhejiang Provincial 
+      People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, 
+      Hangzhou, Zhejiang Province, 310014 China.
+FAU - Wang, Guo-Kun
+AU  - Wang GK
+AD  - Department of Cardiovascular Surgery, Changhai Hospital, Naval Medical 
+      University, Shanghai 200433, China. Electronic address: dearwgk@smmu.edu.cn.
+FAU - Shen, Quan-Quan
+AU  - Shen QQ
+AD  - Urology & Nephrology Center, Department of Nephrology, Zhejiang Provincial 
+      People's Hospital, Affiliated People's Hospital, Hangzhou Medical College, 
+      Hangzhou, Zhejiang Province, 310014 China; Department of Nephrology, Zhejiang 
+      Provincial People's Hospital Bijie Hospital, Bijie, Guizhou Province, 551700 
+      China. Electronic address: spring198457@sina.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250904
+PL  - Netherlands
+TA  - J Integr Med
+JT  - Journal of integrative medicine
+JID - 101603118
+SB  - IM
+OTO - NOTNLM
+OT  - Astragaloside IV
+OT  - EGFR
+OT  - Epithelial–mesenchymal transition
+OT  - PI3K-AKT pathway
+OT  - Peritoneal fibrosis
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 21:58
+PHST- 2024/09/13 00:00 [received]
+PHST- 2025/05/12 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 21:58 [entrez]
+AID - S2095-4964(25)00137-2 [pii]
+AID - 10.1016/j.joim.2025.09.001 [doi]
+PST - aheadofprint
+SO  - J Integr Med. 2025 Sep 4:S2095-4964(25)00137-2. doi: 10.1016/j.joim.2025.09.001.

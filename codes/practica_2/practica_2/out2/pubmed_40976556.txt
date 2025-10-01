@@ -1,0 +1,116 @@
+PMID- 40976556
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2090-1224 (Electronic)
+IS  - 2090-1224 (Linking)
+DP  - 2025 Sep 19
+TI  - Cancer stem cell plasticity in shaping drug resistance landscapes in prostate 
+      cancer.
+LID - S2090-1232(25)00733-7 [pii]
+LID - 10.1016/j.jare.2025.09.028 [doi]
+AB  - BACKGROUND: Prostate-related diseases exhibit an extremely high incidence among 
+      aging males, including Benign Prostatic Hyperplasia (BPH) and prostate Cancer 
+      (PCa). Prostate stem cells are critical for prostate development, adult tissue 
+      homeostasis, and injury repair, and are also considered potential cells of origin 
+      for tumorigenesis. Recent studies have demonstrated that various prostate stem 
+      cell populations serve as key drivers in both the initiation and progression of 
+      prostatic diseases, while also contributing to therapy resistance. Consequently, 
+      prostate stem cells have emerged as promising therapeutic targets for both 
+      fundamental research and clinical translational studies. AIM OF REVIEW: This 
+      review provides a comprehensive summary of the identity and characteristics of 
+      various prostate epithelial stem cells, elaborating on the cell fate and function 
+      of different prostate stem cells under both physiological and pathological 
+      conditions. Additionally, the review offers theoretical evidence linking the 
+      lineage plasticity of prostate stem cells to the drug resistance observed in 
+      prostate diseases, and critically discusses both the limitations and therapeutic 
+      potential of emerging stem cell-targeting strategies. KEY SCIENTIFIC CONCEPTS OF 
+      REVIEW: This review integrates contemporary knowledge regarding the identity and 
+      cellular plasticity of prostate stem cell subpopulations across physiological and 
+      pathological contexts, encompassing prostate development, tissue homeostasis, 
+      inflammatory responses, and oncogenesis. These stem cells demonstrate critical 
+      adaptability to microenvironmental challenges, underpinning essential functions 
+      in epithelial regeneration, neoplastic initiation, and tumor evolution. 
+      Significantly, their capacity to dynamically reprogram cellular fate trajectories 
+      has been shown to fundamentally underpin mechanisms of therapeutic evasion, 
+      fostering the emergence of treatment resistance. Collectively, these insights 
+      position the molecular targeting of prostate stem cells as a novel therapeutic 
+      paradigm for managing advanced prostate malignancies.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Zhang, Xiaoyu
+AU  - Zhang X
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Zhang, Xiaoqing
+AU  - Zhang X
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Bao, Qing
+AU  - Bao Q
+AD  - Guangzhou Kangda Vocational Technical College, Guangzhou 510555, China.
+FAU - Li, Rong
+AU  - Li R
+AD  - The First Clinical Medicine School of Guangdong Pharmaceutical University, 
+      Guangzhou, China.
+FAU - Deng, Xinpei
+AU  - Deng X
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Cao, Jingna
+AU  - Cao J
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Wang, Huan
+AU  - Wang H
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Chen, Dong
+AU  - Chen D
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China.
+FAU - Zou, Yutian
+AU  - Zou Y
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China. Electronic address: zouyt@sysucc.org.cn.
+FAU - Tang, Hailin
+AU  - Tang H
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      China. Electronic address: tanghl@sysucc.org.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - Egypt
+TA  - J Adv Res
+JT  - Journal of advanced research
+JID - 101546952
+SB  - IM
+OTO - NOTNLM
+OT  - Drug resistance
+OT  - Lineage plasticity
+OT  - Prostate development
+OT  - Prostate stem cells
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 20:07
+PHST- 2025/05/13 00:00 [received]
+PHST- 2025/08/24 00:00 [revised]
+PHST- 2025/09/16 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 20:07 [entrez]
+AID - S2090-1232(25)00733-7 [pii]
+AID - 10.1016/j.jare.2025.09.028 [doi]
+PST - aheadofprint
+SO  - J Adv Res. 2025 Sep 19:S2090-1232(25)00733-7. doi: 10.1016/j.jare.2025.09.028.

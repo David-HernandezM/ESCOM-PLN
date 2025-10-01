@@ -1,0 +1,96 @@
+PMID- 40977745
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250923
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 16
+DP  - 2025
+TI  - C/EBPβ as a master regulator of inflammasome signaling in neurodegenerative 
+      diseases: mechanisms and therapeutic implications.
+PG  - 1656165
+LID - 10.3389/fimmu.2025.1656165 [doi]
+LID - 1656165
+AB  - CCAAT/enhancer-binding protein beta (C/EBPβ), a key transcription factor, plays a 
+      central role in regulating inflammasome signaling in neurodegenerative diseases 
+      (NDs). This review synthesizes the mechanisms by which C/EBPβ modulates 
+      neuroinflammation and its potential as a therapeutic target. We conducted a 
+      comprehensive systematic review spanning January 1995 to June 2025, 
+      systematically querying Google Scholar and PubMed with the following keywords: 
+      neuroinflammation, inflammasome activation, C/EBPβ, therapeutic targeting, and 
+      neurodegenerative diseases. C/EBPβ exists in three isoforms-LAP1, LAP2, and 
+      LIP-each with distinct functions in inflammasome activation. In Alzheimer's 
+      disease (AD), C/EBPβ drives tau cleavage and Aβ pathology through the AEP axis 
+      and exacerbates neuroinflammation by upregulating APOE4. In Parkinson's disease 
+      (PD), C/EBPβ silencing reduces α-synuclein aggregation and dopaminergic neuron 
+      loss by suppressing the NLRP3 inflammasome. In Amyotrophic Lateral Sclerosis 
+      (ALS), C/EBPβ is hypothesized to contribute to TDP-43-associated inflammasome 
+      activation, though this requires further validation. In Multiple Sclerosis (MS), 
+      C/EBPβ may influence microglial activation and neuroinflammation, as shown in 
+      experimental autoimmune encephalomyelitis models. Modulators of the 
+      C/EBPβ-inflammasome axis include endogenous regulators like gut-derived 
+      metabolites and pharmacological interventions such as small-molecule inhibitors. 
+      Therapeutic strategies targeting C/EBPβ hold promise for mitigating 
+      neuroinflammation and neurodegeneration, though challenges remain in achieving 
+      isoform-specific targeting and blood-brain barrier penetration. Future directions 
+      include CRISPR-based editing and biomarker development for personalized 
+      therapies.
+CI  - Copyright © 2025 Wang, Li and Xia.
+FAU - Wang, Ji
+AU  - Wang J
+AD  - Hubei Key Laboratory of Cognitive and Affective Disorders, Jianghan University, 
+      Wuhan, Hubei, China.
+FAU - Li, Yuan
+AU  - Li Y
+AD  - School of Fine Arts and Design, Hunan City University, Yiyang, Hunan, China.
+AD  - Postdoctoral Mobile Station of Journalism and Communication, Hunan Normal 
+      University, Changsha, Hunan, China.
+FAU - Xia, Yiyuan
+AU  - Xia Y
+AD  - Hubei Key Laboratory of Cognitive and Affective Disorders, Jianghan University, 
+      Wuhan, Hubei, China.
+AD  - Hubei Provincial Demonstration Center for Experimental Medicine Education, School 
+      of Medicine, Jianghan University, Wuhan, Hubei, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20250905
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Inflammasomes)
+RN  - 0 (CCAAT-Enhancer-Binding Protein-beta)
+SB  - IM
+MH  - Humans
+MH  - *Inflammasomes/metabolism/immunology
+MH  - *Neurodegenerative Diseases/metabolism/immunology/therapy/etiology
+MH  - Animals
+MH  - *Signal Transduction
+MH  - *CCAAT-Enhancer-Binding Protein-beta/metabolism/genetics
+PMC - PMC12447647
+OTO - NOTNLM
+OT  - C/EBPβ isoforms
+OT  - inflammasome activation
+OT  - neurodegenerative diseases
+OT  - neuroinflammation
+OT  - therapeutic targeting
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:47
+PMCR- 2025/09/05
+CRDT- 2025/09/22 07:36
+PHST- 2025/06/29 00:00 [received]
+PHST- 2025/08/18 00:00 [accepted]
+PHST- 2025/09/22 12:47 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 07:36 [entrez]
+PHST- 2025/09/05 00:00 [pmc-release]
+AID - 10.3389/fimmu.2025.1656165 [doi]
+PST - epublish
+SO  - Front Immunol. 2025 Sep 5;16:1656165. doi: 10.3389/fimmu.2025.1656165. 
+      eCollection 2025.

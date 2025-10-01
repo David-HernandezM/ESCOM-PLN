@@ -1,0 +1,137 @@
+PMID- 40973927
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250923
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Genetic architecture of plasma metabolome in 254,825 individuals.
+PG  - 8272
+LID - 10.1038/s41467-025-62126-w [doi]
+LID - 8272
+AB  - Circulating metabolites are crucial to biological processes underlying health and 
+      diseases, yet their genetic determinants remain incompletely understood. Here, we 
+      investigate the genetic architecture of nuclear magnetic resonance-based 
+      metabolomics, analyzing 249 metabolic measures and 64 biologically plausible 
+      ratios in 254,825 participants. We conduct a genome-wide association study (GWAS) 
+      identifying 24,438 independent variant-metabolite associations across 427 loci, 
+      with effect sizes highly concordant with 19 previous studies. Fine-mapping 
+      pinpoints 3610 putative causal associations, 785 of which are novel. 
+      Additionally, we utilize whole exome sequencing data and uncover 2948 
+      gene-metabolite associations through aggregate testing, underscoring the 
+      importance of rare coding variants overlooked in GWAS. Integrating our findings 
+      with disease genetics reveals potential causal associations, such as between 
+      acetate levels and the risk of atrial fibrillation and flutter. Collectively, 
+      this study delineates the complex genetic architecture of the plasma metabolome, 
+      offering a valuable resource for future investigations into disease mechanisms 
+      and therapeutic strategies.
+CI  - © 2025. The Author(s).
+FAU - Qiang, Yi-Xuan
+AU  - Qiang YX
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - Wang, Yi-Xuan
+AU  - Wang YX
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - He, Xiao-Yu
+AU  - He XY
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - Deng, Yue-Ting
+AU  - Deng YT
+AUID- ORCID: 0000-0002-9962-7860
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - Ge, Yi-Jun
+AU  - Ge YJ
+AUID- ORCID: 0000-0002-9535-7330
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - Wu, Bang-Sheng
+AU  - Wu BS
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+FAU - Jia, You
+AU  - Jia Y
+AUID- ORCID: 0000-0002-7079-8041
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China.
+AD  - Institute of Science and Technology for Brain-Inspired Intelligence, Fudan 
+      University, Shanghai, China.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China.
+FAU - Feng, Jian-Feng
+AU  - Feng JF
+AUID- ORCID: 0000-0001-5987-2258
+AD  - Institute of Science and Technology for Brain-Inspired Intelligence, Fudan 
+      University, Shanghai, China.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China.
+AD  - Department of Computer Science, University of Warwick, Coventry, UK.
+FAU - Cheng, Wei
+AU  - Cheng W
+AUID- ORCID: 0000-0003-1118-1743
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China. 
+      wcheng@fudan.edu.cn.
+AD  - Institute of Science and Technology for Brain-Inspired Intelligence, Fudan 
+      University, Shanghai, China. wcheng@fudan.edu.cn.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China. wcheng@fudan.edu.cn.
+FAU - Yu, Jin-Tai
+AU  - Yu JT
+AUID- ORCID: 0000-0002-2532-383X
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, State Key Laboratory of Medical Neurobiology and MOE Frontiers Center 
+      for Brain Science, Shanghai Medical College, Fudan University, Shanghai, China. 
+      jintai_yu@fudan.edu.cn.
+LA  - eng
+GR  - 2022QD002/Huashan Hospital/
+GR  - 2023SHZDZX02/Science and Technology Commission of Shanghai Municipality (Shanghai 
+      Municipal Science and Technology Commission)/
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Humans
+MH  - *Metabolome/genetics
+MH  - Genome-Wide Association Study
+MH  - Metabolomics/methods
+MH  - Male
+MH  - Female
+MH  - Polymorphism, Single Nucleotide
+MH  - Middle Aged
+MH  - Exome Sequencing
+MH  - Genetic Predisposition to Disease
+PMC - PMC12449471
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:32
+PMCR- 2025/09/19
+CRDT- 2025/09/20 00:32
+PHST- 2025/02/20 00:00 [received]
+PHST- 2025/07/10 00:00 [accepted]
+PHST- 2025/09/20 06:32 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 00:32 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1038/s41467-025-62126-w [pii]
+AID - 62126 [pii]
+AID - 10.1038/s41467-025-62126-w [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 19;16(1):8272. doi: 10.1038/s41467-025-62126-w.

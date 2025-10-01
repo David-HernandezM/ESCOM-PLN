@@ -1,0 +1,97 @@
+PMID- 30825403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200908
+LR  - 20250530
+IS  - 1521-3773 (Electronic)
+IS  - 1433-7851 (Print)
+IS  - 1433-7851 (Linking)
+VI  - 58
+IP  - 22
+DP  - 2019 May 27
+TI  - A Peptide-Induced Self-Cleavage Reaction Initiates the Activation of Tyrosinase.
+PG  - 7475-7479
+LID - 10.1002/anie.201901332 [doi]
+AB  - The conversion of inactive pro-polyphenol oxidases (pro-PPOs) into the active 
+      enzyme results from the proteolytic cleavage of its C-terminal domain. Herein, a 
+      peptide-mediated cleavage process that activates pro-MdPPO1 (Malus domestica) is 
+      reported. Mass spectrometry, mutagenesis studies, and X-ray crystal-structure 
+      analysis of pro-MdPPO1 (1.35 Å) and two separated C-terminal domains, one 
+      obtained upon self-cleavage of pro-MdPPO1 and the other one produced 
+      independently, were applied to study the observed self-cleavage. The sequence 
+      Lys 355-Val 370 located in the linker between the active and the C-terminal 
+      domain is indispensable for the self-cleavage. Partial introduction 
+      (Lys 352-Ala 360) of this peptide into the sequence of two other PPOs, MdPPO2 and 
+      aurone synthase (CgAUS1), triggered self-cleavage in the resulting mutants. This 
+      is the first experimental proof of a self-cleavage-inducing peptide in PPOs, 
+      unveiling a new mode of activation for this enzyme class that is independent of 
+      any external protease.
+CI  - © 2019 The Authors. Published by Wiley-VCH Verlag GmbH & Co. KGaA.
+FAU - Kampatsikas, Ioannis
+AU  - Kampatsikas I
+AUID- ORCID: 0000-0001-7660-3121
+AD  - Universität Wien, Fakultät für Chemie, Institut für Biophysikalische Chemie, 
+      Althanstraße 14, 1090, Wien, Austria.
+FAU - Bijelic, Aleksandar
+AU  - Bijelic A
+AUID- ORCID: 0000-0002-8781-153X
+AD  - Universität Wien, Fakultät für Chemie, Institut für Biophysikalische Chemie, 
+      Althanstraße 14, 1090, Wien, Austria.
+FAU - Pretzler, Matthias
+AU  - Pretzler M
+AUID- ORCID: 0000-0003-2637-6738
+AD  - Universität Wien, Fakultät für Chemie, Institut für Biophysikalische Chemie, 
+      Althanstraße 14, 1090, Wien, Austria.
+FAU - Rompel, Annette
+AU  - Rompel A
+AUID- ORCID: 0000-0002-5919-0553
+AD  - Universität Wien, Fakultät für Chemie, Institut für Biophysikalische Chemie, 
+      Althanstraße 14, 1090, Wien, Austria.
+LA  - eng
+GR  - P 29144/FWF_/Austrian Science Fund FWF/Austria
+GR  - P29144/Austrian Science Fund (FWF)/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190417
+PL  - Germany
+TA  - Angew Chem Int Ed Engl
+JT  - Angewandte Chemie (International ed. in English)
+JID - 0370543
+RN  - 0 (Dipeptides)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (Plant Proteins)
+RN  - EC 1.10.3.1 (Catechol Oxidase)
+RN  - ZB4A1U383X (lysylvaline)
+SB  - IM
+MH  - Catechol Oxidase/chemistry/genetics/*metabolism
+MH  - Crystallography, X-Ray
+MH  - Dipeptides/chemistry/genetics/metabolism
+MH  - Malus/*enzymology
+MH  - Models, Molecular
+MH  - Mutation
+MH  - Peptide Fragments/*metabolism
+MH  - Plant Proteins/chemistry/*metabolism
+MH  - Protein Conformation
+PMC - PMC6563526
+OTO - NOTNLM
+OT  - activating peptides
+OT  - crystal structures
+OT  - maturation agents
+OT  - polyphenol oxidases
+OT  - self-cleaving peptides
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/03/03 06:00
+MHDA- 2020/09/09 06:00
+PMCR- 2019/06/13
+CRDT- 2019/03/03 06:00
+PHST- 2019/01/30 00:00 [received]
+PHST- 2019/02/26 00:00 [revised]
+PHST- 2019/03/03 06:00 [pubmed]
+PHST- 2020/09/09 06:00 [medline]
+PHST- 2019/03/03 06:00 [entrez]
+PHST- 2019/06/13 00:00 [pmc-release]
+AID - ANIE201901332 [pii]
+AID - 10.1002/anie.201901332 [doi]
+PST - ppublish
+SO  - Angew Chem Int Ed Engl. 2019 May 27;58(22):7475-7479. doi: 
+      10.1002/anie.201901332. Epub 2019 Apr 17.

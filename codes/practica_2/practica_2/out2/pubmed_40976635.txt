@@ -1,0 +1,111 @@
+PMID- 40976635
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 1528-0012 (Electronic)
+IS  - 0016-5085 (Linking)
+VI  - 169
+IP  - 5
+DP  - 2025 Oct
+TI  - AGA Clinical Practice Guideline on Management of Gastroparesis.
+PG  - 828-861
+LID - S0016-5085(25)05857-3 [pii]
+LID - 10.1053/j.gastro.2025.08.004 [doi]
+AB  - BACKGROUND & AIMS: Gastroparesis is a complex gastric motility disorder 
+      characterized by nausea, vomiting, and other symptoms associated with a delay in 
+      gastric emptying in the absence of mechanical obstruction. Variations in 
+      diagnostic testing and limited effective treatments make caring for this patient 
+      population challenging. The American Gastroenterological Association developed 
+      this guideline to provide recommendations for ensuring an accurate diagnosis and 
+      identifying evidence-based, effective treatments among the available 
+      pharmacologic and procedural interventions for patients with idiopathic 
+      gastroparesis or gastroparesis related to diabetes. METHODS: The Grading of 
+      Recommendations Assessment, Development and Evaluation framework was used to 
+      assess evidence and develop this guideline. The Guideline Panel prioritized 
+      clinical questions and outcomes, conducted an evidence review, and used the 
+      Evidence to Decision Framework to develop recommendations. RESULTS: The Guideline 
+      Panel agreed on 12 recommendations. A conditional recommendation was issued 
+      against using 2-hour gastric emptying testing and in favor of 4-hour testing in 
+      patients with suspected gastroparesis. There are conditional recommendations for 
+      the use of metoclopramide and erythromycin in patients with gastroparesis. 
+      Conditional recommendations were issued against the use of domperidone, 
+      prucalopride, aprepitant, nortriptyline, buspirone, and cannabidiol as first-line 
+      therapies. In addition, conditional recommendations were issued against the 
+      routine initial use of gastric per-oral endoscopic pyloromyotomy or gastric 
+      electrical stimulation in patients with gastroparesis, reserving these treatments 
+      for select patients with symptoms refractory to medical therapies. No 
+      recommendation was given regarding the use of surgical pyloromyotomy and surgical 
+      pyloroplasty, which were identified as procedures with knowledge gaps in their 
+      use for treatment for gastroparesis. CONCLUSIONS: The diagnosis of gastroparesis 
+      requires the use of 4-hour gastric emptying tests. Metoclopramide or erythromycin 
+      is appropriate for initial pharmacologic treatment. Other treatment 
+      recommendations require shared patient-physician decision making. There are still 
+      considerable unmet needs in the treatment of gastroparesis.
+CI  - Copyright © 2025 AGA Institute. Published by Elsevier Inc. All rights reserved.
+FAU - Staller, Kyle
+AU  - Staller K
+AD  - Division of Gastroenterology, Massachusetts General Hospital and Harvard Medical 
+      School, Boston, Massachusetts.
+FAU - Parkman, Henry P
+AU  - Parkman HP
+AD  - Gastroenterology Section, Department of Medicine, Temple University School of 
+      Medicine, Philadelphia, Pennsylvania.
+FAU - Greer, Katarina B
+AU  - Greer KB
+AD  - Department of Medicine, Louis Stokes Cleveland Veterans Affairs Medical Center, 
+      Cleveland, Ohio; Case Western Reserve University School of Medicine, Cleveland, 
+      Ohio.
+FAU - Leiman, David A
+AU  - Leiman DA
+AD  - Division of Gastroenterology and Duke Clinical Research Institute, Duke 
+      University School of Medicine, Durham, North Carolina.
+FAU - Zhou, Margaret J
+AU  - Zhou MJ
+AD  - Division of Gastroenterology and Hepatology, Department of Medicine, Stanford 
+      University School of Medicine, Stanford, California.
+FAU - Singh, Shailendra
+AU  - Singh S
+AD  - Section of Gastroenterology and Hepatology, Department of Medicine, West Virginia 
+      University, Morgantown, West Virginia.
+FAU - Camilleri, Michael
+AU  - Camilleri M
+AD  - Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, Minnesota.
+FAU - Altayar, Osama
+AU  - Altayar O
+AD  - Division of Gastroenterology, Washington University School of Medicine, St Louis, 
+      Missouri.
+CN  - AGA Clinical Guidelines Committee
+LA  - eng
+PT  - Journal Article
+PT  - Practice Guideline
+PL  - United States
+TA  - Gastroenterology
+JT  - Gastroenterology
+JID - 0374630
+RN  - 0 (Gastrointestinal Agents)
+SB  - IM
+MH  - Humans
+MH  - *Gastroparesis/therapy/diagnosis/physiopathology/etiology
+MH  - Gastric Emptying/drug effects
+MH  - *Gastroenterology/standards
+MH  - Evidence-Based Medicine/standards
+MH  - *Gastrointestinal Agents/therapeutic use/adverse effects
+MH  - Treatment Outcome
+MH  - Societies, Medical/standards
+OTO - NOTNLM
+OT  - Antiemetic
+OT  - Endoscopic Myotomy
+OT  - Neuromodulator
+OT  - Prokinetic
+OT  - Pyloroplasty
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:31
+CRDT- 2025/09/21 20:57
+PHST- 2025/09/22 00:31 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 20:57 [entrez]
+AID - S0016-5085(25)05857-3 [pii]
+AID - 10.1053/j.gastro.2025.08.004 [doi]
+PST - ppublish
+SO  - Gastroenterology. 2025 Oct;169(5):828-861. doi: 10.1053/j.gastro.2025.08.004.

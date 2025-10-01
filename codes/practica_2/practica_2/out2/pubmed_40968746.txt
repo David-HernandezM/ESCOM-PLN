@@ -1,0 +1,168 @@
+PMID- 40968746
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2055-5822 (Electronic)
+IS  - 2055-5822 (Linking)
+DP  - 2025 Sep 19
+TI  - SGLT2 inhibitors for the prevention and treatment of heart failure: A scientific 
+      statement of the HFA and the HFAI.
+LID - 10.1002/ehf2.15408 [doi]
+AB  - In the 2021 European Society of Cardiology (ESC) heart failure (HF) guidelines, 
+      sodium-glucose cotransporter 2 (SGLT2) inhibitors were recommended for the 
+      prevention of HF in patients with type 2 diabetes mellitus (T2DM) and for the 
+      treatment of HF with reduced ejection fraction (HFrEF). Further trials showed 
+      efficacy of empagliflozin and dapagliflozin in patients with HF with preserved 
+      ejection fraction (HFpEF). These results prompted a broadened recommendation for 
+      the SGLT2 inhibitors dapagliflozin or empagliflozin across the whole left 
+      ventricular ejection fraction (LVEF) spectrum in the 2023 Focused Update of the 
+      ESC HF guidelines and in other international guidelines. In SOLOIST-WHF and 
+      EMPULSE, sotagliflozin (enrolling only patients with T2DM) and empagliflozin, 
+      respectively, were beneficial when initiated at the end or soon after an episode 
+      of decompensated HF. Based on these results and on the early appearance of their 
+      beneficial effects, the administration of SGLT2 inhibitors should start early in 
+      patients hospitalized for acute HF. Analyses after study drug withdrawal in 
+      randomized clinical trials have shown that their benefits may decline rapidly 
+      after discontinuation, and thus, persistence of treatment is advised. In 
+      EMPACT-MI, empagliflozin did not reduce the primary outcome of cardiovascular 
+      (CV) death/HF hospitalization but reduced first/recurrent HF hospitalizations. 
+      Potential benefits of SGLT2 inhibitors in further specific conditions (i.e., 
+      cardiac amyloidosis, grown-up congenital heart disease and paediatric patients 
+      with HF) have been reported in observational studies but need confirmation from 
+      prospective trials. This scientific statement summarizes current evidence 
+      regarding the effects of SGLT2 inhibitors for the prevention and treatment of HF.
+CI  - © 2025 The Author(s). ESC Heart Failure published by John Wiley & Sons Ltd on 
+      behalf of European Society of Cardiology.
+FAU - Metra, Marco
+AU  - Metra M
+AD  - Cardiology. ASST Spedali Civili di Brescia and Department of Medical and Surgical 
+      Specialties, Radiological Sciences, and Public Health, University of Brescia, 
+      Brescia, Italy.
+FAU - Tomasoni, Daniela
+AU  - Tomasoni D
+AD  - Cardiology. ASST Spedali Civili di Brescia and Department of Medical and Surgical 
+      Specialties, Radiological Sciences, and Public Health, University of Brescia, 
+      Brescia, Italy.
+AD  - Department of Clinical Science and Education, Södersjukhuset, Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Adamo, Marianna
+AU  - Adamo M
+AD  - Cardiology. ASST Spedali Civili di Brescia and Department of Medical and Surgical 
+      Specialties, Radiological Sciences, and Public Health, University of Brescia, 
+      Brescia, Italy.
+FAU - Amir, Offer
+AU  - Amir O
+AD  - Department of Cardiology, Hadassah Medical Center, Faculty of Medicine, Hebrew 
+      University of Jerusalem, Jerusalem, Israel.
+FAU - Anker, Stefan D
+AU  - Anker SD
+AD  - Department of Cardiology (CVK) of German Heart Center Charité, German Centre for 
+      Cardiovascular Research (DZHK) partner site Berlin, Charité-Universitätsmedizin 
+      Berlin, Berlin, Germany.
+FAU - Bayes-Genis, Antoni
+AU  - Bayes-Genis A
+AD  - Heart Institute, Hospital Universitari Germans Trias i Pujol, Badalona, CIBERCV, 
+      Barcelona, Spain.
+FAU - Boehm, Michael
+AU  - Boehm M
+AD  - Klinik für Innere Medizin III, Universitätsklinikum des Saarlandes, Saarland 
+      University, Homburg, Germany.
+FAU - Butler, Javed
+AU  - Butler J
+AD  - Baylor Scott & White Research Institute, Dallas, Texas, USA.
+AD  - University of Mississippi, Jackson, Mississippi, USA.
+FAU - Chioncel, Ovidiu
+AU  - Chioncel O
+AD  - Emergency Institute for Cardiovascular Diseases 'Prof. C.C. Iliescu', University 
+      of Medicine Carol Davila, Bucharest, Romania.
+FAU - Filippatos, Gerasimos
+AU  - Filippatos G
+AD  - School of Medicine, National and Kapodistrian University of Athens, Athens, 
+      Greece.
+FAU - Gustafsson, Finn
+AU  - Gustafsson F
+AD  - Department of Cardiology, The Heart Centre, Rigshospitalet, University of 
+      Copenhagen, Copenhagen, Denmark.
+FAU - Jankowska, Ewa A
+AU  - Jankowska EA
+AD  - Institute of Heart Diseases, Wrocław Medical University, Wrocław, Poland.
+FAU - Kaski, Juan Carlos
+AU  - Kaski JC
+AD  - Molecular and Clinical Sciences Research Institute, St George's University of 
+      London, London, UK.
+FAU - Moura, Brenda
+AU  - Moura B
+AD  - Centro de Investigação em Tecnologias e Serviços de Saúde, Porto, Portugal.
+AD  - Serviço de Cardiologia, Hospital das Forças Armadas-Pólo do Porto, Porto, 
+      Portugal.
+FAU - Petrie, Mark C
+AU  - Petrie MC
+AD  - School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, 
+      UK.
+FAU - Ponikowski, Piotr
+AU  - Ponikowski P
+AD  - Institute of Heart Diseases, Wrocław Medical University, Wrocław, Poland.
+AD  - Department of Cardiology, Wrocław Medical University, Wrocław, Poland.
+FAU - Rakisheva, Amina
+AU  - Rakisheva A
+AD  - Department of Cardiology, Scientific Institution of Cardiology and Internal 
+      Diseases, Almaty, Kazakhstan.
+FAU - Ristic, Arsen
+AU  - Ristic A
+AD  - School of Medicine, University of Belgrade, Belgrade, Serbia.
+FAU - Roubille, Francois
+AU  - Roubille F
+AD  - PhyMedExp, Université de Montpellier, INSERM, CNRS, Cardiology Department, CHU de 
+      Montpellier, Montpellier, France.
+FAU - Savarese, Gianluigi
+AU  - Savarese G
+AD  - Department of Clinical Science and Education, Södersjukhuset, Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Seferovic, Petar
+AU  - Seferovic P
+AD  - Serbian Academy of Sciences and Arts, Belgrade, Serbia.
+FAU - van der Meer, Peter
+AU  - van der Meer P
+AD  - Department of Cardiology, University Medical Center Groningen, University of 
+      Groningen, Groningen, The Netherlands.
+FAU - Volterrani, Maurizio
+AU  - Volterrani M
+AD  - Department of Medical Sciences, Centre for Clinical and Basic Research, IRCCS San 
+      Raffaele Pisana, Rome, Italy.
+FAU - Coats, Andrew J
+AU  - Coats AJ
+AD  - Heart Research Institute, Newtown, New South Wales, Australia.
+FAU - Chopra, Vijay K
+AU  - Chopra VK
+AD  - Department of Cardiology, Medanta, Gurgaon, Haryana, India.
+FAU - Rosano, Giuseppe
+AU  - Rosano G
+AD  - Department of Human Sciences and Promotion of Quality of Life, San Raffaele Open 
+      University of Rome, Rome, Italy.
+AD  - IRCCS San Raffaele, Rome, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - England
+TA  - ESC Heart Fail
+JT  - ESC heart failure
+JID - 101669191
+SB  - IM
+OTO - NOTNLM
+OT  - GDMT
+OT  - SGLT2 inhibitors
+OT  - heart failure
+OT  - prevention
+OT  - treatment
+EDAT- 2025/09/19 06:33
+MHDA- 2025/09/19 06:33
+CRDT- 2025/09/19 04:03
+PHST- 2025/08/07 00:00 [received]
+PHST- 2025/08/11 00:00 [accepted]
+PHST- 2025/09/19 06:33 [medline]
+PHST- 2025/09/19 06:33 [pubmed]
+PHST- 2025/09/19 04:03 [entrez]
+AID - 10.1002/ehf2.15408 [doi]
+PST - aheadofprint
+SO  - ESC Heart Fail. 2025 Sep 19. doi: 10.1002/ehf2.15408.

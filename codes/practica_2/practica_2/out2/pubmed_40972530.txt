@@ -1,0 +1,70 @@
+PMID- 40972530
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250919
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 188
+IP  - 19
+DP  - 2025 Sep 18
+TI  - Multi-adjuvant personalized neoantigen vaccines: Fine-tuning anti-cancer T cells.
+PG  - 5121-5123
+LID - S0092-8674(25)00980-8 [pii]
+LID - 10.1016/j.cell.2025.08.025 [doi]
+AB  - Personalized cancer vaccines aim to broaden the anti-tumor T cell repertoire by 
+      targeting neoantigens unique to each patient's tumor, but immunogenicity has been 
+      inconsistent. In this issue of Cell, Blass, Keskin, Tu et al. evaluate 
+      NeoVax(MI), a multi-adjuvant personalized synthetic long-peptide vaccine 
+      administered with nivolumab in patients with melanoma. NeoVax(MI) elicited 
+      stronger CD4(+) and CD8(+) responses than earlier iterations, and vaccine-induced 
+      T cells trafficked to regressing metastatic lesions.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Wang, Hejia Henry
+AU  - Wang HH
+AD  - Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins 
+      University, Baltimore, MD, USA; Johns Hopkins Convergence Institute, Johns 
+      Hopkins University School of Medicine, Baltimore, MD, USA.
+FAU - Zaidi, Neeha
+AU  - Zaidi N
+AD  - Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins 
+      University, Baltimore, MD, USA; Johns Hopkins Convergence Institute, Johns 
+      Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: 
+      nzaidi1@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Cancer Vaccines)
+RN  - 0 (Antigens, Neoplasm)
+RN  - 0 (Adjuvants, Immunologic)
+RN  - 31YO63LBSN (Nivolumab)
+SB  - IM
+MH  - Humans
+MH  - *Cancer Vaccines/immunology/therapeutic use
+MH  - *Antigens, Neoplasm/immunology
+MH  - Precision Medicine
+MH  - *Melanoma/immunology/therapy
+MH  - *T-Lymphocytes/immunology
+MH  - CD8-Positive T-Lymphocytes/immunology
+MH  - *Adjuvants, Immunologic
+MH  - Nivolumab
+MH  - CD4-Positive T-Lymphocytes/immunology
+COIS- Declaration of interests N.Z. reports research support from Bristol Myers Squibb, 
+      is a consultant for Genentech and Adventris, and receives other support from 
+      Adventris Pharmaceuticals.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:33
+CRDT- 2025/09/19 18:17
+PHST- 2025/08/11 00:00 [received]
+PHST- 2025/08/14 00:00 [revised]
+PHST- 2025/08/15 00:00 [accepted]
+PHST- 2025/09/20 00:33 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 18:17 [entrez]
+AID - S0092-8674(25)00980-8 [pii]
+AID - 10.1016/j.cell.2025.08.025 [doi]
+PST - ppublish
+SO  - Cell. 2025 Sep 18;188(19):5121-5123. doi: 10.1016/j.cell.2025.08.025.

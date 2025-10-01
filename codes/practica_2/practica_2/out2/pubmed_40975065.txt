@@ -1,0 +1,131 @@
+PMID- 40975065
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+DP  - 2025 Sep 19
+TI  - Phenotypic heterogeneity of type 2 diabetes and risks of all-cause and 
+      cause-specific mortality.
+PG  - 102367
+LID - S2666-3791(25)00440-9 [pii]
+LID - 10.1016/j.xcrm.2025.102367 [doi]
+AB  - Type 2 diabetes (T2D) is a heterogeneous condition, but its phenotypic variation 
+      and links with mortality are unclear. We apply the discriminative dimensionality 
+      reduction with trees (DDRTree) algorithm to seven clinical variables in 10,091 
+      adults with newly diagnosed T2D from a nationally representative Chinese cohort. 
+      Distinct mortality patterns are observed across phenotypes. Cardiovascular 
+      mortality is highest in the most hypertensive and obese individuals, while 
+      diabetic ketoacidosis/coma mortality is largely driven by the combination of 
+      hyperglycemia and dyslipidemia. Additionally, chronic obstructive pulmonary 
+      disease mortality is higher in those with elevated high-density lipoprotein (HDL) 
+      and total cholesterol levels. These patterns are similar in UK Biobank, though 
+      cardiovascular mortality is highest in those with dyslipidemia and obesity. 
+      Predictive models incorporating these variables show good performance and an 
+      online tool is provided for individual risk prediction. Overall, this study 
+      visualizes phenotypic variation in T2D and its impact on mortality, underscoring 
+      the need for personalized treatment strategies.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Qiu, Zixin
+AU  - Qiu Z
+AD  - Department of Nutrition and Food Hygiene, Hubei Key Laboratory of Food Nutrition 
+      and Safety, Ministry of Education Key Lab of Environment and Health, and State 
+      Key Laboratory of Environment Health (Incubating), School of Public Health, 
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+      China.
+FAU - Qian, Frank
+AU  - Qian F
+AD  - Section of Cardiovascular Medicine, Boston Medical Center and Boston University 
+      Chobanian & Avedisian School of Medicine, Boston, MA, USA.
+FAU - Liu, Jun
+AU  - Liu J
+AD  - Nuffield Department of Population Health, University of Oxford, Oxford, UK.
+FAU - Li, Rui
+AU  - Li R
+AD  - Department of Nutrition and Food Hygiene, Hubei Key Laboratory of Food Nutrition 
+      and Safety, Ministry of Education Key Lab of Environment and Health, and State 
+      Key Laboratory of Environment Health (Incubating), School of Public Health, 
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+      China.
+FAU - Yu, Hancheng
+AU  - Yu H
+AD  - Department of Nutrition and Food Hygiene, Hubei Key Laboratory of Food Nutrition 
+      and Safety, Ministry of Education Key Lab of Environment and Health, and State 
+      Key Laboratory of Environment Health (Incubating), School of Public Health, 
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+      China.
+FAU - Wang, Yue
+AU  - Wang Y
+AD  - Department of Cardiovascular Diseases, Union Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, China.
+FAU - Zhang, Xiao
+AU  - Zhang X
+AD  - National Center for Chronic and Noncommunicable Disease Control and Prevention, 
+      Chinese Center for Disease Control and Prevention, Beijing, China.
+FAU - Geng, Tingting
+AU  - Geng T
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Tongji 
+      Medical College, Huazhong University of Science and Technology, Wuhan, China.
+FAU - Yu, Xuefeng
+AU  - Yu X
+AD  - Division of Endocrinology, Department of Internal Medicine, Tongji Hospital, 
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+      China.
+FAU - Franco, Oscar H
+AU  - Franco OH
+AD  - Julius Center for Health Sciences and Primary Care, University Medical Center 
+      Utrecht, Utrecht University, Utrecht, the Netherlands.
+FAU - Pan, An
+AU  - Pan A
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Tongji 
+      Medical College, Huazhong University of Science and Technology, Wuhan, China; 
+      Center for Obesity and Diabetes Research, School of Public Health, Tongji Medical 
+      College, Huazhong University of Science and Technology, Wuhan, China.
+FAU - Zhou, Maigeng
+AU  - Zhou M
+AD  - National Center for Chronic and Noncommunicable Disease Control and Prevention, 
+      Chinese Center for Disease Control and Prevention, Beijing, China. Electronic 
+      address: maigengzhou@126.com.
+FAU - Huang, Kai
+AU  - Huang K
+AD  - Department of Cardiovascular Diseases, Union Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, China; Clinical Center for 
+      Human Genomic Research, Union Hospital, Huazhong University of Science and 
+      Technology, Wuhan, China; Department of Cardiometabolic Diseases, Remin Hospital, 
+      Wuhan University, Wuhan, China. Electronic address: huangkai1@hust.edu.cn.
+FAU - Liu, Gang
+AU  - Liu G
+AD  - Department of Nutrition and Food Hygiene, Hubei Key Laboratory of Food Nutrition 
+      and Safety, Ministry of Education Key Lab of Environment and Health, and State 
+      Key Laboratory of Environment Health (Incubating), School of Public Health, 
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+      China; Center for Obesity and Diabetes Research, School of Public Health, Tongji 
+      Medical College, Huazhong University of Science and Technology, Wuhan, China. 
+      Electronic address: liugang026@hust.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+OTO - NOTNLM
+OT  - mortality
+OT  - phenotype
+OT  - prospective study
+OT  - type 2 diabetes
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:41
+PHST- 2025/04/07 00:00 [received]
+PHST- 2025/07/15 00:00 [revised]
+PHST- 2025/08/26 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:41 [entrez]
+AID - S2666-3791(25)00440-9 [pii]
+AID - 10.1016/j.xcrm.2025.102367 [doi]
+PST - aheadofprint
+SO  - Cell Rep Med. 2025 Sep 19:102367. doi: 10.1016/j.xcrm.2025.102367.

@@ -1,0 +1,128 @@
+PMID- 40975063
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+DP  - 2025 Sep 19
+TI  - FLT3L-based drug conjugate effectively targets chemoresistant leukemia stem cells 
+      in acute myeloid leukemia.
+PG  - 102365
+LID - S2666-3791(25)00438-0 [pii]
+LID - 10.1016/j.xcrm.2025.102365 [doi]
+AB  - Acute myeloid leukemia (AML) is a heterogeneous malignancy with poor prognosis 
+      due to relapse and chemotherapy resistance. FLT3 mutations promote AML and 
+      predict adverse outcomes. As most AML cells express FLT3, it represents a 
+      promising therapeutic target. In this study, we develop FL-Fc-DM1, a 
+      FLT3-targeted conjugate linking FLT3 ligand-Fc to DM1. FL-Fc-DM1 demonstrates 
+      potent anti-leukemic activity in vitro, ex vivo, and in both cell line- and 
+      patient-derived xenograft models. Notably, it effectively targets 
+      cytarabine-resistant AML cells by promoting cell cycle entry and inducing 
+      apoptosis. FL-Fc-DM1 also significantly reduces functional leukemia stem cell 
+      frequency, as demonstrated by limiting dilution transplantation assays. The 
+      therapeutic efficacy can be further strengthened by BH3 mimetics. Importantly, 
+      toxicity assessments in a humanized mouse model show limited impact on normal 
+      human hematopoiesis at therapeutic doses. Our findings suggest that FL-Fc-DM1 is 
+      a promising candidate for AML treatment, even for cell cycle-arrested or 
+      slow-cycling chemo-resistant AML cells.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Zhang, Dengyang
+AU  - Zhang D
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Guo, Yao
+AU  - Guo Y
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Peng, Zhiyong
+AU  - Peng Z
+AD  - Department of Hematology, Guangzhou First People's Hospital, Guangzhou, 
+      Guangdong, China.
+FAU - Xiao, Yan
+AU  - Xiao Y
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Chang, Zhiguang
+AU  - Chang Z
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Yu, Liuting
+AU  - Yu L
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Zhao, Yuming
+AU  - Zhao Y
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Zhang, Qi
+AU  - Zhang Q
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Ma, Lingling
+AU  - Ma L
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China.
+FAU - Li, Shuping
+AU  - Li S
+AD  - Department of Pathology, University of Oklahoma Health Sciences Center, Oklahoma, 
+      OK, USA.
+FAU - Li, Chi-Kong
+AU  - Li CK
+AD  - Department of Paediatrics, Hong Kong Hub of Paediatric Excellence, The Chinese 
+      University of Hong Kong, Shatin, Hong Kong, China.
+FAU - Leung, Kam Tong
+AU  - Leung KT
+AD  - Department of Paediatrics, Hong Kong Hub of Paediatric Excellence, The Chinese 
+      University of Hong Kong, Shatin, Hong Kong, China.
+FAU - Zhao, Zhizhuang Joe
+AU  - Zhao ZJ
+AD  - Department of Pathology, University of Oklahoma Health Sciences Center, Oklahoma, 
+      OK, USA. Electronic address: joe-zhao@ouhsc.edu.
+FAU - Chen, Chun
+AU  - Chen C
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China. Electronic address: chenchun@mail.sysu.edu.cn.
+FAU - Chen, Yun
+AU  - Chen Y
+AD  - Pediatric Hematology Laboratory, Division of Hematology/Oncology, Department of 
+      Pediatrics, The Seventh Affiliated Hospital of Sun Yat-Sen University, Shenzhen, 
+      Guangdong, China. Electronic address: cheny653@mail.sysu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+OTO - NOTNLM
+OT  - AML
+OT  - DM1
+OT  - FLT3
+OT  - FLT3L
+OT  - cell cycle
+OT  - chemotherapy resistance
+OT  - ligand-drug conjugate
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:41
+PHST- 2024/11/21 00:00 [received]
+PHST- 2025/07/07 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:41 [entrez]
+AID - S2666-3791(25)00438-0 [pii]
+AID - 10.1016/j.xcrm.2025.102365 [doi]
+PST - aheadofprint
+SO  - Cell Rep Med. 2025 Sep 19:102365. doi: 10.1016/j.xcrm.2025.102365.

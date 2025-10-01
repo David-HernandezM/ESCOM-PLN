@@ -1,0 +1,111 @@
+PMID- 40983901
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1476-511X (Electronic)
+IS  - 1476-511X (Linking)
+VI  - 24
+IP  - 1
+DP  - 2025 Sep 22
+TI  - Association between atherogenic index of plasma and tinnitus: evidence from 
+      NHANES and the mediating role of hypertension.
+PG  - 283
+LID - 10.1186/s12944-025-02716-1 [doi]
+AB  - BACKGROUND: Tinnitus is a prevalent auditory disorder that significantly affects 
+      quality of life, with emerging evidence suggesting a connection between metabolic 
+      dysregulation and tinnitus pathogenesis. The Atherogenic Index of Plasma (AIP), a 
+      marker of atherogenic lipid metabolism, has been associated with cardiovascular 
+      disease risk but remains underexplored in the context of tinnitus. OBJECTIVE: 
+      This study aimed to investigate the relationship between AIP and tinnitus 
+      prevalence in U.S. adults, and to further examine whether hypertension mediates 
+      this association. METHODS: We analyzed data from 2,464 participants in the 
+      National Health and Nutrition Examination Survey (NHANES, 2005-2012). Tinnitus 
+      status was determined by self-report, and AIP was calculated as 
+      log10(triglycerides/HDL-C). Multivariable logistic regression models were used to 
+      assess the association between AIP and tinnitus. Stratified analyses and 
+      mediation analysis were conducted to explore effect modification and the 
+      mediating role of hypertension. Hypertension was defined as a self-reported 
+      physician diagnosis or use of antihypertensive medication. RESULTS: Elevated AIP 
+      was significantly associated with an increased risk of tinnitus in a 
+      dose-response manner (fully adjusted OR = 1.73, 95% CI: 1.19-2.52, P = 0.01). 
+      Stronger associations were observed in younger participants, females, 
+      non-Hispanic Whites, and smokers. Mediation analysis showed that hypertension 
+      partially mediated the association between AIP and Tinnitus, accounting for 
+      17.53% of the total effect. CONCLUSIONS: Higher AIP is associated with greater 
+      tinnitus prevalence, with hypertension serving as a partial mediator. These 
+      findings highlight the potential value of AIP as a metabolic biomarker for 
+      tinnitus risk stratification and emphasize the importance of managing metabolic 
+      dysregulation in tinnitus prevention.
+CI  - © 2025. The Author(s).
+FAU - Miao, Wenjie
+AU  - Miao W
+AD  - Department of Otolaryngology, The First Affiliated Hospital of Xinxiang Medical 
+      University, Xinxiang, Henan, China. mwjent2025@126.com.
+FAU - Wu, Chuntao
+AU  - Wu C
+AD  - Department of Neurology, The First Affiliated Hospital of Xinxiang Medical 
+      University, Xinxiang, Henan, China.
+FAU - Yuan, Dongjie
+AU  - Yuan D
+AD  - Department of Otolaryngology, The First Affiliated Hospital of Xinxiang Medical 
+      University, Xinxiang, Henan, China.
+FAU - Li, Yanfeng
+AU  - Li Y
+AD  - Department of Otolaryngology, The First Affiliated Hospital of Xinxiang Medical 
+      University, Xinxiang, Henan, China.
+FAU - Wu, Tong
+AU  - Wu T
+AD  - Department of Otolaryngology, The First Affiliated Hospital of Xinjiang Medical 
+      University, Urumchi, Xinjiang, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Lipids Health Dis
+JT  - Lipids in health and disease
+JID - 101147696
+RN  - 0 (Triglycerides)
+RN  - 0 (Cholesterol, HDL)
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Male
+MH  - *Tinnitus/blood/epidemiology/complications
+MH  - Middle Aged
+MH  - *Hypertension/blood/complications/epidemiology/physiopathology
+MH  - Nutrition Surveys
+MH  - Adult
+MH  - *Atherosclerosis/blood/complications
+MH  - Triglycerides/blood
+MH  - Aged
+MH  - Risk Factors
+MH  - United States/epidemiology
+MH  - Cholesterol, HDL/blood
+MH  - Biomarkers/blood
+MH  - Prevalence
+OTO - NOTNLM
+OT  - Atherogenic Index of Plasma
+OT  - Dyslipidemia
+OT  - Metabolic Dysregulation
+OT  - National health and nutrition examination survey
+OT  - Tinnitus
+COIS- Declarations. Ethics approval and consent to participate: The studies involving 
+      human participants were reviewed and approved by NCHS Ethics Review Board. The 
+      participants provided their written informed consent to participate in this 
+      study. Consent for publication: All participants in the NHANES study provided 
+      consent for publication. Competing interests: The authors declare no competing 
+      interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 23:33
+PHST- 2025/06/20 00:00 [received]
+PHST- 2025/08/21 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:33 [entrez]
+AID - 10.1186/s12944-025-02716-1 [pii]
+AID - 10.1186/s12944-025-02716-1 [doi]
+PST - epublish
+SO  - Lipids Health Dis. 2025 Sep 22;24(1):283. doi: 10.1186/s12944-025-02716-1.

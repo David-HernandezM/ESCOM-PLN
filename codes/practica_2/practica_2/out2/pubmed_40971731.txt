@@ -1,0 +1,133 @@
+PMID- 40971731
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+DP  - 2025 Sep 19
+TI  - Honeysuckle-Derived Nanovesicles Regulate Gut Microbiota for the Treatment of 
+      Inflammatory Bowel Disease.
+PG  - e05208
+LID - 10.1002/advs.202505208 [doi]
+AB  - Inflammatory bowel disease (IBD), which includes ulcerative colitis (UC) and 
+      Crohn's disease, significantly impairs patients' quality of life and is 
+      characterized by a compromised intestinal barrier, pathogenic bacterial 
+      colonization, and chronic inflammation. The gut microbiota has emerged as a 
+      therapeutic target for IBD owing to its role in modulating immune responses, 
+      metabolic pathways, and barrier function. In this study, the therapeutic 
+      potential of honeysuckle-derived nanovesicles (HNVs) in a dextran sodium 
+      sulfate-induced murine model of UC is investigated. Oral administration of HNVs 
+      alleviates colitis symptoms, reduces colonic inflammation and histopathological 
+      damage, restores Treg/Th17 balance, and repairs intestinal barrier integrity. 
+      These effects are associated with favorable alterations in the gut microbiota, 
+      including an increase in beneficial bacteria and a decrease in pathogenic 
+      species, along with elevated levels of short-chain fatty acids (SCFAs), which are 
+      essential for maintaining mucosal immunity and barrier function. Moreover, 
+      metabolomic analysis reveals that HNVs promoted bile acid (BA) absorption and 
+      regulated BA metabolism, contributing to the maintenance of intestinal immune 
+      homeostasis. Collectively, these findings demonstrate the protective effects of 
+      HNVs through modulation of SCFA levels and BA metabolism, supporting their 
+      potential as a promising therapeutic strategy for the treatment of IBD.
+CI  - © 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+FAU - Wang, Yuanyuan
+AU  - Wang Y
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Zhou, Yuanhao
+AU  - Zhou Y
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Wu, Qingyuan
+AU  - Wu Q
+AD  - Beijing Advanced Innovation Center for Soft Matter Science and Engineering, State 
+      Key Laboratory of Organic-Inorganic Composites, Beijing Laboratory of Biomedical 
+      Materials, Bionanomaterials & Translational Engineering Laboratory, Beijing Key 
+      Laboratory of Bioprocess, Beijing University of Chemical Technology, Beijing, 
+      100029, P. R. China.
+FAU - Li, Yishu
+AU  - Li Y
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Huang, Yilin
+AU  - Huang Y
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Yu, Kexin
+AU  - Yu K
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Li, Ping
+AU  - Li P
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Lv, Zhenye
+AU  - Lv Z
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Liu, Haotian
+AU  - Liu H
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+FAU - Zou, Hai
+AU  - Zou H
+AD  - Department of Critical Care, Shanghai Cancer Center, Fudan University, Shanghai, 
+      200032, China.
+FAU - Liu, Huiyu
+AU  - Liu H
+AUID- ORCID: 0000-0003-4465-8501
+AD  - Beijing Advanced Innovation Center for Soft Matter Science and Engineering, State 
+      Key Laboratory of Organic-Inorganic Composites, Beijing Laboratory of Biomedical 
+      Materials, Bionanomaterials & Translational Engineering Laboratory, Beijing Key 
+      Laboratory of Bioprocess, Beijing University of Chemical Technology, Beijing, 
+      100029, P. R. China.
+FAU - Mou, Xiaozhou
+AU  - Mou X
+AD  - Center for Rehabilitation Medicine, Rehabilitation and Sports Medicine Research 
+      Institute of Zhejiang Province, Department of Rehabilitation Medicine, Clinical 
+      Research Institute, Zhejiang Provincial People's Hospital, Affiliated People's 
+      Hospital, Hangzhou Medical College, Hangzhou, 310014, P. R. China.
+LA  - eng
+GR  - 2024M752890/China Postdoctoral Science Foundation/
+GR  - 22478091/National Natural Science Foundation of China/
+GR  - KLZ25H280004/Zhejiang Provincial Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20250919
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+SB  - IM
+OTO - NOTNLM
+OT  - gut microbiota
+OT  - honeysuckle‐derived nanovesicles
+OT  - inflammatory bowel disease
+OT  - metabolite
+OT  - secondary bile acid
+OT  - short chain fatty acids
+EDAT- 2025/09/19 18:31
+MHDA- 2025/09/19 18:31
+CRDT- 2025/09/19 15:54
+PHST- 2025/08/28 00:00 [revised]
+PHST- 2025/03/21 00:00 [received]
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:31 [pubmed]
+PHST- 2025/09/19 15:54 [entrez]
+AID - 10.1002/advs.202505208 [doi]
+PST - aheadofprint
+SO  - Adv Sci (Weinh). 2025 Sep 19:e05208. doi: 10.1002/advs.202505208.

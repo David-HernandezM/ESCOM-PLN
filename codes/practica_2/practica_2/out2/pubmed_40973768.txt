@@ -1,0 +1,208 @@
+PMID- 40973768
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1476-5551 (Electronic)
+IS  - 0887-6924 (Linking)
+DP  - 2025 Sep 19
+TI  - The endogenous T cell landscape is reshaped by CAR-T cell therapy and predicts 
+      treatment response in multiple myeloma.
+LID - 10.1038/s41375-025-02766-5 [doi]
+AB  - While most patients initially respond to CAR-T cell treatment, responses often 
+      are not durable and subsequent lines of immunotherapy show diminishing success. 
+      In this study, we investigated the co-evolutionary dynamics between CAR-T cells 
+      and the immune microenvironment in myeloma patients undergoing anti-BCMA CAR-T 
+      cell therapy at single-cell resolution. Our findings highlight the transformative 
+      impact of CAR-T cell treatment on the endogenous T cell landscape. We identify a 
+      novel transitional CD8 + T cell population that is predictive of poor treatment 
+      outcomes. The emergence of this population coincides with the depletion of the 
+      endogenous T cell repertoire and compositional evolution of functional T cell 
+      subsets. These changes in the endogenous T cell compartment induced by CAR-T cell 
+      therapy may contribute to inadequate immune capacity and tumor control. Our 
+      findings highlight the potential of targeting TIM3/GAL9 interactions to mitigate 
+      T cell exhaustion, apoptosis and lack of persistence, offering promising avenues 
+      for optimizing T cell-based cancer immunotherapies. We provide a framework for 
+      assessing and manipulating the 'mileage' of the immune system as predictive 
+      marker and therapeutic opportunity to prevent repeated immunotherapies from 
+      becoming increasingly less successful, even when targeting distinct antigens.
+CI  - © 2025. The Author(s).
+FAU - Frede, Julia
+AU  - Frede J
+AUID- ORCID: 0000-0002-4380-9673
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA. julia.frede@tum.de.
+AD  - Harvard Medical School, Boston, MA, USA. julia.frede@tum.de.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA. julia.frede@tum.de.
+AD  - Technical University of Munich, School of Medicine and Health, Institute of 
+      Clinical Chemistry and Pathobiochemistry, TUM University Hospital, Munich, 
+      Germany. julia.frede@tum.de.
+FAU - Poller, Julia C
+AU  - Poller JC
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - TUM School of Medicine and Health, Department for Internal Medicine II, Technical 
+      University of Munich, TUM University Hospital, Munich, Germany.
+AD  - Heidelberg Myeloma Center, Department of Medicine V, University Hospital and 
+      Medical Faculty, Heidelberg University, Heidelberg, Germany.
+FAU - Shi, Kayleen
+AU  - Shi K
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Heidelberg Myeloma Center, Department of Medicine V, University Hospital and 
+      Medical Faculty, Heidelberg University, Heidelberg, Germany.
+FAU - Stuart, Hannah
+AU  - Stuart H
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+FAU - Sotudeh, Noori
+AU  - Sotudeh N
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Havig, Claire
+AU  - Havig C
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+FAU - Lim, Klothilda
+AU  - Lim K
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+FAU - Wiggers, Caroline R M
+AU  - Wiggers CRM
+AUID- ORCID: 0000-0001-6633-1468
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+FAU - Cho, Eugene Y
+AU  - Cho EY
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+FAU - Vijaykumar, Tushara
+AU  - Vijaykumar T
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+FAU - Liu, Jianlin
+AU  - Liu J
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA.
+FAU - Waldschmidt, Johannes M
+AU  - Waldschmidt JM
+AUID- ORCID: 0000-0001-5340-1818
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Nair, Monica S
+AU  - Nair MS
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+FAU - Anand, Praveen
+AU  - Anand P
+AUID- ORCID: 0000-0002-2478-7042
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+FAU - Dimitrova, Valeriya
+AU  - Dimitrova V
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+FAU - Montanaro, Anna
+AU  - Montanaro A
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+AD  - University of Parma, Department of Medicine and Surgery, Parma, Italy.
+FAU - Yee, Andrew J
+AU  - Yee AJ
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Massachusetts General Hospital, Boston, MA, USA.
+FAU - Munshi, Nikhil C
+AU  - Munshi NC
+AUID- ORCID: 0000-0002-7344-9795
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Boston VA Healthcare System, Boston, MA, USA.
+FAU - Anderson, Kenneth C
+AU  - Anderson KC
+AUID- ORCID: 0000-0002-6418-0886
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA.
+AD  - Harvard Medical School, Boston, MA, USA.
+FAU - Martin, Nathan
+AU  - Martin N
+AD  - Bristol Myers Squibb, Seattle, WA, USA.
+FAU - Kaiser, Shari M
+AU  - Kaiser SM
+AD  - Bristol Myers Squibb, Seattle, WA, USA.
+FAU - Raab, Marc-Steffen
+AU  - Raab MS
+AUID- ORCID: 0000-0003-4181-6922
+AD  - Heidelberg Myeloma Center, Department of Medicine V, University Hospital and 
+      Medical Faculty, Heidelberg University, Heidelberg, Germany.
+FAU - Raje, Noopur S
+AU  - Raje NS
+AD  - Harvard Medical School, Boston, MA, USA.
+AD  - Massachusetts General Hospital, Boston, MA, USA.
+FAU - Knoechel, Birgit
+AU  - Knoechel B
+AUID- ORCID: 0000-0002-8040-0535
+AD  - Harvard Medical School, Boston, MA, USA. birgit.knoechel@hci.utah.edu.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA. 
+      birgit.knoechel@hci.utah.edu.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. 
+      birgit.knoechel@hci.utah.edu.
+AD  - Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA. 
+      birgit.knoechel@hci.utah.edu.
+FAU - Lohr, Jens G
+AU  - Lohr JG
+AUID- ORCID: 0000-0003-3486-2445
+AD  - Department of Medical Oncology, Jerome Lipper Multiple Myeloma Center, Dana 
+      Farber Cancer Institute, Boston, MA, USA. jens.lohr@hci.utah.edu.
+AD  - Harvard Medical School, Boston, MA, USA. jens.lohr@hci.utah.edu.
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA, USA. jens.lohr@hci.utah.edu.
+AD  - Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA. 
+      jens.lohr@hci.utah.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Leukemia
+JT  - Leukemia
+JID - 8704895
+SB  - IM
+COIS- Competing interests: This project was supported by grants from Bristol Myers 
+      Squibb. S.M.K. is an employee of Bristol Myers Squibb. N.M. was an employee of 
+      Bristol Myers Squibb at the time the study was performed. PA is currently 
+      employed by Union Chimique Belge (UCB). Ethics approval and consent to 
+      participate: All methods were performed in accordance with relevant guidelines 
+      and regulations. The KarMMa-2 (NCT03601078) and KarMMa-3 (NCT03651128) clinical 
+      trials that collected the patient samples used in this study were approved by the 
+      Institutional Review Board (IRB) or Independent Ethics Committee (IEC) at each 
+      participating center and were conducted in accordance with the International 
+      Council for Harmonisation (ICH) Good Clinical Practice (GCP) guidelines and the 
+      Declaration of Helsinki. Written informed consent was obtained from all 
+      participants at the time of original sample collection. The Dana-Farber Cancer 
+      Institute Institutional Review Board (DFCI IRB) reviewed the present study and 
+      determined that it does not involve human subjects research (protocols 19-511 and 
+      19-694). No identifiable images from human research participants are included in 
+      this publication.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 23:44
+PHST- 2024/11/26 00:00 [received]
+PHST- 2025/09/04 00:00 [accepted]
+PHST- 2025/07/14 00:00 [revised]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 23:44 [entrez]
+AID - 10.1038/s41375-025-02766-5 [pii]
+AID - 10.1038/s41375-025-02766-5 [doi]
+PST - aheadofprint
+SO  - Leukemia. 2025 Sep 19. doi: 10.1038/s41375-025-02766-5.

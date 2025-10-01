@@ -1,0 +1,131 @@
+PMID- 40975158
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1879-1891 (Electronic)
+IS  - 0002-9394 (Linking)
+DP  - 2025 Sep 18
+TI  - Association between Outdoor Daylight Exposure Duration and Primary Open-Angle 
+      Glaucoma.
+LID - S0002-9394(25)00492-1 [pii]
+LID - 10.1016/j.ajo.2025.09.022 [doi]
+AB  - PURPOSE: As a crucial environmental factor, outdoor daylight exposure has become 
+      an increasing focus in ophthalmic research. Although exploratory studies have 
+      indicated a potential connection between daylight exposure and primary open-angle 
+      glaucoma (POAG), a detailed association remains largely unknown. This study aimed 
+      to examine the association using data from the UK Biobank. DESIGN: Combined 
+      cross-sectional and cohort study. PARTICIPANTS: Following the application of 
+      exclusion criteria, 67,558 and 71,480 participants were included in the analysis 
+      of POAG incidence and prevalence, respectively. Additionally, 69,441 and 28,029 
+      participants were included in the analysis of intraocular pressure (IOP) and 
+      ganglion cell complex (GCC) thickness, which are traits related to POAG. METHODS: 
+      The initial assessment of outdoor daylight exposure duration was conducted using 
+      a standardized touchscreen questionnaire and measured in hours per day. Cox 
+      proportional hazard models were employed to estimate hazard ratios (HRs) and 95% 
+      confidence intervals (CIs) for each additional hour of exposure per day. 
+      Additionally, logistic regression models and linear regression models were 
+      utilized to investigate the association with POAG prevalence and POAG-related 
+      traits, with adjustments made for multiple covariates. MAIN OUTCOME MEASURES: 
+      POAG incidence, prevalence, and related traits. RESULTS: After adjusting for all 
+      covariates, annual average daylight exposure duration (HR, 1.10; 95% CI, 
+      1.02-1.18; P = 0.009) and summer daylight exposure duration (HR, 1.08; 95% CI, 
+      1.02-1.14; P = 0.009) were associated with an increased incidence of POAG, and 
+      stronger associations were observed for males. Participants with elevated outdoor 
+      exposure duration had higher IOP levels across annual exposure (β, 0.04, 95% CI, 
+      0.03-0.06, P<0.001), summer exposure (β, 0.04, 95% CI, 0.03-0.05, P<0.001), and 
+      winter exposure (β = 0.02, 95% CI, 0.01-0.04, P=0.007). No association was found 
+      between outdoor daylight exposure and the prevalence of POAG or GCC thickness. 
+      CONCLUSIONS: Prolonged daylight exposure, particularly during the summer, is 
+      associated with an elevated risk of POAG incidence, possibly due to increased 
+      IOP. These findings highlight the need for protective strategies against 
+      excessive daylight exposure.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Chen, Jianqi
+AU  - Chen J
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Huang, Shaofen
+AU  - Huang S
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Zhuo, Xiaohua
+AU  - Zhuo X
+AD  - Department of Pathophysiology, School of Medicine, Sun Yat-sen University, 
+      Shenzhen, China; Shenzhen Eye Hospital, Shenzhen, China.
+FAU - Chen, Xuhao
+AU  - Chen X
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Xie, Rui
+AU  - Xie R
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Luo, Ruiyu
+AU  - Luo R
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Shen, Xinyue
+AU  - Shen X
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Xiao, Yue
+AU  - Xiao Y
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Liang, Jingying
+AU  - Liang J
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Zhu, Yingting
+AU  - Zhu Y
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China.
+FAU - Mu, Jingfeng
+AU  - Mu J
+AD  - Shenzhen Eye Hospital, Shenzhen, China.
+FAU - Tan, Hongmei
+AU  - Tan H
+AD  - Department of Pathophysiology, School of Medicine, Sun Yat-sen University, 
+      Shenzhen, China. Electronic address: tanhm@mail.sysu.edu.cn.
+FAU - Zhuo, Yehong
+AU  - Zhuo Y
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Visual 
+      Science, Guangzhou, China. Electronic address: zhuoyh@mail.sysu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Am J Ophthalmol
+JT  - American journal of ophthalmology
+JID - 0370500
+SB  - IM
+OTO - NOTNLM
+OT  - UK Biobank
+OT  - daylight exposure
+OT  - ganglion cell complex
+OT  - intraocular pressure
+OT  - primary open-angle glaucoma
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 19:36
+PHST- 2025/01/13 00:00 [received]
+PHST- 2025/09/11 00:00 [revised]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 19:36 [entrez]
+AID - S0002-9394(25)00492-1 [pii]
+AID - 10.1016/j.ajo.2025.09.022 [doi]
+PST - aheadofprint
+SO  - Am J Ophthalmol. 2025 Sep 18:S0002-9394(25)00492-1. doi: 
+      10.1016/j.ajo.2025.09.022.

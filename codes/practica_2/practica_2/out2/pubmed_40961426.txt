@@ -1,0 +1,344 @@
+PMID- 40961426
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250917
+LR  - 20250917
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 393
+IP  - 11
+DP  - 2025 Sep 18
+TI  - Low-Dose Aspirin for PI3K-Altered Localized Colorectal Cancer.
+PG  - 1051-1064
+LID - 10.1056/NEJMoa2504650 [doi]
+AB  - BACKGROUND: Aspirin reduces the incidence of colorectal adenoma and colorectal 
+      cancer among high-risk persons. Observational studies suggest that aspirin may 
+      also improve disease-free survival after diagnosis, particularly among patients 
+      with tumors harboring somatic PIK3CA mutations. However, data from randomized 
+      trials are lacking. METHODS: We conducted a double-blind, randomized, 
+      placebo-controlled trial involving patients with stage I, II, or III rectal 
+      cancer or stage II or III colon cancer with somatic alterations in PI3K pathway 
+      genes. The patients were assigned in a 1:1 ratio to receive 160 mg of aspirin or 
+      matched placebo once daily for 3 years. Patients with prespecified PIK3CA hotspot 
+      mutations in exon 9 or 20 (group A alterations) and those with other moderate- or 
+      high-impact somatic variants in PIK3CA, PIK3R1, or PTEN (group B alterations) 
+      were eligible for randomization. The primary end point was colorectal cancer 
+      recurrence, assessed in a time-to-event analysis, in patients with group A 
+      alterations. Secondary end points included colorectal cancer recurrence in 
+      patients with group B alterations, disease-free survival, and safety. RESULTS: 
+      Alterations in PI3K pathway genes were detected in 1103 of 2980 patients (37.0%) 
+      with complete genomic data. Of 515 patients with group A alterations and 588 
+      patients with group B alterations, 314 and 312, respectively, were assigned to 
+      receive aspirin or placebo. The estimated 3-year cumulative incidence of 
+      recurrence was 7.7% with aspirin and 14.1% with placebo (hazard ratio, 0.49; 95% 
+      confidence interval [CI], 0.24 to 0.98; P = 0.04) among patients with group A 
+      alterations and 7.7% and 16.8%, respectively (hazard ratio, 0.42; 95% CI, 0.21 to 
+      0.83), among those with group B alterations. The estimated 3-year disease-free 
+      survival was 88.5% with aspirin and 81.4% with placebo (hazard ratio, 0.61; 95% 
+      CI, 0.34 to 1.08) among patients with group A alterations and 89.1% and 78.7%, 
+      respectively (hazard ratio, 0.51; 95% CI, 0.29 to 0.88), among those with group B 
+      alterations. Severe adverse events occurred in 16.8% of aspirin recipients and 
+      11.6% of placebo recipients. CONCLUSIONS: Aspirin led to a significantly lower 
+      incidence of colorectal cancer recurrence than placebo among patients with PIK3CA 
+      hotspot mutations in exon 9 or 20 and appeared to have a similar benefit among 
+      those with other somatic alterations in PI3K pathway genes. (Funded by the 
+      Swedish Research Council and others; ALASCCA ClinicalTrials.gov number, 
+      NCT02647099; EudraCT number, 2015-004240-19.).
+CI  - Copyright © 2025 Massachusetts Medical Society.
+FAU - Martling, Anna
+AU  - Martling A
+AUID- ORCID: 0000-0001-5998-4735
+AD  - Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm.
+AD  - Theme Cancer, Department of Pelvic Cancer, Karolinska University Hospital, 
+      Stockholm.
+FAU - Hed Myrberg, Ida
+AU  - Hed Myrberg I
+AD  - Clinical Epidemiology Division, Department of Medicine Solna, Karolinska 
+      Institutet, Stockholm.
+FAU - Nilbert, Mef
+AU  - Nilbert M
+AD  - Institute of Clinical Sciences, Lund University and Skane University Hospital 
+      Cancer Center, Lund, Sweden.
+FAU - Grönberg, Henrik
+AU  - Grönberg H
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm.
+FAU - Granath, Fredrik
+AU  - Granath F
+AD  - Clinical Epidemiology Division, Department of Medicine Solna, Karolinska 
+      Institutet, Stockholm.
+FAU - Eklund, Martin
+AU  - Eklund M
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm.
+FAU - Öresland, Tom
+AU  - Öresland T
+AD  - Department of Gastrointestinal Surgery, Akershus University Hospital, Oslo.
+AD  - Clinic for Surgical Sciences, University of Oslo, Oslo.
+FAU - Iversen, Lene H
+AU  - Iversen LH
+AD  - Department of Surgery, Aarhus University Hospital, Department of Clinical 
+      Medicine, Aarhus University, Aarhus, Denmark.
+FAU - Haapamäki, Carola
+AU  - Haapamäki C
+AD  - Department of Gastroenterologic Surgery, Helsinki University Hospital and 
+      University of Helsinki, Helsinki.
+FAU - Janson, Martin
+AU  - Janson M
+AD  - Department of Clinical Science and Education, Stockholm South General Hospital, 
+      Stockholm.
+FAU - Westberg, Karin
+AU  - Westberg K
+AD  - Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm.
+AD  - Danderyds Hospital, Department of Surgery, Stockholm.
+FAU - Segelman, Josefin
+AU  - Segelman J
+AD  - Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm.
+AD  - Ersta Hospital, Department of Surgery, Stockholm.
+FAU - Ersson, Urban
+AU  - Ersson U
+AD  - Skaraborg Hospital, Skövde, Sweden.
+FAU - Prytz, Mattias
+AU  - Prytz M
+AD  - Department of Surgery, Region Västra Götaland, NU Hospital group, Trollhättan, 
+      Sweden.
+AD  - Department of Surgery, Institute of Clinical Sciences, Sahlgrenska Academy, 
+      University of Gothenburg, Gothenburg, Sweden.
+FAU - Angenete, Eva
+AU  - Angenete E
+AUID- ORCID: 0000-0001-9966-4904
+AD  - Department of Surgery, Institute of Clinical Sciences, Sahlgrenska Academy, 
+      University of Gothenburg, Gothenburg, Sweden.
+AD  - Department of Surgery, Sahlgrenska University Hospital-Östra, Region Västra 
+      Götaland, Gothenburg, Sweden.
+FAU - Bergström, Rebecka
+AU  - Bergström R
+AUID- ORCID: 0000-0001-7609-0733
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm.
+FAU - Mayrhofer, Markus
+AU  - Mayrhofer M
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm.
+AD  - National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, 
+      Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.
+FAU - Glimelius, Bengt
+AU  - Glimelius B
+AD  - Department of Immunology, Genetics, and Pathology, Uppsala University, Uppsala, 
+      Sweden.
+FAU - Lindberg, Johan
+AU  - Lindberg J
+AD  - Department of Medical Epidemiology and Biostatistics, Science for Life 
+      Laboratory, Karolinska Institutet, Stockholm.
+CN  - ALASCCA Study Group
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02647099
+SI  - EudraCT/2015-004240-19
+GR  - 2014-38551-117568-77/Vetenskapsrådet/
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - R16CO5Y76E (Aspirin)
+RN  - EC 2.7.1.137 (Class I Phosphatidylinositol 3-Kinases)
+RN  - EC 2.7.1.- (Phosphatidylinositol 3-Kinases)
+RN  - EC 2.7.1.137 (PIK3CA protein, human)
+RN  - EC 3.1.3.67 (PTEN Phosphohydrolase)
+RN  - EC 3.1.3.67 (PTEN protein, human)
+RN  - 0 (Biomarkers, Tumor)
+RN  - EC 2.7.1.- (PIK3R1 protein, human)
+RN  - EC 2.7.1.137 (Class Ia Phosphatidylinositol 3-Kinase)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Aspirin/administration & dosage/adverse effects
+MH  - *Class I Phosphatidylinositol 3-Kinases/genetics
+MH  - Disease-Free Survival
+MH  - Double-Blind Method
+MH  - Mutation
+MH  - Neoplasm Recurrence, Local/epidemiology/genetics/prevention & control
+MH  - *Phosphatidylinositol 3-Kinases/genetics
+MH  - PTEN Phosphohydrolase/genetics
+MH  - *Colonic Neoplasms/drug therapy/genetics/mortality/pathology
+MH  - *Rectal Neoplasms/drug therapy/genetics/mortality/pathology
+MH  - Neoplasm Staging
+MH  - Dose-Response Relationship, Drug
+MH  - Incidence
+MH  - *Biomarkers, Tumor/genetics
+MH  - Class Ia Phosphatidylinositol 3-Kinase/genetics
+MH  - Aged, 80 and over
+FIR - Martling, Anna
+IR  - Martling A
+FIR - Glimelius, Bengt
+IR  - Glimelius B
+FIR - Grönberg, Henrik
+IR  - Grönberg H
+FIR - Nilbert, Mef
+IR  - Nilbert M
+FIR - Lindberg, Johan
+IR  - Lindberg J
+FIR - Bergström, Rebecka
+IR  - Bergström R
+FIR - Mayrhofer, Markus
+IR  - Mayrhofer M
+FIR - Chellappa, Venkatesh
+IR  - Chellappa V
+FIR - Myrberg, Ida Hed
+IR  - Myrberg IH
+FIR - Eloranta, Sandra
+IR  - Eloranta S
+FIR - Dominicus, Annika
+IR  - Dominicus A
+FIR - Granath, Fredrik
+IR  - Granath F
+FIR - Ahlberg, Madelene
+IR  - Ahlberg M
+FIR - Süllow Barin, Sabine
+IR  - Süllow Barin S
+FIR - Angenete, Eva
+IR  - Angenete E
+FIR - Malik, Zunash
+IR  - Malik Z
+FIR - Loftås, Per
+IR  - Loftås P
+FIR - Olsson, Malin
+IR  - Olsson M
+FIR - Westberg, Karin
+IR  - Westberg K
+FIR - Karlsson, Josefin
+IR  - Karlsson J
+FIR - Segelman, Josefin
+IR  - Segelman J
+FIR - Jaksic, Dubravka
+IR  - Jaksic D
+FIR - Lédel, Frida
+IR  - Lédel F
+FIR - Bernhoff, Richard
+IR  - Bernhoff R
+FIR - Janson, Martin
+IR  - Janson M
+FIR - Jansson Grönwald, Bastan
+IR  - Jansson Grönwald B
+FIR - Ersson, Urban
+IR  - Ersson U
+FIR - Wennström, Berith
+IR  - Wennström B
+FIR - Prytz, Mattias
+IR  - Prytz M
+FIR - Samuelsson, Malin
+IR  - Samuelsson M
+FIR - Sadeghi, Marcel
+IR  - Sadeghi M
+FIR - Leppänen, Anna
+IR  - Leppänen A
+FIR - Syk, Ingvar
+IR  - Syk I
+FIR - Nilsson, Caroline
+IR  - Nilsson C
+FIR - Flygare, Petra
+IR  - Flygare P
+FIR - Näslund, Christine
+IR  - Näslund C
+FIR - Haapamäki, Markku
+IR  - Haapamäki M
+FIR - Karhu, Agneta
+IR  - Karhu A
+FIR - Odensten, Christoffer
+IR  - Odensten C
+FIR - Näsvall, Pia
+IR  - Näsvall P
+FIR - Haapaniemi, Staffan
+IR  - Haapaniemi S
+FIR - Benckert, Anna
+IR  - Benckert A
+FIR - Laurell, Helena
+IR  - Laurell H
+FIR - Nordén, Morgan
+IR  - Nordén M
+FIR - Olofsson, Åsa
+IR  - Olofsson Å
+FIR - Birgisson, Helgi
+IR  - Birgisson H
+FIR - Lidén, Annika
+IR  - Lidén A
+FIR - Smed, Kenneth
+IR  - Smed K
+FIR - Engdahl, Malin
+IR  - Engdahl M
+FIR - Zar, Niklas
+IR  - Zar N
+FIR - Karlsson, Therése
+IR  - Karlsson T
+FIR - Söderholm, Mattias
+IR  - Söderholm M
+FIR - Olsson, Monica
+IR  - Olsson M
+FIR - Matthiessen, Peter
+IR  - Matthiessen P
+FIR - Hansson, Lena
+IR  - Hansson L
+FIR - Persson, Kamilla
+IR  - Persson K
+FIR - Nyqvist, Karin
+IR  - Nyqvist K
+FIR - Øresland, Tom
+IR  - Øresland T
+FIR - Aarstad Merok, Marianne
+IR  - Aarstad Merok M
+FIR - Helgeland, Merete
+IR  - Helgeland M
+FIR - Lossius, William
+IR  - Lossius W
+FIR - Wasmuth, Hans
+IR  - Wasmuth H
+FIR - Veen, Torhild
+IR  - Veen T
+FIR - Khajavi-Larsen, Ramesh
+IR  - Khajavi-Larsen R
+FIR - Dehli, Trond
+IR  - Dehli T
+FIR - Woll, Kristin
+IR  - Woll K
+FIR - Iversen, Lene H
+IR  - Iversen LH
+FIR - Haupt, Kirsten
+IR  - Haupt K
+FIR - Haas, Susanne
+IR  - Haas S
+FIR - Emmertsen, Katrine J
+IR  - Emmertsen KJ
+FIR - Boesen Bräuner, Annette
+IR  - Boesen Bräuner A
+FIR - Bundgård, Lea
+IR  - Bundgård L
+FIR - Haapamäki, Carola
+IR  - Haapamäki C
+FIR - Keränen, Ilona
+IR  - Keränen I
+FIR - Koskensalo, Selja
+IR  - Koskensalo S
+FIR - Lehtonen, Taru
+IR  - Lehtonen T
+FIR - Ekbom, Anders
+IR  - Ekbom A
+FIR - Hultcrantz, Rolf
+IR  - Hultcrantz R
+FIR - Permert, Johan
+IR  - Permert J
+EDAT- 2025/09/17 18:31
+MHDA- 2025/09/17 18:32
+CRDT- 2025/09/17 16:13
+PHST- 2025/09/17 18:32 [medline]
+PHST- 2025/09/17 18:31 [pubmed]
+PHST- 2025/09/17 16:13 [entrez]
+AID - 10.1056/NEJMoa2504650 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2025 Sep 18;393(11):1051-1064. doi: 10.1056/NEJMoa2504650.

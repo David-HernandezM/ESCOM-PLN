@@ -1,0 +1,106 @@
+PMID- 40973102
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1936-086X (Electronic)
+IS  - 1936-0851 (Linking)
+DP  - 2025 Sep 19
+TI  - Adaptive Phenol-Based Hydrogel Embedded with Metformin Nanoparticles Targets 
+      Oxidative Stress and Ferroptosis for Spinal Cord Injury Repair.
+LID - 10.1021/acsnano.5c09794 [doi]
+AB  - Spinal cord injury (SCI) causes irreversible neurological damage largely due to 
+      secondary processes such as ferroptosis and inflammation response, which hinder 
+      functional recovery and lack effective targeted treatments. Ferroptosis, an 
+      iron-dependent form of cell death driven by oxidative stress, and a 
+      pro-inflammatory microenvironment contribute significantly to neuronal loss after 
+      SCI. To address these challenges, we developed MCPAD, an injectable, self-healing 
+      nanocomposite hydrogel incorporating metformin-loaded PLGA nanoparticles 
+      (Met@PLGA NPs) and phenol-derived dynamic cross-linked network (CPAD). This 
+      multifunctional platform enables targeted suppression of ferroptosis and 
+      immunomodulation. In vitro, MCPAD significantly enhanced neuronal viability by 
+      regulating iron homeostasis and upregulating antioxidant defenses. In vivo, it 
+      reduced reactive oxygen species (ROS) accumulation, glial scarring, and 
+      inflammatory cytokine expression, while promoting axonal regeneration and 
+      synaptic remodeling. Treated animals exhibited greatly improved locomotor 
+      recovery and tissue preservation. Biochemical assessments confirmed systemic 
+      biosafety. These findings demonstrate the therapeutic potential of MCPAD as a 
+      biological responsive platform that reprograms the injury microenvironment to 
+      support functional neural repair after SCI.
+FAU - Feng, Chenqian
+AU  - Feng C
+AUID- ORCID: 0000-0001-9655-9965
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Wang, Qiuting
+AU  - Wang Q
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Xiao, Susu
+AU  - Xiao S
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Yang, Yuanli
+AU  - Yang Y
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Chen, Bo
+AU  - Chen B
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Li, Hui
+AU  - Li H
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Mu, Min
+AU  - Mu M
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Fan, Rangrang
+AU  - Fan R
+AD  - Department of Neurosurgery, West China Hospital, Sichuan University, Chengdu, 
+      610041, China.
+FAU - Chen, Haifeng
+AU  - Chen H
+AD  - Department of Neurosurgery, West China Hospital, Sichuan University, Chengdu, 
+      610041, China.
+FAU - Han, Bo
+AU  - Han B
+AD  - Key Laboratory of Xinjiang Endemic Phytomedicine Resources Ministry of Education, 
+      Shihezi University College of Pharmacy, Shihezi, 832002, China.
+FAU - Guo, Gang
+AU  - Guo G
+AUID- ORCID: 0000-0002-4440-6366
+AD  - Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, 
+      Department of Radiation Oncology, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - ACS Nano
+JT  - ACS nano
+JID - 101313589
+SB  - IM
+OTO - NOTNLM
+OT  - ferroptosis
+OT  - inflammation modulation
+OT  - metformin delivery
+OT  - neural regeneration
+OT  - phenol-based hydrogel
+OT  - spinal cord injury
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:54
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:54 [entrez]
+AID - 10.1021/acsnano.5c09794 [doi]
+PST - aheadofprint
+SO  - ACS Nano. 2025 Sep 19. doi: 10.1021/acsnano.5c09794.

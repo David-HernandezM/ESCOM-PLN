@@ -1,0 +1,116 @@
+PMID- 40969601
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20250919
+LR  - 20250921
+IS  - 2296-861X (Print)
+IS  - 2296-861X (Electronic)
+IS  - 2296-861X (Linking)
+VI  - 12
+DP  - 2025
+TI  - Synergistic effects of triglyceride-glucose index and body mass index combined 
+      with depression in predicting stroke events: a study based on two national 
+      cohorts.
+PG  - 1633655
+LID - 10.3389/fnut.2025.1633655 [doi]
+LID - 1633655
+AB  - BACKGROUND: Stroke risk associated with the triglyceride-glucose index-body mass 
+      index (TyG-BMI) has been increasingly recognized. Depression has also been firmly 
+      established as a factor related to the development of stroke. However, there 
+      remains a research gap in evaluating the combined effect of TyG-BMI and 
+      depression on the risk of stroke. This study aims to address the inconsistency 
+      between TyG-BMI, depression, and stroke incidence. METHODS: This study utilized 
+      longitudinal data from the China Health and Retirement Longitudinal Study 
+      (CHARLS), involving 6,417 participants, and the National Health and Nutrition 
+      Examination Survey (NHANES) database, which included data from 17,754 
+      participants. The analytical approach involved applying Multivariate logistic 
+      regression analysis to assess the risk of stroke with the combined evaluation of 
+      TyG-BMI and depression. Additionally, we conducted smoothing curve fitting, 
+      subgroup analysis, interaction tests, and predictive modeling for further 
+      evaluation. RESULTS: A total of 24,171 participants from two national cohorts 
+      were included in the analysis. Among them, 1,223 individuals had a history of 
+      stroke. Compared to individuals with lower TyG-BMI and no depression, those with 
+      higher TyG-BMI and depression exhibited a significantly higher risk of stroke. 
+      The restricted cubic spline (RCS) model indicated that the combination of 
+      elevated TyG-BMI and depression had a strong predictive value for stroke 
+      occurrence. CONCLUSION: The findings of this study suggest a positive interaction 
+      between TyG-BMI and depression in predicting stroke risk. The combined evaluation 
+      of TyG-BMI and depression should be emphasized to enhance primary prevention 
+      efforts for stroke.
+CI  - Copyright © 2025 Jian, Jie, Jiang, Duan, Bing, Liang, Xiao, Zhang and Ting.
+FAU - Jian, He
+AU  - Jian H
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Jie, Luo
+AU  - Jie L
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Jiang, YuanDing
+AU  - Jiang Y
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Duan, YongHong
+AU  - Duan Y
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Bing, Wang
+AU  - Bing W
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Liang, RiChu
+AU  - Liang R
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Xiao, ZhenKun
+AU  - Xiao Z
+AD  - Department of Neuromedicine Center, The Second Affiliated Hospital, University of 
+      South China, Hengyang, Hunan, China.
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+FAU - Zhang, JiaHui
+AU  - Zhang J
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+AD  - Health Management Center, The Second Affiliated Hospital, University of South 
+      China, Hengyang, Hunan, China.
+FAU - Ting, Tang
+AU  - Ting T
+AD  - Hengyang Medical School, University of South China, Hengyang, Hunan, China.
+AD  - Department of Teaching and Student Affairs, The Second Affiliated Hospital, 
+      University of South China, Hengyang, Hunan, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250903
+PL  - Switzerland
+TA  - Front Nutr
+JT  - Frontiers in nutrition
+JID - 101642264
+PMC - PMC12442736
+OTO - NOTNLM
+OT  - TyG-BMI
+OT  - body mass index
+OT  - depression
+OT  - stroke
+OT  - triglyceride-glucose index
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/09/19 06:33
+MHDA- 2025/09/19 06:34
+PMCR- 2025/09/03
+CRDT- 2025/09/19 05:03
+PHST- 2025/05/23 00:00 [received]
+PHST- 2025/08/11 00:00 [accepted]
+PHST- 2025/09/19 06:34 [medline]
+PHST- 2025/09/19 06:33 [pubmed]
+PHST- 2025/09/19 05:03 [entrez]
+PHST- 2025/09/03 00:00 [pmc-release]
+AID - 10.3389/fnut.2025.1633655 [doi]
+PST - epublish
+SO  - Front Nutr. 2025 Sep 3;12:1633655. doi: 10.3389/fnut.2025.1633655. eCollection 
+      2025.

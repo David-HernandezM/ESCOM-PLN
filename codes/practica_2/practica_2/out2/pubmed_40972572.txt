@@ -1,0 +1,145 @@
+PMID- 40972572
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1878-3686 (Electronic)
+IS  - 1535-6108 (Print)
+IS  - 1535-6108 (Linking)
+DP  - 2025 Sep 18
+TI  - Restraint of cancer cell plasticity by spatial homotypic clustering.
+LID - S1535-6108(25)00366-6 [pii]
+LID - 10.1016/j.ccell.2025.08.009 [doi]
+AB  - Tumor heterogeneity fueled by plasticity of cancer cells is a key to therapy 
+      failure. Here, we define the role of proximal communications of malignant cells 
+      in glioblastoma plasticity. We find that tumor cell state coherence is maximal in 
+      cells organized in homotypic clusters with defined relationships with 
+      non-malignant cells, whereas randomly dispersed cells downregulate the original 
+      state, acquire alternative phenotypes and exhibit changes in the 
+      microenvironment. We demonstrate the intrinsic propensity of glioblastoma cells 
+      to develop into clustered and dispersed spatial patterns in orthotopic mouse 
+      models and experimentally validate the cell state-specific mechanisms of 
+      cell-cell adhesion that prevent phenotype deviation with pharmacologic 
+      perturbations in patients-derived glioblastoma models. We establish the 
+      generality of "homotypic clustered cell identity" in circulating clustered and 
+      single breast cancer cells and show that the glioblastoma 
+      glycolytic-plurimetabolic dispersed cellular state uniquely confers shorter 
+      survival, thus assigning clinical significance to the spatial patterning of 
+      cancer cells in human tumors.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Migliozzi, Simona
+AU  - Migliozzi S
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA.
+FAU - Adabbo, Bruno
+AU  - Adabbo B
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Electrical Engineering and 
+      Information Technology (DIETI), University of Naples Federico II, Napoli, Italy.
+FAU - Garofano, Luciano
+AU  - Garofano L
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Public Health Sciences, Division of 
+      Biostatistics and Bioinformatics, University of Miami, Miller School of Medicine, 
+      Miami, FL 33136, USA.
+FAU - Wu, Fan
+AU  - Wu F
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA.
+FAU - Davila, Pedro
+AU  - Davila P
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Frost Institute for Data Science and Computing, 
+      University of Miami, Miami, FL 33146, USA.
+FAU - Komotar, Ricardo J
+AU  - Komotar RJ
+AD  - Department of Neurological Surgery, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA.
+FAU - Ivan, Michael E
+AU  - Ivan ME
+AD  - Department of Neurological Surgery, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA.
+FAU - Shah, Ashish H
+AU  - Shah AH
+AD  - Department of Neurological Surgery, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA.
+FAU - Currall, Benjamin B
+AU  - Currall BB
+AD  - Onco-Genomics Shared Resource, Sylvester Comprehensive Cancer Center, University 
+      of Miami, Miller School of Medicine, Miami, FL, USA.
+FAU - Williams, Sion
+AU  - Williams S
+AD  - Onco-Genomics Shared Resource, Sylvester Comprehensive Cancer Center, University 
+      of Miami, Miller School of Medicine, Miami, FL, USA; Department of Neurology, 
+      University of Miami, Miller School of Medicine, Miami, FL 33136, USA.
+FAU - Bilbao Cortes, Daniel
+AU  - Bilbao Cortes D
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Pathology and Laboratory Medicine, 
+      Miller School of Medicine, University of Miami, Miami, FL 33136, USA.
+FAU - Minucci Boone, Melinda
+AU  - Minucci Boone M
+AD  - Biospecimen Shared Resource, Sylvester Comprehensive Cancer Center, University of 
+      Miami, Miller School of Medicine, Miami, FL 33136, USA.
+FAU - de la Fuente, Macarena I
+AU  - de la Fuente MI
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Neurology, University of Miami, 
+      Miller School of Medicine, Miami, FL 33136, USA.
+FAU - Gultekin, Sakir H
+AU  - Gultekin SH
+AD  - Department of Pathology and Laboratory Medicine, Miller School of Medicine, 
+      University of Miami, Miami, FL 33136, USA.
+FAU - Ceccarelli, Michele
+AU  - Ceccarelli M
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Public Health Sciences, Division of 
+      Biostatistics and Bioinformatics, University of Miami, Miller School of Medicine, 
+      Miami, FL 33136, USA.
+FAU - Iavarone, Antonio
+AU  - Iavarone A
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Neurological Surgery, University of 
+      Miami, Miller School of Medicine, Miami, FL 33136, USA. Electronic address: 
+      axi435@med.miami.edu.
+FAU - Lasorella, Anna
+AU  - Lasorella A
+AD  - Sylvester Comprehensive Cancer Center, University of Miami, Miller School of 
+      Medicine, Miami, FL 33136, USA; Department of Biochemistry and Molecular Biology, 
+      University of Miami, Miller School of Medicine, Miami, FL 33136, USA. Electronic 
+      address: axl4252@med.miami.edu.
+LA  - eng
+GR  - R01 CA268592/CA/NCI NIH HHS/United States
+GR  - R01 CA280560/CA/NCI NIH HHS/United States
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Cancer Cell
+JT  - Cancer cell
+JID - 101130617
+SB  - IM
+PMC - PMC12453603
+MID - NIHMS2108081
+OTO - NOTNLM
+OT  - cancer cell plasticity
+OT  - glioblastoma
+OT  - intratumor heterogeneity
+OT  - single-cell spatial proteomics
+OT  - single-cell spatial transciptomic
+OT  - tumor ecosystem
+COIS- Declaration of interests A.I. has served as a paid consultant/advisor to 
+      AIMEDBIO.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+PMCR- 2026/09/18
+CRDT- 2025/09/19 18:41
+PHST- 2024/10/08 00:00 [received]
+PHST- 2025/07/07 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2026/09/18 00:00 [pmc-release]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 18:41 [entrez]
+AID - S1535-6108(25)00366-6 [pii]
+AID - 10.1016/j.ccell.2025.08.009 [doi]
+PST - aheadofprint
+SO  - Cancer Cell. 2025 Sep 18:S1535-6108(25)00366-6. doi: 10.1016/j.ccell.2025.08.009.

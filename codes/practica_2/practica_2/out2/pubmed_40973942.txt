@@ -1,0 +1,115 @@
+PMID- 40973942
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250923
+IS  - 1471-230X (Electronic)
+IS  - 1471-230X (Linking)
+VI  - 25
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Global burden of cirrhosis and other chronic liver diseases caused by specific 
+      etiologies from 1990 to 2021.
+PG  - 641
+LID - 10.1186/s12876-025-04264-5 [doi]
+LID - 641
+AB  - BACKGROUND: The global burden of cirrhosis and chronic liver diseases has 
+      remained substantial and continues to evolve in response to shifting etiological 
+      patterns. While viral hepatitis and alcohol use have historically dominated, 
+      non-alcoholic fatty liver disease (NAFLD) is emerging as a major contributor 
+      worldwide. A comprehensive understanding of these trends across regions and 
+      sociodemographic levels is essential for targeted public health interventions. 
+      METHODS: We analyzed data on cirrhosis and chronic liver diseases from 1990 to 
+      2021 using estimates from the Global Burden of Disease (GBD) study. 
+      Age-standardized incidence rate (ASIR), prevalence rate (ASPR), mortality rate 
+      (ASMR), and disability-adjusted life years rate (ASDR) were assessed globally and 
+      across sociodemographic index (SDI) levels. Estimated annual percentage change 
+      (EAPC) was calculated to quantify temporal trends. RESULTS: From 1990 to 2021, 
+      NAFLD-related cirrhosis was the only etiology with a significantly increasing 
+      ASIR (EAPC = 0.73; 95% CI: 0.69-0.77), while viral and alcohol-related cirrhosis 
+      showed stable or declining trends. In 2021, NAFLD became the leading global cause 
+      of incident cirrhosis. Although high-SDI countries demonstrated effective control 
+      of HBV and HCV-related mortality, NAFLD remains a major and growing challenge. 
+      The ASMR of NAFLD-related cirrhosis showed a fluctuating pattern overall but 
+      increased notably in several low- to middle-SDI countries, particularly in 
+      Eastern Europe (e.g., EAPC in ASMR = 3.8). HCV-related ASIRs were concentrated in 
+      Central Asia, especially in Mongolia, Turkmenistan, and Uzbekistan. HBV-related 
+      ASMR declined rapidly in countries with SDI below 0.65, then plateaued. 
+      CONCLUSIONS: Cirrhosis and chronic liver diseases remain a major global health 
+      challenge. NAFLD has emerged as the predominant cause of incident cirrhosis, 
+      affecting both high-income and lower-SDI countries, signaling a critical shift 
+      toward metabolic etiologies. These findings call for urgent, region-specific 
+      strategies that integrate prevention, early detection, and management of both 
+      infectious and metabolic liver disease risk factors.
+CI  - © 2025. The Author(s).
+FAU - Zhang, Ying
+AU  - Zhang Y
+AD  - Transplantation Center, Third Xiangya Hospital, Central South University, 
+      Changsha, Hunan, 410013, China.
+AD  - Key Laboratory of Translational Research in Transplantation Medicine of National 
+      Health Commission, Third Xiangya Hospital, Central South University, Changsha, 
+      Hunan, 410013, China.
+AD  - Clinical Research Center for Infectious Diseases in Hunan Province, Changsha, 
+      Hunan, 410013, China.
+FAU - Luo, Ming
+AU  - Luo M
+AD  - Transplantation Center of Wuhan University, Zhongnan Hospital of Wuhan 
+      University, Wuhan, 430000, China.
+FAU - Ming, Yingzi
+AU  - Ming Y
+AD  - Transplantation Center, Third Xiangya Hospital, Central South University, 
+      Changsha, Hunan, 410013, China. myz_china@aliyun.com.
+AD  - Key Laboratory of Translational Research in Transplantation Medicine of National 
+      Health Commission, Third Xiangya Hospital, Central South University, Changsha, 
+      Hunan, 410013, China. myz_china@aliyun.com.
+AD  - Clinical Research Center for Infectious Diseases in Hunan Province, Changsha, 
+      Hunan, 410013, China. myz_china@aliyun.com.
+LA  - eng
+GR  - 2021SK2032/Department of Science and Technology of Hunan Province/
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - BMC Gastroenterol
+JT  - BMC gastroenterology
+JID - 100968547
+SB  - IM
+MH  - Humans
+MH  - *Liver Cirrhosis/epidemiology/etiology/mortality
+MH  - *Global Burden of Disease/trends
+MH  - *Non-alcoholic Fatty Liver Disease/epidemiology/complications
+MH  - Incidence
+MH  - Prevalence
+MH  - Global Health/statistics & numerical data
+MH  - Male
+MH  - Disability-Adjusted Life Years
+MH  - Female
+MH  - Middle Aged
+MH  - Adult
+MH  - Chronic Disease
+PMC - PMC12447626
+OTO - NOTNLM
+OT  - Alcohol use
+OT  - Cirrhosis
+OT  - Disability-adjusted life-years (DALYs)
+OT  - GBD
+OT  - HBV
+OT  - HCV
+OT  - NAFLD
+COIS- Declarations. Ethics approval and consent to participate: Not applicable. Consent 
+      for publication: Not applicable. Competing interests: The authors declare no 
+      competing interests.
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:32
+PMCR- 2025/09/19
+CRDT- 2025/09/20 00:38
+PHST- 2025/06/15 00:00 [received]
+PHST- 2025/08/21 00:00 [accepted]
+PHST- 2025/09/20 06:32 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 00:38 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1186/s12876-025-04264-5 [pii]
+AID - 4264 [pii]
+AID - 10.1186/s12876-025-04264-5 [doi]
+PST - epublish
+SO  - BMC Gastroenterol. 2025 Sep 19;25(1):641. doi: 10.1186/s12876-025-04264-5.

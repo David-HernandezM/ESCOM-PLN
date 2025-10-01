@@ -1,0 +1,266 @@
+PMID- 40975098
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250923
+IS  - 1474-4465 (Electronic)
+IS  - 1474-4422 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2025 Oct
+TI  - Candesartan versus placebo for migraine prevention in patients with episodic 
+      migraine: a randomised, triple-blind, placebo-controlled, phase 2 trial.
+PG  - 817-827
+LID - S1474-4422(25)00269-8 [pii]
+LID - 10.1016/S1474-4422(25)00269-8 [doi]
+AB  - BACKGROUND: Effective and well-tolerated preventive treatments for migraine 
+      remain few, and the angiotensin receptor blocker candesartan has shown promise in 
+      small studies. This study aimed to evaluate the safety, tolerability, and 
+      efficacy of candesartan for the preventive treatment of episodic migraine. 
+      METHODS: This randomised, triple-blind, placebo-controlled, parallel-group, phase 
+      2 trial was done at nine hospitals across Norway and one large hospital in 
+      Estonia, selected for their neurological services and research capacity. Adults 
+      aged 18-64 years, experiencing between two and eight migraine attacks (with or 
+      without aura) per month were randomly assigned (1:1:1) to receive oral 
+      candesartan 16 mg, candesartan 8 mg, or placebo daily for 12 weeks. Acute 
+      migraine medication was permitted during the trial but the use of other 
+      preventive treatments were prohibited. Participants, site personnel, and the 
+      trial statistician were all masked to treatment allocation. The primary endpoint 
+      was the change in the mean number of migraine days per 4 weeks from baseline to 
+      weeks 9-12, analysed in the intention-to-treat population (participants with at 
+      least one post-baseline measurement during the masked treatment period). Safety 
+      analyses included all participants who received at least one dose of the trial 
+      drug. This trial is registered with ClinicalTrials.gov (NCT04574713; Oct 5, 2020) 
+      and is completed. FINDINGS: Between April 9, 2021, and April 12, 2024, 1340 
+      individuals were assessed for eligibility, 806 were deemed ineligible, and 534 
+      were enrolled in the trial. Of these, 77 were excluded, and 457 participants were 
+      randomly assigned to candesartan 16 mg (n=156), candesartan 8 mg (n=150), or 
+      placebo (n=151). The mean age of the trial population was 38·7 years (SD 10·0); 
+      391 (86%) participants were female and 66 (14%) were male. The mean number of 
+      migraine days was 5·7 (SD 2·5) at baseline. By weeks 9-12, the reduction in 
+      migraine days was 2·04 days (95% CI 1·65-2·41 p<0·0001) in the candesartan 16 mg 
+      group compared with 0·82 days (0·38-1·23; p=0·0003) in the placebo group 
+      ((difference between groups -1·22 [95% CI -1·75 to -0·70]; p<0·0001). The most 
+      common adverse event with candesartan 16 mg was dizziness, reported in 46 (30%) 
+      of 156 participants, compared with 19 (13%) of 151 in the placebo group. Serious 
+      adverse events were reported in four (3%) participants in the candesartan 16 mg 
+      group and one (1%) participant in the placebo group. Adverse events leading to 
+      discontinuation occurred in four (3%) participants in both the candesartan 16 mg 
+      and placebo groups. INTERPRETATION: Daily administration of candesartan 16 mg is 
+      effective and well tolerated as a preventive treatment for episodic migraine. 
+      These findings support its role as a clinically meaningful and evidence-based 
+      option for migraine prevention. However, further clinical trials and real-world 
+      data from registry studies are necessary to assess its long-term efficacy. 
+      FUNDING: Norwegian Research Council.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Øie, Lise Rystad
+AU  - Øie LR
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway. Electronic 
+      address: lise.r.oie@ntnu.no.
+FAU - Wergeland, Tore
+AU  - Wergeland T
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Salvesen, Øyvind
+AU  - Salvesen Ø
+AD  - Department of Public Health and Nursing, Norwegian University of Science and 
+      Technology, Trondheim, Norway.
+FAU - Gravdahl, G Ril Bruvik
+AU  - Gravdahl GRB
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Aschehoug, Irina
+AU  - Aschehoug I
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Department of Neuromedicine and Movement Science, Norwegian University of Science 
+      and Technology, Trondheim, Norway.
+FAU - Gulati, Sasha
+AU  - Gulati S
+AD  - Department of Neurosurgery, St Olavs University Hospital, Trondheim, Norway; 
+      Department of Neuromedicine and Movement Science, Norwegian University of Science 
+      and Technology, Trondheim, Norway.
+FAU - Bj Rk, Marte-Helene
+AU  - Bj Rk MH
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Clinical Medicine, University of 
+      Bergen, Bergen, Norway; Department of Neurology, Haukeland University hospital, 
+      Bergen, Norway.
+FAU - Lundqvist, Christofer
+AU  - Lundqvist C
+AD  - Health Services Research Unit, University of Oslo Campus, Akershus University 
+      Hospital, L⊘renskog, Norway; Department of Neurology, Akershus University 
+      Hospital, L⊘renskog, Norway.
+FAU - Alstadhaug, Karl Bj Rnar
+AU  - Alstadhaug KBR
+AD  - Department of Neurology, Nordland Hospital, Bod⊘, Norway.
+FAU - Winsvold, Bendik Slagsvold
+AU  - Winsvold BS
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway; Department of 
+      Neurology, Oslo University Hospital, Oslo, Norway; Department of Research and 
+      Innovation, Division of Clinical Neuroscience, Oslo University Hospital, Oslo, 
+      Norway.
+FAU - Aamodt, Anne Hege
+AU  - Aamodt AH
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway; Department of 
+      Neurology, Oslo University Hospital, Oslo, Norway.
+FAU - Larsen, Iben Cornelia
+AU  - Larsen IC
+AD  - Department of Neurology, University Hospital of North-Norway, Troms⊘, Norway.
+FAU - B E, Magne Geir
+AU  - B E MG
+AD  - Department of Neurology, Hospital of Southern Norway, Kristiansand, Norway.
+FAU - Braschinsky, Mark
+AU  - Braschinsky M
+AD  - Institute of Clinical Medicine, University of Tartu, Tartu, Estonia; Neurology 
+      Clinic, Tartu University Hospital, Tartu, Estonia.
+FAU - Müller, Bernd
+AU  - Müller B
+AD  - Department of Neurology, Molde Hospital, Molde, Norway.
+FAU - Vetvik, Kjersti Gr Tta
+AU  - Vetvik KGT
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neurology, Akershus University 
+      Hospital, L⊘renskog, Norway.
+FAU - Müller, Kai Ivar
+AU  - Müller KI
+AD  - Department of Neurology, Hospital of Southern Norway, Kristiansand, Norway.
+FAU - Aaseth, Kjersti
+AU  - Aaseth K
+AD  - Department of Neurology, Akershus University Hospital, L⊘renskog, Norway.
+FAU - Khanevski, Andrej Netland
+AU  - Khanevski AN
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neurology, Haukeland University 
+      hospital, Bergen, Norway.
+FAU - Øvrevik, Ane Bakke
+AU  - Øvrevik AB
+AD  - Department of Neurology, Haukeland University hospital, Bergen, Norway.
+FAU - Vegrim, Håkon Magne
+AU  - Vegrim HM
+AD  - Department of Clinical Medicine, University of Bergen, Bergen, Norway; Department 
+      of Neurology, Haukeland University hospital, Bergen, Norway.
+FAU - Lindroos, Jenny
+AU  - Lindroos J
+AD  - Department of Clinical Medicine, University of Bergen, Bergen, Norway; Department 
+      of Neurology, Haukeland University hospital, Bergen, Norway.
+FAU - Eid, Karine
+AU  - Eid K
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Clinical Medicine, University of 
+      Bergen, Bergen, Norway; Department of Neurology, Haukeland University hospital, 
+      Bergen, Norway.
+FAU - Engstrand, Helene
+AU  - Engstrand H
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neurology, Oslo University Hospital, 
+      Oslo, Norway; Faculty of Medicine, Institute of Clinical Medicine, University of 
+      Oslo, Oslo, Norway.
+FAU - Bezgal, Burcu
+AU  - Bezgal B
+AD  - Department of Neurology, Oslo University Hospital, Oslo, Norway.
+FAU - Larsen, Martha Brakestad
+AU  - Larsen MB
+AD  - Department of Neurology, Molde Hospital, Molde, Norway.
+FAU - Østhus, Joakim H Gsteggen
+AU  - Østhus JHG
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Stovner, Lars Jacob
+AU  - Stovner LJ
+AD  - Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Tronvik, Erling
+AU  - Tronvik E
+AD  - Department of Neurology, St Olavs University Hospital, Trondheim, Norway; 
+      Norwegian Centre for Headache Research, Norwegian University of Science and 
+      Technology, Trondheim, Norway; Department of Neuromedicine and Movement Science, 
+      Norwegian University of Science and Technology, Trondheim, Norway.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04574713
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Lancet Neurol
+JT  - The Lancet. Neurology
+JID - 101139309
+RN  - S8Q36MD2XX (candesartan)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Biphenyl Compounds)
+RN  - 0 (Tetrazoles)
+RN  - 0 (Angiotensin II Type 1 Receptor Blockers)
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - Adult
+MH  - *Migraine Disorders/prevention & control/drug therapy
+MH  - *Benzimidazoles/therapeutic use/adverse effects
+MH  - Middle Aged
+MH  - Biphenyl Compounds
+MH  - *Tetrazoles/therapeutic use/adverse effects
+MH  - Young Adult
+MH  - Adolescent
+MH  - *Angiotensin II Type 1 Receptor Blockers/therapeutic use/adverse effects
+MH  - Double-Blind Method
+MH  - Treatment Outcome
+COIS- Declaration of interests LRØ has received advisory board honoraria from Roche. TW 
+      has received honoraria from TEVA, Roche, Lilly, Lundbeck and has stocks in two 
+      MedTech companies (Vilje Bionics and Keimon Medical). GBG has received honoraria 
+      for lectures and presentation from Novartis, TEVA, and Lundbeck. M-HB has 
+      received advisory board honoraria from Jazz Pharmaceuticals, Angelini Pharma, 
+      Lundbeck, Pfizer, and Eisai, and honoraria for lectures from Eisai, AbbVie, 
+      Angelini Pharma, Novartis, Pfizer, BestPractice (funded by the pharmaceutical 
+      industry), and Organon. Her institution (University of Bergen) has received fees 
+      from contract research conducted for Novartis and is listed as a marketing 
+      authorisation holder for valproate. CL has received honoraria for study board 
+      membership from Lundbeck Pharma and for lectures and presentations from Abbvie 
+      Pharma, Lundbeck, Novartis, and Roche. KBA has received speaker-fees from Biogen, 
+      Lundbeck, TEVA, Novartis, and Roche, and has also received honoraria for 
+      participation in advisory boards sponsored by TEVA, Biogen, Lilly, and Novartis. 
+      AHA reports unrestricted research grants from Boehringer Ingelheim; honoraria for 
+      lectures from BMS and Pfizer, Teva, Abbvie, Lundbeck, and Novartis; and 
+      participation in advisory boards for Lundbeck and Abbvie. KGV has received 
+      personal honoraria for participation in advisory boards for Lundbeck, TEVA, 
+      Pfizer, Novartis, and personal honoraria for lectures for Lundbeck, TEVA, Pfizer, 
+      and Novartis. HMV has received speaker honoraria from Angelini Pharma Nordics. KE 
+      has received speaker honoraria from Novartis. LJS is the director of Lifting The 
+      Burden, an international charitable organisation running the Global Campaign 
+      Against Headache and a research committee member of the Norwegian Brain Council, 
+      a charitable organisation. ET has received personal fees for lectures and 
+      advisory boards from Novartis, Eli Lilly, Abbvie, TEVA, Roche, Lundbeck, Pfizer, 
+      Biogen, and Organon. ET is a consultant for and holds stocks and intellectual 
+      property in Man & Science and Nordic Brain Tech, and holds shares in Keimon 
+      Medical. ET has received non-personal research grants from European Commission, 
+      Norwegian Research Council, KlinBeForsk, and Nordic Innovation, and has conducted 
+      commissioned (non-personal) research for Lundbeck. All other authors declare no 
+      competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/04/03 00:00 [received]
+PHST- 2025/07/14 00:00 [revised]
+PHST- 2025/07/17 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S1474-4422(25)00269-8 [pii]
+AID - 10.1016/S1474-4422(25)00269-8 [doi]
+PST - ppublish
+SO  - Lancet Neurol. 2025 Oct;24(10):817-827. doi: 10.1016/S1474-4422(25)00269-8.

@@ -1,0 +1,99 @@
+PMID- 40968162
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1529-2916 (Electronic)
+IS  - 1529-2908 (Linking)
+DP  - 2025 Sep 18
+TI  - Epigenetic imprinting in innate lymphoid cell precursors directs the lineage 
+      segregation of innate lymphoid cells.
+LID - 10.1038/s41590-025-02261-0 [doi]
+AB  - Innate lymphoid cells (ILCs) are essential for mucosal homeostasis, but the 
+      epigenetic regulation of their lineage segregation remains elusive. Here we 
+      simultaneously profiled the single-cell DNA methylome, chromatin accessibility 
+      and transcriptome of ILC subsets and ILC precursors (ILCPs) and found that ILCPs 
+      could be divided into two subgroups (ILCP1 and ILCP2). ILCP2s had highly 
+      heterogeneous DNA methylation profiles and could be divided into three groups 
+      according to their DNA methylation characteristics, which matched those of ILC 
+      subsets. We identified the signature methylation regions (SMRs) of each ILC 
+      subset and traced the DNA methylation imprinting during ILCP differentiation. 
+      ILCP2s with hypomethylated SMRs characteristic of ILC subsets differentiated into 
+      those subsets. DNA methylation editing of SMRs suppressed ILC lineage 
+      segregation, while deletion of Dnmt1 in ILCPs abrogated the heterogeneous 
+      distribution of SMRs and resulted in ILC differentiation defects. These findings 
+      provide evidence that epigenetic imprinting determines lineage segregation during 
+      immune cell development.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Liu, Zhen
+AU  - Liu Z
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Shao, Fei
+AU  - Shao F
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Zhang, Qiang
+AU  - Zhang Q
+AD  - Institute of Cardiovascular Diseases, Xiamen Cardiovascular Hospital, School of 
+      Medicine, Xiamen University, Xiamen, China.
+AD  - State Key Laboratory of Animal Biotech Breeding, Frontiers Science Center for 
+      Molecular Design Breeding (MOE), College of Animal Science and Technology, China 
+      Agricultural University, Beijing, China.
+FAU - Zhao, Min
+AU  - Zhao M
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China.
+FAU - Gao, Shuai
+AU  - Gao S
+AD  - State Key Laboratory of Animal Biotech Breeding, Frontiers Science Center for 
+      Molecular Design Breeding (MOE), College of Animal Science and Technology, China 
+      Agricultural University, Beijing, China.
+FAU - Zhang, Xusheng
+AU  - Zhang X
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Yu, Dou
+AU  - Yu D
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Zhang, Jingyao
+AU  - Zhang J
+AD  - State Key Laboratory of Animal Biotech Breeding, Frontiers Science Center for 
+      Molecular Design Breeding (MOE), College of Animal Science and Technology, China 
+      Agricultural University, Beijing, China.
+FAU - Xia, Pengyan
+AU  - Xia P
+AUID- ORCID: 0000-0001-7959-5796
+AD  - Department of Immunology, School of Basic Medical Sciences, NHC Key Laboratory of 
+      Medical Immunology, Peking University, Beijing, China.
+FAU - Wang, Shuo
+AU  - Wang S
+AUID- ORCID: 0000-0002-5383-3386
+AD  - Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, 
+      Chinese Academy of Sciences, Beijing, China. wangshuo@im.ac.cn.
+AD  - University of Chinese Academy of Sciences, Beijing, China. wangshuo@im.ac.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Nat Immunol
+JT  - Nature immunology
+JID - 100941354
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+CRDT- 2025/09/18 23:32
+PHST- 2024/11/05 00:00 [received]
+PHST- 2025/07/29 00:00 [accepted]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 23:32 [entrez]
+AID - 10.1038/s41590-025-02261-0 [pii]
+AID - 10.1038/s41590-025-02261-0 [doi]
+PST - aheadofprint
+SO  - Nat Immunol. 2025 Sep 18. doi: 10.1038/s41590-025-02261-0.

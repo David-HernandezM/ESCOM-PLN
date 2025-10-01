@@ -1,0 +1,63 @@
+PMID- 27046315
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160815
+LR  - 20160406
+IS  - 1555-2101 (Electronic)
+IS  - 0160-6689 (Linking)
+VI  - 77
+IP  - 3
+DP  - 2016 Mar
+TI  - Use of acetaminophen (paracetamol) during pregnancy and the risk of 
+      attention-deficit/hyperactivity disorder in the offspring.
+PG  - e312-4
+LID - 10.4088/JCP.16f10721 [doi]
+AB  - Prenatal exposure to acetaminophen may result in compromised neurodevelopment 
+      through inflammatory and immunologic mechanisms, through predisposition to 
+      oxidative stress, and through endocrine, endogenous cannabinoid, and other 
+      mechanisms. Several small and large prospective studies have found an association 
+      between gestational acetaminophen exposure and attention-deficit/hyperactivity 
+      disorder (ADHD)-like behaviors, use of ADHD medication, and ADHD diagnoses in 
+      offspring during childhood; the only negative study was a small investigation 
+      that examined only one aspect of attention as an outcome. Creditably, most of the 
+      studies adjusted analyses for many (but not all) confounds associated with ADHD 
+      risk. Importantly, one pivotal study also adjusted for pain, infection, 
+      inflammation, and fever to reduce confounding by indication; this study found a 
+      dose-dependent risk. In the light of the finding of a single study that infection 
+      and fever during pregnancy by themselves do not raise the ADHD risk, it appears 
+      possible that the use of acetaminophen during pregnancy is itself responsible for 
+      the increased risk of ADHD. This suggests that acetaminophen may not be as safe 
+      in pregnancy as is widely believed. However, since fever during pregnancy may 
+      itself be associated with adverse gestational outcomes, given the present level 
+      of uncertainty about the ADHD risk with acetaminophen, it is suggested that, 
+      until more data are available, the use of acetaminophen in pregnancy should not 
+      be denied in situations in which the need for the drug is clear.
+CI  - © Copyright 2016 Physicians Postgraduate Press, Inc.
+FAU - Andrade, Chittaranjan
+AU  - Andrade C
+AD  - Department of Psychopharmacology, National Institute of Mental Health and 
+      Neurosciences, Bangalore, India candrade@psychiatrist.com.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/*adverse effects
+MH  - Attention Deficit Disorder with Hyperactivity/*chemically induced
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*chemically induced/*psychology
+EDAT- 2016/04/06 06:00
+MHDA- 2016/08/16 06:00
+CRDT- 2016/04/06 06:00
+PHST- 2016/04/06 06:00 [entrez]
+PHST- 2016/04/06 06:00 [pubmed]
+PHST- 2016/08/16 06:00 [medline]
+AID - 10.4088/JCP.16f10721 [doi]
+PST - ppublish
+SO  - J Clin Psychiatry. 2016 Mar;77(3):e312-4. doi: 10.4088/JCP.16f10721.

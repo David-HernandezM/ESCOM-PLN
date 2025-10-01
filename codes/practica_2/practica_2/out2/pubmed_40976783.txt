@@ -1,0 +1,148 @@
+PMID- 40976783
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 2059-3635 (Electronic)
+IS  - 2095-9907 (Print)
+IS  - 2059-3635 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2025 Sep 22
+TI  - Spatiotemporal multi-omics analysis uncovers NAD-dependent immunosuppressive 
+      niche triggering early gastric cancer.
+PG  - 313
+LID - 10.1038/s41392-025-02390-w [doi]
+LID - 313
+AB  - Understanding the cellular origins and early evolutionary dynamics that drive the 
+      initiation of carcinogenesis is critical to advancing early detection and 
+      prevention strategies. By characterizing key molecular, cellular and niche events 
+      at the precancerous tipping point of early gastric cancer (EGC), we aimed to 
+      develop more precise screening tools and design targeted interventions to prevent 
+      malignant transformation at this stage. We utilized our AI models to integrate 
+      spatial multimodal data from nine EGC endoscopic submucosal dissection (ESD) 
+      samples (covering sequential stages from normal to cancer), construct a 
+      spatial-temporal profile of disease progression, and identify a critical tipping 
+      point (PMC_P) characterized by an immune-suppressive microenvironment during 
+      early cancer development. At this stage, inflammatory pit mucous cells with 
+      stemness (PMC_2) interact with fibroblasts via NAMPT  ⟶  ITGA5/ITGB1 and with 
+      macrophages via AREG  ⟶  EGFR/ERBB2 signaling, fostering cancer initiation. We 
+      established gastric precancerous cell lines and organoids to demonstrate that 
+      NAMPT and AREG promote cellular proliferation in vitro. Furthermore, in the 
+      transgenic CEA-SV40 mouse model, targeting AREG and/or NAMPT disrupted key cell 
+      interactions, inhibited the JAK-STAT, MAPK, and NFκB pathways, and reduced PD-L1 
+      expression, which was also confirmed by western blot in vitro. These 
+      interventions delayed disease progression, reversed the immunosuppressive 
+      microenvironment, and prevented malignant transformation. Clinical validation was 
+      conducted using endoscopically resected EGC specimens. Our study provides a 
+      precise spatiotemporal depiction of EGC development and identifies novel 
+      diagnostic markers and therapeutic targets for early intervention.
+CI  - © 2025. The Author(s).
+FAU - Gao, Pingting
+AU  - Gao P
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Zuo, Chunman
+AU  - Zuo C
+AD  - Innovation Center for Evolutionary Synthetic Biology, School of Life Sciences, 
+      Sun Yat-sen University, Guangzhou, China. zuochm@mail.sysu.edu.cn.
+FAU - Yuan, Wei
+AU  - Yuan W
+AD  - Pathology Department, Zhongshan Hospital, Fudan University, Shanghai, China.
+FAU - Cai, Jiabin
+AU  - Cai J
+AD  - Department of Liver Surgery and Transplantation, Liver Cancer Institute, 
+      Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of 
+      Ministry of Education, Key Laboratory of Medical Epigenetics and Metabolism, 
+      Fudan University, Shanghai, China.
+FAU - Chai, Xiaoqiang
+AU  - Chai X
+AD  - Department of Liver Surgery and Transplantation, Liver Cancer Institute, 
+      Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of 
+      Ministry of Education, Key Laboratory of Medical Epigenetics and Metabolism, 
+      Fudan University, Shanghai, China.
+FAU - Gong, Ruijie
+AU  - Gong R
+AD  - Department of Liver Surgery and Transplantation, Liver Cancer Institute, 
+      Zhongshan Hospital, Key Laboratory of Carcinogenesis and Cancer Invasion of 
+      Ministry of Education, Key Laboratory of Medical Epigenetics and Metabolism, 
+      Fudan University, Shanghai, China.
+FAU - Yu, Jia
+AU  - Yu J
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Yao, Lu
+AU  - Yao L
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Su, Wei
+AU  - Su W
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Liu, Zuqiang
+AU  - Liu Z
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Lin, Shengli
+AU  - Lin S
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Wang, Yun
+AU  - Wang Y
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Cai, Mingyan
+AU  - Cai M
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Ma, Lili
+AU  - Ma L
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Li, Quanlin
+AU  - Li Q
+AUID- ORCID: 0000-0002-9108-8786
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China. li.quanlin@zs-hospital.sh.cn.
+FAU - Zhou, Pinghong
+AU  - Zhou P
+AD  - Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan 
+      University, Shanghai, China. poemzhou@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Signal Transduct Target Ther
+JT  - Signal transduction and targeted therapy
+JID - 101676423
+RN  - EC 2.4.2.12 (Nicotinamide Phosphoribosyltransferase)
+RN  - 0 (Cytokines)
+SB  - IM
+MH  - *Stomach Neoplasms/genetics/immunology/pathology
+MH  - Humans
+MH  - Animals
+MH  - Mice
+MH  - *Tumor Microenvironment/immunology/genetics
+MH  - Nicotinamide Phosphoribosyltransferase/genetics/immunology
+MH  - Cell Line, Tumor
+MH  - Cytokines/genetics/immunology
+MH  - Multiomics
+PMC - PMC12451012
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:31
+PMCR- 2025/09/22
+CRDT- 2025/09/21 23:12
+PHST- 2024/12/02 00:00 [received]
+PHST- 2025/08/10 00:00 [accepted]
+PHST- 2025/06/29 00:00 [revised]
+PHST- 2025/09/22 00:31 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 23:12 [entrez]
+PHST- 2025/09/22 00:00 [pmc-release]
+AID - 10.1038/s41392-025-02390-w [pii]
+AID - 2390 [pii]
+AID - 10.1038/s41392-025-02390-w [doi]
+PST - epublish
+SO  - Signal Transduct Target Ther. 2025 Sep 22;10(1):313. doi: 
+      10.1038/s41392-025-02390-w.

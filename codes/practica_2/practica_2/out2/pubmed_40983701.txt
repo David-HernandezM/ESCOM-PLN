@@ -1,0 +1,137 @@
+PMID- 40983701
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 2058-5276 (Electronic)
+IS  - 2058-5276 (Linking)
+DP  - 2025 Sep 22
+TI  - Oxaloacetate sensing promotes innate immune antiviral defence against influenza 
+      virus infection.
+LID - 10.1038/s41564-025-02107-3 [doi]
+AB  - Metabolic pathways determine cellular fate and function; however, the exact roles 
+      of metabolites in host defence against influenza virus remain undefined. Here we 
+      employed pharmacological inhibition and metabolomics analysis to show that the 
+      metabolic pathways of oxaloacetate (OAA) are integrated with antiviral responses 
+      to influenza virus. Cytosolic malate dehydrogenase 1 senses intracellular OAA to 
+      undergo dimerization and functions as a scaffold to recruit the transcription 
+      factor ETS2 for phosphorylation by the kinase TAOK1 at serine 313. The 
+      phosphorylated ETS2 translocates into the nucleus and supports optimal expression 
+      of TBK1, an indispensable activator of type I interferon responses. OAA 
+      supplementation provides a broad-spectrum antiviral ability, and OAA deficiency 
+      caused by Acly genetic ablation decreases antiviral immunity and renders mice 
+      more susceptible to lethal H1N1 virus infection. Our results uncover a signalling 
+      pathway through cellular OAA sensing that links metabolism and innate immunity to 
+      coordinate defence against viral challenge.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+FAU - Jin, Shouheng
+AU  - Jin S
+AUID- ORCID: 0000-0002-2728-2859
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - He, Xing
+AU  - He X
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Wang, Zheyu
+AU  - Wang Z
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Zhou, Tao
+AU  - Zhou T
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Wang, Jun
+AU  - Wang J
+AD  - Precision Research Center for Refractory Diseases, Institute for Clinical 
+      Research, Shanghai General Hospital, Shanghai Jiao Tong University School of 
+      Medicine, Shanghai, China.
+AD  - Department of Pediatric Surgery, Guangdong Provincial Key Laboratory of Research 
+      in Structural Birth Defect Disease, Guangdong Provincial Clinical Research Center 
+      for Child Health, Guangzhou Institute of Pediatrics, Guangzhou Women and 
+      Children's Medical Center, Guangzhou Medical University, Guangzhou, China.
+FAU - Pan, Guihong
+AU  - Pan G
+AD  - Department of Pediatric Surgery, Guangdong Provincial Key Laboratory of Research 
+      in Structural Birth Defect Disease, Guangdong Provincial Clinical Research Center 
+      for Child Health, Guangzhou Institute of Pediatrics, Guangzhou Women and 
+      Children's Medical Center, Guangzhou Medical University, Guangzhou, China.
+FAU - Zhang, Yin
+AU  - Zhang Y
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Ma, Ling
+AU  - Ma L
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Yang, Shuai
+AU  - Yang S
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Wang, Liqiu
+AU  - Wang L
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+FAU - Wu, Yaoxing
+AU  - Wu Y
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+AD  - Department of Critical Care Medicine, the First Affiliated Hospital, Sun Yat-sen 
+      University, Guangzhou, China.
+FAU - Zou, Yilin
+AU  - Zou Y
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China.
+AD  - Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou, 
+      China.
+FAU - Qi, Nan
+AU  - Qi N
+AD  - Guangzhou National Laboratory, Guangzhou International Bio-Island, Guangzhou, 
+      China.
+FAU - Cui, Jun
+AU  - Cui J
+AUID- ORCID: 0000-0002-8000-3708
+AD  - Guangdong Province Key Laboratory of Pharmaceutical Functional Genes, MOE Key 
+      Laboratory of Gene Function and Regulation, State Key Laboratory of Biocontrol, 
+      School of Life Sciences, Sun Yat-sen University, Guangzhou, China. 
+      cuij5@mail.sysu.edu.cn.
+LA  - eng
+GR  - 32270922/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 32170876/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 324B2020/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 32070918/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 32300724/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Microbiol
+JT  - Nature microbiology
+JID - 101674869
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:20
+PHST- 2024/07/01 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/22 23:20 [entrez]
+AID - 10.1038/s41564-025-02107-3 [pii]
+AID - 10.1038/s41564-025-02107-3 [doi]
+PST - aheadofprint
+SO  - Nat Microbiol. 2025 Sep 22. doi: 10.1038/s41564-025-02107-3.

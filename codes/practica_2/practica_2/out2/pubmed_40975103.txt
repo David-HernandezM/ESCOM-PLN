@@ -1,0 +1,182 @@
+PMID- 40975103
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250921
+IS  - 1474-4465 (Electronic)
+IS  - 1474-4422 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2025 Oct
+TI  - The use of optical coherence tomography and visual evoked potentials in the 2024 
+      McDonald diagnostic criteria for multiple sclerosis.
+PG  - 880-892
+LID - S1474-4422(25)00275-3 [pii]
+LID - 10.1016/S1474-4422(25)00275-3 [doi]
+AB  - The 2024 revisions of the McDonald diagnostic criteria include the optic nerve as 
+      a fifth anatomical location within the CNS for the diagnosis of multiple 
+      sclerosis, in addition to periventricular, juxtacortical or cortical, 
+      infratentorial, and spinal cord lesions. Demonstration of dissemination in space 
+      can now be achieved with the detection of typical lesions in at least two of 
+      these five locations. We review the evidence supporting the use of optical 
+      coherence tomography (OCT) and visual evoked potentials (VEPs) to show optic 
+      nerve involvement in the diagnosis of multiple sclerosis. We also report 
+      consensus recommendations for their use. Provided there is no better explanation 
+      for optic nerve involvement and that rigorous quality control is applied, 
+      OCT-derived peripapillary retinal nerve fibre layer inter-eye differences of 6 μm 
+      or greater or composite macular ganglion cell and inner plexiform layer inter-eye 
+      differences of 4 μm or greater support optic nerve injury. Delayed VEP latency, 
+      which depends on technical and methodological factors, and is centre and device 
+      dependent, supports demyelinating optic nerve injury when done with appropriate 
+      technical knowledge and interpretation.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Saidha, Shiv
+AU  - Saidha S
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA. Electronic address: ssaidha2@jhmi.edu.
+FAU - Green, Ari J
+AU  - Green AJ
+AD  - Weill Institute for Neurosciences, Department of Neurology, University of 
+      California, San Francisco, San Francisco, CA, USA; Department of Ophthalmology, 
+      University of California, San Francisco, San Francisco, CA, USA.
+FAU - Leocani, Letizia
+AU  - Leocani L
+AD  - Faculty of Medicine, University Vita-Salute San Raffaele, Milan, Italy.
+FAU - Vidal-Jordana, Angela
+AU  - Vidal-Jordana A
+AD  - Multiple Sclerosis Centre of Catalonia, Autonomous University of Barcelona, 
+      Barcelona, Spain.
+FAU - Kenney, Rachel C
+AU  - Kenney RC
+AD  - Department of Neurology, New York University School of Medicine, New York, NY, 
+      USA; Department of Population Health, New York University School of Medicine, New 
+      York, NY, USA.
+FAU - Bsteh, Gabriel
+AU  - Bsteh G
+AD  - Department of Neurology, Medical University of Vienna, Vienna, Austria; 
+      Comprehensive Center for Clinical Neurosciences & Mental Health, Medical 
+      University of Vienna, Vienna, Austria.
+FAU - Outteryck, Olivier
+AU  - Outteryck O
+AD  - Department of Neuroradiology, U1172 Lil'NCOg, University of Lille, Lille, France.
+FAU - Thompson, Alan
+AU  - Thompson A
+AD  - Queen Square Multiple Sclerosis Centre, Department of Neuroinflammation, Queen 
+      Square Institute of Neurology, Faculty of Brain Sciences, University College 
+      London, London, UK.
+FAU - Montalban, Xavier
+AU  - Montalban X
+AD  - Multiple Sclerosis Centre of Catalonia, Autonomous University of Barcelona, 
+      Barcelona, Spain; Department of Neurology, Vall d'Hebron University Hospital, 
+      Autonomous University of Barcelona, Barcelona, Spain; Universitat de Vic-Central 
+      de Catalunya, Vic, Spain.
+FAU - Coetzee, Timothy
+AU  - Coetzee T
+AD  - National Multiple Sclerosis Society, New York, NY, USA.
+FAU - Petzold, Axel
+AU  - Petzold A
+AD  - Queen Square Institute of Neurology, Faculty of Brain Sciences, University 
+      College London, London, UK; Department of Neuro-ophthalmology, National Hospital 
+      for Neurology and Neurosurgery and Moorfields Eye Hospital, London, UK.
+FAU - Paul, Friedemann
+AU  - Paul F
+AD  - NeuroCure Clinical Research Center, Charité, Department of Neurology, 
+      Experimental and Clinical Research Center, Max Delbrueck Center for Molecular 
+      Medicine, and Charité Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Balcer, Laura J
+AU  - Balcer LJ
+AD  - Department of Neurology, New York University School of Medicine, New York, NY, 
+      USA; Department of Population Health, New York University School of Medicine, New 
+      York, NY, USA; Department of Ophthalmology, New York University School of 
+      Medicine, New York, NY, USA.
+FAU - Calabresi, Peter A
+AU  - Calabresi PA
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA; Wilmer Eye Institute, Department of Ophthalmology, Johns Hopkins 
+      University School of Medicine, Baltimore, MD, USA; Solomon Snyder Department of 
+      Neuroscience, Johns Hopkins University School of Medicine, Baltimore, MD, USA. 
+      Electronic address: pcalabr1@jhmi.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Lancet Neurol
+JT  - The Lancet. Neurology
+JID - 101139309
+SB  - IM
+EIN - Lancet Neurol. 2025 Sep 18:S1474-4422(25)00349-7. doi: 
+      10.1016/S1474-4422(25)00349-7. PMID: 40976251
+MH  - Humans
+MH  - *Tomography, Optical Coherence/methods/standards
+MH  - *Evoked Potentials, Visual/physiology
+MH  - *Multiple Sclerosis/diagnosis/physiopathology/diagnostic imaging
+MH  - *Optic Nerve/diagnostic imaging/physiopathology/pathology
+COIS- Declaration of interests SS has received consulting fees from Medical Logix for 
+      the development of continuing medical education programmes in neurology; has 
+      served on scientific advisory boards for Amgen, Biogen, Clene, ImmPACT Bio, 
+      Genentech, Horizon Therapeutics, Novartis Pharmaceuticals, and ReWind 
+      Therapeutics; has been a consultant for Biogen, Genentech, InnoCare Pharma, 
+      Kiniksa, LAPIX Therapeutics, Novartis Pharmaceuticals, June Brain, and Setpoint 
+      Medical; is the Principal Investigator of investigator-initiated studies funded 
+      by Biogen, Genentech, and Novartis Pharmaceutics; has received support from the 
+      Race to Erase Multiple Sclerosis Foundation; was the site investigator of trials 
+      sponsored by Clene and MedDay; and is the Site Investigator of trials sponsored 
+      by LAPIX Therapeutics and Novartis Pharmaceuticals. AJG reports grants from the 
+      National Institute of Neurological Disorder and Stroke, National Multiple 
+      Sclerosis Society (NMSS), All May See, Westridge Foundation, Hoffman-La Roche; 
+      has received financial compensation for activities as an expert witness; is an 
+      Associate Editor at JAMA Neurology; and has participated in consulting for 
+      Pipeline Pharmaceuticals and Cognito Therapeutics. AV-J has received research 
+      support from Fondo de Investigación en Salud (PI17/02162 and PI22/01589) from 
+      Instituto de Salud Carlos III, Spain, and in the past 24 months has engaged in 
+      consulting for Roche, Novartis, Lundbeck, Merck, and Sanofi. XM's institution has 
+      received compensation for lecture honoraria from Peervoice, Excemed, Medscape; 
+      travel expenses from the European Committee for Treatment and Research in 
+      Multiple Sclerosis (ECTRIMS) and NMSS; fees for advisory board participation from 
+      Bial PD, Bristol-Myers Squibb/Celgene, Genzyme, Hoffmann-La Roche, Janssen 
+      Pharmaceuticals, Merck, Neuraxpharm, Novartis, and Samsung-Biosys; compensation 
+      for clinical trial steering committee membership from Bristol-Myers 
+      Squibb/Celgene, Hoffmann-La Roche, Novartis, and Sanofi-Genzyme. GB has received 
+      travel funding from Biogen, Merck, Novartis, Roche, Sanofi, and Teva; has 
+      received speaker honoraria from Biogen, Celgene/Bristol-Myers Squibb, Heidelberg 
+      Engineering, Janssen, Lilly, Medwhizz, Merck, Neuraxpharm, Novartis, Roche, 
+      Sanofi, Teva, and Zeiss; has received honoraria for consulting from Biogen, 
+      Celgene/Bristol-Myers Squibb, Janssen, Merck, Novartis, Roche, Sanofi-Genzyme, 
+      Adivo Associates, and Teva; has received unrestricted research grants from 
+      Celgene/Bristol-Myers Squibb, and Novartis; and serves on the executive committee 
+      of ECTRIMS. OO has received consulting fees from Roche, Novartis, Merck, and 
+      Amgen; has received travel and congress funding from Novartis, Biogen, Roche, 
+      Alexion, and Amgen; and has received grant support from Roche. AP has received 
+      grant support for remyelination trials in multiple sclerosis, paid to the 
+      Multiple Sclerosis Centre, Department of Neurology, Amsterdam University Medical 
+      Centre (RESTORE trial); has received royalties or licenses from Up-to-Date 
+      (Wolters Kluver); and is a board member of the National Dutch Neuro-ophthalmology 
+      Association. FP has received honoraria from Alexion, Bayer, Biogen, Chugai, 
+      MerckSerono, Novartis, Genyzme, Amgen/Horizon/MedImmune, Roche, Sandoz, Shire, 
+      and Teva; research support from Alexion, Roche, Merck, Novartis, and 
+      Medimmune/Horizon/Amgen; serves on scientific advisory boards for Alexion, 
+      MedImmune, and Novartis; has received funding from Deutsche 
+      Forschungsgemeinschaft (DFG Exc 257), Bundesministerium für Bildung und Forschung 
+      (Competence Network Multiple Sclerosis), Guthy Jackson Charitable Foundation, EU 
+      Framework Program 7, and the National Multiple Sclerosis Society of the USA; and 
+      serves on the Editorial Board of Neurology, Neuroimmunology & Neuroinflammation. 
+      LJB receives funding by contract from the National Institutes of Health Common 
+      Fund and National Eye Institute Oculomics Initiative. PAC has received consulting 
+      fees and remuneration for serving on a scientific advisory board from Eli Lilly, 
+      Biogen, and Novartis; and is Principal Investigator on grants to Johns Hopkins 
+      University from Genentech and Setpoint Medical. All other authors declare no 
+      competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/02/25 00:00 [received]
+PHST- 2025/07/23 00:00 [revised]
+PHST- 2025/07/24 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S1474-4422(25)00275-3 [pii]
+AID - 10.1016/S1474-4422(25)00275-3 [doi]
+PST - ppublish
+SO  - Lancet Neurol. 2025 Oct;24(10):880-892. doi: 10.1016/S1474-4422(25)00275-3.

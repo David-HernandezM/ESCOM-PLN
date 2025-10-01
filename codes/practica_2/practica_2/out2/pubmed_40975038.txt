@@ -1,0 +1,111 @@
+PMID- 40975038
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 15
+TI  - Combined transcriptomics and network pharmacology to elucidate the mechanisms of 
+      rutin in treating ischemic stroke rat.
+PG  - 157267
+LID - S0944-7113(25)00906-7 [pii]
+LID - 10.1016/j.phymed.2025.157267 [doi]
+AB  - BACKGROUND: Ischemic stroke (IS) is a neurovascular disorder characterized by a 
+      prolonged treatment period and a high risk of recurrence. Rutin, a principal 
+      flavonol, has demonstrated potential neuroprotective effects in previous studies; 
+      however, its regulatory mechanism on neuroinflammation following IS remains 
+      incompletely elucidated. PURPOSE: This investigation aims to elucidate the 
+      neuroprotective mechanisms of rutin in IS, with a particular focus on the 
+      NF-κB/NLRP3 signaling pathway.: METHODS: A dual investigative strategy was 
+      employed, combining a transient middle cerebral artery occlusion (tMCAO)-induced 
+      cerebral ischemia model in vivo with oxygen-glucose deprivation and reoxygenation 
+      (OGD/R)-treated astrocyte cultures in vitro. These experimental approaches were 
+      integrated with network pharmacology prediction and transcriptomic profiling to 
+      systematically elucidate the neuroprotective efficacy and multitarget regulatory 
+      mechanisms of rutin. RESULTS: Our research demonstrated that rutin significantly 
+      reduces infarct volume and improves neurological outcomes in the tMCAO rat model, 
+      with the most pronounced effects occurring at a dosage of 80 mg/kg. Network 
+      pharmacological research analysis identified 91 putative rutin targets associated 
+      with IS, including key inflammatory mediators such as interleukin - 6 (IL-6), 
+      tumor necrosis factor-α (TNF-α) and IL-1β. After rutin intervention, the levels 
+      of nuclear factor kappa-B (NF-κB) p65, NOD-like receptor thermal protein domain 
+      associated protein 3 (NLRP3), Caspase-1, IL-1β, IL-18, IL-6, and TNF-α were 
+      significantly reduced, while Gastermin D (GMDSD) was increased in tMCAO rats. In 
+      the OGD/R model, rutin inhibited the activation of NLRP3, and further enhanced 
+      the inhibition of NF-κB in combination with JSH-23. CONCLUSIONS: This study 
+      delineates a multimodal neuroprotective efficacy of rutin in IS, mechanistically 
+      characterized by its coordinated suppression of the neuroinflammation-pyroptosis 
+      axis via NF-κB/NLRP3 pathway modulation. The dose-dependent attenuation of 
+      astrocytic homeostasis disruption further substantiates its therapeutic 
+      precision, consistent with the multitarget engagement patterns predicted by 
+      network pharmacology. Notably, functional validation with an NLRP3 agonist 
+      highlights pathway specificity, positioning rutin as a promising phytochemical 
+      scaffold for the development of neurovascular unit-stabilizing agents. These 
+      findings not only broaden the pharmacodynamic paradigm of flavonoid-based stroke 
+      therapeutics but also advocate for systematic exploration of rutin's 
+      translational potential in modulating neuroinflammatory cascades across 
+      neurological disorders.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Zheng, Ting
+AU  - Zheng T
+AD  - Department of Neurology, The Second Hospital & Clinical Medical School, Lanzhou 
+      University, Lanzhou 730000, PR China; Academician Workstation of The Second 
+      Hospital & Clinical Medical School, Lanzhou University, Lanzhou, 730000, PR 
+      China.
+FAU - Jiang, Taotao
+AU  - Jiang T
+AD  - Department of Neurology, The Second Hospital & Clinical Medical School, Lanzhou 
+      University, Lanzhou 730000, PR China; Academician Workstation of The Second 
+      Hospital & Clinical Medical School, Lanzhou University, Lanzhou, 730000, PR 
+      China.
+FAU - Chen, Yufeng
+AU  - Chen Y
+AD  - School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, 
+      PR China.
+FAU - Xie, Jianqing
+AU  - Xie J
+AD  - Department of Anesthesiology, The Second Hospital & Clinical Medical School, 
+      Lanzhou University, Lanzhou 730000, PR China.
+FAU - Yu, Weiyuan
+AU  - Yu W
+AD  - Department of Neurology, The Second Hospital & Clinical Medical School, Lanzhou 
+      University, Lanzhou 730000, PR China; Academician Workstation of The Second 
+      Hospital & Clinical Medical School, Lanzhou University, Lanzhou, 730000, PR 
+      China.
+FAU - Wang, Manxia
+AU  - Wang M
+AD  - Department of Neurology, The Second Hospital & Clinical Medical School, Lanzhou 
+      University, Lanzhou 730000, PR China; Academician Workstation of The Second 
+      Hospital & Clinical Medical School, Lanzhou University, Lanzhou, 730000, PR 
+      China. Electronic address: wmx322@aliyun.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250915
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Ischemic stroke
+OT  - NF-κB
+OT  - NLRP3
+OT  - Neuroinflammation
+OT  - Rutin
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:13
+PHST- 2025/04/09 00:00 [received]
+PHST- 2025/08/28 00:00 [revised]
+PHST- 2025/09/15 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00906-7 [pii]
+AID - 10.1016/j.phymed.2025.157267 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 15;148:157267. doi: 10.1016/j.phymed.2025.157267.

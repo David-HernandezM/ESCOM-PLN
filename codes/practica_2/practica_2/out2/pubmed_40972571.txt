@@ -1,0 +1,104 @@
+PMID- 40972571
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1878-3686 (Electronic)
+IS  - 1535-6108 (Linking)
+DP  - 2025 Sep 18
+TI  - Extrachromosomal DNA associates with nuclear condensates and reorganizes 
+      chromatin structures to enhance oncogenic transcription.
+LID - S1535-6108(25)00365-4 [pii]
+LID - 10.1016/j.ccell.2025.08.008 [doi]
+AB  - Extrachromosomal, circular DNA (ecDNA) is a prevalent oncogenic alteration in 
+      cancer genomes, often associated with aggressive tumor behavior and poor patient 
+      outcome. While previous studies proposed a chromatin-based mobile enhancer model 
+      for ecDNA-driven oncogenesis, its precise mechanism and impact remains unclear 
+      across diverse cancer types. Our study, utilizing advanced multi-omics profiling, 
+      epigenetic editing, and imaging approaches in three cancer models, reveals that 
+      ecDNA hubs are an integrated part of nuclear condensates and exhibit cancer-type 
+      specific chromatin connectivity. Epigenetic silencing of the ecDNA-specific 
+      regulatory modules or chemically disrupting nuclear condensates breaks down ecDNA 
+      hubs, displaces MED1 co-activator binding, inhibits oncogenic transcription, and 
+      promotes cell death. These findings substantiate the trans-activator function of 
+      ecDNA and underscore a structural mechanism driving oncogenesis. This refined 
+      understanding expands our views of oncogene regulation and opens potential 
+      avenues for alternative therapeutic strategies in cancer treatment.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Taghbalout, Aziz
+AU  - Taghbalout A
+AD  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA.
+FAU - Tung, Chia-Hao
+AU  - Tung CH
+AD  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA.
+FAU - Clow, Patricia A
+AU  - Clow PA
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+FAU - Tjong, Harianto
+AU  - Tjong H
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+FAU - Wang, Ping
+AU  - Wang P
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+FAU - Wong, Chee Hong
+AU  - Wong CH
+AD  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA.
+FAU - Mao, Diane D
+AU  - Mao DD
+AD  - The Brain Tumor Center, Alvin J. Siteman Comprehensive Cancer Center, Washington 
+      University School of Medicine, St. Louis, MO 63110, USA; Department of 
+      Neurological Surgery, Washington University School of Medicine, St. Louis, MO 
+      63110, USA.
+FAU - Maurya, Rahul
+AU  - Maurya R
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+FAU - Huang, Meng-Fan
+AU  - Huang MF
+AD  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA.
+FAU - Ngan, Chew Yee
+AU  - Ngan CY
+AD  - The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+FAU - Kim, Albert H
+AU  - Kim AH
+AD  - The Brain Tumor Center, Alvin J. Siteman Comprehensive Cancer Center, Washington 
+      University School of Medicine, St. Louis, MO 63110, USA; Department of 
+      Neurological Surgery, Washington University School of Medicine, St. Louis, MO 
+      63110, USA.
+FAU - Wei, Chia-Lin
+AU  - Wei CL
+AD  - Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA. 
+      Electronic address: weicl@uw.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Cancer Cell
+JT  - Cancer cell
+JID - 101130617
+SB  - IM
+UOF - bioRxiv. 2024 Sep 20:2024.09.17.613488. doi: 10.1101/2024.09.17.613488. PMID: 
+      39345460
+OTO - NOTNLM
+OT  - 3D chromatin organization
+OT  - Casilio-interference
+OT  - ChIADrop analysis
+OT  - ecDNA
+OT  - extrachromosomal DNA
+OT  - mobile enhancers
+OT  - nuclear condensates
+OT  - super-enhancers
+COIS- Declaration of interests A.H.K. is a consultant for Monteris Medical and has 
+      received research grants from Stryker for a clinical outcomes study about a dural 
+      substitute, which have no direct relation to this study.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 18:41
+PHST- 2024/09/16 00:00 [received]
+PHST- 2025/07/21 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 18:41 [entrez]
+AID - S1535-6108(25)00365-4 [pii]
+AID - 10.1016/j.ccell.2025.08.008 [doi]
+PST - aheadofprint
+SO  - Cancer Cell. 2025 Sep 18:S1535-6108(25)00365-4. doi: 10.1016/j.ccell.2025.08.008.

@@ -1,0 +1,107 @@
+PMID- 40972715
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2090-1224 (Electronic)
+IS  - 2090-1224 (Linking)
+DP  - 2025 Sep 17
+TI  - Gut microbiota: A key player for soluble dietary fiber in regulating inflammatory 
+      disease.
+LID - S2090-1232(25)00732-5 [pii]
+LID - 10.1016/j.jare.2025.09.030 [doi]
+AB  - Soluble dietary fiber (SDF) plays a significant role in modulating immune 
+      responses, particularly in the context of inflammatory diseases. SDF enhances 
+      intestinal barrier integrity and regulates immune function by modulating the 
+      composition of the gut microbiota and increasing the production of beneficial 
+      microbial metabolites, such as short-chain fatty acids (SCFAs), 
+      3-hydroxyoctadecaenoic acid, pentadecanoic acid, and bile acids. Current evidence 
+      suggests that SDF holds therapeutic potential in managing chronic inflammatory 
+      diseases such as inflammatory bowel disease (IBD), irritable bowel syndrome 
+      (IBS), and metabolic dysfunction-associated steatohepatitis (MASH). Despite these 
+      promising findings, the mechanisms by which SDF exerts its effects, particularly 
+      in distal organs and neuroinflammatory conditions, remain poorly understood. This 
+      review explores the mechanistic pathways by which SDF modulates immune regulation 
+      and highlights the current challenges and future strategies for optimizing its 
+      clinical application in treating inflammatory diseases.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Qu, Linkai
+AU  - Qu L
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Zhang, Ruining
+AU  - Zhang R
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Chu, Ziyu
+AU  - Chu Z
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Cai, Jiapei
+AU  - Cai J
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - He, Yuhang
+AU  - He Y
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Zhang, Xinyu
+AU  - Zhang X
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Liu, Jiuxi
+AU  - Liu J
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China.
+FAU - Xie, Xufeng
+AU  - Xie X
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China. 
+      Electronic address: xiexf@jlu.edu.cn.
+FAU - Cao, Yongguo
+AU  - Cao Y
+AD  - State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious 
+      Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, 
+      College of Veterinary Medicine, Jilin University, Changchun 130062, China; 
+      Department of Clinical Veterinary Medicine, College of Veterinary Medicine, Jilin 
+      University, Changchun 130062, People's Republic of China. Electronic address: 
+      ygcao82@jlu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250917
+PL  - Egypt
+TA  - J Adv Res
+JT  - Journal of advanced research
+JID - 101546952
+SB  - IM
+OTO - NOTNLM
+OT  - Gut liver axis
+OT  - Gut microbiota
+OT  - Gut-brain axis
+OT  - Inflammatory bowel disease
+OT  - Short-chain fatty acids
+OT  - Soluble dietary fiber
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:12
+PHST- 2025/02/04 00:00 [received]
+PHST- 2025/08/23 00:00 [revised]
+PHST- 2025/09/16 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:12 [entrez]
+AID - S2090-1232(25)00732-5 [pii]
+AID - 10.1016/j.jare.2025.09.030 [doi]
+PST - aheadofprint
+SO  - J Adv Res. 2025 Sep 17:S2090-1232(25)00732-5. doi: 10.1016/j.jare.2025.09.030.

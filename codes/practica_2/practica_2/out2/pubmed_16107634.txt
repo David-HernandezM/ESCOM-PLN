@@ -1,0 +1,57 @@
+PMID- 16107634
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050823
+LR  - 20161124
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 353
+IP  - 7
+DP  - 2005 Aug 18
+TI  - Cerebral folate deficiency syndrome.
+PG  - 740; author reply 740
+FAU - Willemsen, Michèl A A P
+AU  - Willemsen MA
+FAU - Wevers, Ron A
+AU  - Wevers RA
+FAU - Verbeek, Marcel M
+AU  - Verbeek MM
+LA  - eng
+PT  - Comment
+PT  - Letter
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Autoantibodies)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Tetrahydrofolates)
+RN  - 935E97BOY8 (Folic Acid)
+RN  - TYK22LML8F (5-methyltetrahydrofolate)
+SB  - IM
+EIN - N Engl J Med. 2006 Jan 12;354(2):215. Vebeek, Marcel M [corrected to Verbeek, 
+      Marcel M]
+CON - N Engl J Med. 2005 May 12;352(19):1985-91. doi: 10.1056/NEJMoa043160. PMID: 
+      15888699
+MH  - Autoantibodies/*blood
+MH  - *Autoimmune Diseases
+MH  - Biological Transport
+MH  - Diagnosis, Differential
+MH  - Folic Acid/*metabolism/therapeutic use
+MH  - *Folic Acid Deficiency/diagnosis/drug therapy/immunology
+MH  - Humans
+MH  - Infant
+MH  - Receptors, Cell Surface/immunology
+MH  - Rett Syndrome/diagnosis
+MH  - Tetrahydrofolates/*cerebrospinal fluid
+EDAT- 2005/08/19 09:00
+MHDA- 2005/08/24 09:00
+CRDT- 2005/08/19 09:00
+PHST- 2005/08/19 09:00 [pubmed]
+PHST- 2005/08/24 09:00 [medline]
+PHST- 2005/08/19 09:00 [entrez]
+AID - 353/7/740 [pii]
+AID - 10.1056/NEJM200508183530721 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2005 Aug 18;353(7):740; author reply 740. doi: 
+      10.1056/NEJM200508183530721.

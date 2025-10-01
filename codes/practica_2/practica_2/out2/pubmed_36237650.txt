@@ -1,0 +1,99 @@
+PMID- 36237650
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250215
+IS  - 2159-2896 (Print)
+IS  - 2159-2896 (Electronic)
+IS  - 2159-2896 (Linking)
+VI  - 17
+IP  - 6
+DP  - 2022
+TI  - Relationships between Running Biomechanics, Hip Muscle Strength, and 
+      Running-Related Injury in Female Collegiate Cross-country Runners.
+PG  - 1053-1062
+AB  - BACKGROUND: Female collegiate cross-country (XC) runners have a high incidence of 
+      running-related injury (RRI). Limited reports are available that have examined 
+      potential intrinsic factors that may increase RRI risk in this population. 
+      PURPOSE: To examine the relationships between RRI, hip muscle strength, and lower 
+      extremity running kinematics in female collegiate XC runners. STUDY DESIGN: 
+      Prospective observational cohort. METHODS: Participants included twenty female 
+      NCAA collegiate XC runners from Southern California universities who competed in 
+      the 2019-20 intercollegiate season. A pre-season questionnaire was used to gather 
+      demographic information. Hip muscle strength was measured with isokinetic 
+      dynamometry in a sidelying open-chain position and normalized by the runner's 
+      body weight (kg). Running kinematic variables were examined using Qualisys 3D 
+      Motion Capture and Visual 3D analysis. RRI occurrence was obtained via 
+      post-season questionnaires. Independent t-tests were used to determine mean 
+      differences between injured and non-injured runners for hip abductor muscle 
+      strength and selected running kinematics. Pearson correlation coefficients were 
+      calculated to examine relationships between hip muscle performance and kinematic 
+      variables. RESULTS: End-of-the-season RRI information was gathered from 19 of the 
+      20 participants. During the 2019-20 XC season, 57.9% (11 of 19) of the runners 
+      sustained an RRI. There were no significant differences between mean hip abductor 
+      normalized muscle strength (p=0.76) or mean normalized hip muscle strength 
+      asymmetry (p=0.18) of injured and non-injured runners during the XC season. 
+      Similarly, no significant differences were found between mean values of selected 
+      kinematic variables of runners who did and who did not report an RRI. Moderate 
+      relationships were found between hip abductor strength variables and right knee 
+      adduction at footstrike (r=0.50), maximum right knee adduction during stance 
+      (r=0.55), left supination at footstrike (r=0.48), right peak pronation during 
+      stance (r=-0.47), left supination at footstrike (r=0.51), and right peak 
+      pronation during stance (r=-0.54) (all p≤0.05). CONCLUSIONS: Hip abduction muscle 
+      strength, hip abduction strength asymmetry, and selected running kinematic 
+      variables were not associated with elevated risk of RRI in female collegiate XC 
+      runners.
+FAU - Venable, Elena N
+AU  - Venable EN
+AUID- ORCID: 0000-0001-8463-0533
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+FAU - Seynaeve, Lily A
+AU  - Seynaeve LA
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+FAU - Beale, Scott T
+AU  - Beale ST
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+FAU - Gamez, Albert Jr
+AU  - Gamez A Jr
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+FAU - Domingo, Antoinette
+AU  - Domingo A
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+FAU - Rosenthal, Michael D
+AU  - Rosenthal MD
+AD  - Doctor of Physical Therapy Program, University of Nebraska Medical Center.
+FAU - Rauh, Mitchell J
+AU  - Rauh MJ
+AD  - Doctor of Physical Therapy Program, San Diego State University.
+LA  - eng
+PT  - Journal Article
+DEP - 20221001
+PL  - United States
+TA  - Int J Sports Phys Ther
+JT  - International journal of sports physical therapy
+JID - 101553140
+PMC - PMC9528670
+OTO - NOTNLM
+OT  - cross-country
+OT  - female collegiate runners
+OT  - hip abductor muscle performance
+OT  - injury risk
+OT  - running kinematics
+OT  - running-related injuries
+COIS- The authors affirm that they have no financial affiliation (including research 
+      funding) or involvement with any commercial organization that has a direct 
+      financial interest in any matter included in this manuscript.
+EDAT- 2022/10/15 06:00
+MHDA- 2022/10/15 06:01
+PMCR- 2022/10/01
+CRDT- 2022/10/14 02:54
+PHST- 2021/12/07 00:00 [received]
+PHST- 2022/06/10 00:00 [accepted]
+PHST- 2022/10/14 02:54 [entrez]
+PHST- 2022/10/15 06:00 [pubmed]
+PHST- 2022/10/15 06:01 [medline]
+PHST- 2022/10/01 00:00 [pmc-release]
+AID - 38017 [pii]
+AID - 10.26603/001c.38017 [doi]
+PST - epublish
+SO  - Int J Sports Phys Ther. 2022 Oct 1;17(6):1053-1062. doi: 10.26603/001c.38017. 
+      eCollection 2022.

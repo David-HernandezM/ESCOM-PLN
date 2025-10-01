@@ -1,0 +1,103 @@
+PMID- 40972525
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250919
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+VI  - 85
+IP  - 18
+DP  - 2025 Sep 18
+TI  - Requirements for establishment and epigenetic stability of mammalian 
+      heterochromatin.
+PG  - 3388-3406.e12
+LID - S1097-2765(25)00710-5 [pii]
+LID - 10.1016/j.molcel.2025.08.025 [doi]
+AB  - Heterochromatic domains of DNA account for a large fraction of mammalian genomes 
+      and play critical roles in silencing transposons and genes, but the mechanisms 
+      that establish and maintain these domains are not fully understood. Here, we use 
+      a CRISPR-based genetic screen to investigate the requirements for establishment 
+      and maintenance of histone H3 lysine 9 trimethylation (H3K9me3) heterochromatin. 
+      In mouse embryonic stem cells (mESCs), we show that transiently induced H3K9me3 
+      heterochromatin is inherited for a limited number of cell divisions, 
+      independently of sequence-dependent recruitment, but becomes stable upon 
+      differentiation, concomitant with downregulation of enzymes erasing H3K9me and 
+      DNA methylation. In addition, ordered and non-redundant activities of multiple 
+      H3K9 and DNA methyltransferases, together with histone deacetylases, chromatin 
+      remodeling complexes, and RNA processing factors, are required for 
+      heterochromatin maintenance. Our findings suggest that a newly acquired H3K9me3 
+      domain can be maintained like an imprint but requires reinforcement by DNA 
+      methylation and other pathways.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Tatarakis, Antonis
+AU  - Tatarakis A
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA.
+FAU - Saini, Harleen
+AU  - Saini H
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA.
+FAU - Yu, Juntao
+AU  - Yu J
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA.
+FAU - Feng, Wenzhi
+AU  - Feng W
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA.
+FAU - Pinzon-Arteaga, Carlos A
+AU  - Pinzon-Arteaga CA
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA.
+FAU - Moazed, Danesh
+AU  - Moazed D
+AD  - Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, 
+      Harvard Medical School, Boston, MA, USA. Electronic address: 
+      danesh@hms.harvard.edu.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+RN  - 0 (Heterochromatin)
+RN  - 0 (Histones)
+RN  - EC 2.1.1.43 (Histone-Lysine N-Methyltransferase)
+RN  - EC 3.5.1.98 (Histone Deacetylases)
+SB  - IM
+MH  - *Heterochromatin/genetics/metabolism
+MH  - Animals
+MH  - Mice
+MH  - *Histones/metabolism/genetics
+MH  - DNA Methylation
+MH  - *Epigenesis, Genetic
+MH  - *Mouse Embryonic Stem Cells/metabolism
+MH  - Chromatin Assembly and Disassembly
+MH  - Cell Differentiation
+MH  - Histone-Lysine N-Methyltransferase/metabolism/genetics
+MH  - Methylation
+MH  - CRISPR-Cas Systems
+MH  - Histone Deacetylases/metabolism/genetics
+OTO - NOTNLM
+OT  - CRISPR screen
+OT  - DNA methylation
+OT  - H3K9me3
+OT  - Polycomb
+OT  - epigenetic inheritance
+OT  - heterochromatin
+OT  - imprinting
+OT  - mESCs
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:33
+CRDT- 2025/09/19 18:17
+PHST- 2024/04/08 00:00 [received]
+PHST- 2025/06/05 00:00 [revised]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/20 00:33 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 18:17 [entrez]
+AID - S1097-2765(25)00710-5 [pii]
+AID - 10.1016/j.molcel.2025.08.025 [doi]
+PST - ppublish
+SO  - Mol Cell. 2025 Sep 18;85(18):3388-3406.e12. doi: 10.1016/j.molcel.2025.08.025.

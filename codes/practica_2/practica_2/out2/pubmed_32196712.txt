@@ -1,0 +1,134 @@
+PMID- 32196712
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210503
+LR  - 20210503
+IS  - 1365-3016 (Electronic)
+IS  - 0269-5022 (Linking)
+VI  - 34
+IP  - 3
+DP  - 2020 May
+TI  - Low neurodevelopmental performance and behavioural/emotional problems at 24 and 
+      48 months in Brazilian children exposed to acetaminophen during foetal 
+      development.
+PG  - 278-286
+LID - 10.1111/ppe.12649 [doi]
+AB  - BACKGROUND: Several studies have reported that there is an association between 
+      developmental and emotional/behavioural problems in children exposed to 
+      acetaminophen during foetal development. However, few studies have focused on 
+      development and behavioural outcomes in early life. OBJECTIVES: To test the 
+      association between prenatal exposure to acetaminophen and low neurodevelopmental 
+      performance at 24 months and behavioural/emotional problems at 48 months of life. 
+      METHODS: We used data from the 2004 Pelotas Birth Cohort, a population-based 
+      longitudinal prospective study. Neurodevelopment was evaluated at 24 months using 
+      Battelle's Developmental Inventory (BDI) (n = 3737). We assessed global function 
+      as well as each domain (personal-social, adaptative, motor, cognitive, and 
+      communication). Behavioural/emotional problems were assessed at 48 months using 
+      the Child Behaviour Checklist (CBCL) (n = 3624). We used the CBCL total, 
+      externalising, and internalising symptomatology and individual subscales 
+      (withdrawn, somatic complaints, anxious/depressed, social problems, cognitive 
+      problems, attention problems, aggressive behaviour, and rule-breaking behaviour). 
+      Acetaminophen use during pregnancy was retrospectively assessed at the perinatal 
+      follow-up. Poisson regression and multiple linear regression analyses were used 
+      to test the association, adjusting for several family and maternal 
+      sociodemographic and health factors, medication use during pregnancy, and the sex 
+      of the child. RESULTS: Acetaminophen exposure during prenatal development was not 
+      associated with low neurodevelopmental performance at 24 months assessed using 
+      the BDI or to emotional and behavioural problems assessed at 48 months using the 
+      CBCL in the adjusted models. CONCLUSIONS: We cannot confirm the existence of an 
+      association between acetaminophen used during pregnancy and low 
+      neurodevelopmental performance at 24 months and emotional/behavioural problems at 
+      48 months of life based on the present results.
+CI  - © 2020 John Wiley & Sons Ltd.
+FAU - Tovo-Rodrigues, Luciana
+AU  - Tovo-Rodrigues L
+AUID- ORCID: 0000-0002-8732-6059
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Carpena, Marina Xavier
+AU  - Carpena MX
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Martins-Silva, Thais
+AU  - Martins-Silva T
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Santos, Iná S
+AU  - Santos IS
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+AD  - Postgraduate Program Pediatrics Child Health, Pontifical Catholic University of 
+      Rio Grande do Sul, Porto Alegre, Brazil.
+FAU - Anselmi, Luciana
+AU  - Anselmi L
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Barros, Aluísio J D
+AU  - Barros AJD
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Barros, Fernando C
+AU  - Barros FC
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Bertoldi, Andréa D
+AU  - Bertoldi AD
+AUID- ORCID: 0000-0002-4680-3197
+AD  - Postgraduate Program in Epidemiology, Universidade Federal de Pelotas, Pelotas, 
+      Brazil.
+FAU - Matijasevich, Alicia
+AU  - Matijasevich A
+AD  - Departamento de Medicina Preventiva, Faculdade de Medicina FMUSP, Universidade de 
+      São Paulo, SP, Brazil.
+LA  - eng
+GR  - WHO_/World Health Organization/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200320
+PL  - England
+TA  - Paediatr Perinat Epidemiol
+JT  - Paediatric and perinatal epidemiology
+JID - 8709766
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - *Acetaminophen/adverse effects/therapeutic use
+MH  - Affective Symptoms/diagnosis/epidemiology
+MH  - Analgesics, Non-Narcotic/adverse effects/therapeutic use
+MH  - Brazil/epidemiology
+MH  - Child Behavior/*drug effects
+MH  - Child Development/drug effects
+MH  - Child, Preschool
+MH  - Cohort Studies
+MH  - Emotional Regulation
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Neurodevelopmental Disorders/chemically 
+      induced/diagnosis/epidemiology/psychology
+MH  - Pregnancy
+MH  - *Pregnancy Complications/drug therapy/epidemiology
+MH  - *Pregnancy Trimesters
+MH  - *Prenatal Exposure Delayed Effects/chemically induced/diagnosis/epidemiology
+MH  - Problem Behavior/psychology
+OTO - NOTNLM
+OT  - acetaminophen
+OT  - child development
+OT  - developmental
+OT  - neurodevelopmental disorders
+OT  - pregnancy
+OT  - psychology
+EDAT- 2020/03/21 06:00
+MHDA- 2021/05/04 06:00
+CRDT- 2020/03/21 06:00
+PHST- 2019/06/30 00:00 [received]
+PHST- 2019/11/26 00:00 [revised]
+PHST- 2019/12/22 00:00 [accepted]
+PHST- 2020/03/21 06:00 [pubmed]
+PHST- 2021/05/04 06:00 [medline]
+PHST- 2020/03/21 06:00 [entrez]
+AID - 10.1111/ppe.12649 [doi]
+PST - ppublish
+SO  - Paediatr Perinat Epidemiol. 2020 May;34(3):278-286. doi: 10.1111/ppe.12649. Epub 
+      2020 Mar 20.

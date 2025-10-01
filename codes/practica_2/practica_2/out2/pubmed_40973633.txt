@@ -1,0 +1,196 @@
+PMID- 40973633
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2047-4881 (Electronic)
+IS  - 2047-4873 (Linking)
+DP  - 2025 Sep 19
+TI  - Changes in depressive symptoms as predictors of incident cardiovascular disease: 
+      insights from four prospective cohorts.
+LID - zwaf586 [pii]
+LID - 10.1093/eurjpc/zwaf586 [doi]
+AB  - AIMS: This study examines how changes in depressive symptoms influence 
+      cardiovascular disease (CVD) incidence in diverse aging populations. METHODS AND 
+      RESULTS: Data from four longitudinal cohorts were harmonized: CHARLS (China), 
+      ELSA (UK), HRS (US), and MHAS (Mexico). Depressive symptoms were assessed at 
+      baseline and follow-up using validated scales, and scores were standardized using 
+      z-scores. The primary outcome was incident CVD, defined as a composite of heart 
+      attack, angina, congestive heart failure, other physician-diagnosed heart 
+      conditions, and stroke. Cox proportional regression analyses assessed the 
+      associations between changes in depressive symptoms and CVD risk. Progression 
+      from no depression to mild depression was associated with a 28% increase in CVD 
+      risk (95% CI: 1.14-1.44), while progression to moderate-to-severe depression was 
+      associated with a 23% increase (95% CI: 1.04-1.46). Conversely, remission from 
+      mild depression to no depression significantly reduced CVD risk by 19% (95% CI: 
+      0.68-0.98). Improvement from moderate-to-severe depression to mild depression 
+      decreased CVD risk by 25% (95% CI: 0.61-0.93), and remission from 
+      moderate-to-severe depression to no depression reduced it by 38% (95% CI: 
+      0.50-0.76). Each 1-unit increase in the total depression score raised CVD risk by 
+      12% (95% CI: 1.10-1.14), while each 1-unit increase in depression score change 
+      increased risk by 15% (95% CI: 1.11-1.19). Effects were stronger in participants 
+      aged <65 years than participants aged ≥65 years. CONCLUSION: This multinational 
+      cohort study demonstrates that worsening or progression of depressive symptoms 
+      increases CVD risk, while remission or improvement confers protective effects, 
+      highlighting the need to monitor depression symptom changes in CVD prevention.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      European Society of Cardiology. All rights reserved. For commercial re-use, 
+      please contact reprints@oup.com for reprints and translation rights for reprints. 
+      All other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Wu, Shuang
+AU  - Wu S
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Yang, Xu
+AU  - Yang X
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+AD  - Premium Care Center, National Center for Cardiovascular Disease, Fuwai Hospital, 
+      Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 
+      People's Republic of China.
+FAU - Chen, Yang
+AU  - Chen Y
+AUID- ORCID: 0000-0002-2808-6286
+AD  - Liverpool Centre for Cardiovascular Science at University of Liverpool, Liverpool 
+      John Moores University and Liverpool Heart and Chest Hospital, Liverpool, United 
+      Kingdom.
+AD  - Department of Cardiovascular and Metabolic Medicine, Institute of Life Course and 
+      Medical Sciences, University of Liverpool, Liverpool, United Kingdom.
+FAU - Wang, Yimeng
+AU  - Wang Y
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Liang, Hanyang
+AU  - Liang H
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Xu, Wei
+AU  - Xu W
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Wang, Juan
+AU  - Wang J
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Shao, Xinghui
+AU  - Shao X
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Zhang, Han
+AU  - Zhang H
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Zhong, Ziyi
+AU  - Zhong Z
+AD  - Liverpool Centre for Cardiovascular Science at University of Liverpool, Liverpool 
+      John Moores University and Liverpool Heart and Chest Hospital, Liverpool, United 
+      Kingdom.
+AD  - Department of Musculoskeletal Ageing and Science, Institute of Life Course and 
+      Medical Sciences, University of Liverpool, United Kingdom.
+FAU - Liu, Hongyu
+AU  - Liu H
+AD  - Liverpool Centre for Cardiovascular Science at University of Liverpool, Liverpool 
+      John Moores University and Liverpool Heart and Chest Hospital, Liverpool, United 
+      Kingdom.
+AD  - Department of Cardiovascular Medicine, the Second Affiliated Hospital, Jiangxi 
+      Medical College, Nanchang University, Nanchang, Jiangxi, People's Republic of 
+      China.
+FAU - Huang, Bi
+AU  - Huang B
+AUID- ORCID: 0000-0002-1763-8452
+AD  - Department of Cardiology, The First Affiliated Hospital of Chongqing Medical 
+      University, Chongqing, People's Republic of China.
+FAU - Lyu, Siqi
+AU  - Lyu S
+AD  - National Center for Cardiovascular Disease, Fuwai Hospital, Chinese Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, People's Republic of 
+      China.
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Zheng, Lihui
+AU  - Zheng L
+AUID- ORCID: 0009-0000-2867-411X
+AD  - National Clinical Research Center of Cardiovascular Diseases, National Center for 
+      Cardiovascular Disease, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, People's Republic of China.
+AD  - Arrhythmia Center, Fuwai Hospital, National Center for Cardiovascular Diseases, 
+      Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 
+      People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Eur J Prev Cardiol
+JT  - European journal of preventive cardiology
+JID - 101564430
+SB  - IM
+OAB - This multinational longitudinal study investigated how changes in depressive 
+      symptoms influence the risk of incident CVD across four aging populations from 
+      diverse regions (China, UK, US, and Mexico). Utilizing harmonized data from four 
+      prospective cohort studies (CHARLS, ELSA, HRS, MHAS; N = 33,437), we found 
+      significant associations between depressive symptom changes and CVD incidence. 
+      Key findings revealed that: (1) Progression or worsening of depressive symptoms 
+      increased CVD risk: progression from no depression to mild depression increased 
+      CVD risk by 28% (95% CI: 1.14-1.44), while progression to moderate-to-severe 
+      depression raised CVD risk by 23% (95% CI: 1.04-1.46); (2) Improvement or 
+      remission of depressive symptoms reduced CVD risk: remission from mild depression 
+      to no depression significantly reduced CVD risk by 19% (95% CI: 0.68-0.98); 
+      improvement from moderate-to-severe depression to mild depression decreased CVD 
+      risk by 25% (95% CI: 0.61-0.93), and remission from moderate-to-severe depression 
+      to no depression reduced it by 38% (95% CI: 0.50-0.76). Furthermore, continuous 
+      measures demonstrated a robust dose-response relationship, with each 1-unit 
+      increase in the total depression score raised CVD risk by 12% (95% CI: 
+      1.10-1.14), while each 1-unit increase in depressive symptom change increased 
+      risk by 15% (95% CI: 1.11-1.19). These findings highlight the importance of 
+      monitoring depressive symptoms in CVD prevention, and suggest that interventions 
+      targeting depressive symptoms may benefit cardiovascular health.
+OABL- eng
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - cohort study
+OT  - depression
+OT  - dynamic changes
+OT  - risk prediction
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 22:26
+PHST- 2025/06/06 00:00 [received]
+PHST- 2025/08/09 00:00 [revised]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 22:26 [entrez]
+AID - 8258544 [pii]
+AID - 10.1093/eurjpc/zwaf586 [doi]
+PST - aheadofprint
+SO  - Eur J Prev Cardiol. 2025 Sep 19:zwaf586. doi: 10.1093/eurjpc/zwaf586.

@@ -1,0 +1,57 @@
+PMID- 39102714
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240819
+LR  - 20240819
+IS  - 1539-3704 (Electronic)
+IS  - 0003-4819 (Linking)
+VI  - 177
+IP  - 8
+DP  - 2024 Aug
+TI  - Acetaminophen use during pregnancy was not linked to autism, ADHD, or 
+      intellectual disability in offspring.
+PG  - JC95
+LID - 10.7326/ANNALS-24-00960-JC [doi]
+AB  - Ahlqvist VH, Sjöqvist H, Dalman C, et al. Acetaminophen use during pregnancy and 
+      children's risk of autism, ADHD, and intellectual disability. JAMA. 
+      2024;331:1205-1214. 38592388.
+FAU - Worringer, Emma
+AU  - Worringer E
+AD  - Rush-Esperanza Family Medicine Residency and Rush University Medical Center, 
+      Chicago, Illinois, USA (E.W., K.R.).
+FAU - Rowland, Kate
+AU  - Rowland K
+AUID- ORCID: 0000-0002-1383-0279
+AD  - Rush-Esperanza Family Medicine Residency and Rush University Medical Center, 
+      Chicago, Illinois, USA (E.W., K.R.).
+LA  - eng
+PT  - Journal Article
+DEP - 20240806
+PL  - United States
+TA  - Ann Intern Med
+JT  - Annals of internal medicine
+JID - 0372351
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 0 (Analgesics, Non-Narcotic)
+SB  - IM
+MH  - Humans
+MH  - *Acetaminophen/adverse effects
+MH  - Female
+MH  - Pregnancy
+MH  - *Intellectual Disability
+MH  - *Attention Deficit Disorder with Hyperactivity/drug therapy
+MH  - *Prenatal Exposure Delayed Effects
+MH  - *Autistic Disorder/chemically induced
+MH  - Analgesics, Non-Narcotic/adverse effects
+MH  - Child
+COIS- Disclosures: Disclosure forms are available with the article online.
+EDAT- 2024/08/05 18:43
+MHDA- 2024/08/19 18:41
+CRDT- 2024/08/05 17:14
+PHST- 2024/08/19 18:41 [medline]
+PHST- 2024/08/05 18:43 [pubmed]
+PHST- 2024/08/05 17:14 [entrez]
+AID - 10.7326/ANNALS-24-00960-JC [doi]
+PST - ppublish
+SO  - Ann Intern Med. 2024 Aug;177(8):JC95. doi: 10.7326/ANNALS-24-00960-JC. Epub 2024 
+      Aug 6.

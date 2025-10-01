@@ -1,0 +1,217 @@
+PMID- 40968144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250918
+LR  - 20250921
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 18
+TI  - Optimized in vivo base editing restores auditory function in a DFNA15 mouse 
+      model.
+PG  - 8322
+LID - 10.1038/s41467-025-63613-w [doi]
+LID - 8322
+AB  - Genetic mutations cause hereditary deafness, in which mutations in the POU4 
+      transcription factor 3 gene (POU4F3) lead to autosomal dominant non-syndromic 
+      deafness 15 (DFNA15), for which no effective clinical treatment currently exists. 
+      Gene editing holds promise for precisely repairing mutated nucleotides, thus 
+      offering a potential cure for hereditary hearing loss. Here, we establish a 
+      Pou4f3(WT/Q113*) mutant mouse model mimicking DFNA15. We develop and screen 
+      adenine base editors (ABEs) targeting the Pou4f3(Q113*) allele by fusing diverse 
+      adenine deaminases to Cas9 we discovered before. SchABE8e accomplishes highly 
+      precise and efficient editing (up to 48.5%) at sgRNA3 in vitro. Neonatal 
+      Pou4f3(WT/Q113*) mice are treated via synthetic AAV (Anc80L65)-delivered 
+      SchABE8e-sgRNA3, resulting in near-complete hearing recovery, with the effect 
+      persisting for at least four months. Biosafety analyses further support the 
+      feasibility of base editing, providing a therapeutic strategy for DFNA15.
+CI  - © 2025. The Author(s).
+FAU - Wang, Man
+AU  - Wang M
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+AD  - Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, China.
+FAU - Zhang, Ziyu
+AU  - Zhang Z
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Wang, Xiaohan
+AU  - Wang X
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Zhang, Liyan
+AU  - Zhang L
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Chen, Xiangyan
+AU  - Chen X
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Li, Nianci
+AU  - Li N
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Sun, Qiuhan
+AU  - Sun Q
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - Lu, Yicheng
+AU  - Lu Y
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+FAU - He, Zuhong
+AU  - He Z
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China.
+AD  - Department of Otorhinolaryngology-Head and Neck Surgery, Zhongnan Hospital of 
+      Wuhan University, Wuhan, China.
+FAU - Yang, Hongbo
+AU  - Yang H
+AUID- ORCID: 0009-0004-2525-9462
+AD  - Obstetrics and Gynecology Hospital, Institute of Reproduction and Development, 
+      Fudan University, Shanghai, China. hongboyang@fudan.edu.cn.
+FAU - Tan, Fangzhi
+AU  - Tan F
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China. tanfangzhi@163.com.
+FAU - Qi, Jieyu
+AU  - Qi J
+AD  - Department of Radiology, Zhuhai People's Hospital, The Affiliated Hospital of 
+      Beijing Institute of Technology, Advanced Technology Research Institute, School 
+      of Life Science, Beijing Institute of Technology, Beijing, China. 
+      qijieyu@bit.edu.cn.
+AD  - State Key Laboratory of Hearing and Balance Science, Beijing Institute of 
+      Technology, Beijing, China. qijieyu@bit.edu.cn.
+AD  - Advanced Technology Research Institute, Beijing Institute of Technology, Jinan, 
+      China. qijieyu@bit.edu.cn.
+FAU - Chai, Renjie
+AU  - Chai R
+AUID- ORCID: 0000-0002-3885-543X
+AD  - Department of Otolaryngology Head and Neck Surgery, Zhongda Hospital, State Key 
+      Laboratory of Digital Medical Engineering, Jiangsu Provincial Key Laboratory of 
+      Critical Care Medicine, School of Life Sciences and Technology, School of 
+      Medicine, Advanced Institute for Life and Health, Southeast University, Nanjing, 
+      China. renjiec@seu.edu.cn.
+AD  - Co-Innovation Center of Neuroregeneration, Nantong University, Nantong, China. 
+      renjiec@seu.edu.cn.
+AD  - Department of Radiology, Zhuhai People's Hospital, The Affiliated Hospital of 
+      Beijing Institute of Technology, Advanced Technology Research Institute, School 
+      of Life Science, Beijing Institute of Technology, Beijing, China. 
+      renjiec@seu.edu.cn.
+AD  - Department of Otolaryngology Head and Neck Surgery, Sichuan Provincial People's 
+      Hospital, School of Medicine, University of Electronic Science and Technology of 
+      China, Chengdu, China. renjiec@seu.edu.cn.
+AD  - Southeast University Shenzhen Research Institute, Shenzhen, China. 
+      renjiec@seu.edu.cn.
+LA  - eng
+GR  - 82030029/National Science Foundation of China | National Natural Science 
+      Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)/
+GR  - 82330033/National Science Foundation of China | National Natural Science 
+      Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)/
+GR  - 92468302/National Science Foundation of China | National Natural Science 
+      Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)/
+GR  - 92149304/National Science Foundation of China | National Natural Science 
+      Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)/
+GR  - BK20232007/Natural Science Foundation of Jiangsu Province (Jiangsu Provincial 
+      Natural Science Foundation)/
+GR  - BK20241692/Natural Science Foundation of Jiangsu Province (Jiangsu Provincial 
+      Natural Science Foundation)/
+GR  - BG2024037/Natural Science Foundation of Jiangsu Province (Jiangsu Provincial 
+      Natural Science Foundation)/
+GR  - JCYJ20240813161801003/Shenzhen Science and Technology Innovation Commission/
+GR  - 2024M750455/China Postdoctoral Science Foundation/
+GR  - 2025T180661/China Postdoctoral Science Foundation/
+GR  - 82401369/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82271183/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82222017/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82192864/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82371161/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82371162/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - U23A200440/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - RF1028623028/Southeast University (SEU)/
+GR  - CZXM-GSP-RC04/Southeast University (SEU)/
+GR  - tsqn202408320/Taishan Scholar Project of Shandong Province/
+GR  - 7252089/Natural Science Foundation of Beijing Municipality (Beijing Natural 
+      Science Foundation)/
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Transcription Factor Brn-3C)
+RN  - 0 (RNA, Guide, CRISPR-Cas Systems)
+SB  - IM
+MH  - Animals
+MH  - *Gene Editing/methods
+MH  - Disease Models, Animal
+MH  - Mice
+MH  - CRISPR-Cas Systems
+MH  - *Transcription Factor Brn-3C/genetics
+MH  - *Deafness/genetics/therapy
+MH  - Genetic Therapy/methods
+MH  - Mutation
+MH  - Dependovirus/genetics
+MH  - Humans
+MH  - RNA, Guide, CRISPR-Cas Systems/genetics
+MH  - Female
+MH  - Male
+PMC - PMC12446455
+COIS- Competing interests: R.C., J.Q., M.W., Z.Z., F.T., X.W., L.Z., and X.C. have 
+      submitted a patent application to the China National Intellectual Property 
+      Administration pertaining to the application of SchABE8e inthe DFNA15 gene 
+      therapy aspect of this work (application number 202510477143.X; status: under 
+      review). The remaining authors declare no competing interests.
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:37
+PMCR- 2025/09/18
+CRDT- 2025/09/18 23:25
+PHST- 2024/11/21 00:00 [received]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/19 00:37 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 23:25 [entrez]
+PHST- 2025/09/18 00:00 [pmc-release]
+AID - 10.1038/s41467-025-63613-w [pii]
+AID - 63613 [pii]
+AID - 10.1038/s41467-025-63613-w [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 18;16(1):8322. doi: 10.1038/s41467-025-63613-w.

@@ -1,0 +1,117 @@
+PMID- 38081897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240712
+LR  - 20240724
+IS  - 1530-0447 (Electronic)
+IS  - 0031-3998 (Print)
+IS  - 0031-3998 (Linking)
+VI  - 95
+IP  - 7
+DP  - 2024 Jun
+TI  - Examining the relationship of acetaminophen use during pregnancy with early 
+      language development in children.
+PG  - 1883-1896
+LID - 10.1038/s41390-023-02924-4 [doi]
+AB  - BACKGROUND: Acetaminophen is the only analgesic considered safe for use 
+      throughout pregnancy. Recent studies suggest that use during pregnancy may be 
+      associated with poorer neurodevelopmental outcomes in children, but few have 
+      examined language development. METHODS: The Illinois Kids Development Study is a 
+      prospective birth cohort in east-central Illinois. Between December 2013 and 
+      March 2020, 532 newborns were enrolled and had exposure data available. 
+      Participants reported the number of times they took acetaminophen six times 
+      across pregnancy. Language data were collected at 26.5-28.5 months using the 
+      MacArthur-Bates Communicative Development Inventories (CDI; n = 298), and 36-38 
+      months using the Speech and Language Assessment Scale (SLAS; n = 254). RESULTS: 
+      Taking more acetaminophen during the second or third trimester was associated 
+      with marginally smaller vocabularies and shorter utterance length (M3L) at 
+      26.5-28.5 months. More acetaminophen use during the third trimester was also 
+      associated with increased odds of M3L scores ≤25th percentile in male children. 
+      More use during the second or third trimester was associated with lower SLAS 
+      scores at 36-38 months. Third trimester use was specifically related to lower 
+      SLAS scores in male children. CONCLUSIONS: Higher prenatal acetaminophen use 
+      during pregnancy may be associated with poorer early language development. 
+      IMPACT: Taking more acetaminophen during pregnancy, particularly during the 
+      second and third trimesters, was associated with poorer scores on measures of 
+      language development when children were 26.5-28.5 and 36-38 months of age. Only 
+      male children had lower scores in analyses stratified by child sex. To our 
+      knowledge, this is the first study that has used a standardized measure of 
+      language development to assess the potential impact of prenatal exposure to 
+      acetaminophen on language development. This study adds to the growing body of 
+      literature suggesting that the potential impact of acetaminophen use during 
+      pregnancy on fetal neurodevelopment should be carefully evaluated.
+CI  - © 2023. The Author(s).
+FAU - Woodbury, Megan L
+AU  - Woodbury ML
+AD  - Neuroscience Program, University of Illinois at Urbana-Champaign, Urbana, IL, 
+      USA. m.woodbury@northeastern.edu.
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA. m.woodbury@northeastern.edu.
+AD  - College of Engineering, Northeastern University, Boston, MA, USA. 
+      m.woodbury@northeastern.edu.
+FAU - Cintora, Patricia
+AU  - Cintora P
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA.
+FAU - Ng, Shukhan
+AU  - Ng S
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA.
+FAU - Hadley, Pamela A
+AU  - Hadley PA
+AD  - Department of Speech and Hearing Science, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA.
+FAU - Schantz, Susan L
+AU  - Schantz SL
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA.
+AD  - Department of Comparative Biosciences, University of Illinois at 
+      Urbana-Champaign, Urbana, IL, USA.
+LA  - eng
+GR  - P01 ES022848/ES/NIEHS NIH HHS/United States
+GR  - T32 ES007326/ES/NIEHS NIH HHS/United States
+GR  - UG3 OD023272/OD/NIH HHS/United States
+PT  - Journal Article
+DEP - 20231211
+PL  - United States
+TA  - Pediatr Res
+JT  - Pediatric research
+JID - 0100714
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 0 (Analgesics, Non-Narcotic)
+SB  - IM
+MH  - Humans
+MH  - *Acetaminophen/adverse effects/administration & dosage
+MH  - Female
+MH  - Pregnancy
+MH  - Male
+MH  - *Language Development
+MH  - Prospective Studies
+MH  - Child, Preschool
+MH  - *Prenatal Exposure Delayed Effects
+MH  - Analgesics, Non-Narcotic/adverse effects
+MH  - Illinois
+MH  - Infant, Newborn
+MH  - Birth Cohort
+MH  - Infant
+MH  - Child Language
+PMC - PMC11164826
+MID - NIHMS1978671
+COIS- The authors declare no competing interests.
+EDAT- 2023/12/12 00:42
+MHDA- 2024/07/13 07:47
+PMCR- 2023/12/11
+CRDT- 2023/12/11 23:29
+PHST- 2023/04/14 00:00 [received]
+PHST- 2023/10/02 00:00 [accepted]
+PHST- 2023/09/26 00:00 [revised]
+PHST- 2024/07/13 07:47 [medline]
+PHST- 2023/12/12 00:42 [pubmed]
+PHST- 2023/12/11 23:29 [entrez]
+PHST- 2023/12/11 00:00 [pmc-release]
+AID - 10.1038/s41390-023-02924-4 [pii]
+AID - 2924 [pii]
+AID - 10.1038/s41390-023-02924-4 [doi]
+PST - ppublish
+SO  - Pediatr Res. 2024 Jun;95(7):1883-1896. doi: 10.1038/s41390-023-02924-4. Epub 2023 
+      Dec 11.

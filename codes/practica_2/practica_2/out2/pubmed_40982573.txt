@@ -1,0 +1,214 @@
+PMID- 40982573
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2159-8290 (Electronic)
+IS  - 2159-8274 (Linking)
+DP  - 2025 Sep 22
+TI  - Development and Prospective Validation of a Cell-free DNA-based Model for the 
+      Early Detection of Pancreatic Cancer.
+LID - 10.1158/2159-8290.CD-25-0323 [doi]
+AB  - Pancreatic cancer (PC) remains a highly lethal malignancy due to late-stage 
+      diagnosis and limited therapeutic options. This study presents the development 
+      and validation of a non-invasive circulating cell-free DNA (cfDNA)-based model 
+      for early PC detection. In a case-control study comprising 232 PC patients and 
+      235 healthy controls, the model demonstrated high diagnostic accuracy (AUC=0.9799 
+      in training; 0.9622 in validation). A prospective cohort study involving 1,926 
+      individuals with diabetes and obesity, established risk factors for PC, further 
+      assessed its clinical applicability. The model detected 75% of PC cases, 
+      including all Stage 0 patients, with a lead time of up to 298 days, significantly 
+      outperforming CA19-9. Additionally, it demonstrates potential for distinguishing 
+      high-risk from low-risk pancreatic cysts, thereby facilitating more precise risk 
+      stratification. This study highlights the potential of cfDNA-based screening as a 
+      scalable, non-invasive tool for early PC detection, warranting further 
+      large-scale clinical validation to enhance patient outcomes.
+FAU - Wang, Xiuchao
+AU  - Wang X
+AUID- ORCID: 0000-0002-3205-8544
+AD  - Tianjin Medical University Cancer Institute and Hospital, tianjin, China.
+FAU - Wang, Hongwei
+AU  - Wang H
+AUID- ORCID: 0000-0001-8198-0677
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Zhang, Meng
+AU  - Zhang M
+AUID- ORCID: 0000-0001-7346-6176
+AD  - The Fourth Hospital of Hebei Medical University, shijiazhuang, China.
+FAU - Li, Huikai
+AU  - Li H
+AUID- ORCID: 0000-0003-4864-4991
+AD  - Tianjin Medical University Cancer Institute and Hospital, China.
+FAU - Liu, Yang
+AU  - Liu Y
+AUID- ORCID: 0000-0001-6450-9509
+AD  - Tianjin Medical University Cancer Institute and Hospital, China.
+FAU - Huang, HanFei
+AU  - Huang H
+AUID- ORCID: 0000-0003-3302-823X
+AD  - First Affiliated Hospital of Kunming Medical University, kunming, China.
+FAU - Pei, Jinlong
+AU  - Pei J
+AUID- ORCID: 0009-0008-5761-3541
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Huang, Jing
+AU  - Huang J
+AUID- ORCID: 0009-0003-4627-4197
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Zang, Fenglin
+AU  - Zang F
+AUID- ORCID: 0000-0002-1053-9099
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Zhang, Yanhui
+AU  - Zhang Y
+AUID- ORCID: 0000-0002-9314-2854
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Chen, Xingyun
+AU  - Chen X
+AUID- ORCID: 0000-0001-5436-7471
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Gao, Song
+AU  - Gao S
+AUID- ORCID: 0009-0001-5287-2113
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Zhao, Tiansuo
+AU  - Zhao T
+AUID- ORCID: 0000-0003-1631-6299
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Wang, Jian
+AU  - Wang J
+AUID- ORCID: 0000-0003-4539-7569
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Ma, Weidong
+AU  - Ma W
+AUID- ORCID: 0009-0001-8561-6108
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Liang, Yuexiang
+AU  - Liang Y
+AUID- ORCID: 0000-0002-5201-8187
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Shi, Shangheng
+AU  - Shi S
+AUID- ORCID: 0009-0006-2888-476X
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Li, Shuo
+AU  - Li S
+AUID- ORCID: 0000-0001-9804-8448
+AD  - Tianjin Medical University Cancer Institute and Hospital, Shanghai, China.
+FAU - Li, Wei
+AU  - Li W
+AUID- ORCID: 0009-0006-8425-632X
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Zhou, Tianxing
+AU  - Zhou T
+AUID- ORCID: 0009-0006-0150-1343
+AD  - Tianjin Institute of Industrial Biotechnology, Tianjin, Tianjin, China.
+FAU - Zhang, Ying
+AU  - Zhang Y
+AUID- ORCID: 0009-0004-4648-2559
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Cui, Xiaonan
+AU  - Cui X
+AUID- ORCID: 0000-0002-4019-6680
+AD  - Tianjin Medical University Cancer Institute and Hospital, tianjin, China.
+FAU - Ye, Zhao-Xiang
+AU  - Ye ZX
+AUID- ORCID: 0000-0003-3157-8393
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Sun, Yan
+AU  - Sun Y
+AUID- ORCID: 0000-0001-8916-9598
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, China.
+FAU - Peng, Li
+AU  - Peng L
+AUID- ORCID: 0000-0001-5483-4076
+AD  - The Fourth Hospital of Hebei Medical University, shijiazhuang, hebei, China.
+FAU - Hu, Xiao
+AU  - Hu X
+AUID- ORCID: 0000-0002-1959-9178
+AD  - The Affiliated Hospital of Qingdao University, China.
+FAU - Li, Zhitao
+AU  - Li Z
+AUID- ORCID: 0009-0005-3448-4124
+AD  - The First Affiliated Hospital of Kunming Medical University, China.
+FAU - Zhang, Hao
+AU  - Zhang H
+AUID- ORCID: 0009-0002-1805-3111
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Zhu, Dongqin
+AU  - Zhu D
+AUID- ORCID: 0000-0002-8276-9109
+AD  - Nanjing Geneseeq Biotechnology Inc., Nanjing, Jiangsu province, China.
+FAU - Chang, Shuang
+AU  - Chang S
+AUID- ORCID: 0009-0003-0749-0372
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Zhang, Jiangyan
+AU  - Zhang J
+AUID- ORCID: 0009-0006-3829-603X
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Yang, Ruowei
+AU  - Yang R
+AUID- ORCID: 0009-0007-1491-0207
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Bao, Hua
+AU  - Bao H
+AUID- ORCID: 0000-0001-5774-8755
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Wu, Xue
+AU  - Wu X
+AUID- ORCID: 0000-0002-5567-1325
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Shao, Yang
+AU  - Shao Y
+AUID- ORCID: 0000-0003-4585-1792
+AD  - Nanjing Geneseeq Technology Inc., Nanjing, China.
+FAU - Yu, Jun
+AU  - Yu J
+AUID- ORCID: 0000-0003-3435-6550
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Gao, Chuntao
+AU  - Gao C
+AUID- ORCID: 0000-0002-9954-8409
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+FAU - Cui, Yunfeng
+AU  - Cui Y
+AUID- ORCID: 0000-0001-6415-0321
+AD  - Tianjin Nankai Hospital, China.
+FAU - Hao, Jihui
+AU  - Hao J
+AUID- ORCID: 0000-0002-1607-1730
+AD  - Tianjin Medical University Cancer Institute and Hospital, Tianjin, Tianjin, 
+      China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Cancer Discov
+JT  - Cancer discovery
+JID - 101561693
+SB  - IM
+EDAT- 2025/09/22 18:37
+MHDA- 2025/09/22 18:37
+CRDT- 2025/09/22 13:53
+PHST- 2025/09/17 00:00 [accepted]
+PHST- 2025/02/26 00:00 [received]
+PHST- 2025/06/08 00:00 [revised]
+PHST- 2025/09/22 18:37 [medline]
+PHST- 2025/09/22 18:37 [pubmed]
+PHST- 2025/09/22 13:53 [entrez]
+AID - 765886 [pii]
+AID - 10.1158/2159-8290.CD-25-0323 [doi]
+PST - aheadofprint
+SO  - Cancer Discov. 2025 Sep 22. doi: 10.1158/2159-8290.CD-25-0323.

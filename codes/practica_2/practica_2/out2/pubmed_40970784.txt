@@ -1,0 +1,100 @@
+PMID- 40970784
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1521-4095 (Electronic)
+IS  - 0935-9648 (Linking)
+DP  - 2025 Sep 19
+TI  - Polymer-PARPi Conjugates Delivering USP1i for Maximizing Synthetic Lethality to 
+      Stimulate STING Pathway in High-Grade Serous Ovarian Cancer.
+PG  - e12962
+LID - 10.1002/adma.202512962 [doi]
+AB  - Overcoming the immunosuppressive tumor microenvironment and therapeutic 
+      resistance remains a significant challenge in ovarian cancer treatment. In this 
+      study, a glutathione-responsive polymeric nanoparticle platform for the 
+      co-delivery of the USP1 inhibitor SJB3-019A and the PARP inhibitor Niraparib is 
+      developed. This system synergistically enhances DNA damage accumulation, 
+      suppresses homologous recombination repair, and robustly activate the STING 
+      signaling pathway, leading to enhanced type I interferon responses and mitigation 
+      of immune evasion. Mechanistically, USP1 inhibition significantly impairs DNA 
+      repair, amplifying the synthetic lethality of PARP inhibition and promoting 
+      immunogenic cell death. In vivo studies demonstrated precise, 
+      glutathione-responsive drug release and substantial tumor accumulation of the 
+      nanoparticles, resulting in remarkable antitumor efficacy in murine ovarian 
+      cancer models. Importantly, this combinational approach effectively remodels the 
+      tumor microenvironment by increasing CD8⁺ T cell infiltration and enhancing tumor 
+      sensitivity to immune checkpoint blockade therapies. This innovative strategy 
+      targeting DNA damage responses presents a promising platform for precise and 
+      effective ovarian cancer immunotherapy.
+CI  - © 2025 Wiley‐VCH GmbH.
+FAU - Zhang, He
+AU  - Zhang H
+AUID- ORCID: 0000-0002-3283-8620
+AD  - Department of Gynecology, National Cancer Center/National Clinical Research 
+      Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking 
+      Union Medical College, Beijing, 100021, China.
+FAU - Sun, Yi
+AU  - Sun Y
+AD  - Department of Gynecology, National Cancer Center/National Clinical Research 
+      Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking 
+      Union Medical College, Beijing, 100021, China.
+FAU - Zhang, Lingpu
+AU  - Zhang L
+AD  - Beijing National Laboratory for Molecular Sciences, Laboratory of Polymer Physics 
+      and Chemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, 
+      100190, China.
+AD  - University of Chinese Academy of Sciences, Beijing, 100049, China.
+FAU - Shen, Meifang
+AU  - Shen M
+AD  - College of Life Science and Technology, Beijing University of Chemical 
+      Technology, Beijing, 100029, China.
+FAU - Tong, Xiaowei
+AU  - Tong X
+AD  - College of Life Science and Technology, Beijing University of Chemical 
+      Technology, Beijing, 100029, China.
+FAU - Zhao, Dan
+AU  - Zhao D
+AD  - Department of Gynecology, National Cancer Center/National Clinical Research 
+      Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking 
+      Union Medical College, Beijing, 100021, China.
+FAU - Xiao, Haihua
+AU  - Xiao H
+AUID- ORCID: 0000-0001-8159-8187
+AD  - Beijing National Laboratory for Molecular Sciences, Laboratory of Polymer Physics 
+      and Chemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, 
+      100190, China.
+AD  - University of Chinese Academy of Sciences, Beijing, 100049, China.
+FAU - Li, Bin
+AU  - Li B
+AD  - Department of Gynecology, National Cancer Center/National Clinical Research 
+      Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking 
+      Union Medical College, Beijing, 100021, China.
+LA  - eng
+GR  - 82272726/National Natural Science Foundation of China/
+GR  - 3332024143/Special Research Fund for Central Universities, Peking Union Medical 
+      College/
+GR  - 80102022510/National High Level Hospital Clinical Research Funding/
+PT  - Journal Article
+DEP - 20250919
+PL  - Germany
+TA  - Adv Mater
+JT  - Advanced materials (Deerfield Beach, Fla.)
+JID - 9885358
+SB  - IM
+OTO - NOTNLM
+OT  - STING pathway
+OT  - high‐grade serous ovarian cancer
+OT  - nanoparticle drug delivery
+OT  - tumor immune microenvironment
+OT  - tumor immunotherapy
+EDAT- 2025/09/19 12:51
+MHDA- 2025/09/19 12:51
+CRDT- 2025/09/19 09:52
+PHST- 2025/09/06 00:00 [revised]
+PHST- 2025/07/07 00:00 [received]
+PHST- 2025/09/19 12:51 [medline]
+PHST- 2025/09/19 12:51 [pubmed]
+PHST- 2025/09/19 09:52 [entrez]
+AID - 10.1002/adma.202512962 [doi]
+PST - aheadofprint
+SO  - Adv Mater. 2025 Sep 19:e12962. doi: 10.1002/adma.202512962.

@@ -1,0 +1,85 @@
+PMID- 40971231
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1542-4863 (Electronic)
+IS  - 0007-9235 (Linking)
+DP  - 2025 Sep 19
+TI  - Advances in pancreatic cancer early diagnosis, prevention, and treatment: The 
+      past, the present, and the future.
+LID - 10.3322/caac.70035 [doi]
+AB  - Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy with a dismal 
+      prognosis, largely because of late-stage diagnosis and therapeutic resistance. 
+      PDAC incidence has been rising, with modifiable and non-modifiable risk factors 
+      contributing to disease development. Chronic pancreatitis, diabetes mellitus, 
+      smoking, obesity, and familial predisposition have been implicated in PDAC 
+      pathogenesis. Early clinical manifestations are vague and insidious; therefore, 
+      PDAC is often diagnosed at an advanced stage, limiting curative treatment 
+      options. Efforts to improve early detection have focused on serum biomarkers 
+      (e.g., carbohydrate antigen 19-9), imaging modalities, and liquid biopsies. 
+      Endoscopic ultrasound and magnetic resonance imaging have demonstrated potential 
+      in identifying early-stage disease in certain high-risk populations. Surgical 
+      resection remains the only potentially curative option, but only 15%-20% of 
+      patients have resectable disease at diagnosis. Neoadjuvant chemotherapy has 
+      emerged as a promising strategy to improve resectability and survival outcomes. 
+      For patients with locally advanced or metastatic PDAC, combination chemotherapy 
+      regimens such as FOLFIRINOX (folinic acid, 5-fluorouracil, irinotecan, and 
+      oxaliplatin), NALIRIFOX (5-fluorouracil, oxaliplatin, liposomal irinotecan, and 
+      leucovorin), and combined gemcitabine/nanoparticle albumen-bound paclitaxel offer 
+      survival benefits, although toxicity remains a concern, especially for 
+      platinum-based therapies. Several breakthroughs in molecular profiling have led 
+      to the development of targeted therapies, including sotorasib and olaparib. 
+      Immunotherapy has shown limited success in PDAC due to its immunosuppressive 
+      tumor microenvironment. However, novel combination approaches are under 
+      investigation, including quadruplet therapy, immune checkpoint inhibitors with 
+      oncolytic viruses, stromal-targeting agents, and personalized neoantigen 
+      vaccines. Key priorities for future research include identifying reliable 
+      biomarkers for early detection, refining patient selection for targeted 
+      therapies, and developing innovative strategies to overcome treatment resistance.
+CI  - © 2025 The Author(s). CA: A Cancer Journal for Clinicians published by Wiley 
+      Periodicals LLC on behalf of American Cancer Society.
+FAU - Mannucci, Alessandro
+AU  - Mannucci A
+AUID- ORCID: 0000-0002-1655-6762
+AD  - Department of Molecular Diagnostics and Experimental Therapeutics, Beckman 
+      Research Institute at City of Hope, Monrovia, California, USA.
+AD  - Gastroenterology and Gastrointestinal Endoscopy Unit, Vita-Salute San Raffaele 
+      University, IRCCS San Raffaele Hospital, Milan, Italy.
+FAU - Goel, Ajay
+AU  - Goel A
+AUID- ORCID: 0000-0003-1396-6341
+AD  - Department of Molecular Diagnostics and Experimental Therapeutics, Beckman 
+      Research Institute at City of Hope, Monrovia, California, USA.
+AD  - City of Hope Comprehensive Cancer Center, Duarte, California, USA.
+LA  - eng
+GR  - CA202797/National Cancer Institute and the National Institute of Health/
+GR  - CA214254/National Cancer Institute and the National Institute of Health/
+GR  - CA271243/National Cancer Institute and the National Institute of Health/
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - United States
+TA  - CA Cancer J Clin
+JT  - CA: a cancer journal for clinicians
+JID - 0370647
+SB  - IM
+OTO - NOTNLM
+OT  - early detection
+OT  - folinic acid, 5‐fluorouracil, irinotecan, and oxaliplatin (FOLFIRINOX)
+OT  - gemcitabine
+OT  - pancreatic ductal adenocarcinoma (PDAC)
+OT  - screening
+OT  - surveillance
+OT  - treatment
+EDAT- 2025/09/19 18:31
+MHDA- 2025/09/19 18:31
+CRDT- 2025/09/19 12:12
+PHST- 2025/08/14 00:00 [revised]
+PHST- 2025/07/02 00:00 [received]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:31 [pubmed]
+PHST- 2025/09/19 12:12 [entrez]
+AID - 10.3322/caac.70035 [doi]
+PST - aheadofprint
+SO  - CA Cancer J Clin. 2025 Sep 19. doi: 10.3322/caac.70035.

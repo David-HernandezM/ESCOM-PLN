@@ -1,0 +1,128 @@
+PMID- 39637384
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250117
+LR  - 20250610
+IS  - 1873-233X (Electronic)
+IS  - 0029-7844 (Linking)
+VI  - 145
+IP  - 2
+DP  - 2025 Feb 1
+TI  - Acetaminophen in Pregnancy and Attention-Deficit and Hyperactivity Disorder and 
+      Autism Spectrum Disorder.
+PG  - 168-176
+LID - 10.1097/AOG.0000000000005802 [doi]
+AB  - Acetaminophen is a common over-the-counter medication that recently gained 
+      substantial media attention regarding its use by pregnant individuals. In this 
+      clinical perspective, we discuss the strengths and limitations of the published 
+      literature on the effect of maternal acetaminophen use in pregnancy on the 
+      child's risk of developing attention-deficit and hyperactivity disorder (ADHD) 
+      and autism spectrum disorder (ASD). Studies included were specifically selected 
+      on the basis of the quality and validity of ADHD or ASD outcome definitions. From 
+      a total of 56 identified studies, commentaries, and editorials of relevance, we 
+      critically reviewed nine studies with original data that satisfied our inclusion 
+      criteria and three meta-analyses. Most studies that have reported positive 
+      findings are difficult to interpret because they have important biases, notably a 
+      high degree of selection bias, variability in selection and adjustment for 
+      various potential confounders, and unmeasured familial confounding. When 
+      unobserved familial confounding through sibling analysis was controlled for, 
+      associations weakened substantially. This suggests that residual confounding from 
+      shared genetic and environmental factors may have caused an upward bias in the 
+      original observations. According to the current scientific evidence, in utero 
+      exposure to acetaminophen is unlikely to confer a clinically important increased 
+      risk of childhood ADHD or ASD. The current level of evidence does not warrant 
+      changes to clinical guidelines on the treatment of fever or pain in pregnancy. 
+      Prospective research designed to account for familial and psychosocial 
+      environmental factors related to both maternal use of acetaminophen and 
+      children's neurodevelopment should be undertaken.
+CI  - Copyright © 2024 by the American College of Obstetricians and Gynecologists. 
+      Published by Wolters Kluwer Health, Inc. All rights reserved.
+FAU - Damkier, Per
+AU  - Damkier P
+AD  - Department of Clinical Pharmacology, Odense University Hospital, and the 
+      Department of Clinical Research, University of Southern Denmark, Odense, Denmark; 
+      Clinical Pharmacology & Pharmacotherapy, Department of Pharmaceutical and 
+      Pharmacological Sciences, KU Leuven, Leuven, Belgium; Radboud University Medical 
+      Center, Nijmegen, the Netherlands; Service of Pharmacy, Lausanne University 
+      Hospital and University of Lausanne, Lausanne, and the Institute of Primary 
+      Health Care (BIHAM), University of Bern, Bern, Switzerland; the Pharmacy 
+      Department, Rotunda Hospital and School of Pharmacy and Biomolecular Sciences, 
+      Royal College of Surgeons in Ireland, Dublin, Ireland; the Department of 
+      Pediatrics, University of California San Diego, La Jolla, California; 
+      Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, 
+      Humboldt-Universität zu Berlin and Berlin Institute of Health, 
+      Pharmakovigilanzzentrum, Embryonaltoxikologie, Institut für Klinische 
+      Pharmakologie und Toxikologie, Berlin, Germany; Mothersafe, University of New 
+      South Wales, Australia; UK Teratology Information Service and the Directorate of 
+      Women's Services, Royal Victoria Infirmary, Newcastle Upon Tyne, United Kingdom; 
+      the Department of Environmental and Occupational Health Sciences, School of 
+      Public Health, University of Washington, Seattle, Washington; the Israeli 
+      Teratology Information Service, Ministry of Health, and the Hebrew University 
+      Hadassah Medical School, Jerusalem, Israel; the Department of Obstetrics and 
+      Gynecology, Morsani College of Medicine, University of South Florida, Tampa, 
+      Florida; and the Department of Medical Genetics, University of British Columbia, 
+      Vancouver, British Columbia, Canada.
+FAU - Gram, Erika B
+AU  - Gram EB
+FAU - Ceulemans, Michael
+AU  - Ceulemans M
+FAU - Panchaud, Alice
+AU  - Panchaud A
+FAU - Cleary, Brian
+AU  - Cleary B
+FAU - Chambers, Christina
+AU  - Chambers C
+FAU - Weber-Schoendorfer, Corinna
+AU  - Weber-Schoendorfer C
+FAU - Kennedy, Debra
+AU  - Kennedy D
+FAU - Hodson, Ken
+AU  - Hodson K
+FAU - Grant, Kimberly S
+AU  - Grant KS
+FAU - Diav-Citrin, Orna
+AU  - Diav-Citrin O
+FAU - Običan, Sarah G
+AU  - Običan SG
+FAU - Shechtman, Svetlana
+AU  - Shechtman S
+FAU - Alwan, Sura
+AU  - Alwan S
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241205
+PL  - United States
+TA  - Obstet Gynecol
+JT  - Obstetrics and gynecology
+JID - 0401101
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 0 (Analgesics, Non-Narcotic)
+SB  - IM
+MH  - Humans
+MH  - Pregnancy
+MH  - *Acetaminophen/adverse effects
+MH  - *Attention Deficit Disorder with Hyperactivity/chemically induced/epidemiology
+MH  - Female
+MH  - *Autism Spectrum Disorder/chemically induced/epidemiology
+MH  - *Prenatal Exposure Delayed Effects/chemically induced
+MH  - *Analgesics, Non-Narcotic/adverse effects
+MH  - Child
+COIS- Financial Disclosure Sarah G. Običan has served as an expert witness in a legal 
+      case involving acetaminophen. Christina Chambers received research funding for 
+      her institution from Amgen, Bristol Myers Squibb, UCB, GSK, Pfizer, Sanofi, Leo, 
+      Sun, Regeneron, Janssen, Takeda, Gilead, Novartis, Gerber Foundation. The other 
+      authors did not report any potential conflicts of interest.
+EDAT- 2024/12/05 18:24
+MHDA- 2025/01/17 18:22
+CRDT- 2024/12/05 17:03
+PHST- 2024/08/30 00:00 [received]
+PHST- 2024/10/24 00:00 [accepted]
+PHST- 2025/01/17 18:22 [medline]
+PHST- 2024/12/05 18:24 [pubmed]
+PHST- 2024/12/05 17:03 [entrez]
+AID - 00006250-990000000-01189 [pii]
+AID - 10.1097/AOG.0000000000005802 [doi]
+PST - ppublish
+SO  - Obstet Gynecol. 2025 Feb 1;145(2):168-176. doi: 10.1097/AOG.0000000000005802. 
+      Epub 2024 Dec 5.

@@ -1,0 +1,142 @@
+PMID- 40975837
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 1468-2834 (Electronic)
+IS  - 0002-0729 (Linking)
+VI  - 54
+IP  - 9
+DP  - 2025 Aug 29
+TI  - Constipation preceding stroke, dementia and Parkinson's disease in middle-aged 
+      and older adults: a population-based cohort study.
+LID - afaf257 [pii]
+LID - 10.1093/ageing/afaf257 [doi]
+AB  - BACKGROUND: Previous research indicates that constipation may be an early symptom 
+      of Parkinson's disease (PD). However, it remains uncertain whether constipation 
+      is a unique symptom prior to PD or to other major neurological disorders as well. 
+      This study aimed to explore the association between premorbid constipation and 
+      three major neurological disorders: stroke, dementia and PD. METHODS: We 
+      conducted a retrospective cohort study using data from UK Biobank. Constipation 
+      was defined based on diagnosed cases in electronic health records, self-reported 
+      instances or regular laxative use. The primary outcome was defined as the first 
+      onset of any of three neurological disorders: stroke, dementia and PD. Cox 
+      regression was used to adjust for socio-demographic characteristics, lifestyle 
+      factors, medical conditions and regular medication use. RESULTS: Out of 462,327 
+      eligible participants, those with constipation were associated with higher 
+      incidence of three outcome diseases (1415/20,263 [7.0%]) than those without 
+      (18,848/442,064 [4.3%]), with adjusted hazard ratio (HR) being 1.35 [1.27-1.42]. 
+      Specifically, those with constipation had a 20%, 50% and 56% higher risk of 
+      stroke, dementia and PD, respectively. Both self-reported and diagnosed 
+      constipation were associated with a higher risk of these conditions, with HR 
+      being 1.31 (1.23-1.40) and 1.44 (1.30-1.59), respectively. Interestingly, the 
+      association between constipation and neurological disorders was stronger within 
+      the first 2 years from baseline. DISCUSSION: These findings support the 
+      biological link between constipation and neurological disorders. Given its 
+      potential role as a prodromal symptom for these diseases, both diagnosed and 
+      self-reported constipation should be considered in risk prediction models.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      British Geriatrics Society. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Yun, Qingping
+AU  - Yun Q
+AD  - School of Public Health, Hainan Medical University, Haikou, China.
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+      Shenzhen, Guangdong, China.
+FAU - Wang, Shiyu
+AU  - Wang S
+AD  - Yong Loo Lin School of Medicine, National University of Singapore, Singapore.
+FAU - Li, Bingyu
+AU  - Li B
+AUID- ORCID: 0000-0002-8516-958X
+AD  - School of Government, Sociology, Shenzhen University, 803 Minglv Building, Lihu 
+      Campus, Shenzhen, Guangdong, China.
+FAU - Yang, Zhirong
+AU  - Yang Z
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+      Shenzhen, Guangdong, China.
+AD  - Cambridge University, Cambridge, Cambridgeshire, UK.
+AD  - Department of Computational Biology and Medical Big Data, Shenzhen University of 
+      Advanced Technology, Shenzhen, Guangdong, China.
+AD  - Center for AI in Medicine, Artificial Intelligence Research Institute, Shenzhen 
+      University of Advanced Technology, Shenzhen, Guangdong, China.
+FAU - Wei, Chang
+AU  - Wei C
+AD  - Department of Epidemiology, Erasmus University Rotterdam, Rotterdam, ZH, 
+      Netherlands.
+FAU - Yuan, Jinqiu
+AU  - Yuan J
+AD  - Department of Epidemiology and Biostatistics, Clinical Research Center, The 
+      Seventh Affiliated Hospital Sun Yat-sen University, Shenzhen, Guangdong, China.
+FAU - Hu, Jun
+AU  - Hu J
+AD  - Department of Neurology, Peking University Shenzhen Hospital, Shenzhen, 
+      Guangdong, China.
+FAU - Li, Ye
+AU  - Li Y
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+      Shenzhen, Guangdong, China.
+FAU - Yang, Zuyao
+AU  - Yang Z
+AUID- ORCID: 0000-0003-2386-2431
+AD  - The JC School of Public Health & Primary Care, The Chinese University of Hong 
+      Kong, Hong Kong.
+FAU - Sha, Feng
+AU  - Sha F
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+      Shenzhen, Guangdong, China.
+FAU - Tang, Jinling
+AU  - Tang J
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+      Shenzhen, Guangdong, China.
+AD  - Department of Computational Biology and Medical Big Data, Shenzhen University of 
+      Advanced Technology, Shenzhen, Guangdong, China.
+AD  - Center for AI in Medicine, Artificial Intelligence Research Institute, Shenzhen 
+      University of Advanced Technology, Shenzhen, Guangdong, China.
+LA  - eng
+GR  - KQTD20190929172835662/Shenzhen Science and Technology Program/
+GR  - 82,404,371/National Natural Science Foundation of China/
+PT  - Journal Article
+PL  - England
+TA  - Age Ageing
+JT  - Age and ageing
+JID - 0375655
+SB  - IM
+MH  - Humans
+MH  - *Constipation/epidemiology/diagnosis
+MH  - Male
+MH  - Female
+MH  - Aged
+MH  - *Dementia/epidemiology/diagnosis
+MH  - *Parkinson Disease/epidemiology/diagnosis
+MH  - *Stroke/epidemiology/diagnosis
+MH  - Retrospective Studies
+MH  - Middle Aged
+MH  - Risk Factors
+MH  - United Kingdom/epidemiology
+MH  - Incidence
+MH  - Aged, 80 and over
+MH  - Age Factors
+MH  - Risk Assessment
+OTO - NOTNLM
+OT  - Parkinson’s disease
+OT  - cohort study
+OT  - constipation
+OT  - dementia
+OT  - older people
+OT  - stroke
+EDAT- 2025/09/21 13:06
+MHDA- 2025/09/21 13:07
+CRDT- 2025/09/21 10:53
+PHST- 2025/05/19 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/21 13:07 [medline]
+PHST- 2025/09/21 13:06 [pubmed]
+PHST- 2025/09/21 10:53 [entrez]
+AID - 8259882 [pii]
+AID - 10.1093/ageing/afaf257 [doi]
+PST - ppublish
+SO  - Age Ageing. 2025 Aug 29;54(9):afaf257. doi: 10.1093/ageing/afaf257.

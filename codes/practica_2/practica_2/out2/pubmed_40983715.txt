@@ -1,0 +1,115 @@
+PMID- 40983715
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+DP  - 2025 Sep 22
+TI  - A bottom-up septal inhibitory circuit mediates anticipatory control of drinking.
+LID - 10.1038/s41593-025-02056-4 [doi]
+AB  - Drinking behavior is not only homeostatically regulated but also rapidly adjusted 
+      before any changes in blood osmolality occur, known as anticipatory thirst 
+      satiation. Homeostatic and anticipatory signals converge in the subfornical organ 
+      (SFO); however, the neural pathways conveying peripheral information to the SFO 
+      before changes in blood composition are incompletely understood. Here we reveal 
+      an inhibitory pathway from the medial septum (MS) to the SFO that is involved in 
+      the control of anticipatory drinking behavior in mice. MS γ-aminobutyric acid 
+      (GABA)ergic neurons encode water-satiation signals by integrating cues from the 
+      oral cavity and tracking gastrointestinal signals. These neurons receive inputs 
+      from the parabrachial nucleus and relay to SFO(CaMKII) neurons, forming a 
+      bottom-up pathway with activity that prevents overhydration. Disruption of this 
+      circuit leads to excessive water intake and hyponatremia. Our findings reveal a 
+      septal pathway that integrates multiple layers of presystemic signals to 
+      fine-tune drinking behavior.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Xu, Lingyu
+AU  - Xu L
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Sun, Yuhao
+AU  - Sun Y
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China.
+FAU - Huang, Chenyuan
+AU  - Huang C
+AD  - Department of Surgery, Yong Loo Lin School of Medicine, National University of 
+      Singapore, Singapore, Singapore.
+FAU - Zheng, Yanrong
+AU  - Zheng Y
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Chen, Jialu
+AU  - Chen J
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China.
+FAU - Ma, Xiaolong
+AU  - Ma X
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Shi, Qiujie
+AU  - Shi Q
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Liu, Mengting
+AU  - Liu M
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Qiu, Xiaoyun
+AU  - Qiu X
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Zhao, Qikun
+AU  - Zhao Q
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China.
+FAU - Gao, Chenshu
+AU  - Gao C
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+FAU - Liao, Jie
+AU  - Liao J
+AUID- ORCID: 0000-0002-6336-3007
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China.
+FAU - Wang, Yi
+AU  - Wang Y
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China.
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China.
+FAU - Chen, Zhong
+AU  - Chen Z
+AUID- ORCID: 0000-0003-4755-9357
+AD  - Zhejiang Key Laboratory of Neuropsychopharmacology, School of Pharmaceutical 
+      Sciences, Zhejiang Chinese Medical University, Hangzhou, China. 
+      chenzhong@zju.edu.cn.
+AD  - Institute of Pharmacology and Toxicology, College of Pharmaceutical Sciences, 
+      Zhejiang University, Hangzhou, China. chenzhong@zju.edu.cn.
+LA  - eng
+GR  - U21A20418/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 32400841/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - U23A20533/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 2023M743143/China Postdoctoral Science Foundation/
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:21
+PHST- 2025/03/29 00:00 [received]
+PHST- 2025/07/24 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:21 [entrez]
+AID - 10.1038/s41593-025-02056-4 [pii]
+AID - 10.1038/s41593-025-02056-4 [doi]
+PST - aheadofprint
+SO  - Nat Neurosci. 2025 Sep 22. doi: 10.1038/s41593-025-02056-4.

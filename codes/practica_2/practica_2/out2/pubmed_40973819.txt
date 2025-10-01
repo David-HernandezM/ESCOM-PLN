@@ -1,0 +1,136 @@
+PMID- 40973819
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2522-5812 (Electronic)
+IS  - 2522-5812 (Linking)
+DP  - 2025 Sep 19
+TI  - Fructose and glucose from sugary drinks enhance colorectal cancer metastasis via 
+      SORD.
+LID - 10.1038/s42255-025-01368-w [doi]
+AB  - The consumption of sugar-sweetened beverages (SSBs), which contain high levels of 
+      fructose and glucose, has been causally and mechanistically linked to an 
+      increased risk of colorectal cancer (CRC). However, the effects of SSB 
+      consumption on advanced stages of disease progression, including metastasis, 
+      remain poorly understood. Here we show that exposure of CRC cells to a glucose 
+      and fructose formulation-reflecting the composition of both high-fructose corn 
+      syrup and sucrose found in SSBs-enhances cellular motility and metastatic 
+      potential compared to glucose alone. Given that CRC cells grow poorly in fructose 
+      alone, and cells in vivo are not physiologically exposed to fructose without 
+      glucose, we excluded the fructose-only condition from our studies unless needed 
+      as a control. Mechanistically, the combination of glucose and fructose elevates 
+      the NAD⁺/NADH ratio by activation of the reverse reaction of sorbitol 
+      dehydrogenase in the polyol pathway. This redox shift relieves NAD⁺ limitations 
+      and accelerates glycolytic activity, which in turn fuels activation of the 
+      mevalonate pathway, ultimately promoting CRC cell motility and metastasis. Our 
+      findings highlight the detrimental impact of SSBs on CRC progression and suggest 
+      potential dietary and therapeutic strategies to mitigate metastasis in patients 
+      with CRC.
+CI  - © 2025. The Author(s).
+FAU - Feng, Tianshi
+AU  - Feng T
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Luo, Qin
+AU  - Luo Q
+AD  - Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, 
+      TX, USA.
+FAU - Liu, Yanlin
+AU  - Liu Y
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Jin, Zeyu
+AU  - Jin Z
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Skwarchuk, David
+AU  - Skwarchuk D
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Lee, Rumi
+AU  - Lee R
+AD  - Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Nam, Miso
+AU  - Nam M
+AUID- ORCID: 0000-0001-8202-9541
+AD  - Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, 
+      TX, USA.
+FAU - Asara, John M
+AU  - Asara JM
+AUID- ORCID: 0000-0001-7450-2589
+AD  - Division of Signal Transduction, Beth Israel Deaconess Medical Center and 
+      Department of Medicine, Harvard Medical School, Boston, MA, USA.
+FAU - Adye, Daya R
+AU  - Adye DR
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Lorenzi, Philip L
+AU  - Lorenzi PL
+AUID- ORCID: 0000-0003-0385-7774
+AD  - Metabolomics Core Facility, Department of Bioinformatics and Computational 
+      Biology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+FAU - Tan, Lin
+AU  - Tan L
+AD  - Metabolomics Core Facility, Department of Bioinformatics and Computational 
+      Biology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+FAU - Pei, Guangsheng
+AU  - Pei G
+AD  - Center for Precision Health, McWilliams School of Biomedical Informatics, The 
+      University of Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Zhao, Zhongming
+AU  - Zhao Z
+AUID- ORCID: 0000-0002-3477-0914
+AD  - Center for Precision Health, McWilliams School of Biomedical Informatics, The 
+      University of Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Zarrin-Khameh, Neda
+AU  - Zarrin-Khameh N
+AD  - Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX, 
+      USA.
+FAU - Paulucci-Holthauzen, Adriana
+AU  - Paulucci-Holthauzen A
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Simons, Brian W
+AU  - Simons BW
+AD  - Center for Comparative Medicine, Baylor College of Medicine, Houston, TX, USA.
+FAU - Lee, Ju-Seog
+AU  - Lee JS
+AD  - Department of Systems Biology, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Kopetz, Scott
+AU  - Kopetz S
+AD  - Department of Gastrointestinal Medical Oncology, The University of Texas MD 
+      Anderson Cancer Center, Houston, TX, USA.
+FAU - Yun, Jihye
+AU  - Yun J
+AUID- ORCID: 0000-0001-5709-8254
+AD  - Department of Genetics, The University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA. jyun@mdanderson.org.
+LA  - eng
+GR  - V Sholar/V Foundation for Cancer Research (V Foundation)/
+GR  - Pew-Stewart Scholar/Pew Charitable Trusts/
+GR  - R21CA258134/U.S. Department of Health & Human Services | NIH | National Cancer 
+      Institute (NCI)/
+GR  - R01CA262437/U.S. Department of Health & Human Services | NIH | National Cancer 
+      Institute (NCI)/
+PT  - Journal Article
+DEP - 20250919
+PL  - Germany
+TA  - Nat Metab
+JT  - Nature metabolism
+JID - 101736592
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 23:56
+PHST- 2024/08/22 00:00 [received]
+PHST- 2025/08/08 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 23:56 [entrez]
+AID - 10.1038/s42255-025-01368-w [pii]
+AID - 10.1038/s42255-025-01368-w [doi]
+PST - aheadofprint
+SO  - Nat Metab. 2025 Sep 19. doi: 10.1038/s42255-025-01368-w.

@@ -1,0 +1,247 @@
+PMID- 40970383
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250922
+IS  - 1552-5279 (Electronic)
+IS  - 1552-5260 (Print)
+IS  - 1552-5260 (Linking)
+VI  - 21
+IP  - 9
+DP  - 2025 Sep
+TI  - Mild kidney dysfunction affects the predictive accuracy of blood-based biomarkers 
+      for neuropsychological and neuroimaging outcomes over a 9 year follow-up period.
+PG  - e70651
+LID - 10.1002/alz.70651 [doi]
+LID - e70651
+AB  - INTRODUCTION: The impact of chronic kidney disease (CKD) on Alzheimer's disease 
+      (AD) plasma biomarkers is poorly understood. We tested whether kidney function 
+      decline affects the predictive accuracy of plasma biomarkers on 
+      neuropsychological or neuroimaging outcomes. METHODS: Three hundred thirty-three 
+      non-demented older adults were included. Linear regressions related plasma glial 
+      fibrillary acidic protein, neurofilament light chain (NfL), amyloid beta 42, and 
+      phosphorylated tau(231), with a blood-based biomarker x estimated glomerular 
+      filtration rate (eGFR) interaction term, to cross-sectional and longitudinal 
+      (mean follow-up time = 6.4 ± 2.8 years) neuropsychological and neuroimaging 
+      outcomes. RESULTS: Plasma NfL interacted with eGFR on the longitudinal trajectory 
+      of nearly all neuropsychological outcomes (p values < 0.02) and several 
+      neuroimaging outcomes (p values < 0.02). Associations were stronger in 
+      individuals with no CKD/stage 1 and stage 2 CKD, while associations were weaker 
+      or not significant in individuals with stage 3 CKD. DISCUSSION: Among older 
+      adults free of severe CKD, the ability of plasma NfL to predict key AD-related 
+      biomarker outcomes was moderated by renal function. HIGHLIGHTS: Reduced kidney 
+      function was associated with increased blood biomarker levels. The predictive 
+      accuracy of neurofilament light chain was reduced in participants with kidney 
+      dysfunction. Even mild kidney dysfunction can affect blood biomarkers of 
+      Alzheimer's disease.
+CI  - © 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+      on behalf of Alzheimer's Association.
+FAU - Bolton, Corey J
+AU  - Bolton CJ
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Zhang, Panpan
+AU  - Zhang P
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Biostatistics, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Nair, Devika
+AU  - Nair D
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+AD  - Tennessee Valley Veterans Affairs Health System, Nashville, Tennessee, USA.
+AD  - Veteran Wellbeing through Innovation Systems Science and Experience in Learning 
+      Health Systems (VETWISE-LHS) Center of Innovation, Nashville, Tennessee, USA.
+FAU - Liu, Dandan
+AU  - Liu D
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Biostatistics, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Davis, L Taylor
+AU  - Davis LT
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Neurology, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+AD  - Department of Radiology and Radiological Sciences, Vanderbilt University Medical 
+      Center, Nashville, Tennessee, USA.
+FAU - Pechman, Kimberly R
+AU  - Pechman KR
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Shashikumar, Niranjana
+AU  - Shashikumar N
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Wilhoite, Sydney
+AU  - Wilhoite S
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Roby, Dominic
+AU  - Roby D
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Beeson, Carlie
+AU  - Beeson C
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Komorowski, Haley
+AU  - Komorowski H
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+FAU - Gifford, Katherine A
+AU  - Gifford KA
+AD  - Department of Anatomy and Neurobiology, Boston University Chobanian & Avedisian 
+      School of Medicine, Boston, Massachusetts, USA.
+FAU - Hohman, Timothy J
+AU  - Hohman TJ
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Neurology, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+FAU - Blennow, Kaj
+AU  - Blennow K
+AD  - Department of Psychiatry and Neurochemistry, Institute of Neuroscience and 
+      Physiology, The Sahlgrenska Academy at University of Gothenburg, Gothenburg, 
+      Sweden.
+AD  - Clinical Neurochemistry Lab, Sahlgrenska University Hospital, Gothenburg, Sweden.
+FAU - Zetterberg, Henrik
+AU  - Zetterberg H
+AD  - Department of Psychiatry and Neurochemistry, Institute of Neuroscience and 
+      Physiology, The Sahlgrenska Academy at University of Gothenburg, Gothenburg, 
+      Sweden.
+AD  - Clinical Neurochemistry Lab, Sahlgrenska University Hospital, Gothenburg, Sweden.
+AD  - Department of Molecular Neuroscience, UCL Institute of Neurology, Queen Square, 
+      London, UK.
+AD  - UK Dementia Research Institute at UCL, London, UK.
+AD  - Hong Kong Center for Neurodegenerative Diseases, Hong Kong Science Park, Hong 
+      Kong, China.
+AD  - Wisconsin Alzheimer's Disease Research Center, University of Wisconsin School of 
+      Medicine and Public Health, University of Wisconsin-Madison, Madison, Wisconsin, 
+      USA.
+FAU - Jefferson, Angela L
+AU  - Jefferson AL
+AD  - Vanderbilt Memory and Alzheimer's Center, Vanderbilt University School of 
+      Medicine, Nashville, Tennessee, USA.
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+AD  - Department of Neurology, Vanderbilt University Medical Center, Nashville, 
+      Tennessee, USA.
+LA  - eng
+GR  - #FO2024-0048-TK-130/Hjärnfonden, Sweden/
+GR  - P20-AG068082/AG/NIA NIH HHS/United States
+GR  - IIRG-08-88733/ALZ/Alzheimer's Association/United States
+GR  - JPND2021-00694/European Union's Horizon Europe Research and Innovation Programme/
+GR  - #AF-968270/Swedish Alzheimer Foundation/
+GR  - Fondation Recherche Alzheimer/
+GR  - P20 AG068082/AG/NIA NIH HHS/United States
+GR  - R01-AG034962/AG/NIA NIH HHS/United States
+GR  - UL1-TR000445/NH/NIH HHS/United States
+GR  - F32-AG076276/AG/NIA NIH HHS/United States
+GR  - UL1 TR000445/TR/NCATS NIH HHS/United States
+GR  - #AF-930351/Swedish Alzheimer Foundation/
+GR  - #ALZ2022-0006/Hjärnfonden, Sweden/
+GR  - K24-AG046373/AG/NIA NIH HHS/United States
+GR  - FO2024-0048-HK-24/Hjärnfonden, Sweden/
+GR  - Familjen Rönströms Stiftelse/
+GR  - IK2 CX002595/CX/CSRD VA/United States
+GR  - #AF-939721/Swedish Alzheimer Foundation/
+GR  - R01 AG056534/AG/NIA NIH HHS/United States
+GR  - S10-OD023680/NH/NIH HHS/United States
+GR  - #2017-00915/Swedish Research Council/
+GR  - #201809-2016862/Alzheimer Drug Discovery Foundation/
+GR  - UKDRI-1003/National Institute for Health and Care Research University/
+GR  - #FO2022-0270/European Union's Horizon Europe Research and Innovation Programme/
+GR  - K23-AG045966/AG/NIA NIH HHS/United States
+GR  - K23-AG084850/AG/NIA NIH HHS/United States
+GR  - R01-AG056534/AG/NIA NIH HHS/United States
+GR  - Swedish State Support for Clinical Research/
+GR  - #AF-994551/Swedish Alzheimer Foundation/
+GR  - K23 AG045966/AG/NIA NIH HHS/United States
+GR  - VA CSRD CDA-2 IK2CX002595/U.S. Department of Veterans Affairs/
+GR  - S10 OD023680/OD/NIH HHS/United States
+GR  - UL1-TR002243/NH/NIH HHS/United States
+GR  - UL1 TR002243/TR/NCATS NIH HHS/United States
+GR  - K24 AG046373/AG/NIA NIH HHS/United States
+GR  - Vanderbilt Alzheimer's Disease Research Center/
+GR  - #2022-00732/Swedish Research Council/
+GR  - F32 AG076276/AG/NIA NIH HHS/United States
+GR  - K23 AG084850/AG/NIA NIH HHS/United States
+GR  - R01 AG034962/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Alzheimers Dement
+JT  - Alzheimer's & dementia : the journal of the Alzheimer's Association
+JID - 101231978
+RN  - 0 (Biomarkers)
+RN  - 0 (Neurofilament Proteins)
+RN  - 0 (Amyloid beta-Peptides)
+RN  - 0 (neurofilament protein L)
+RN  - 0 (tau Proteins)
+RN  - 0 (Peptide Fragments)
+SB  - IM
+MH  - Humans
+MH  - *Biomarkers/blood
+MH  - Male
+MH  - Female
+MH  - Aged
+MH  - Neurofilament Proteins/blood
+MH  - Neuroimaging
+MH  - Follow-Up Studies
+MH  - Amyloid beta-Peptides/blood
+MH  - *Renal Insufficiency, Chronic/blood/complications
+MH  - Glomerular Filtration Rate/physiology
+MH  - Neuropsychological Tests
+MH  - Longitudinal Studies
+MH  - *Alzheimer Disease/blood
+MH  - tau Proteins/blood
+MH  - Cross-Sectional Studies
+MH  - Aged, 80 and over
+MH  - Peptide Fragments/blood
+MH  - Predictive Value of Tests
+PMC - PMC12447110
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - biomarkers
+OT  - blood‐based biomarkers
+OT  - kidney disease
+OT  - kidney function
+COIS- A.L.J. has served as an advisor for Lantheus – Diagnostic and Therapeutic 
+      Innovations. T.J.H. serves on the Scientific Advisory Board for Vivid Genomics 
+      and serves as deputy editor for Alzheimer's and Dementia: TRCI and senior 
+      associate editor for Alzheimer's and Dementia. L.T.D. serves as a consultant for 
+      Nashville Biosciences, LLC. H.Z. has served on scientific advisory boards and/or 
+      as a consultant for Abbvie, Acumen, Alector, Alzinova, ALZpath, Amylyx, Annexon, 
+      Apellis, Artery Therapeutics, AZTherapies, Cognito Therapeutics, CogRx, Denali, 
+      Eisai, LabCorp, Merry Life, Nervgen, Novo Nordisk, Optoceutics, Passage Bio, 
+      Pinteon Therapeutics, Prothena, Red Abbey Labs, reMYND, Roche, Samumed, Siemens 
+      Healthineers, Triplet Therapeutics, and Wave, and has given lectures sponsored by 
+      Alzecure, BioArctic, Biogen, Cellectricon, Fujirebio, Lilly, Novo Nordisk, Roche, 
+      and WebMD. K.B. has served as a consultant, on advisory boards, or on data 
+      monitoring committees for Abcam, Axon, Biogen, JOMDD/Shimadzu. Julius Clinical, 
+      Lilly, MagQu, Novartis, Roche Diagnostics, and Siemens Healthineers. H.Z. and 
+      K.B. are co‐founders of Brain Biomarker Solutions in Gothenburg AB, which is a 
+      part of the GU Ventures Incubator Program. C.J.B., P.Z., D.N., D.L., L.T.D., 
+      K.R.P., N.S., S.W., D.R., C.B., H.K., and K.A.G. have no conflicts of interest to 
+      disclose. Author disclosures are available in the supporting information.
+EDAT- 2025/09/19 06:31
+MHDA- 2025/09/19 12:51
+PMCR- 2025/09/19
+CRDT- 2025/09/19 05:53
+PHST- 2025/08/05 00:00 [revised]
+PHST- 2025/05/07 00:00 [received]
+PHST- 2025/08/06 00:00 [accepted]
+PHST- 2025/09/19 12:51 [medline]
+PHST- 2025/09/19 06:31 [pubmed]
+PHST- 2025/09/19 05:53 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - ALZ70651 [pii]
+AID - 10.1002/alz.70651 [doi]
+PST - ppublish
+SO  - Alzheimers Dement. 2025 Sep;21(9):e70651. doi: 10.1002/alz.70651.

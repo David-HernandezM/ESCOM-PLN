@@ -1,0 +1,98 @@
+PMID- 40975688
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1471-6771 (Electronic)
+IS  - 0007-0912 (Linking)
+DP  - 2025 Sep 19
+TI  - Association of nociplastic pain with executive function decline in a longitudinal 
+      cohort of middle-age adults.
+LID - S0007-0912(25)00530-6 [pii]
+LID - 10.1016/j.bja.2025.08.002 [doi]
+AB  - BACKGROUND: Patients with chronic pain, frequently report cognitive problems 
+      ('brain fog'), particulary those with nociplastic pain, which involves 
+      dysregulated pain processing. However, the association with objective executive 
+      dysfunction and decline over time is unclear. We examined whether nociplastic 
+      pain severity is associated with executive dysfunction and decline, and explored 
+      which factors, such as sex or associated non-pain symptoms, mediate this 
+      relationship. METHODS: We conducted a prospective cohort study using UK Biobank. 
+      Baseline cognitive assessments (2017-20), a pain questionnaire (2019), and 
+      follow-up cognitive assessments (2021-2) were analysed. Nociplastic pain severity 
+      was measured using the fibromyalgia index (0-31), a continuous measure of 
+      widespread pain and symptom severity. A latent executive function measure was 
+      derived using confirmatory factor analysis. Cross-sectional associations were 
+      examined using linear regression, and longitudinal structural equation modelling 
+      assessed cognitive decline. Mediation analysis evaluated indirect effects of 
+      abnormal sleep duration, anxiety, depression, brain fog, fatigue, and pain 
+      qualities. RESULTS: We included 35 423 participants (median age 65 yr; 52% 
+      female). Greater nociplastic pain severity was associated with worse executive 
+      function cross-sectionally (β=-0.49 centiles per 1 point increase in fibromyalgia 
+      index; 95% confidence interval -0.59 to -0.39), with a stronger effect in males. 
+      However, nociplastic pain severity was not associated with a faster rate of 
+      executive function decline. Abnormal sleep duration, anxiety, pain intensity, and 
+      neuropathic pain features partially mediated the cross-sectional association. 
+      CONCLUSIONS: Nociplastic pain severity is associated with worse executive 
+      function but reassuringly does not suggest worse cognitive decline. Abnormal 
+      sleep duration, anxiety, and pain intensity are highlighted as potential 
+      intervention targets.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Kelleher, Eoin M
+AU  - Kelleher EM
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK; 
+      Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General 
+      Hospital, Boston, MA, USA. Electronic address: ekelleher11@mgh.harvard.edu.
+FAU - Tai, Xin-You
+AU  - Tai XY
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.
+FAU - Schrepf, Andrew
+AU  - Schrepf A
+AD  - Chronic Pain and Fatigue Research Centre, University of Michigan, Ann Arbor, MI, 
+      USA.
+FAU - Rathod-Mistry, Trishna
+AU  - Rathod-Mistry T
+AD  - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, 
+      University of Oxford, Oxford, UK.
+FAU - Nichols, Thomas
+AU  - Nichols T
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK; 
+      Big Data Institute, Nuffield Department of Population Health, University of 
+      Oxford, Oxford, UK.
+FAU - Tracey, Irene
+AU  - Tracey I
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.
+FAU - Irani, Anushka
+AU  - Irani A
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK; 
+      Division of Rheumatology, Mayo Clinic Florida, Jacksonville, FL, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Br J Anaesth
+JT  - British journal of anaesthesia
+JID - 0372541
+SB  - IM
+OTO - NOTNLM
+OT  - UK Biobank
+OT  - chronic pain
+OT  - cognition
+OT  - epidemiology
+OT  - executive function
+OT  - nociplastic pain
+OT  - pain
+COIS- Declaration of interest EK was supported by a National Institute for Health 
+      Research (NIHR) Pfizer Doctoral Fellowship for this research project 
+      (NIHR301808). All other authors declare that they have no conflicts of interest.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 22:00
+PHST- 2025/05/02 00:00 [received]
+PHST- 2025/08/06 00:00 [revised]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 22:00 [entrez]
+AID - S0007-0912(25)00530-6 [pii]
+AID - 10.1016/j.bja.2025.08.002 [doi]
+PST - aheadofprint
+SO  - Br J Anaesth. 2025 Sep 19:S0007-0912(25)00530-6. doi: 10.1016/j.bja.2025.08.002.

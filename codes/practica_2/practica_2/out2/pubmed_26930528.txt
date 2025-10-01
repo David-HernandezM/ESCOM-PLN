@@ -1,0 +1,69 @@
+PMID- 26930528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160720
+LR  - 20160302
+IS  - 1555-2101 (Electronic)
+IS  - 0160-6689 (Linking)
+VI  - 77
+IP  - 2
+DP  - 2016 Feb
+TI  - Use of acetaminophen (paracetamol) during pregnancy and the risk of autism 
+      spectrum disorder in the offspring.
+PG  - e152-4
+LID - 10.4088/JCP.16f10637 [doi]
+AB  - Acetaminophen (paracetamol) is available over the counter in most countries and 
+      is widely considered to be safe for use during pregnancy; studies report 
+      gestational exposures to acetaminophen that lie in the 46%-65% range. 
+      Acetaminophen influences inflammatory and immunologic mechanisms and may 
+      predispose to oxidative stress; these and other effects are hypothesized to have 
+      the potential to compromise neurodevelopment in the fetal and infant brain. Two 
+      ecological studies suggested that population-level trends in the use of 
+      acetaminophen were associated with trends in the incidence/prevalence of autism; 
+      one of these studies specifically examined acetaminophen use during pregnancy. 
+      One large prospective observational cohort study found that gestational exposure 
+      to acetaminophen (especially when the duration of exposure was 28 days or more) 
+      was associated with motor milestone delay, gross and fine motor impairments, 
+      communication impairment, impairments in internalizing and externalizing 
+      behaviors, and hyperactivity, all at age 3 years; however, social and emotional 
+      developmental behaviors were mostly unaffected. A very recent large cohort study 
+      with a 12.7-year follow-up found that gestational exposure to acetaminophen was 
+      associated with an increased risk of autism spectrum disorder, but only when a 
+      hyperkinetic disorder was also present. In the light of existing data associating 
+      acetaminophen use during pregnancy and subsequent risk of 
+      attention-deficit/hyperactivity disorder, this new finding suggests that the 
+      predisposition, if any, is toward the hyperkinetic syndrome rather than to 
+      autism. In summary, the empirical data are very limited, but whatever empirical 
+      data exist do not support the suggestion that the use of acetaminophen during 
+      pregnancy increases the risk of autism in the offspring.
+CI  - © Copyright 2016 Physicians Postgraduate Press, Inc.
+FAU - Andrade, Chittaranjan
+AU  - Andrade C
+AD  - Department of Psychopharmacology, National Institute of Mental Health and 
+      Neurosciences, Bangalore, India candrade@psychiatrist.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/*adverse effects
+MH  - Analgesics, Non-Narcotic/*adverse effects
+MH  - Autism Spectrum Disorder/*chemically induced
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*chemically induced
+EDAT- 2016/03/02 06:00
+MHDA- 2016/07/21 06:00
+CRDT- 2016/03/02 06:00
+PHST- 2016/03/02 06:00 [entrez]
+PHST- 2016/03/02 06:00 [pubmed]
+PHST- 2016/07/21 06:00 [medline]
+AID - 10.4088/JCP.16f10637 [doi]
+PST - ppublish
+SO  - J Clin Psychiatry. 2016 Feb;77(2):e152-4. doi: 10.4088/JCP.16f10637.

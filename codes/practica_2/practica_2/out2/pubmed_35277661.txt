@@ -1,0 +1,92 @@
+PMID- 35277661
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220519
+LR  - 20221113
+IS  - 1759-5037 (Electronic)
+IS  - 1759-5029 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2022 Jun
+TI  - Reply to 'Paracetamol use in pregnancy - neglecting context promotes 
+      misinterpretation'.
+PG  - 386
+LID - 10.1038/s41574-022-00657-8 [doi]
+FAU - Bauer, Ann Z
+AU  - Bauer AZ
+AD  - Department of Public Health, University of Massachusetts Lowell, Lowell, MA, USA.
+FAU - Swan, Shanna H
+AU  - Swan SH
+AD  - Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+      at Mount Sinai, New York City, NY, USA.
+FAU - Kriebel, David
+AU  - Kriebel D
+AD  - Department of Public Health, University of Massachusetts Lowell, Lowell, MA, USA.
+FAU - Liew, Zeyan
+AU  - Liew Z
+AD  - Yale Center for Perinatal, Pediatric, and Environmental Epidemiology, Yale School 
+      of Public Health, New Haven, CT, USA.
+FAU - Taylor, Hugh S
+AU  - Taylor HS
+AD  - Department of Obstetrics, Gynecology and Reproductive Sciences, Yale School of 
+      Medicine, Yale-New Haven Hospital, New Haven, CT, USA.
+FAU - Bornehag, Carl-Gustaf
+AU  - Bornehag CG
+AD  - Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+      at Mount Sinai, New York City, NY, USA.
+AD  - Department of Health Sciences, Karlstad University, Karlstad, Sweden.
+FAU - Andrade, Anderson M
+AU  - Andrade AM
+AD  - Departamento de Fisiologia, Setor de Ciências Biológicas, UFPR, Curitiba, Brazil.
+FAU - Olsen, Jørn
+AU  - Olsen J
+AD  - Department of Public Health, Aarhus University, Aarhus, Denmark.
+FAU - Jensen, Rigmor H
+AU  - Jensen RH
+AUID- ORCID: 0000-0001-6433-5887
+AD  - Department of Neurology, Danish Headache Center, Rigshospitalet-Glostrup, 
+      University of Copenhagen, Copenhagen, Denmark.
+FAU - Mitchell, Rod T
+AU  - Mitchell RT
+AD  - MRC Centre for Reproductive Health, Queens Medical Research Institute, Edinburgh, 
+      UK.
+FAU - Skakkebaek, Niels E
+AU  - Skakkebaek NE
+AUID- ORCID: 0000-0002-4282-8020
+AD  - Department of Growth & Reproduction and EDMaRC, Rigshospitalet, University of 
+      Copenhagen, Copenhagen, Denmark.
+FAU - Kristensen, David M
+AU  - Kristensen DM
+AUID- ORCID: 0000-0003-0657-1632
+AD  - Department of Neurology, Danish Headache Center, Rigshospitalet-Glostrup, 
+      University of Copenhagen, Copenhagen, Denmark. david@moebjerg.com.
+AD  - Univ Rennes, Inserm, EHESP, Irset, Rennes, France. david@moebjerg.com.
+AD  - Department of Biology, University of Copenhagen, Copenhagen, Denmark. 
+      david@moebjerg.com.
+LA  - eng
+PT  - Comment
+PT  - Letter
+PL  - England
+TA  - Nat Rev Endocrinol
+JT  - Nature reviews. Endocrinology
+JID - 101500078
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CON - Nat Rev Endocrinol. 2021 Dec;17(12):757-766. doi: 10.1038/s41574-021-00553-7. 
+      PMID: 34556849
+CON - Nat Rev Endocrinol. 2022 Jun;18(6):385. doi: 10.1038/s41574-022-00656-9. PMID: 
+      35277662
+MH  - *Acetaminophen/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+EDAT- 2022/03/13 06:00
+MHDA- 2022/05/20 06:00
+CRDT- 2022/03/12 05:25
+PHST- 2022/03/13 06:00 [pubmed]
+PHST- 2022/05/20 06:00 [medline]
+PHST- 2022/03/12 05:25 [entrez]
+AID - 10.1038/s41574-022-00657-8 [pii]
+AID - 10.1038/s41574-022-00657-8 [doi]
+PST - ppublish
+SO  - Nat Rev Endocrinol. 2022 Jun;18(6):386. doi: 10.1038/s41574-022-00657-8.

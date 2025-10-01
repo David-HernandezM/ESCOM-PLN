@@ -1,0 +1,58 @@
+PMID- 27337284
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180111
+LR  - 20201209
+IS  - 2165-0497 (Electronic)
+IS  - 2165-0497 (Linking)
+VI  - 3
+IP  - 6
+DP  - 2015 Dec
+TI  - Diseases Transmitted by Man's Worst Friend: the Rat.
+LID - 10.1128/microbiolspec.IOL5-0015-2015 [doi]
+AB  - Historically, the rat has been considered a scourge to mankind, for example, rats 
+      infected with the plague bacillus that caused the Black Death, which accounted 
+      for millions of deaths in Europe during the Middle Ages. At least three pandemics 
+      (in the 5th and 6th, 8th through 14th, and 19th through 21st centuries) of plague 
+      ravaged civilizations, and the disease undoubtedly plagued humankind prior to 
+      recorded history. Also, numerous other diseases are spread to humans by rats; 
+      thus, a quote from Hans Zinsser's text Rats, Lice, and History, "Man and rat will 
+      always be pitted against each other as implacable enemies," conveys the general 
+      revulsion that society holds for the wild rat.
+FAU - Fox, James G
+AU  - Fox JG
+AD  - Division of Comparative Medicine, MIT, Cambridge, MA 02139.
+LA  - eng
+PT  - Historical Article
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Microbiol Spectr
+JT  - Microbiology spectrum
+JID - 101634614
+SB  - IM
+MH  - Animals
+MH  - Europe/epidemiology
+MH  - History, 15th Century
+MH  - History, 16th Century
+MH  - History, 17th Century
+MH  - History, 18th Century
+MH  - History, 19th Century
+MH  - History, 20th Century
+MH  - History, 21st Century
+MH  - History, Ancient
+MH  - History, Medieval
+MH  - Humans
+MH  - Plague/epidemiology/microbiology/*transmission
+MH  - Rats
+MH  - Yersinia pestis/physiology
+MH  - Zoonoses/epidemiology/microbiology/*transmission
+EDAT- 2016/06/24 06:00
+MHDA- 2016/06/24 06:01
+CRDT- 2016/06/24 06:00
+PHST- 2016/06/24 06:00 [entrez]
+PHST- 2016/06/24 06:00 [pubmed]
+PHST- 2016/06/24 06:01 [medline]
+AID - 10.1128/microbiolspec.IOL5-0015-2015 [doi]
+PST - ppublish
+SO  - Microbiol Spectr. 2015 Dec;3(6). doi: 10.1128/microbiolspec.IOL5-0015-2015.

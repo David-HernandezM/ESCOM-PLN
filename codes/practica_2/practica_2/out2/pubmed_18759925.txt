@@ -1,0 +1,95 @@
+PMID- 18759925
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081103
+LR  - 20220330
+IS  - 1600-065X (Electronic)
+IS  - 0105-2896 (Linking)
+VI  - 224
+DP  - 2008 Aug
+TI  - Cell intrinsic mechanisms of T-cell inhibition and application to cancer therapy.
+PG  - 141-65
+LID - 10.1111/j.1600-065X.2008.00649.x [doi]
+AB  - Establishing a balance between the rapid generation of effective immunity and the 
+      production of overly exuberant or excessively prolonged responses is critical to 
+      the maintenance of the equilibrium between health and disease. The preservation 
+      of homeostasis and prevention of inappropriate activation of immunity is 
+      safeguarded by systems integrating the influences of T-cell receptor signaling, 
+      pro-inflammatory danger signals, and positive costimulatory signals on the one 
+      hand with those of several layers of both cell-intrinsic and cell-extrinsic 
+      inhibitory checkpoints on the other. Evolution has thus provided an immunological 
+      system capable of clearance of pathogens and infected cells but which generally 
+      avoids the severe collateral damage that is associated with failure to control 
+      immunity. Central tolerance to self-antigens constitutes the first line of 
+      defense against self-destruction. Because central tolerance mechanisms fail to 
+      eliminate all self-reactive immune effector cells, other immune-regulating 
+      (peripheral tolerance) mechanisms are required to prevent excessive immune 
+      responses. Dysfunction of these inhibitory pathways in terms of reduced activity 
+      can result in the unmasking of self-directed responses and a variety of 
+      autoimmune morbidities. Conversely, enhanced inhibitory activity can restrict the 
+      generation of clinically useful immunity to cancers and to chronic infectious 
+      pathogens. This may manifest not only as inhibition of immunity directed towards 
+      what are largely aberrantly or overexpressed 'self' targets on malignant cells 
+      but also additional exaggeration of inhibitory pathway activity mediated via 
+      upregulation on tumor cells or stromal tissues of the ligands for inhibitory 
+      receptors expressed by lymphocytes. The selective pressures exerted by 
+      immuno-editing will favor the outgrowth of such immuno-evasive malignant clones. 
+      These pathways therefore represent significant hurdles to the generation of 
+      therapeutic anti-cancer responses. The most active of the T-cell intrinsic 
+      inhibitory pathways belong to the immunoglobulin superfamily, which occupies a 
+      central importance in the coordination of immune responses. The CD28/cytotoxic 
+      T-lymphocyte antigen-4 (CTLA-4):B7-1/B7-2 receptor/ligand grouping represents the 
+      archetypal example of these immune regulators. Therapies aimed at overcoming 
+      these mechanisms of peripheral tolerance, in particular by blocking the 
+      inhibitory checkpoints, offer the potential to generate anti-tumor activity, 
+      either as monotherapies or in synergism with other therapies that directly or 
+      indirectly enhance presentation of tumor epitopes to the immune system.
+FAU - Peggs, Karl S
+AU  - Peggs KS
+AD  - Department of Haematology, UCL Cancer Institute, University College London, 
+      London, UK.
+FAU - Quezada, Sergio A
+AU  - Quezada SA
+FAU - Allison, James P
+AU  - Allison JP
+LA  - eng
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Immunol Rev
+JT  - Immunological reviews
+JID - 7702118
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antigens, CD)
+RN  - 0 (CD28 Antigens)
+RN  - 0 (CTLA-4 Antigen)
+RN  - 0 (CTLA4 protein, human)
+SB  - IM
+MH  - Animals
+MH  - Antibodies, Monoclonal/*therapeutic use
+MH  - Antigens, CD/immunology/*metabolism
+MH  - CD28 Antigens/immunology/*metabolism
+MH  - CTLA-4 Antigen
+MH  - Clinical Trials as Topic
+MH  - Drug Evaluation, Preclinical
+MH  - Feedback, Physiological/immunology
+MH  - Humans
+MH  - Immunotherapy
+MH  - Neoplasms/immunology/*therapy
+MH  - Self Tolerance/immunology
+MH  - Signal Transduction/*immunology
+MH  - T-Lymphocytes/*immunology/metabolism
+MH  - Tumor Escape/immunology
+RF  - 207
+EDAT- 2008/09/02 09:00
+MHDA- 2008/11/04 09:00
+CRDT- 2008/09/02 09:00
+PHST- 2008/09/02 09:00 [pubmed]
+PHST- 2008/11/04 09:00 [medline]
+PHST- 2008/09/02 09:00 [entrez]
+AID - IMR649 [pii]
+AID - 10.1111/j.1600-065X.2008.00649.x [doi]
+PST - ppublish
+SO  - Immunol Rev. 2008 Aug;224:141-65. doi: 10.1111/j.1600-065X.2008.00649.x.

@@ -1,0 +1,136 @@
+PMID- 40983344
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2051-1426 (Electronic)
+IS  - 2051-1426 (Linking)
+VI  - 13
+IP  - 9
+DP  - 2025 Sep 21
+TI  - Autophagy inhibition improves the efficacy of anlotinib and PD-1 inhibitors in 
+      the treatment of NSCLC.
+LID - e010812 [pii]
+LID - 10.1136/jitc-2024-010812 [doi]
+AB  - BACKGROUND: Cancer-associated fibroblasts (CAFs) are major non-tumor cellular 
+      components of the tumor microenvironment (TME) and are closely related to immune 
+      suppression. The enhancement of anti-programmed cell death protein-1 (PD-1) 
+      efficacy by antiangiogenic tyrosine kinase receptor inhibitors (TKIs) is partly 
+      due to the elimination of CAFs, which improves the immunosuppressive 
+      microenvironment. However, it remains unclear whether antiangiogenic TKIs 
+      regulate the autophagy of CAFs, thereby affecting the immunotherapy response. 
+      METHODS: We first examined the effects of autophagy inhibition and anlotinib on 
+      the TME and immunotherapy response via animal experiments. Then, CAF models were 
+      established in vitro. The effects and mechanisms of autophagy inhibition on the 
+      efficacy of anlotinib and CAFs were further explored in vitro. To specifically 
+      validate the role of CAF autophagy, we additionally constructed LLC tumor-bearing 
+      mouse models co-implanted with CAFs transfected with ATG5-targeting siRNA or 
+      non-targeting control siRNA. RESULTS: In anti-PD-1-resistant (LLC) and CAF-rich 
+      (LA795+MSC) non-small cell lung cancer models, the autophagy inhibitor 
+      chloroquine significantly enhanced anlotinib+anti-PD-1 efficacy-likely by 
+      inducing more apoptosis of CAFs and M2 macrophages, reshaping the TME to promote 
+      CD8+T cell infiltration. After ATG5 knockdown (autophagy inhibition) in CAFs, the 
+      efficacy-enhancing effect of anti-PD-1 therapy was significantly attenuated 
+      versus control, confirming CAF autophagy is core to TME regulation. In vitro, 
+      anlotinib induced CAF autophagy via AKT/mTOR inhibition; inhibiting CAF autophagy 
+      enhanced anlotinib-induced CAF apoptosis and impaired CAFs' ability to recruit M2 
+      macrophages. CONCLUSIONS: Autophagy inhibition enhances the effects of 
+      antiangiogenic TKIs on tumor cells and CAFs and directly or indirectly regulates 
+      the TME, which might explain why autophagy inhibition enhances the efficacy of 
+      antiangiogenic TKIs combined with anti-PD-1 therapy.
+CI  - © Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ Group.
+FAU - Tang, Hui
+AU  - Tang H
+AUID- ORCID: 0000-0001-8870-6726
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - Department of Internal Medicine, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+FAU - You, Tingting
+AU  - You T
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - Department of Internal Medicine, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+FAU - Ge, Hui
+AU  - Ge H
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+FAU - Bai, Chunmei
+AU  - Bai C
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China 
+      baichunmei@pumch.cn wangyingyi@pumch.cn Jessiesz@126.com hanqin@ibms.pumc.edu.cn 
+      zhaochunhua@vip.163.com.
+FAU - Wang, Yingyi
+AU  - Wang Y
+AUID- ORCID: 0000-0003-1704-4643
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China 
+      baichunmei@pumch.cn wangyingyi@pumch.cn Jessiesz@126.com hanqin@ibms.pumc.edu.cn 
+      zhaochunhua@vip.163.com.
+FAU - Sun, Zhao
+AU  - Sun Z
+AD  - Department of Medical Oncology, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China 
+      baichunmei@pumch.cn wangyingyi@pumch.cn Jessiesz@126.com hanqin@ibms.pumc.edu.cn 
+      zhaochunhua@vip.163.com.
+FAU - Han, Qin
+AU  - Han Q
+AD  - Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School 
+      of Basic Medicine Peking Union Medical College, Peking Union Medical College 
+      Hospital, Center of Excellence in Tissue Engineering Chinese Academy of Medical 
+      Sciences, Beijing Key Laboratory, Beijing, China baichunmei@pumch.cn 
+      wangyingyi@pumch.cn Jessiesz@126.com hanqin@ibms.pumc.edu.cn 
+      zhaochunhua@vip.163.com.
+FAU - Zhao, Robert Chunhua
+AU  - Zhao RC
+AD  - Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School 
+      of Basic Medicine Peking Union Medical College, Peking Union Medical College 
+      Hospital, Center of Excellence in Tissue Engineering Chinese Academy of Medical 
+      Sciences, Beijing Key Laboratory, Beijing, China baichunmei@pumch.cn 
+      wangyingyi@pumch.cn Jessiesz@126.com hanqin@ibms.pumc.edu.cn 
+      zhaochunhua@vip.163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - J Immunother Cancer
+JT  - Journal for immunotherapy of cancer
+JID - 101620585
+RN  - 0 (anlotinib)
+RN  - 0 (Quinolines)
+RN  - 0 (Indoles)
+RN  - 0 (Programmed Cell Death 1 Receptor)
+RN  - 0 (Immune Checkpoint Inhibitors)
+SB  - IM
+MH  - Animals
+MH  - *Carcinoma, Non-Small-Cell Lung/drug therapy/pathology
+MH  - Mice
+MH  - *Autophagy/drug effects
+MH  - Humans
+MH  - *Quinolines/pharmacology/therapeutic use
+MH  - *Lung Neoplasms/drug therapy/pathology
+MH  - *Indoles/pharmacology/therapeutic use
+MH  - *Programmed Cell Death 1 Receptor/antagonists & inhibitors
+MH  - Cell Line, Tumor
+MH  - *Immune Checkpoint Inhibitors/pharmacology/therapeutic use
+MH  - Tumor Microenvironment/drug effects
+MH  - Cancer-Associated Fibroblasts/drug effects/metabolism
+OTO - NOTNLM
+OT  - Immunotherapy
+OT  - Lung Cancer
+OT  - Tumor Microenvironment
+COIS- Competing interests: No, there are no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 20:33
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 20:33 [entrez]
+AID - jitc-2024-010812 [pii]
+AID - 10.1136/jitc-2024-010812 [doi]
+PST - epublish
+SO  - J Immunother Cancer. 2025 Sep 21;13(9):e010812. doi: 10.1136/jitc-2024-010812.

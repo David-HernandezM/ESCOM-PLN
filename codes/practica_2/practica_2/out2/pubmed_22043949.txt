@@ -1,0 +1,43 @@
+PMID- 22043949
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120221
+LR  - 20181201
+IS  - 1744-8395 (Electronic)
+IS  - 1476-0584 (Linking)
+VI  - 10
+IP  - 11
+DP  - 2011 Nov
+TI  - HPV vaccines: what remains to be done? Interview by Lauren Constable.
+PG  - 1505-7
+LID - 10.1586/erv.11.128 [doi]
+FAU - Zur Hausen, Harald
+AU  - Zur Hausen H
+LA  - eng
+PT  - Interview
+PL  - England
+TA  - Expert Rev Vaccines
+JT  - Expert review of vaccines
+JID - 101155475
+RN  - 0 (Papillomavirus Vaccines)
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Papillomaviridae/genetics/immunology/isolation & purification
+MH  - Papillomavirus Infections/complications/*epidemiology/*prevention & control
+MH  - Papillomavirus Vaccines/administration & dosage/*adverse effects/*immunology
+MH  - Uterine Cervical Neoplasms/*epidemiology/*prevention & control/virology
+MH  - Vaccination/psychology/*statistics & numerical data
+MH  - Young Adult
+EDAT- 2011/11/03 06:00
+MHDA- 2012/02/22 06:00
+CRDT- 2011/11/03 06:00
+PHST- 2011/11/03 06:00 [entrez]
+PHST- 2011/11/03 06:00 [pubmed]
+PHST- 2012/02/22 06:00 [medline]
+AID - 10.1586/erv.11.128 [doi]
+PST - ppublish
+SO  - Expert Rev Vaccines. 2011 Nov;10(11):1505-7. doi: 10.1586/erv.11.128.

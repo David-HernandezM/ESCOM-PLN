@@ -1,0 +1,106 @@
+PMID- 40975907
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1879-260X (Electronic)
+IS  - 0925-4439 (Linking)
+VI  - 1872
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Curcumin protects against PIICS-induced liver injury by suppressing iron-induced 
+      lipid peroxidation: Insights from network pharmacology and experimental 
+      validation.
+PG  - 168053
+LID - S0925-4439(25)00401-6 [pii]
+LID - 10.1016/j.bbadis.2025.168053 [doi]
+AB  - BACKGROUND: Persistent inflammation, immunosuppression, and catabolism syndrome 
+      (PIICS) drives severe metabolic dysregulation and hepatic injury, characterized 
+      by hepatocyte damage and fibrosis. While curcumin (CUR) exhibits hepatoprotective 
+      properties, its role in PIICS-induced liver injury remains unexplored. METHODS: 
+      This study investigates the efficacy and mechanisms of CUR against PIICS-induced 
+      hepatic damage. Murine PIICS models underwent hepatic histopathology (H&E 
+      staining, TEM), RNA sequencing, and targeted metabolomics to identify injury 
+      markers. CUR's effects were assessed via biochemical, transcriptomic, and 
+      metabolomic analyses. Network pharmacology, molecular docking, and qPCR were 
+      employed to validate CUR targets. RESULTS: PIICS mice exhibited elevated serum 
+      ALT, AST, IL-6, and TNF-α levels, alongside histopathological evidence of 
+      inflammatory infiltration. Transcriptomics revealed dysregulation in lipid 
+      metabolism, redox homeostasis, and iron-binding pathways. Metabolomics identified 
+      hepatic polyunsaturated fatty acid (PUFA) depletion, increased ferrous ions, 
+      lipid peroxidation (4-HNE, MDA), and reduced antioxidants (GSH, SOD). CUR 
+      treatment alleviated liver injury, restored redox balance, and suppressed 
+      ferroptosis markers. Integrated analyses demonstrated that CUR targets 
+      ferroptosis-related pathways, modulating lipid metabolism, iron homeostasis, and 
+      oxidative stress. CONCLUSION: CUR mitigates PIICS-induced liver injury by 
+      counteracting ferroptosis through modulation of lipid metabolism, iron 
+      homeostasis, and oxidative stress, offering a promising therapeutic strategy.
+CI  - Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Chen, Jiawen
+AU  - Chen J
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Drum Tower 
+      Clinical College, Nanjing University of Chinese Medicine, Nanjing, China.
+FAU - Liu, Jiali
+AU  - Liu J
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China.
+FAU - Wang, Gang
+AU  - Wang G
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China.
+FAU - Liang, Xinran
+AU  - Liang X
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Drum Tower 
+      Clinical College, Nanjing University of Chinese Medicine, Nanjing, China.
+FAU - Xue, Yuanbo
+AU  - Xue Y
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Drum Tower 
+      Clinical College, Nanjing University of Chinese Medicine, Nanjing, China.
+FAU - Chen, Ming
+AU  - Chen M
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China.
+FAU - Chen, Xiancheng
+AU  - Chen X
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China.
+FAU - Duan, Jianfeng
+AU  - Duan J
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China. Electronic 
+      address: 131230006@smail.nju.edu.cn.
+FAU - Yu, Wenkui
+AU  - Yu W
+AD  - Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Drum Tower 
+      Clinical College, Nanjing University of Chinese Medicine, Nanjing, China; 
+      Department of Critical Care Medicine, Nanjing Drum Tower Hospital, Affiliated 
+      Hospital of Medical School, Nanjing University, Nanjing, China. Electronic 
+      address: yudrnj2@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - Netherlands
+TA  - Biochim Biophys Acta Mol Basis Dis
+JT  - Biochimica et biophysica acta. Molecular basis of disease
+JID - 101731730
+SB  - IM
+OTO - NOTNLM
+OT  - Curcumin
+OT  - Ferroptosis
+OT  - Lipid peroxidation
+OT  - Network pharmacology
+OT  - PIICS
+COIS- Declaration of competing interest The authors declare no competing interests.
+EDAT- 2025/09/21 18:29
+MHDA- 2025/09/21 18:29
+CRDT- 2025/09/21 17:59
+PHST- 2025/06/02 00:00 [received]
+PHST- 2025/08/13 00:00 [revised]
+PHST- 2025/09/10 00:00 [accepted]
+PHST- 2025/09/21 18:29 [medline]
+PHST- 2025/09/21 18:29 [pubmed]
+PHST- 2025/09/21 17:59 [entrez]
+AID - S0925-4439(25)00401-6 [pii]
+AID - 10.1016/j.bbadis.2025.168053 [doi]
+PST - aheadofprint
+SO  - Biochim Biophys Acta Mol Basis Dis. 2025 Sep 19;1872(1):168053. doi: 
+      10.1016/j.bbadis.2025.168053.

@@ -1,0 +1,116 @@
+PMID- 40977256
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1879-0844 (Electronic)
+IS  - 1388-9842 (Linking)
+DP  - 2025 Sep 22
+TI  - Effect of glucagon-like peptide-1 receptor agonists on heart failure outcomes and 
+      cardiovascular death across varying cardiovascular-kidney-metabolic comorbidity.
+LID - 10.1002/ejhf.70048 [doi]
+AB  - AIMS: Effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on heart 
+      failure hospitalization (HFH) and cardiovascular (CV) death among patients with 
+      varying overlap of cardiovascular-kidney-metabolic (CKM) comorbidity are not well 
+      characterized. This study aimed to assess effects GLP-1RAs on HFH and CV death 
+      across populations with varying type and number of CKM comorbidity. METHODS AND 
+      RESULTS: Online databases were queried through November 2024 for primary and 
+      secondary analyses of clinical outcome trials of GLP-1RAs in patients with heart 
+      failure (HF), type 2 diabetes mellitus (T2DM), chronic kidney disease (CKD), 
+      obesity, and combinations of these diseases. Primary outcome was a composite HFH 
+      or CV death. Secondary outcomes were first HFH and CV death. Hazard ratios (HRs), 
+      risk ratios (RRs), and their 95% confidence intervals (CI) were derived using 
+      random-effects models. Fifteen trials (n = 87 549) were included. Compared with 
+      placebo, GLP-1RAs reduced the relative risk of composite HFH/CV death in HF (HR 
+      0.81, 95% CI 0.69-0.96), T2DM (HR 0.85, 95% CI 0.78-0.93), and obesity (HR 0.70, 
+      95% CI 0.58-0.86), with a non-significant risk reduction in CKD (HR 0.79, 95% CI 
+      0.61-1.01). GLP-1RAs reduced the risk of HFH in T2DM (HR 0.89, 95% CI 0.80-0.99) 
+      and obesity (HR 0.63, 95% CI 0.45-0.87), with a non-significant risk reduction 
+      among patients with HF (HR 0.85, 95% CI 0.69-1.04) and CKD (HR 0.82, 95% CI 
+      0.64-1.06). GLP-1RAs also significantly reduced CV death in HF (HR 0.88, 95% CI 
+      0.77-0.99), T2DM (HR 0.85, 95% CI 0.78-0.93), and in obesity (HR 0.83, 95% CI 
+      0.73-0.93), with a non-significant risk reduction in CKD (HR 0.80, 95% CI 
+      0.60-1.08). Effects were consistent across subgroups, except for HF with reduced 
+      ejection fraction (HFrEF), where GLP-1RAs showed a non-significant risk increase 
+      in HFH (HR 1.17, 95% CI 0.93-1.47) but significantly reduced CV death (HR 0.67, 
+      95% CI 0.50-0.90). GLP-1RAs were not associated with increased risk for serious 
+      adverse events (RR 0.94, 95% CI 0.89-1.00). CONCLUSIONS: Glucagon-like peptide-1 
+      receptor agonists reduce HFH and CV death across CKM conditions, with generally 
+      consistent effects in varying combinations of these diseases. The potential 
+      exception is among patients with HFrEF, where a reduction in risk of CV death, 
+      but a numeric increase in HFH, was observed. Definitive CV outcome trials are 
+      needed to definitively determine effects of GLP-1RAs in patients with established 
+      HFrEF.
+CI  - © 2025 European Society of Cardiology.
+FAU - Siddiqi, Tariq Jamal
+AU  - Siddiqi TJ
+AD  - Department of Internal Medicine, Baylor University Medical Center, Dallas, TX, 
+      USA.
+FAU - Khan, Muhammad Shahzeb
+AU  - Khan MS
+AD  - Baylor College of Medicine, Temple, TX, USA.
+AD  - Baylor Scott and White Heart Hospital, Plano, TX, USA.
+AD  - Baylor Scott and White Research Institute, Baylor Scott and White Health, Dallas, 
+      TX, USA.
+FAU - Waqas, Saad Ahmed
+AU  - Waqas SA
+AD  - Department of Medicine, Dow University of Health Sciences, Karachi, Pakistan.
+FAU - Van Spall, Harriette G C
+AU  - Van Spall HGC
+AD  - Division of Cardiology, Department of Medicine, McMaster University, Hamilton, 
+      ON, Canada.
+FAU - Shapiro, Michael D
+AU  - Shapiro MD
+AD  - Center for the Prevention of Cardiovascular Disease, Section on Cardiovascular 
+      Medicine, Wake Forest University School of Medicine, Winston-Salem, NC, USA.
+FAU - Fonarow, Gregg C
+AU  - Fonarow GC
+AD  - Ahmanson-UCLA Cardiomyopathy Center, Ronald Reagan-UCLA Medical Center, Los 
+      Angeles, CA, USA.
+FAU - Januzzi, James L
+AU  - Januzzi JL
+AD  - Cardiology Division, Massachusetts General Hospital, Boston, MA, USA.
+AD  - Baim Institute for Clinical Research, Boston, MA, USA.
+FAU - Afzal, Aasim M
+AU  - Afzal AM
+AD  - Baylor Scott and White Heart Hospital, Plano, TX, USA.
+FAU - Pandey, Ambarish
+AU  - Pandey A
+AD  - Department of Internal Medicine, University of Texas Southwestern Medical Center, 
+      Dallas, TX, USA.
+FAU - Butler, Javed
+AU  - Butler J
+AD  - Baylor Scott and White Research Institute, Baylor Scott and White Health, Dallas, 
+      TX, USA.
+AD  - Department of Medicine, University of Mississippi Medical Center, Jackson, MS, 
+      USA.
+FAU - Greene, Stephen J
+AU  - Greene SJ
+AD  - Division of Cardiology, Duke University School of Medicine, Durham, NC, USA.
+AD  - Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Eur J Heart Fail
+JT  - European journal of heart failure
+JID - 100887595
+SB  - IM
+OTO - NOTNLM
+OT  - Chronic kidney disease
+OT  - Diabetes
+OT  - GLP‐1 receptor agonists
+OT  - Heart failure
+OT  - Obesity
+EDAT- 2025/09/22 06:31
+MHDA- 2025/09/22 06:31
+CRDT- 2025/09/22 03:33
+PHST- 2025/08/26 00:00 [revised]
+PHST- 2025/02/28 00:00 [received]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/22 06:31 [medline]
+PHST- 2025/09/22 06:31 [pubmed]
+PHST- 2025/09/22 03:33 [entrez]
+AID - 10.1002/ejhf.70048 [doi]
+PST - aheadofprint
+SO  - Eur J Heart Fail. 2025 Sep 22. doi: 10.1002/ejhf.70048.

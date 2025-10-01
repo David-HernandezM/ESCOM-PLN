@@ -1,0 +1,146 @@
+PMID- 40976252
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2468-1253 (Electronic)
+DP  - 2025 Sep 18
+TI  - Reducing alcohol-associated liver disease burden in the general population.
+LID - S2468-1253(25)00193-1 [pii]
+LID - 10.1016/S2468-1253(25)00193-1 [doi]
+AB  - The prevalence of alcohol use disorder (AUD) and alcohol-associated liver disease 
+      (ALD) is rising. The National Institute on Alcohol Abuse and Alcoholism organised 
+      a multistakeholder workshop focused on reducing the burden of ALD. Decreasing ALD 
+      morbidity and mortality requires a multipronged approach, including increased 
+      population-based screening for AUD, early recognition of ALD, and 
+      multidisciplinary treatment. Recommended screening tools for alcohol use include 
+      the alcohol use disorders identification test for consumption (AUDIT-C). In 
+      patients with elevated AUDIT-C scores (AUDIT-C score of ≥3 points in women, ≥4 
+      points in men), screening for fibrosis is recommended using non-invasive 
+      blood-based tests, such as the Fibrosis-4 index. Sequential testing using 
+      blood-based and imaging-based non-invasive liver disease assessment is preferred 
+      to blood-based tests alone to increase the positive predictive value of referral 
+      pathways. Screening, brief intervention, and referral to treatment are effective 
+      for reducing unhealthy alcohol use among adults who are not alcohol dependent. 
+      Integrated care models that incorporate mental health treatment into general 
+      medical settings are crucial for AUD and ALD. Emerging care models, such as 
+      multidisciplinary ALD clinics and substance use navigators, can improve patient 
+      engagement and outcomes. Markers of success include a reduction in per capita 
+      alcohol consumption, declines in morbidity and mortality related to AUD and ALD, 
+      and a decrease in health-care costs.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Asrani, Sumeet K
+AU  - Asrani SK
+AD  - Baylor University Medical Center, Dallas, TX, USA. Electronic address: 
+      Sumeet.Asrani@BSWHealth.org.
+FAU - Mellinger, Jessica
+AU  - Mellinger J
+AD  - Henry Ford Hospital, Detroit, MI, USA.
+FAU - Sterling, Stacy
+AU  - Sterling S
+AD  - Kaiser Permanente, Oakland, CA, USA.
+FAU - Lucey, Michael R
+AU  - Lucey MR
+AD  - University of Wisconsin, Madison, WI, USA.
+FAU - Bradley, Katharine A
+AU  - Bradley KA
+AD  - Kaiser Permanente Washington Health Research Institute, Seattle, WA, USA.
+FAU - Bhala, Neeraj
+AU  - Bhala N
+AD  - University of Nottingham, Nottingham, UK; University of Melbourne, Parkville, 
+      VIC, Australia.
+FAU - Bray, Jeremy
+AU  - Bray J
+AD  - University of North Carolina Greensboro, Greensboro, NC, USA.
+FAU - Chen, Po-Hung
+AU  - Chen PH
+AD  - Johns Hopkins University, Baltimore, MD, USA.
+FAU - DiMartini, Andrea
+AU  - DiMartini A
+AD  - University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Fernandez, Anne
+AU  - Fernandez A
+AD  - University of Michigan, Ann Arbor, MI, USA.
+FAU - Ghadiali, Murtuza
+AU  - Ghadiali M
+AD  - Kaiser Permanente, San Francisco, CA, USA.
+FAU - Haque, Lamia Y
+AU  - Haque LY
+AD  - Yale University, New Haven, CT, USA.
+FAU - Khalili, Mandana
+AU  - Khalili M
+AD  - Baylor University Medical Center, Dallas, TX, USA.
+FAU - Lee, Brian
+AU  - Lee B
+AD  - University of Southern California, Los Angeles, CA, USA.
+FAU - Lin, Lewei Allison
+AU  - Lin LA
+AD  - University of Michigan, Ann Arbor, MI, USA.
+FAU - Pillai, Anjana A
+AU  - Pillai AA
+AD  - University of Chicago, Chicago, IL, USA.
+FAU - Satre, Derek D
+AU  - Satre DD
+AD  - Department of Psychiatry and Behavioral Sciences, University of California, San 
+      Francisco, CA, USA; Division of Research, Kaiser Permanente Northern California, 
+      Pleasanton, CA, USA.
+FAU - Sengupta, Shreya
+AU  - Sengupta S
+AD  - Cleveland Clinic, Cleveland, OH, USA.
+FAU - Serper, Marina
+AU  - Serper M
+AD  - University of Pennsylvania, Philadelphia, PA, USA.
+FAU - Simonetto, Doug
+AU  - Simonetto D
+AD  - Mayo Clinic College of Medicine, Rochester, MN, USA.
+FAU - Thiele, Maja
+AU  - Thiele M
+AD  - Odense University Hospital, Odense, Denmark.
+FAU - Welsh, Justine
+AU  - Welsh J
+AD  - Emory University, Atlanta, GA, USA.
+FAU - Wu, Tiffany
+AU  - Wu T
+AD  - Mayo Clinic College of Medicine, Rochester, MN, USA.
+FAU - Zsohar, Jeffrey
+AU  - Zsohar J
+AD  - Baylor University Medical Center, Dallas, TX, USA.
+FAU - Shah, Vijay H
+AU  - Shah VH
+AD  - Mayo Clinic College of Medicine, Rochester, MN, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250918
+PL  - Netherlands
+TA  - Lancet Gastroenterol Hepatol
+JT  - The lancet. Gastroenterology & hepatology
+JID - 101690683
+SB  - IM
+COIS- Declaration of interests MK is a recipient of research grants (to her 
+      institution) from Gilead Sciences and Intercept Pharmaceuticals, and she has 
+      served as a consultant for Gilead Sciences, GlaxoSmithKline (GSK), and Resolution 
+      Therapeutics. MT is funded by a grant from the Novo Nordisk Foundation (DECIDE, 
+      grant number NNF20OC0059393); has received a speaker's fee from Echosens, 
+      Madrigal, Takeda, and Novo Nordisk; has received an advisory fee from Boehringer 
+      Ingelheim, AstraZeneca, Novo Nordisk, and GSK; has received a research grant from 
+      GSK; and is cofounder of Evido and is a board member for Alcohol & Society 
+      (non-governmental organisation). AAP serves or served on the Medical Advisory 
+      Boards for AstraZeneca, Genentech, Boston Scientific, Eisai, Exelixis, Sirtex, 
+      and Replimune (data safety monitoring). JM consults for GSK and Novo Nordisk. BL 
+      consults for GSK, Novo Nordisk, Altimmune, Ipsen, DURECT, HepaTx, Assertio, and 
+      Gilead. All other authors declare no competing interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:57
+PHST- 2025/03/10 00:00 [received]
+PHST- 2025/06/03 00:00 [revised]
+PHST- 2025/06/09 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:57 [entrez]
+AID - S2468-1253(25)00193-1 [pii]
+AID - 10.1016/S2468-1253(25)00193-1 [doi]
+PST - aheadofprint
+SO  - Lancet Gastroenterol Hepatol. 2025 Sep 18:S2468-1253(25)00193-1. doi: 
+      10.1016/S2468-1253(25)00193-1.

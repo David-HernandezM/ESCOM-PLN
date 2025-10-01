@@ -1,0 +1,105 @@
+PMID- 26688372
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180126
+LR  - 20220408
+IS  - 1939-3806 (Electronic)
+IS  - 1939-3806 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2016 Sep
+TI  - Maternal use of acetaminophen during pregnancy and risk of autism spectrum 
+      disorders in childhood: A Danish national birth cohort study.
+PG  - 951-8
+LID - 10.1002/aur.1591 [doi]
+AB  - Acetaminophen (paracetamol) is the most commonly used pain and fever medication 
+      during pregnancy. Previously, a positive ecological correlation between 
+      acetaminophen use and autism spectrum disorders (ASD) has been reported but 
+      evidence from larger studies based on prospective data is lacking. We followed 
+      64,322 children and mothers enrolled in the Danish National Birth Cohort (DNBC; 
+      1996-2002) for average 12.7 years to investigate whether acetaminophen use in 
+      pregnancy is associated with increased risk of ASD in the offspring. Information 
+      on acetaminophen use was collected prospectively from three computer-assisted 
+      telephone interviews. We used records from the Danish hospital and psychiatric 
+      registries to identify diagnoses of ASD. At the end of follow up, 1,027 (1.6%) 
+      children were diagnosed with ASD, 345 (0.5%) with infantile autism. We found that 
+      31% of ASD (26% of infantile autism) have also been diagnosed with hyperkinetic 
+      disorders. More than 50% women reported ever using acetaminophen in pregnancy. We 
+      used Cox proportional hazards model to estimate hazard ratio (HR) and 95% 
+      confident interval (CI). Prenatal use of acetaminophen was associated with an 
+      increased risk of ASD accompanied by hyperkinetic symptoms (HR = 1.51 95% CI 
+      1.19-1.92), but not with other ASD cases (HR = 1.06 95% CI 0.92-1.24). Longer 
+      duration of use (i.e., use for >20 weeks in gestation) increased the risk of ASD 
+      or infantile autism with hyperkinetic symptoms almost twofold. Maternal use of 
+      acetaminophen in pregnancy was associated with ASD with hyperkinetic symptoms 
+      only, suggesting acetaminophen exposure early in fetal life may specifically 
+      impact this hyperactive behavioral phenotype. Autism Res 2016, 9: 951-958. © 2015 
+      International Society for Autism Research, Wiley Periodicals, Inc.
+CI  - © 2015 International Society for Autism Research, Wiley Periodicals, Inc.
+FAU - Liew, Zeyan
+AU  - Liew Z
+AD  - Department of Epidemiology, Fielding School of Public Health, University of 
+      California, Los Angeles (UCLA), California. zeyanliew@ucla.edu.
+FAU - Ritz, Beate
+AU  - Ritz B
+AD  - Department of Epidemiology, Fielding School of Public Health, University of 
+      California, Los Angeles (UCLA), California.
+AD  - Department of Neurology, School of Medicine, UCLA, California.
+FAU - Virk, Jasveer
+AU  - Virk J
+AD  - Department of Epidemiology, Fielding School of Public Health, University of 
+      California, Los Angeles (UCLA), California.
+FAU - Olsen, Jørn
+AU  - Olsen J
+AD  - Department of Epidemiology, Fielding School of Public Health, University of 
+      California, Los Angeles (UCLA), California.
+AD  - Section of Epidemiology, The Institute of Public Health, University of Aarhus, 
+      Aarhus, Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20151221
+PL  - United States
+TA  - Autism Res
+JT  - Autism research : official journal of the International Society for Autism 
+      Research
+JID - 101461858
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/administration & dosage/*adverse effects
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity
+MH  - Autism Spectrum Disorder/*chemically induced/diagnosis
+MH  - Child
+MH  - Child, Preschool
+MH  - Cohort Studies
+MH  - Comorbidity
+MH  - Denmark
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+MH  - Pregnancy
+MH  - *Prenatal Exposure Delayed Effects
+MH  - Proportional Hazards Models
+MH  - Prospective Studies
+MH  - Risk
+MH  - Statistics as Topic
+OTO - NOTNLM
+OT  - acetaminophen
+OT  - autism spectrum disorders
+OT  - childhood behavior
+OT  - infantile autism
+OT  - pregnancy cohort
+OT  - prenatal exposure
+EDAT- 2015/12/22 06:00
+MHDA- 2018/01/27 06:00
+CRDT- 2015/12/22 06:00
+PHST- 2014/12/21 00:00 [received]
+PHST- 2015/11/26 00:00 [accepted]
+PHST- 2015/12/22 06:00 [entrez]
+PHST- 2015/12/22 06:00 [pubmed]
+PHST- 2018/01/27 06:00 [medline]
+AID - 10.1002/aur.1591 [doi]
+PST - ppublish
+SO  - Autism Res. 2016 Sep;9(9):951-8. doi: 10.1002/aur.1591. Epub 2015 Dec 21.

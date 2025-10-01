@@ -1,0 +1,33 @@
+PMID- 39534665
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250706
+IS  - 1546-993X (Print)
+IS  - 1945-7081 (Electronic)
+IS  - 1546-993X (Linking)
+VI  - 23
+IP  - 5
+DP  - 2024 Nov
+TI  - An Interview with Dr. William Parker on the Connection between Acetaminophen and 
+      Autism.
+PG  - 42-47
+FAU - Baker, Sheldon
+AU  - Baker S
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Integr Med (Encinitas)
+JT  - Integrative medicine (Encinitas, Calif.)
+JID - 101196303
+PMC - PMC11552961
+EDAT- 2024/11/14 03:54
+MHDA- 2024/11/14 03:55
+PMCR- 2025/11/01
+CRDT- 2024/11/13 04:24
+PHST- 2025/11/01 00:00 [pmc-release]
+PHST- 2024/11/14 03:55 [medline]
+PHST- 2024/11/14 03:54 [pubmed]
+PHST- 2024/11/13 04:24 [entrez]
+AID - imcj-23-42 [pii]
+PST - ppublish
+SO  - Integr Med (Encinitas). 2024 Nov;23(5):42-47.

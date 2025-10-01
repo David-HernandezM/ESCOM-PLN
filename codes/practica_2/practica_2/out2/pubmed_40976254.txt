@@ -1,0 +1,114 @@
+PMID- 40976254
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2666-7568 (Electronic)
+IS  - 2666-7568 (Linking)
+DP  - 2026 Sep 30
+TI  - Bone quality response to lifestyle intervention in older adults with obesity 
+      (LIMB-Q trial): a randomised controlled trial.
+PG  - 100761
+LID - S2666-7568(25)00080-7 [pii]
+LID - 10.1016/j.lanhl.2025.100761 [doi]
+AB  - BACKGROUND: Lifestyle interventions for weight loss might exacerbate age-related 
+      bone loss and osteoporosis. However, there is limited knowledge about their 
+      effects on bone quality. We examined whether lifestyle intervention can preserve 
+      or enhance bone quality, despite reductions in bone mineral density. METHODS: The 
+      Lifestyle Intervention to Improve Bone Quality (LIMB-Q) study was a randomised 
+      controlled trial conducted at Baylor College of Medicine and the Michael E 
+      DeBakey VA Medical Center (Houston, TX, USA) including older adults (aged 65-85 
+      years) with obesity (BMI ≥30 kg/m(2)). Participants were randomly assigned to 
+      receive either an intensive lifestyle intervention (intensive lifestyle group, 
+      consisting of weight management plus exercise training) or healthy lifestyle 
+      (healthy lifestyle group, consisting of educational sessions on healthy diets). 
+      The co-primary outcomes were 12-month changes in (1) distal tibia cortical 
+      thickness, measured using high-resolution peripheral quantitative CT, and (2) hip 
+      bone strength (failure load), assessed via finite element analysis of CT scans. 
+      The primary endpoint was analysed by intention to treat (all randomly assigned 
+      patients). This trial is registered with ClinicalTrials.gov, NCT03329963 
+      (completed). FINDINGS: Of 138 participants assessed for eligibility in person 
+      between Nov 9, 2017, and Nov 8, 2021, 120 were included in this study (mean age 
+      71·4 years [SD 4·6]; 63 [53%] male and 57 [47%] female). At 12 months, weight 
+      loss was greater in the intensive lifestyle group than in the healthy lifestyle 
+      group (-11·6 kg [SE 0·5] vs -1·2 kg [0·5]). No group differences were noted in 
+      the change in distal tibia cortical thickness between the intensive lifestyle 
+      group (-0·013 mm [SE 0·026]) and the healthy lifestyle group (-0·002 mm [0·025]; 
+      between-group difference 0·027 [95% CI -0·066 to 0·120], p=0·40). The change in 
+      hip failure load at 12 months did not differ between the intensive lifestyle 
+      group (13 N [SE 25]) and the healthy lifestyle group (3 N [26]; between-group 
+      difference -6.9 N [95% CI -108 to 95], p=0·89). Exercise-related adverse events 
+      in the intensive lifestyle group included a small number of musculoskeletal 
+      events (falls [one participant], neck pain [two], and foot, shoulder, back, and 
+      leg pain [one each]). INTERPRETATION: Lifestyle intervention preserved bone 
+      quality in older adults with obesity during weight loss. Further research is 
+      needed to determine whether lifestyle interventions can reduce fracture risk in 
+      older adults with obesity. FUNDING: National Institute of Diabetes and Digestive 
+      and Kidney Diseases (NIDDK) and US Department of Veterans Affairs.
+CI  - Published by Elsevier Ltd.
+FAU - Gregori, Giulia
+AU  - Gregori G
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA; Center for Translational Research on Inflammatory Diseases, 
+      Michael E DeBakey VA Medical Center, Houston, TX, USA.
+FAU - Mediwala, Sanjay
+AU  - Mediwala S
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA; Center for Translational Research on Inflammatory Diseases, 
+      Michael E DeBakey VA Medical Center, Houston, TX, USA.
+FAU - Liebschner, Michael
+AU  - Liebschner M
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA.
+FAU - Kim, Daeseung
+AU  - Kim D
+AD  - Department of Oral and Maxillary Surgery, The Methodist Hospital Research 
+      Institute, Houston, TX, USA.
+FAU - Bryant, Mon S
+AU  - Bryant MS
+AD  - Pulmonary Section, Medical Care Line, Michael E DeBakey VA Medical Center, 
+      Houston, TX, USA.
+FAU - Klonis, Nina
+AU  - Klonis N
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA; Center for Translational Research on Inflammatory Diseases, 
+      Michael E DeBakey VA Medical Center, Houston, TX, USA.
+FAU - Armamento-Villareal, Reina
+AU  - Armamento-Villareal R
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA; Center for Translational Research on Inflammatory Diseases, 
+      Michael E DeBakey VA Medical Center, Houston, TX, USA.
+FAU - Qualls, Clifford
+AU  - Qualls C
+AD  - Department of Mathematics and Statistics, University of New Mexico, Albuquerque, 
+      NM, USA.
+FAU - Villareal, Dennis T
+AU  - Villareal DT
+AD  - Division of Endocrinology, Diabetes, and Metabolism, Baylor College of Medicine, 
+      Houston, TX, USA; Center for Translational Research on Inflammatory Diseases, 
+      Michael E DeBakey VA Medical Center, Houston, TX, USA. Electronic address: 
+      dennis.villareal@bcm.edu.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03329963
+PT  - Journal Article
+DEP - 20260930
+PL  - England
+TA  - Lancet Healthy Longev
+JT  - The lancet. Healthy longevity
+JID - 101773309
+SB  - IM
+COIS- Declaration of interests DTV reports consulting fees from his role on the 
+      Biophytis Scientific Advisory Committee. All other authors declare no competing 
+      interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:58
+PHST- 2025/04/04 00:00 [received]
+PHST- 2025/07/24 00:00 [revised]
+PHST- 2025/07/29 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:58 [entrez]
+AID - S2666-7568(25)00080-7 [pii]
+AID - 10.1016/j.lanhl.2025.100761 [doi]
+PST - aheadofprint
+SO  - Lancet Healthy Longev. 2026 Sep 30:100761. doi: 10.1016/j.lanhl.2025.100761.

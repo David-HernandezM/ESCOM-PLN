@@ -1,0 +1,111 @@
+PMID- 34964403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220217
+LR  - 20220430
+IS  - 1744-764X (Electronic)
+IS  - 1474-0338 (Linking)
+VI  - 21
+IP  - 2
+DP  - 2022 Feb
+TI  - Effect of Acetaminophen use during pregnancy on adverse pregnancy outcomes: a 
+      systematic review and meta-analysis.
+PG  - 241-251
+LID - 10.1080/14740338.2022.2020246 [doi]
+AB  - INTRODUCTION: A high number of women are exposed to acetaminophen during 
+      pregnancy worldwide. This drug safety during pregnancy regarding preterm birth, 
+      birth weight, and fetal development has not been well described. This study 
+      investigated the effect of acetaminophen use during pregnancy on selected adverse 
+      pregnancy outcomes. AREAS COVERED: Databases were searched to identify studies 
+      reporting the effects of acetaminophen use during pregnancy on preterm birth, low 
+      birth weight, and small for gestational age. The studies' quality was assessed by 
+      the Newcastle-Ottawa Scale and the Methodological Index for Non-Randomized 
+      Studies. Risk ratios with 95% confidence intervals were estimated using a fixed 
+      or random-effects model. Six studies were included for final review, four cohort 
+      and two case-control studies. We found no increased risk of preterm birth (RR 
+      0.97; 95% CI 0.59-1.58), and decreased risks of low birth weight (RR 0.65; 95% CI 
+      0.59-0.72) and small for gestational age (RR 0.69; 95% CI 0.50-0.97). 
+      Acetaminophen exposure during the third trimester revealed non-significantly in 
+      the outcomes. EXPERT OPINION: Exposure to acetaminophen during pregnancy appears 
+      to not increase the risk of the outcomes analyzed. However, there is a lack of 
+      information regarding the exposure dose and frequency of acetaminophen use.
+FAU - Castro, Caroline T
+AU  - Castro CT
+AUID- ORCID: 0000-0002-9445-8842
+AD  - Program of Post-Graduation in Collective Health, Multidisciplinary Institute of 
+      Health, Federal University of Bahia, Vitória Da Conquista, Brazil.
+FAU - Gama, Romana S
+AU  - Gama RS
+AUID- ORCID: 0000-0002-1677-1251
+AD  - Program of Pos-Graduation in Medicine and Health, Federal University of Bahia, 
+      Salvador, Brazil.
+FAU - Pereira, Marcos
+AU  - Pereira M
+AUID- ORCID: 0000-0003-3766-2502
+AD  - Program of Post-Graduation in Collective Health, Institute of Collective Health, 
+      Federal University of Bahia, Salvador, Brazil.
+FAU - Oliveira, Marcio G
+AU  - Oliveira MG
+AUID- ORCID: 0000-0001-5281-7889
+AD  - Program of Post-Graduation in Collective Health, Multidisciplinary Institute of 
+      Health, Federal University of Bahia, Vitória Da Conquista, Brazil.
+FAU - Dal-Pizzol, Tatiane S
+AU  - Dal-Pizzol TS
+AUID- ORCID: 0000-0002-7566-7745
+AD  - Post-Graduate Program in Epidemiology, Federal University of Rio Grande Do Sul, 
+      Porto Alegre, Brazil.
+FAU - Barreto, Mauricio L
+AU  - Barreto ML
+AUID- ORCID: 0000-0002-0215-4930
+AD  - Program of Post-Graduation in Collective Health, Institute of Collective Health, 
+      Federal University of Bahia, Salvador, Brazil.
+AD  - Center of Data and Knowledge Integration for Health (CIDACS), Instituto Gonçalo 
+      Moniz, Fundação Oswaldo Cruz, Salvador, Brazil.
+FAU - Santos, Djanilson B
+AU  - Santos DB
+AUID- ORCID: 0000-0002-6128-1155
+AD  - Program of Post-Graduation in Collective Health, Multidisciplinary Institute of 
+      Health, Federal University of Bahia, Vitória Da Conquista, Brazil.
+AD  - Center for Health Sciences, Federal University of Recôncavo Da Bahia, Santo 
+      Antônio de Jesus, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20220110
+PL  - England
+TA  - Expert Opin Drug Saf
+JT  - Expert opinion on drug safety
+JID - 101163027
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/*administration & dosage/adverse effects
+MH  - Analgesics, Non-Narcotic/*administration & dosage/adverse effects
+MH  - Birth Weight/drug effects
+MH  - Female
+MH  - Fetal Development/drug effects
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Pregnancy
+MH  - *Pregnancy Outcome
+MH  - Pregnancy Trimester, Third
+MH  - Premature Birth/epidemiology
+OTO - NOTNLM
+OT  - Acetaminophen
+OT  - low birth weight
+OT  - meta-analysis
+OT  - pregnancy
+OT  - preterm birth
+OT  - small for gestational age
+OT  - systematic review
+EDAT- 2021/12/30 06:00
+MHDA- 2022/02/19 06:00
+CRDT- 2021/12/29 08:40
+PHST- 2021/12/30 06:00 [pubmed]
+PHST- 2022/02/19 06:00 [medline]
+PHST- 2021/12/29 08:40 [entrez]
+AID - 10.1080/14740338.2022.2020246 [doi]
+PST - ppublish
+SO  - Expert Opin Drug Saf. 2022 Feb;21(2):241-251. doi: 10.1080/14740338.2022.2020246. 
+      Epub 2022 Jan 10.

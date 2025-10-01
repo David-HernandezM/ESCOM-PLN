@@ -1,0 +1,81 @@
+PMID- 40971451
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1527-3792 (Electronic)
+IS  - 0022-5347 (Linking)
+DP  - 2025 Sep 19
+TI  - Cross-Sectional Association of Time Spent Outdoors with Serum Testosterone: 
+      Results from NHANES.
+PG  - 101097JU0000000000004789
+LID - 10.1097/JU.0000000000004789 [doi]
+AB  - PURPOSE: Testosterone levels are influenced by behavioral and environmental 
+      factors. As modern lifestyles have become increasingly sedentary with less time 
+      spent outdoors, understanding how daily outdoor exposure relates to serum 
+      testosterone may offer insight into the hormonal effects of contemporary behavior 
+      patterns. We evaluated the correlation between daily time spent outdoors (TSO) 
+      and serum testosterone. METHODS: We identified adult men from the National Health 
+      and Nutrition Examination Survey (NHANES) database from 2011-2014. TSO was 
+      measured in average minutes per day (MPD). Low testosterone was defined as serum 
+      morning total testosterone < 300 ng/dL. Survey-weighted multivariable logistic 
+      and linear regression models were used to identify factors correlated with low 
+      testosterone and serum testosterone, respectively, while correcting for age, 
+      education, household income, BMI, physical activity (both self-reported and 
+      accelerometer-determined), diabetes, vitamin D concentration, and dietary habits. 
+      RESULTS: 2,205 men were included. Mean age, testosterone, and MPD TSO were 45.8 
+      years, 448.34 ng/dL, and 144.3 minutes, respectively. 19.3% of men had low 
+      testosterone. TSO was significantly associated with both serum testosterone 
+      (β=9.25 per 1 hour outside daily, p=0.007) and decreased odds of low testosterone 
+      (OR=0.86 per 1 hour outside daily, 95% CI 0.76-0.97, p=0.01) in multivariate 
+      analysis. Increasing age, BMI, and diabetes were positively correlated with low 
+      testosterone, while increasing physical activity was inversely correlated with 
+      low testosterone (p≤0.01 for all). CONCLUSIONS: This is the first report to 
+      describe a correlation between increased outdoor time and lower prevalence of low 
+      testosterone, independent of age, education, household income, BMI, physical 
+      activity, diabetes, vitamin D concentration, and dietary habits.
+FAU - Bhambhvani, Hriday P
+AU  - Bhambhvani HP
+AUID- ORCID: 0000-0003-2127-2382
+AD  - Department of Urology, NewYork-Presbyterian Hospital, New York, NY.
+AD  - Department of Urology, Weill Cornell Medical Center, New York, NY.
+FAU - Kuchakulla, Manish
+AU  - Kuchakulla M
+AD  - Department of Urology, NewYork-Presbyterian Hospital, New York, NY.
+AD  - Department of Urology, Weill Cornell Medical Center, New York, NY.
+FAU - Poppas, Phillip
+AU  - Poppas P
+AD  - Department of Urology, NewYork-Presbyterian Hospital, New York, NY.
+AD  - Department of Urology, Weill Cornell Medical Center, New York, NY.
+FAU - Greenberg, Daniel R
+AU  - Greenberg DR
+AD  - Department of Urology, Northwestern University Feinberg School of Medicine, 
+      Chicago, Illinois.
+FAU - Kashanian, James A
+AU  - Kashanian JA
+AD  - Department of Urology, NewYork-Presbyterian Hospital, New York, NY.
+AD  - Department of Urology, Weill Cornell Medical Center, New York, NY.
+FAU - Eisenberg, Michael L
+AU  - Eisenberg ML
+AD  - Department of Urology, Stanford University School of Medicine, Stanford, 
+      California, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+SB  - IM
+OTO - NOTNLM
+OT  - sex hormone
+OT  - sun
+OT  - sunlight
+EDAT- 2025/09/19 18:31
+MHDA- 2025/09/19 18:31
+CRDT- 2025/09/19 14:05
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:31 [pubmed]
+PHST- 2025/09/19 14:05 [entrez]
+AID - 10.1097/JU.0000000000004789 [doi]
+PST - aheadofprint
+SO  - J Urol. 2025 Sep 19:101097JU0000000000004789. doi: 10.1097/JU.0000000000004789.

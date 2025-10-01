@@ -1,0 +1,97 @@
+PMID- 40981770
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1460-2083 (Electronic)
+IS  - 0964-6906 (Linking)
+DP  - 2025 Sep 22
+TI  - Tracing neuropathological signatures: TARDBP and C9orf72 double mutations in a 
+      Sicilian family.
+LID - ddaf147 [pii]
+LID - 10.1093/hmg/ddaf147 [doi]
+AB  - Co-occurrence of double heterozygosity in TARDBP and C9ORF72 is exceedingly rare 
+      in amyotrophic lateral sclerosis. While TARDBP mutations and C9ORF72 
+      hexanucleotide repeat expansions have each been independently implicated in 
+      disease pathogenesis, their combined effect on disease progression and 
+      neuropathology remains unclear. We present the first study documenting a patient 
+      harboring both a TARDBP mutation and a C9ORF72 expansion, with comprehensive 
+      postmortem data available, to elucidate any additive or synergistic effects on 
+      disease course and pathological burden. Detailed clinical assessments tracked the 
+      patient's progression, and neuropathological examination was performed 
+      postmortem. The presence and extent of TDP-43 pathology and other hallmark 
+      features were evaluated and compared to known patterns in carriers of isolated 
+      C9ORF72 mutations. The patient's clinical trajectory and pathological findings 
+      did not show evidence of a more aggressive disease course or heightened 
+      pathological burden attributable to the additional TARDBP mutation. Instead, the 
+      disease manifested in a manner consistent with other C9ORF72 carriers, suggesting 
+      that double heterozygosity do not necessarily exacerbate ALS pathology.
+CI  - © The Author(s) 2025. Published by Oxford University Press.
+FAU - Masrori, Pegah
+AU  - Masrori P
+AUID- ORCID: 0000-0001-8247-1866
+AD  - Department of Neurology, Neuromuscular Reference Centre, University Hospitals 
+      Leuven, Herestraat 49, 3000 Leuven, Belgium.
+AD  - Department of Neurosciences, Experimental Neurology, and Leuven Brain Institute 
+      (LBI), KU Leuven, University of Leuven, Herestraat 49, 3000 Leuven, Belgium.
+FAU - Tomé, Sandra O
+AU  - Tomé SO
+AUID- ORCID: 0000-0001-5253-0730
+AD  - Laboratory for Neuropathology, Department of Imaging and Pathology, Leuven Brain 
+      Institute (LBI) KU Leuven, Herestraat 49, 3000 Leuven, Belgium.
+FAU - Dedeene, Lieselot
+AU  - Dedeene L
+AD  - Laboratory for Neuropathology, Department of Imaging and Pathology, Leuven Brain 
+      Institute (LBI) KU Leuven, Herestraat 49, 3000 Leuven, Belgium.
+FAU - Remiche, Gauthier
+AU  - Remiche G
+AD  - Université libre de Bruxelles (ULB), Hôpital Universitaire de Bruxelles (H.U.B), 
+      CUB Hôpital Erasme, Service de Neurologie, Centre de Référence Neuromusculaire, 
+      Route de Lennik 808, 1070 Anderlecht (Brussels), Belgium.
+FAU - Van Esch, Hilde
+AU  - Van Esch H
+AD  - Center for Human Genetics, University Hospitals Leuven, Herestraat 49, 3000 
+      Leuven, Belgium.
+FAU - Thal, Dietmar Rudolf
+AU  - Thal DR
+AD  - Laboratory for Neuropathology, Department of Imaging and Pathology, Leuven Brain 
+      Institute (LBI) KU Leuven, Herestraat 49, 3000 Leuven, Belgium.
+AD  - Department of Pathology, University Hospitals Leuven, Herestraat 49, 3000 Leuven, 
+      Belgium.
+FAU - Van Damme, Philip
+AU  - Van Damme P
+AD  - Department of Neurology, Neuromuscular Reference Centre, University Hospitals 
+      Leuven, Herestraat 49, 3000 Leuven, Belgium.
+AD  - Department of Neurosciences, Experimental Neurology, and Leuven Brain Institute 
+      (LBI), KU Leuven, University of Leuven, Herestraat 49, 3000 Leuven, Belgium.
+LA  - eng
+GR  - Een Hart voor ALS", "Laeversfonds voor ALS Onderzoek" and "the Valéry Perrier 
+      Race against ALS/
+GR  - IWT 135043/Vlaamse Impulsfinanciering voor Netwerken voor Dementie Onderzoek/
+GR  - AARF-24-1300693/ALZ/Alzheimer's Association/United States
+GR  - 1225725N/FWO/
+GR  - A2022019F/BrightFocus Foundation/
+GR  - C14-17-107/C1-internal funds from KU Leuven/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Hum Mol Genet
+JT  - Human molecular genetics
+JID - 9208958
+SB  - IM
+OTO - NOTNLM
+OT  - ALS
+OT  - C9ORF72
+OT  - Neuropathology
+OT  - TAR DNA-binding protein 43
+EDAT- 2025/09/22 12:45
+MHDA- 2025/09/22 12:45
+CRDT- 2025/09/22 10:43
+PHST- 2025/07/28 00:00 [received]
+PHST- 2025/09/02 00:00 [accepted]
+PHST- 2025/09/22 12:45 [medline]
+PHST- 2025/09/22 12:45 [pubmed]
+PHST- 2025/09/22 10:43 [entrez]
+AID - 8261429 [pii]
+AID - 10.1093/hmg/ddaf147 [doi]
+PST - aheadofprint
+SO  - Hum Mol Genet. 2025 Sep 22:ddaf147. doi: 10.1093/hmg/ddaf147.

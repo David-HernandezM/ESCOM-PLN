@@ -1,0 +1,147 @@
+PMID- 40975066
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+DP  - 2025 Sep 19
+TI  - A phase 1 trial of APG-1387, an IAP antagonist, with nab-paclitaxel and 
+      gemcitabine in patients with refractory metastatic pancreatic cancer.
+PG  - 102364
+LID - S2666-3791(25)00437-9 [pii]
+LID - 10.1016/j.xcrm.2025.102364 [doi]
+AB  - Advanced pancreatic cancer presents dismal survival with limited effective, 
+      well-tolerated options beyond chemotherapy. This phase 1 trial evaluates the 
+      safety, tolerability, and efficacy of bivalent IAP antagonist APG-1387 with 
+      nab-paclitaxel and gemcitabine (AG) in patients failing or intolerant to standard 
+      care. In 28-day cycles, patients receive intravenous infusions of APG-1387 (20, 
+      30, or 45 mg) on days 1, 8, 15, and 22, and nab-paclitaxel (125 mg/m(2)) and 
+      gemcitabine (1,000 mg/m(2)) on days 1, 8, and 15, with dose-limiting toxicity 
+      (DLT) as the primary endpoint per NCI CTCAE v5.0. Of 28 screened, 21 are 
+      enrolled; one grade 4 DLT recovers within 3 days, and 9 (42.9%) experience grade 
+      ≥3 treatment-related adverse events, mostly AG-related bone marrow toxicities. 
+      Among 15 efficacy-evaluable patients, 3 achieve partial responses, including 1 
+      (33%) without prior AG. APG-1387 with AG demonstrates tolerability and 
+      encouraging posterior-line antitumor effects in AG-naive patients (NCT04643405).
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Shi, Si
+AU  - Shi S
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Zhang, Jian
+AU  - Zhang J
+AD  - Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 
+      200032, China; Department of Medical Oncology, Fudan University Shanghai Cancer 
+      Center, Shanghai, China.
+FAU - Liu, Rujiao
+AU  - Liu R
+AD  - Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 
+      200032, China; Department of Medical Oncology, Fudan University Shanghai Cancer 
+      Center, Shanghai, China.
+FAU - Gao, Shuiping
+AU  - Gao S
+AD  - Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 
+      200032, China; Department of Medical Oncology, Fudan University Shanghai Cancer 
+      Center, Shanghai, China.
+FAU - Xu, Jin
+AU  - Xu J
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Wang, Wei
+AU  - Wang W
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Wei, Miaoyan
+AU  - Wei M
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Li, Jialin
+AU  - Li J
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Liu, Chen
+AU  - Liu C
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Xu, Xiaowu
+AU  - Xu X
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China.
+FAU - Pan, Wentao
+AU  - Pan W
+AD  - Ascentage Pharma (Suzhou) Co., Ltd., Suzhou, China.
+FAU - Tian, Xiaohong
+AU  - Tian X
+AD  - Ascentage Pharma (Suzhou) Co., Ltd., Suzhou, China.
+FAU - Men, Lichuang
+AU  - Men L
+AD  - Ascentage Pharma (Suzhou) Co., Ltd., Suzhou, China.
+FAU - Wang, Hengbang
+AU  - Wang H
+AD  - Ascentage Pharma (Suzhou) Co., Ltd., Suzhou, China.
+FAU - Liang, Zhiyan
+AU  - Liang Z
+AD  - Ascentage Pharma Group Inc., Rockville, MD, USA.
+FAU - Zhu, Min
+AU  - Zhu M
+AD  - Ascentage Pharma Group Inc., Rockville, MD, USA.
+FAU - Yang, Dajun
+AU  - Yang D
+AD  - Ascentage Pharma (Suzhou) Co., Ltd., Suzhou, China; Department of Experimental 
+      Research, State Key Laboratory of Oncology in South China Collaborative 
+      Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, 
+      Guangzhou, China.
+FAU - Zhai, Yifan
+AU  - Zhai Y
+AD  - Ascentage Pharma Group Inc., Rockville, MD, USA. Electronic address: 
+      yzhai@ascentage.com.
+FAU - Yu, XianJun
+AU  - Yu X
+AD  - Department of Pancreatic Surgery, Fudan University Shanghai Cancer Center, 
+      Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+      University, Shanghai 200032, China. Electronic address: yuxianjun@fudanpci.org.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04643405
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+OTO - NOTNLM
+OT  - IAP inhibitor
+OT  - antitumor activity
+OT  - chemotherapy
+OT  - pancreatic cancer
+OT  - phase 1 trial
+COIS- Declaration of interests S.S., J.Z., R.L., S.G., J.X., W.W., M.W., J.L., C.L., 
+      and X.X. declare no competing interests. W.P., X.T., L.M., H.W., Z.L., M.Z., 
+      D.Y., and Y.Z. are employees of Ascentage Pharma Group Inc. or Ascentage Pharma 
+      (Suzhou) Co., Ltd., and hold stock in Ascentage Pharma Group International. D.Y. 
+      (leadership role at Ascentage Pharma Group International, Ascentage Pharma 
+      (Suzhou) Co., Ltd., and Ascentage Pharma Group Inc.) and Y.Z. (leadership role at 
+      Ascentage Pharma (Suzhou) Co., Ltd. and Ascentage Pharma Group Inc.) are 
+      co-inventors on patent application WO2021110011A1 (“Combination of iap inhibitors 
+      and parp or mek inhibitors or other chemotherapeutic agents”), which is related 
+      to this study.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:41
+PHST- 2025/04/17 00:00 [received]
+PHST- 2025/07/11 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:41 [entrez]
+AID - S2666-3791(25)00437-9 [pii]
+AID - 10.1016/j.xcrm.2025.102364 [doi]
+PST - aheadofprint
+SO  - Cell Rep Med. 2025 Sep 19:102364. doi: 10.1016/j.xcrm.2025.102364.

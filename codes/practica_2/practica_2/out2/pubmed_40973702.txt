@@ -1,0 +1,149 @@
+PMID- 40973702
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1522-9645 (Electronic)
+IS  - 0195-668X (Linking)
+DP  - 2025 Sep 19
+TI  - Early antiplatelet treatment for minor stroke following thrombolysis: the EAST 
+      trial.
+LID - ehaf702 [pii]
+LID - 10.1093/eurheartj/ehaf702 [doi]
+AB  - BACKGROUND AND AIMS: Antiplatelet treatment is recommended to start 24 h after 
+      intravenous thrombolysis due to concerns about haemorrhagic transformation. This 
+      study aimed to investigate the potential benefit of early antiplatelet after 
+      intravenous thrombolysis in minor stroke. METHODS: A multicentre, double-blind, 
+      randomized trial was conducted in China between 7 August 2022 and 1 August 2024, 
+      to evaluate the efficacy and safety of early antiplatelet in acute ischaemic 
+      stroke patients presenting with mild neurological deficits, as indicated by a 
+      National Institutes of Health Stroke Scale (NIHSS) score of 0-5, who received 
+      intravenous thrombolysis. Patients were randomly assigned to receive either 
+      clopidogrel and aspirin or placebo within 6 h after intravenous thrombolysis. The 
+      primary endpoint was an excellent functional outcome at 90 days, indicated by a 
+      modified Rankin Scale (mRS) score of 0-1. Statistical analysis was based on a 
+      modified intention-to-treat population. Symptomatic intracranial haemorrhage, any 
+      intracranial haemorrhage, and major systemic bleeding were safety endpoints. 
+      RESULTS: The primary endpoint was not met in this study. Of the randomly assigned 
+      1022 patients, 995 patients were included in the modified intention-to-treat 
+      analysis (503 with early antiplatelet treatment and 492 with placebo). The 
+      primary endpoint occurred in 89.7% (451/503) of patients receiving early 
+      antiplatelet vs 89.6% (441/492) of those receiving placebo with no significant 
+      difference (odds ratio 1.00, 95% confidence interval .67-1.51, P = .99). Similar 
+      safety profiles were found between the two groups. CONCLUSIONS: Among Chinese 
+      patients with acute minor ischaemic stroke who received intravenous thrombolysis, 
+      early antiplatelet treatment with clopidogrel plus aspirin was safe but did not 
+      improve already excellent functional outcome (mRS 0-1) at 90 days.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      European Society of Cardiology. All rights reserved. For commercial re-use, 
+      please contact reprints@oup.com for reprints and translation rights for reprints. 
+      All other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Chen, Hui-Sheng
+AU  - Chen HS
+AUID- ORCID: 0000-0002-7486-1992
+AD  - Department of Neurology, General Hospital of Northern Theater Command, 83 Wenhua 
+      Rd, Shenyang 110016, China.
+FAU - Cui, Yu
+AU  - Cui Y
+AUID- ORCID: 0000-0002-4925-1500
+AD  - Department of Neurology, General Hospital of Northern Theater Command, 83 Wenhua 
+      Rd, Shenyang 110016, China.
+FAU - Li, Xiao-Qiu
+AU  - Li XQ
+AD  - Department of Neurology, General Hospital of Northern Theater Command, 83 Wenhua 
+      Rd, Shenyang 110016, China.
+FAU - Wang, Xin-Hong
+AU  - Wang XH
+AD  - Department of Neurology, General Hospital of Northern Theater Command, 83 Wenhua 
+      Rd, Shenyang 110016, China.
+FAU - Jiang, Chang-Hao
+AU  - Jiang CH
+AD  - Department of Neurology, Lvshunkou District Hospital of Traditional Chinese 
+      Medicine, Dalian, China.
+FAU - Li, Jing
+AU  - Li J
+AD  - Department of Neurology, Donggang Central Hospital, Donggang, China.
+FAU - Yuan, Zhi-Mei
+AU  - Yuan ZM
+AD  - Department of Neurology, Tonghua Vascular Disease Hospital, Tonghua, China.
+FAU - Zhao, Li-Wei
+AU  - Zhao LW
+AD  - Department of Neurology, Anshan Changda Hospital, Anshan, China.
+FAU - Kong, Nan
+AU  - Kong N
+AD  - Department of Neurology, Anshan Changda Hospital, Anshan, China.
+FAU - Mi, Hai-Ning
+AU  - Mi HN
+AD  - Department of Neurology, Ulanqab Central Hospital, Ulanqab, China.
+FAU - Lu, Jiang
+AU  - Lu J
+AD  - Department of Neurology, Linghai Dalinghe Hospital, Linghai, China.
+FAU - Zhang, Hong
+AU  - Zhang H
+AD  - Department of Neurology, General Hospital of Fushun Mining Bureau of Liaoning 
+      Health Industry Group, Fushun, China.
+FAU - Liu, You-Jun
+AU  - Liu YJ
+AD  - Department of Neurology, Togtoh County Hospital, Togtoh, China.
+FAU - Wang, Er-Qiang
+AU  - Wang EQ
+AD  - Department of Neurology, Fuqing Hospital Affiliated of Fujian Medical University, 
+      Fuqing, China.
+FAU - Yang, Yan
+AU  - Yang Y
+AD  - Department of Neurology, Fushun Central Hospital, Fushun, China.
+FAU - Song, Cheng-Guang
+AU  - Song CG
+AD  - Department of Neurology, Benxi Central Hospital, Benxi, China.
+FAU - Zhang, Yi
+AU  - Zhang Y
+AD  - Department of Neurology, Tieling County Central Hospital, Tieling, China.
+FAU - Wang, Shu-Yao
+AU  - Wang SY
+AD  - Department of Neurology, Tongliao People's Hospital, Tongliao, China.
+FAU - Dai, Hong-Guo
+AU  - Dai HG
+AD  - Department of Neurology, Linfen Central Hospital, Linfen, China.
+FAU - Yang, Yi
+AU  - Yang Y
+AD  - Department of Neurology, The First Affiliated Hospital of Jilin University, 
+      Changchun, China.
+FAU - Geng, Shi-Mei
+AU  - Geng SM
+AD  - Department of Neurology, Beipiao Central Hospital, Beipiao, China.
+FAU - Yin, Rong
+AU  - Yin R
+AD  - Department of Neurology, Gansu Province Central Hospital, Lanzhou, China.
+FAU - Wang, Duo-Lao
+AU  - Wang DL
+AUID- ORCID: 0000-0003-2788-2464
+AD  - Department of Clinical Sciences, Liverpool School of Tropical Medicine, 
+      Liverpool, UK.
+FAU - Nguyen, Thanh N
+AU  - Nguyen TN
+AD  - Department of Neurology, Radiology, Boston Medical Center, Boston, MA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+SB  - IM
+OTO - NOTNLM
+OT  - Early antiplatelet
+OT  - Intravenous thrombolysis
+OT  - Minor stroke
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 23:05
+PHST- 2025/04/14 00:00 [received]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 23:05 [entrez]
+AID - 8258727 [pii]
+AID - 10.1093/eurheartj/ehaf702 [doi]
+PST - aheadofprint
+SO  - Eur Heart J. 2025 Sep 19:ehaf702. doi: 10.1093/eurheartj/ehaf702.

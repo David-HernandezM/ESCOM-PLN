@@ -1,0 +1,157 @@
+PMID- 40983649
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 22
+TI  - Macrophage ferroptosis potentiates GCN2 deficiency induced pulmonary venous 
+      arterialization.
+PG  - 8335
+LID - 10.1038/s41467-025-64035-4 [doi]
+AB  - Pulmonary veno-occlusive disease (PVOD) is a fatal disease characterized by the 
+      remodelling of pulmonary veins and haemosiderin accumulation in macrophages. 
+      Although (General Control Nonderepressible 2) GCN2 deficiency has been reported 
+      in PVOD patients, the underlying mechanism by which GCN2 deficiency affects the 
+      pulmonary venous cells and the surrounding cells, remains unclear. Here, we 
+      perform immunohistochemistry and scRNA-sequencing analyses to show that 
+      macrophages are the major population affected by GCN2 deficiency and ferroptosis 
+      pathway-related genes are upregulated in lung macrophages of PVOD patients. 
+      Treatment with the specific ferroptosis inhibitor ferrostatin-1 (Fer-1) reverses 
+      the changes in haemodynamic indices observed in Eif2ak4(K1488X/K1488X) hypoxia 
+      mice and PVOD model rats. Furthermore, GCN2 deficiency increases HMOX1 and iron 
+      levels to facilitate ferroptosis in macrophages, and enhances arterial marker 
+      expression in venous endothelial cells (VECs). Specifically, spatial 
+      transcriptome analysis shows increased expression of NRP1, KDR and EFNB2 through 
+      ETS1 in VECs from PVOD patients. Our findings suggest the potential of targeting 
+      macrophage ferroptosis as a therapeutic strategy for treating related vascular 
+      diseases, and of using NRP1/KDR/EFNB2 expression as a specific marker set for 
+      venous arterialization.
+CI  - © 2025. The Author(s).
+FAU - Zhang, Jingyuan
+AU  - Zhang J
+AUID- ORCID: 0009-0009-4924-8916
+AD  - Department of Physiology and Department of Cardiology of the Second Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Mao, Pei
+AU  - Mao P
+AUID- ORCID: 0009-0008-1116-4269
+AD  - Department of Physiology and Department of Cardiology of the Second Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Zhou, Tengfei
+AU  - Zhou T
+AUID- ORCID: 0000-0003-1477-4798
+AD  - Department of Physiology and Department of Cardiology of the Second Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Yue, Bingqing
+AU  - Yue B
+AUID- ORCID: 0000-0003-3268-2299
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - Center for Lung Transplantation of the Second Affiliated Hospital, Zhejiang 
+      University School of Medicine, Hangzhou, China.
+FAU - Li, Yaning
+AU  - Li Y
+AUID- ORCID: 0009-0008-7558-7607
+AD  - Department of Physiology and Department of Cardiology of the Second Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Qiu, Yuanhua
+AU  - Qiu Y
+AUID- ORCID: 0000-0002-2831-9182
+AD  - Department of Pulmonary and Critical Care Medicine of Sir Run Run Shaw Hospital, 
+      Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Ying, Kejing
+AU  - Ying K
+AUID- ORCID: 0000-0001-9642-3929
+AD  - Department of Pulmonary and Critical Care Medicine of Sir Run Run Shaw Hospital, 
+      Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Wang, Fudi
+AU  - Wang F
+AUID- ORCID: 0000-0001-8730-0003
+AD  - Department of Public Health of Zhejiang University School of Medicine, Hangzhou, 
+      China.
+FAU - Chen, Jingyu
+AU  - Chen J
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+AD  - Center for Lung Transplantation of the Second Affiliated Hospital, Zhejiang 
+      University School of Medicine, Hangzhou, China.
+FAU - Yang, Jun
+AU  - Yang J
+AUID- ORCID: 0000-0001-9715-8100
+AD  - Department of Physiology and Department of Cardiology of the Second Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China. 
+      yang_jun@zju.edu.cn.
+AD  - State Key Laboratory of Transvascular Implantation Devices of the Second 
+      Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 
+      yang_jun@zju.edu.cn.
+LA  - eng
+GR  - 2023YFC2507103/Ministry of Science and Technology of the People's Republic of 
+      China (Chinese Ministry of Science and Technology)/
+GR  - 2021YFA1100500/Ministry of Science and Technology of the People's Republic of 
+      China (Chinese Ministry of Science and Technology)/
+GR  - 2023YFC2507100/Ministry of Science and Technology of the People's Republic of 
+      China (Chinese Ministry of Science and Technology)/
+GR  - 82470431/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 81670054/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82100364/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 2022M712751/China Postdoctoral Science Foundation/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - EC 2.7.11.1 (EIF2AK4 protein, human)
+RN  - 0 (Cyclohexylamines)
+RN  - 0 (ferrostatin-1)
+RN  - EC 1.14.14.18 (Heme Oxygenase-1)
+RN  - E1UOL152H7 (Iron)
+RN  - 0 (Phenylenediamines)
+RN  - EC 2.7.11.1 (Protein Serine-Threonine Kinases)
+SB  - IM
+MH  - Animals
+MH  - *Ferroptosis/genetics/drug effects
+MH  - Mice
+MH  - Humans
+MH  - Male
+MH  - *Macrophages/metabolism
+MH  - *Pulmonary Veno-Occlusive Disease/genetics/metabolism/pathology
+MH  - Endothelial Cells/metabolism
+MH  - Rats
+MH  - *Pulmonary Veins/pathology/metabolism
+MH  - Female
+MH  - Cyclohexylamines/pharmacology
+MH  - Disease Models, Animal
+MH  - Mice, Inbred C57BL
+MH  - Heme Oxygenase-1/metabolism
+MH  - Iron/metabolism
+MH  - Phenylenediamines
+MH  - Protein Serine-Threonine Kinases
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 23:18
+PHST- 2024/12/18 00:00 [received]
+PHST- 2025/09/05 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:18 [entrez]
+AID - 10.1038/s41467-025-64035-4 [pii]
+AID - 10.1038/s41467-025-64035-4 [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 22;16(1):8335. doi: 10.1038/s41467-025-64035-4.

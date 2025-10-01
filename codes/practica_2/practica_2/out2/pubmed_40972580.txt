@@ -1,0 +1,739 @@
+PMID- 40972580
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+DP  - 2025 Sep 18
+TI  - Global, regional, and national burden of headache disorders, 1990-2021, with 
+      forecasts to 2050: A Global Burden of Disease study 2021.
+PG  - 102348
+LID - S2666-3791(25)00421-5 [pii]
+LID - 10.1016/j.xcrm.2025.102348 [doi]
+AB  - Headache disorders, especially migraines and tension-type headaches (TTHs), are 
+      major global public health concerns, as shown by the Global Burden of Diseases, 
+      Injuries, and Risk Factors Study (GBD) 2021. We provide updated global estimates 
+      of prevalence and years lived with disability (YLDs) from 1990 to 2021 across 204 
+      countries and territories and forecasts through 2050. In 2021, there are 2.0 
+      billion people with TTH and 1.2 billion with migraine. Although TTH is more 
+      prevalent, migraine causes higher disability. While crude prevalence and YLDs 
+      increased, age-standardized rates remained stable and are projected to continue 
+      this trend due to population growth. There is a disproportionately higher burden 
+      in women aged 30-44 and countries with higher Socio-demographic Index and 
+      Healthcare Access and Quality Index. Despite this, migraines remain 
+      underrecognized in health policies and funding. This study emphasizes the urgent 
+      need to prioritize headache disorders in global health agendas.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+CN  - GBD 2021 Headache Collaborators. Electronic address: yonkkang@gmail.com
+FAU - Wijeratne, Tissa
+AU  - Wijeratne T
+FAU - Oh, Jiyeon
+AU  - Oh J
+FAU - Kim, Soeun
+AU  - Kim S
+FAU - Yim, Yesol
+AU  - Yim Y
+FAU - Kim, Min Seo
+AU  - Kim MS
+FAU - Shin, Jae Il
+AU  - Shin JI
+FAU - Oh, Yun-Seo
+AU  - Oh YS
+FAU - Jung, Raon
+AU  - Jung R
+FAU - Kim, Yun Seo
+AU  - Kim YS
+FAU - Smith, Lee
+AU  - Smith L
+FAU - Aalruz, Hasan
+AU  - Aalruz H
+FAU - Abd-Rabu, Rami
+AU  - Abd-Rabu R
+FAU - Abdulah, Deldar Morad
+AU  - Abdulah DM
+FAU - Aboagye, Richard Gyan
+AU  - Aboagye RG
+FAU - Abolmaali, Meysam
+AU  - Abolmaali M
+FAU - Abtahi, Dariush
+AU  - Abtahi D
+FAU - Abualhasan, Ahmed
+AU  - Abualhasan A
+FAU - Adedoyin, Rufus Adesoji
+AU  - Adedoyin RA
+FAU - Adnani, Qorinah Estiningtyas Sakilah
+AU  - Adnani QES
+FAU - Afrashteh, Fatemeh
+AU  - Afrashteh F
+FAU - Aggarwal, Navidha
+AU  - Aggarwal N
+FAU - Ahmad, Danish
+AU  - Ahmad D
+FAU - Ahmadi, Ali
+AU  - Ahmadi A
+FAU - Ahmadi, Negar Sadat
+AU  - Ahmadi NS
+FAU - Ahmadzade, Amir Mahmoud
+AU  - Ahmadzade AM
+FAU - Ahmed, Syed Anees
+AU  - Ahmed SA
+FAU - Al Awaidy, Salah
+AU  - Al Awaidy S
+FAU - Alabbad, Sawsan
+AU  - Alabbad S
+FAU - Alajlani, Muaaz M
+AU  - Alajlani MM
+FAU - Al-Ajlouni, Yazan
+AU  - Al-Ajlouni Y
+FAU - Ali, Mohammed Usman
+AU  - Ali MU
+FAU - Ali, Syed Shujait
+AU  - Ali SS
+FAU - Ali, Waad
+AU  - Ali W
+FAU - Almazan, Joseph Uy
+AU  - Almazan JU
+FAU - Alshahrani, Najim Z
+AU  - Alshahrani NZ
+FAU - Altaf, Awais
+AU  - Altaf A
+FAU - Al-Wardat, Mohammad
+AU  - Al-Wardat M
+FAU - Alzoubi, Karem H
+AU  - Alzoubi KH
+FAU - Amiri, Sohrab
+AU  - Amiri S
+FAU - Amu, Hubert
+AU  - Amu H
+FAU - Amusa, Ganiyu Adeniyi
+AU  - Amusa GA
+FAU - Anderson, David B
+AU  - Anderson DB
+FAU - Anwar, Saleha
+AU  - Anwar S
+FAU - Areda, Demelash
+AU  - Areda D
+FAU - Asghari-Jafarabadi, Mohammad
+AU  - Asghari-Jafarabadi M
+FAU - Ashina, Sait
+AU  - Ashina S
+FAU - Ashraf, Javed
+AU  - Ashraf J
+FAU - Ashraf, Tahira
+AU  - Ashraf T
+FAU - Azargoonjahromi, Ali
+AU  - Azargoonjahromi A
+FAU - Bahurupi, Yogesh
+AU  - Bahurupi Y
+FAU - Baig, Atif Amin
+AU  - Baig AA
+FAU - Bandyopadhyay, Soham
+AU  - Bandyopadhyay S
+FAU - Bardhan, Mainak
+AU  - Bardhan M
+FAU - Barqawi, Hiba Jawdat
+AU  - Barqawi HJ
+FAU - Bashiri, Azadeh
+AU  - Bashiri A
+FAU - Bastan, Mohammad-Mahdi
+AU  - Bastan MM
+FAU - Bemanalizadeh, Maryam
+AU  - Bemanalizadeh M
+FAU - Bensenor, Isabela M
+AU  - Bensenor IM
+FAU - Berhie, Alemshet Yirga Yirga
+AU  - Berhie AYY
+FAU - Bhagavathula, Akshaya Srikanth
+AU  - Bhagavathula AS
+FAU - Bhaskar, Sonu
+AU  - Bhaskar S
+FAU - Bhat, Vivek
+AU  - Bhat V
+FAU - Bhatti, Gurjit Kaur
+AU  - Bhatti GK
+FAU - Bhatti, Jasvinder Singh
+AU  - Bhatti JS
+FAU - Bilgin, Cem
+AU  - Bilgin C
+FAU - Biswas, Atanu
+AU  - Biswas A
+FAU - Bizzozero-Peroni, Bruno
+AU  - Bizzozero-Peroni B
+FAU - Bustanji, Yasser
+AU  - Bustanji Y
+FAU - Cámera, Luis Alberto
+AU  - Cámera LA
+FAU - Caronna, Edoardo
+AU  - Caronna E
+FAU - Carvalho, Andre F
+AU  - Carvalho AF
+FAU - Chakraborty, Sandip
+AU  - Chakraborty S
+FAU - Ching, Patrick R
+AU  - Ching PR
+FAU - Christodoulou, Nikos
+AU  - Christodoulou N
+FAU - Chu, Dinh-Toi
+AU  - Chu DT
+FAU - Chu, Hongyuan
+AU  - Chu H
+FAU - Cruz-Martins, Natalia
+AU  - Cruz-Martins N
+FAU - Dadras, Omid
+AU  - Dadras O
+FAU - Dai, Xiaochen
+AU  - Dai X
+FAU - D'Amico, Emanuele
+AU  - D'Amico E
+FAU - Darwish, Amira Hamed
+AU  - Darwish AH
+FAU - Deekonda, Sindhura
+AU  - Deekonda S
+FAU - Devanbu, Vinoth Gnana Chellaiyan
+AU  - Devanbu VGC
+FAU - Dharmaratne, Samath Dhamminda
+AU  - Dharmaratne SD
+FAU - Dima, Adriana
+AU  - Dima A
+FAU - Dinkayehu, Temesgien Ergetie
+AU  - Dinkayehu TE
+FAU - Do, Huyen
+AU  - Do H
+FAU - Doku, Paul Narh
+AU  - Doku PN
+FAU - Doshi, Ojas Prakashbhai
+AU  - Doshi OP
+FAU - E'mar, Abdel Rahman
+AU  - E'mar AR
+FAU - Eissazade, Negin
+AU  - Eissazade N
+FAU - Eltaha, Chadi
+AU  - Eltaha C
+FAU - Fahim, Ayesha
+AU  - Fahim A
+FAU - Fares, Jawad
+AU  - Fares J
+FAU - Farjoud Kouhanjani, Mohsen
+AU  - Farjoud Kouhanjani M
+FAU - Faro, Andre
+AU  - Faro A
+FAU - Fazeli, Patrick
+AU  - Fazeli P
+FAU - Fereshtehnejad, Seyed-Mohammad
+AU  - Fereshtehnejad SM
+FAU - Ferrara, Pietro
+AU  - Ferrara P
+FAU - Ferreira, Nuno
+AU  - Ferreira N
+FAU - Fischer, Florian
+AU  - Fischer F
+FAU - Fornari, Arianna
+AU  - Fornari A
+FAU - Gajdács, Márió
+AU  - Gajdács M
+FAU - Gebregergis, Miglas Welay
+AU  - Gebregergis MW
+FAU - Ghadimi, Delaram J
+AU  - Ghadimi DJ
+FAU - Ghaffari Jolfayi, Amir
+AU  - Ghaffari Jolfayi A
+FAU - Gnedovskaya, Elena V
+AU  - Gnedovskaya EV
+FAU - Golechha, Mahaveer
+AU  - Golechha M
+FAU - Gomez Figueroa, Enrique
+AU  - Gomez Figueroa E
+FAU - Hashempur, Mohammad Hashem
+AU  - Hashempur MH
+FAU - Hasnain, Md Saquib
+AU  - Hasnain MS
+FAU - Hassan, Amr
+AU  - Hassan A
+FAU - Hassan, Nageeb
+AU  - Hassan N
+FAU - Hassan Zadeh Tabatabaei, Mahgol Sadat
+AU  - Hassan Zadeh Tabatabaei MS
+FAU - Hegazy, Mohamed I
+AU  - Hegazy MI
+FAU - Heidari, Golnaz
+AU  - Heidari G
+FAU - Helfer, Bartosz
+AU  - Helfer B
+FAU - Hossain, Md Mahbub
+AU  - Hossain MM
+FAU - Househ, Mowafa
+AU  - Househ M
+FAU - Hu, Chengxi
+AU  - Hu C
+FAU - Iavicoli, Ivo
+AU  - Iavicoli I
+FAU - Ilesanmi, Olayinka Stephen
+AU  - Ilesanmi OS
+FAU - Ilic, Irena M
+AU  - Ilic IM
+FAU - Ilyas, Muhana Fawwazy
+AU  - Ilyas MF
+FAU - Ilyasu, Salim
+AU  - Ilyasu S
+FAU - Ismail, Nahlah Elkudssiah
+AU  - Ismail NE
+FAU - Jafari-Khounigh, Ali
+AU  - Jafari-Khounigh A
+FAU - Jahrami, Haitham
+AU  - Jahrami H
+FAU - Janodia, Manthan Dilipkumar
+AU  - Janodia MD
+FAU - Jayasinghe, Ruwan Duminda
+AU  - Jayasinghe RD
+FAU - Jeswani, Bijay Mukesh
+AU  - Jeswani BM
+FAU - Jonas, Jost B
+AU  - Jonas JB
+FAU - Joseph, Nitin
+AU  - Joseph N
+FAU - Kalani, Rizwan
+AU  - Kalani R
+FAU - Khan, Moien A B
+AU  - Khan MAB
+FAU - Khateri, Sorour
+AU  - Khateri S
+FAU - Khatib, Mahalaqua Nazli
+AU  - Khatib MN
+FAU - Khayat Kashani, Hamid Reza
+AU  - Khayat Kashani HR
+FAU - Khidri, Feriha Fatima
+AU  - Khidri FF
+FAU - Khormali, Moein
+AU  - Khormali M
+FAU - Khosravi, Sepehr
+AU  - Khosravi S
+FAU - Kim, Yun Jin
+AU  - Kim YJ
+FAU - Kompani, Farzad
+AU  - Kompani F
+FAU - Kostev, Karel
+AU  - Kostev K
+FAU - Krishan, Kewal
+AU  - Krishan K
+FAU - Krishnan, Bindu
+AU  - Krishnan B
+FAU - Defo, Barthelemy Kuate
+AU  - Defo BK
+FAU - Kuddus, Mohammed
+AU  - Kuddus M
+FAU - Kulimbet, Mukhtar
+AU  - Kulimbet M
+FAU - Kumar, Rakesh
+AU  - Kumar R
+FAU - Kumar, Vijay
+AU  - Kumar V
+FAU - Kytö, Ville
+AU  - Kytö V
+FAU - Lasrado, Savita
+AU  - Lasrado S
+FAU - Lee, Seung Won
+AU  - Lee SW
+FAU - Lenzi, Jacopo
+AU  - Lenzi J
+FAU - Leonardi, Matilde
+AU  - Leonardi M
+FAU - Lucchetti, Giancarlo
+AU  - Lucchetti G
+FAU - Lugo, Alessandra
+AU  - Lugo A
+FAU - Makhdoom, Irsa Fatima
+AU  - Makhdoom IF
+FAU - Mallahzadeh, Arashk
+AU  - Mallahzadeh A
+FAU - Mansouri, Vahid
+AU  - Mansouri V
+FAU - Marzo, Roy Rillera
+AU  - Marzo RR
+FAU - Mathangasinghe, Yasith
+AU  - Mathangasinghe Y
+FAU - Mayeli, Mahsa
+AU  - Mayeli M
+FAU - Mehmood, Asim
+AU  - Mehmood A
+FAU - Meretoja, Atte
+AU  - Meretoja A
+FAU - Mestrovic, Tomislav
+AU  - Mestrovic T
+FAU - Mettananda, Sachith
+AU  - Mettananda S
+FAU - Minervini, Giuseppe
+AU  - Minervini G
+FAU - Mishra, Archana
+AU  - Mishra A
+FAU - Mithra, Prasanna
+AU  - Mithra P
+FAU - Mohamed Ahmed, Khabab Abbasher Hussien
+AU  - Mohamed Ahmed KAH
+FAU - Mohammadzadeh, Ibrahim
+AU  - Mohammadzadeh I
+FAU - Mohammed, Shafiu
+AU  - Mohammed S
+FAU - Monasta, Lorenzo
+AU  - Monasta L
+FAU - Morrison, Shane Douglas
+AU  - Morrison SD
+FAU - Nabavi, Amin
+AU  - Nabavi A
+FAU - Natto, Zuhair S
+AU  - Natto ZS
+FAU - Nauman, Javaid
+AU  - Nauman J
+FAU - Nieddu, Luciano
+AU  - Nieddu L
+FAU - Nugen, Fred
+AU  - Nugen F
+FAU - Olagunju, Andrew T
+AU  - Olagunju AT
+FAU - Oliveira, Arão Belitardo
+AU  - Oliveira AB
+FAU - Oliveira, Welber Sousa
+AU  - Oliveira WS
+FAU - Omar, Hany A
+AU  - Omar HA
+FAU - Omer, Goran Latif
+AU  - Omer GL
+FAU - Otstavnov, Nikita
+AU  - Otstavnov N
+FAU - P A, Mahesh
+AU  - P A M
+FAU - Panos, Leonidas D
+AU  - Panos LD
+FAU - Parikh, Romil R
+AU  - Parikh RR
+FAU - Patil, Shankargouda
+AU  - Patil S
+FAU - Patra, Apurba
+AU  - Patra A
+FAU - Pedersini, Paolo
+AU  - Pedersini P
+FAU - Pensato, Umberto
+AU  - Pensato U
+FAU - Peprah, Prince
+AU  - Peprah P
+FAU - Peres, Mario F P
+AU  - Peres MFP
+FAU - Piradov, Michael A
+AU  - Piradov MA
+FAU - Pozo-Rosich, Patricia
+AU  - Pozo-Rosich P
+FAU - Pradhan, Jalandhar
+AU  - Pradhan J
+FAU - Prakash, Sanjay
+AU  - Prakash S
+FAU - Prashant, Akila
+AU  - Prashant A
+FAU - Puvvula, Jagadeesh
+AU  - Puvvula J
+FAU - Rafiei, Alireza
+AU  - Rafiei A
+FAU - Raggi, Alberto
+AU  - Raggi A
+FAU - Rahmani, Amir Masoud
+AU  - Rahmani AM
+FAU - Ramadan, Mahmoud Mohammed
+AU  - Ramadan MM
+FAU - Rathish, Devarajan
+AU  - Rathish D
+FAU - Rautalin, Ilari
+AU  - Rautalin I
+FAU - Rawaf, Salman
+AU  - Rawaf S
+FAU - Rezaeian, Mohsen
+AU  - Rezaeian M
+FAU - Rezazadeh Eidgahi, Donya
+AU  - Rezazadeh Eidgahi D
+FAU - Rhee, Taeho Gregory
+AU  - Rhee TG
+FAU - Roy, Priyanka
+AU  - Roy P
+FAU - Saad Eddin, Adnan
+AU  - Saad Eddin A
+FAU - Sabet, Cameron John
+AU  - Sabet CJ
+FAU - Saddik, Basema Ahmad
+AU  - Saddik BA
+FAU - Sadeghi, Erfan
+AU  - Sadeghi E
+FAU - Saeed, Umar
+AU  - Saeed U
+FAU - Saheb Sharif-Askari, Fatemeh
+AU  - Saheb Sharif-Askari F
+FAU - Saheb Sharif-Askari, Narjes
+AU  - Saheb Sharif-Askari N
+FAU - Sahoo, Pragyan Monalisa
+AU  - Sahoo PM
+FAU - Salimi, Sohrab
+AU  - Salimi S
+FAU - Samy, Abdallah M
+AU  - Samy AM
+FAU - Saulam, Jennifer
+AU  - Saulam J
+FAU - Sawhney, Monika
+AU  - Sawhney M
+FAU - Senol, Yigit Can
+AU  - Senol YC
+FAU - Senthilkumaran, Subramanian
+AU  - Senthilkumaran S
+FAU - Sethi, Yashendra
+AU  - Sethi Y
+FAU - Seyedmirzaei, Homa
+AU  - Seyedmirzaei H
+FAU - Shafie, Mahan
+AU  - Shafie M
+FAU - Shamsi, Anas
+AU  - Shamsi A
+FAU - Sharifan, Amin
+AU  - Sharifan A
+FAU - Shehata, Hatem Samir
+AU  - Shehata HS
+FAU - Shenoy, Rekha Raghuveer
+AU  - Shenoy RR
+FAU - Shokraneh, Farhad
+AU  - Shokraneh F
+FAU - Sidhu, Jaspreet Kaur
+AU  - Sidhu JK
+FAU - Singh, Baljinder
+AU  - Singh B
+FAU - Singh, Harmanjit
+AU  - Singh H
+FAU - Singh, Jasvinder A
+AU  - Singh JA
+FAU - Singh, Surjit
+AU  - Singh S
+FAU - Skryabina, Anna Aleksandrovna
+AU  - Skryabina AA
+FAU - Sobia, Farrukh
+AU  - Sobia F
+FAU - Srichawla, Bahadar S
+AU  - Srichawla BS
+FAU - Suresh, Vinay
+AU  - Suresh V
+FAU - Swain, Chandan Kumar
+AU  - Swain CK
+FAU - T Y, Sree Sudha
+AU  - T Y SS
+FAU - Tabaee Damavandi, Payam
+AU  - Tabaee Damavandi P
+FAU - Tabche, Celine
+AU  - Tabche C
+FAU - Tabish, Mohammad
+AU  - Tabish M
+FAU - Tanwar, Manoj
+AU  - Tanwar M
+FAU - Temsah, Mohamad-Hani
+AU  - Temsah MH
+FAU - Teramoto, Masayuki
+AU  - Teramoto M
+FAU - Tran, Nghia Minh
+AU  - Tran NM
+FAU - Tran, Thang Huu
+AU  - Tran TH
+FAU - Tsatsakis, Aristidis
+AU  - Tsatsakis A
+FAU - Udoakang, Aniefiok John
+AU  - Udoakang AJ
+FAU - Usman, Jibrin Sammani
+AU  - Usman JS
+FAU - Uzunçıbuk, Hande
+AU  - Uzunçıbuk H
+FAU - Van den Eynde, Jef
+AU  - Van den Eynde J
+FAU - Vasankari, Tommi Juhani
+AU  - Vasankari TJ
+FAU - Venketasubramanian, Narayanaswamy
+AU  - Venketasubramanian N
+FAU - Villafañe, Jorge Hugo
+AU  - Villafañe JH
+FAU - Wang, Lintao
+AU  - Wang L
+FAU - Wang, Xingxin
+AU  - Wang X
+FAU - Wang, Yuan-Pang
+AU  - Wang YP
+FAU - Wiangkham, Taweewat
+AU  - Wiangkham T
+FAU - Winkler, Andrea Sylvia
+AU  - Winkler AS
+FAU - Wollie, Alemayehu Molla
+AU  - Wollie AM
+FAU - Xiao, Zheman
+AU  - Xiao Z
+FAU - Yismaw, Yazachew Engida Engida
+AU  - Yismaw YEE
+FAU - Yousuf, Abdilahi
+AU  - Yousuf A
+FAU - Zhao, Zhongyi
+AU  - Zhao Z
+FAU - Zielińska, Magdalena
+AU  - Zielińska M
+FAU - Chu, Min Kyung
+AU  - Chu MK
+FAU - Song, Tae-Jin
+AU  - Song TJ
+FAU - Yon, Dong Keon
+AU  - Yon DK
+FAU - Feigin, Valery L
+AU  - Feigin VL
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+OTO - NOTNLM
+OT  - Global Burden of Disease
+OT  - disability-adjusted life years
+OT  - headache disorders
+OT  - migraine
+OT  - tension-type headache
+COIS- Declaration of interests S. Ashina reports royalties or licenses from McGraw 
+      Hill/Medical; consulting fees from Lundbeck, Eli Lilly, Pfizer, AbbVie, Satsuma, 
+      Linpharma, Theranica, and Impel NeuroPharma; payment or honoraria for lectures, 
+      presentations, speakers bureaus, manuscript writing, or educational events from 
+      Lundbeck, Teva, Pfizer, AbbVie, and Eli Lilly; and leadership or fiduciary role 
+      in other board, society, committee, or advocacy group, paid or unpaid from the 
+      Board Trustee, International Headache Society and as a Member of Education 
+      Committee, International Headache Society; other financial or non-financial 
+      interests as Associate Editor of Cephalalgia, Associate Editor of Frontiers in 
+      Neurology, and Associate Editor of BMC Neurology; outside the submitted work. S. 
+      Bhaskar reports grants or contracts from Japan Society for the Promotion of 
+      Science (JSPS); Japanese Ministry of Education, Culture, Sports, Science and 
+      Technology (MEXT); Grant-in-Aid for Scientific Research (KAKENHI) (grant ID: 
+      23KF0126); JSPS and the Australian Academy of Science; and JSPS International 
+      Fellowship (grant ID: P23712). S. Bhaskar reports leadership or fiduciary role in 
+      other board, society, committee, or advocacy group, paid or unpaid as District 
+      Chair, Diversity, Equity, Inclusion & Belonging of Rotary District 9675 (Sydney, 
+      Australia); as Chair, Founding Member and Manager of the Global Health & 
+      Migration Hub Community, Global Health Hub Germany (Berlin, Germany); as 
+      Editorial Board Member of PLOS One, BMC Neurology, Frontiers in Neurology, 
+      Frontiers in Stroke, Frontiers in Public Health, Journal of Aging Research, 
+      Neurology International, Diagnostics, & BMC Medical Research Methodology; as a 
+      member of the College of Reviewers, Canadian Institutes of Health Research 
+      (CIHR), Government of Canada; as the Director of Research of World Headache 
+      Society (Bengaluru, India); as Expert Adviser/Reviewer of Cariplo Foundation 
+      (Milan, Italy); as Visiting Director of National Cerebral and Cardiovascular 
+      Center, Department of Neurology, Division of Cerebrovascular Medicine and 
+      Neurology, Suita (Osaka, Japan); as Member, Scientific Review Committee of 
+      Cardiff University Biobank (Cardiff, UK); as Chair of Rotary Reconciliation 
+      Action Plan; and as Healthcare and Medical Adviser at Japan Connect (Osaka, 
+      Japan) outside the submitted work. A. Biswas reports consulting fees from Intas 
+      Pharmaceuticals, Lupin Pharmaceuticals, Alkem Laboratories, and Torrent 
+      Pharmaceuticals, outside the submitted work. C.E. reports grants or contracts 
+      from Río Hortega grant Acción Estratégica en Salud 2017–2020 from Instituto de 
+      Salud Carlos III (CM20/00217) and the Juan Rodés fellowship, Subprograma Estatal 
+      de Incorporación de la Acción Estratégica en Salud 2023 (JR23/00065) from 
+      Instituto de Salud Carlos III; payment or honoraria for lectures, presentations, 
+      speakers bureaus, manuscript writing, or educational events from Organon, TEVA, 
+      Lilly, Dr. Reddy’s, and Novartis; and support for attending meetings and/or 
+      travel from TEVA and Lundbeck outside the submitted work. X.D. reports support 
+      for the present manuscript from the Institute for Health Metrics and Evaluation, 
+      University of Washington. A Dima reports other financial interests with the 
+      Bucharest University of Economic Studies (Romania), outside the submitted work. 
+      A. Faro reports support for the present manuscript from the National Council for 
+      Scientific and Technological Development (CNPq, Brazil), personal grant 
+      “Researcher at CNPq - Level 1B.” E.G.F. reports payment or honoraria for 
+      lectures, presentations, speakers bureaus, manuscript writing, or educational 
+      events from Biogen, Novartis, Merck, Roche, and Astra Zeneca and support for 
+      attending meetings and/or travel from Biogen, Novartis, Merck, Roche, and Astra 
+      Zeneca outside the submitted work. A.H. reports consulting fees from Novartis, 
+      Sanofi Genzyme, Biologix, Merck, Hikma Pharma, Janssen, Inspire Pharma, Future 
+      Pharma, and Elixir pharma; payment or honoraria for lectures, presentations, 
+      speakers bureaus, manuscript writing, or educational events from Novartis, 
+      Allergan, Merck, Biologix, Janssen, Roche, Sanofi Genzyme, Bayer, Hikma Pharma, 
+      Al Andalus, Chemipharm, Lundbeck, Inspire Pharma, Future Pharma and Habib 
+      Scientific Office, and Everpharma; and support for attending meetings and/or 
+      travel from Novartis, Allergan, Merck, Biologix, Roche, Sanofi Genzyme, Bayer, 
+      Hikma Pharma, Chemipharm, and Al Andalus and Clavita pharm. A.H. reports 
+      leadership or fiduciary role in other board, society, committee, or advocacy 
+      group, paid or unpaid as the Vice President of MENA headache society; Board 
+      member of Multiple Sclerosis chapter of the Egyptian Society of Neurology; Board 
+      member of head-ache chapter of the Egyptian Society of Neurology; and member of 
+      committee of Education of the international Headache Society (IHS), membership 
+      committee of IHS, and regional committee of HIS outside the submitted work. I.I. 
+      reports support for the present manuscript from the Ministry of Science, 
+      Technological Development and Innovation of the Republic of Serbia (grant no. 
+      451-03-137/2025-03/200110). N.E.I. reports leadership or fiduciary role in other 
+      board, society, committee or advocacy group, unpaid as Bursar and Council Member 
+      of the Malaysian Academy of Pharmacy (Malaysia) and committee member of Malaysian 
+      Pharmacists Society Education Chapter Committee outside the submitted work. K. 
+      Krishan reports other, non-financial support from the UGC Centre of Advanced 
+      Study, CAS II, awarded to the Department of Anthropology, Panjab University 
+      (Chandigarh, India), outside the submitted work. M.L. reports grants or contracts 
+      from the Italian Ministry of Health for research on disorders of consciousness as 
+      well as grants from EU on NCDs and CVDs impact and support for attending meetings 
+      and/or travel as Board member of the European Academy of Neurology and of the 
+      Italian Society of neurology outside the submitted work. S. Mohammed reports 
+      support for the present manuscript from the Gates Foundation. L.M. reports 
+      support for the present manuscript from the Italian Ministry of Health (Ricerca 
+      Corrente 34/2017), payments made to the Institute for Maternal and Child Health 
+      IRCCS Burlo Garofolo. W.O. reports grants or contracts from Pfizer, Libbs, Teva, 
+      Ease Labs, and Mantecorp; payment or honoraria for lectures, presentations, 
+      speakers bureaus, manuscript writing, or educational events from Pfrizer, Libbs, 
+      Teva, Ease Labs, and Mantecorp; support for attending meetings and/or travel from 
+      Mantecorp; leadership or fiduciary role in other board, society, committee, or 
+      advocacy group, unpaid with the Public Policies Committee (Brazilian Headache 
+      Society) outside the submitted work. M.F.P.P. reports grants or contracts from 
+      Abbvie and Pfizer; consulting fees from Abbvie, Pfizer, and Teva; payment or 
+      honoraria for lectures, presentations, speakers bureaus, manuscript writing, or 
+      educational events from Abbvie, Pfizer, and Teva; patents planned, issued, or 
+      pending (US 17/196,611); leadership or fiduciary role in other board, society, 
+      committee, or advocacy group, paid or unpaid with Abraces and IHS outside the 
+      submitted work. M.A.P. reports leadership or fiduciary role in other board, 
+      society, committee, or advocacy group, paid or unpaid as editor in chief of 
+      Annals of Clinical and Experimental Neurology outside the submitted work. P.P.-R. 
+      reports grants or contracts from ERANet Neuron, Instituto Salud Carlos III, and 
+      Novartis; consulting fees from AbbVie, Almirall, Dr. Reddy’s, Eli Lilly, 
+      Lundbeck, Organon, Pfizer, and Teva; payment or honoraria for lectures, 
+      presentations, speakers bureaus, manuscript writing, or educational events from 
+      AbbVie, Almirall, Dr. Reddy’s, Eli Lilly, Lundbeck, Novartis, Organon, Pfizer, 
+      and Teva; support for attending meetings and/or travel from Lundbeck, Organon, 
+      and Teva; and leadership or fiduciary role in other board, society, committee, or 
+      advocacy group, paid or unpaid with the Honorary Secretary International Headache 
+      Society outside the submitted work. J.I.S. reports other financial or 
+      non-financial support from the Yonsei Fellowship. J.S. reports consulting fees 
+      from ROMTech, Atheneum, Clearview healthcare partners, American College of 
+      Rheumatology, Yale, Hulio, Horizon Pharmaceuticals, DINO-RA, ANI/Exeltis, USA 
+      Inc., Frictionless Solutions, Schipher, Crealta/Horizon, Medisys, Fidia, PK Med, 
+      Two labs Inc., Adept Field Solutions, Clinical Care options, Putnam associates, 
+      Focus forward, Navigant consulting, Spherix, MedIQ, Jupiter Life Science, UBM 
+      LLC, Trio Health, Medscape, WebMD, and Practice Point communications, and the 
+      National Institutes of Health; payment or honoraria for lectures, presentations, 
+      speakers bureaus, manuscript writing, or educational events on the speaker’s 
+      bureau of Simply Speaking; support for attending meetings and/or travel from the 
+      speaker’s bureau of Simply Speaking; leadership or fiduciary role in other board, 
+      society, committee, or advocacy group, paid or unpaid as a Past steering 
+      committee member of the OMERACT, an international organization that develops 
+      measures for clinical trials and receives arm’s length funding from 12 
+      pharmaceutical companies, as the Chair of the Veterans Affairs Rheumatology Field 
+      Advisory Committee, and as the editor and the Director of the UAB Cochrane 
+      Musculoskeletal Group Satellite Center on Network Meta-analysis; and stock or 
+      stock options in Atai life sciences, Kintara therapeutics, Intelligent 
+      Biosolutions, Acumen pharmaceutical, TPT Global Tech, Vaxart pharmaceuticals, 
+      Atyu biopharma, Adaptimmune Therapeutics, GeoVax Labs, Pieris Pharmaceuticals, 
+      Enzolytics Inc., Seres Therapeutics, Tonix Pharmaceuticals Holding Corp., Aebona 
+      Pharmaceuticals, and Charlotte’s Web Holdings, Inc., and previously owned stock 
+      options in Amarin, Viking, and Moderna pharmaceuticals outside the submitted 
+      work. M. Tanwar reports grants or contracts from the University of Alabama at 
+      Birmingham Health Service Foundation grant for TBI research outside the submitted 
+      work. M.Z. reports other financial support as an Alexion, AstraZeneca Rare 
+      Disease employee, outside the submitted work.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 18:41
+PHST- 2025/02/19 00:00 [received]
+PHST- 2025/05/01 00:00 [revised]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 18:41 [entrez]
+AID - S2666-3791(25)00421-5 [pii]
+AID - 10.1016/j.xcrm.2025.102348 [doi]
+PST - aheadofprint
+SO  - Cell Rep Med. 2025 Sep 18:102348. doi: 10.1016/j.xcrm.2025.102348.

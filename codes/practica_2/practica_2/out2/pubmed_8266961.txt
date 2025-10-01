@@ -1,0 +1,59 @@
+PMID- 8266961
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940121
+LR  - 20131121
+IS  - 0002-9289 (Print)
+IS  - 0002-9289 (Linking)
+VI  - 50
+IP  - 11
+DP  - 1993 Nov
+TI  - Stability of an extemporaneously compounded baclofen oral liquid.
+PG  - 2353-5
+AB  - The stability of baclofen in an extemporaneously compounded oral liquid 
+      formulation for 35 days was studied. A suspension was prepared by grinding 
+      commercially available 20-mg baclofen tablets and adding Glycerin, USP, to form a 
+      paste. Simple Syrup, NF, was added as necessary to make a final volume of 60 mL. 
+      A control solution was prepared from analytical-grade baclofen powder in Simple 
+      Syrup, NF. The final concentration of baclofen in both formulations was 5 mg/mL. 
+      Three samples of each preparation were stored in 2-oz, amber glass prescription 
+      bottles in the dark under refrigeration at 4 degrees C. Immediately after 
+      preparation and at 7, 14, 21, 28, and 35 days, samples were visually inspected, 
+      tested for pH, and assayed in duplicate by high-performance liquid 
+      chromatography. On day 35, the mean percentages of the initial baclofen 
+      concentrations remaining were 95.9% in the suspension and 95.6% in the solution. 
+      The color, odor, and pH of the samples did not change appreciably over the study 
+      period. In an extemporaneously compounded oral liquid preparation in Simple 
+      Syrup, NF, stored in the dark under refrigeration, baclofen was stable for at 
+      least 35 days.
+FAU - Johnson, C E
+AU  - Johnson CE
+AD  - College of Pharmacy, University of Michigan, Ann Arbor 48109-1065.
+FAU - Hart, S M
+AU  - Hart SM
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Hosp Pharm
+JT  - American journal of hospital pharmacy
+JID - 0370474
+RN  - 0 (Suspensions)
+RN  - H789N3FKE8 (Baclofen)
+SB  - IM
+MH  - Administration, Oral
+MH  - Baclofen/administration & dosage/*chemistry
+MH  - Chemistry, Pharmaceutical
+MH  - Drug Compounding
+MH  - Drug Stability
+MH  - Drug Storage
+MH  - Humans
+MH  - Suspensions
+EDAT- 1993/11/01 00:00
+MHDA- 1993/11/01 00:01
+CRDT- 1993/11/01 00:00
+PHST- 1993/11/01 00:00 [pubmed]
+PHST- 1993/11/01 00:01 [medline]
+PHST- 1993/11/01 00:00 [entrez]
+PST - ppublish
+SO  - Am J Hosp Pharm. 1993 Nov;50(11):2353-5.

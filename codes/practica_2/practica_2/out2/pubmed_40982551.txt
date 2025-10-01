@@ -1,0 +1,227 @@
+PMID- 40982551
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1532-298X (Electronic)
+IS  - 1040-4651 (Linking)
+DP  - 2025 Sep 22
+TI  - A variome-transcriptome-metabolome network links GABA biosynthesis to stress 
+      resilience in maize.
+LID - koaf221 [pii]
+LID - 10.1093/plcell/koaf221 [doi]
+AB  - Root metabolites are essential for plant development and environmental stress 
+      adaptation. However, the genetic basis controlling root metabolome variation in 
+      crops and its role in stress resilience remain largely uncharacterized. In this 
+      study, we employed a comprehensive multi-omics approach, integrating root 
+      metabolome and transcriptome profiles of 273 maize (Zea mays L.) inbred lines at 
+      the seedling stage. Our analysis annotated 407 metabolites, of which 155 
+      exhibited significant correlations with root traits. Using a 
+      variome-transcriptome-metabolome association (VTM) network, we identified the 
+      glutamate decarboxylase (GAD) gene ZmGAD as a crucial regulator that enhances 
+      root growth and stress tolerance by modulating gamma-aminobutyric acid (GABA) 
+      biosynthesis. ZmGAD-derived GABA confers stress tolerance by regulating stomatal 
+      aperture and scavenging reactive oxygen species. A transcription factor, ZmZIM2, 
+      acts as a negative regulator of ZmGAD expression and GABA accumulation. Moreover, 
+      a 2-bp insertion in ZmGAD causes a premature translation termination, resulting 
+      in reduced GABA content, shorter roots, and decreased stress tolerance in maize. 
+      The reduced frequency of a 2-bp deletion suggests it may have been inadvertently 
+      lost during maize domestication and modern breeding. This study elucidates the 
+      genetic and molecular framework underlying root metabolite regulation in maize 
+      and provides a valuable resource for enhancing root traits and stress tolerance 
+      in maize breeding.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of American 
+      Society of Plant Biologists. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Wang, Yunyun
+AU  - Wang Y
+AUID- ORCID: 0009-0006-3424-8057
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Sun, Dan
+AU  - Sun D
+AUID- ORCID: 0009-0009-8730-8211
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Duan, Yamin
+AU  - Duan Y
+AUID- ORCID: 0009-0001-5512-4487
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Yang, Aiqing
+AU  - Yang A
+AUID- ORCID: 0009-0007-9981-7860
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Yang, Xiaoyi
+AU  - Yang X
+AUID- ORCID: 0000-0001-9248-816X
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Zhu, Tianze
+AU  - Zhu T
+AUID- ORCID: 0009-0007-8495-5638
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Yan, Yuxing
+AU  - Yan Y
+AUID- ORCID: 0009-0008-7260-8556
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Li, Wei
+AU  - Li W
+AUID- ORCID: 0009-0004-3215-1126
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Rui, Wenye
+AU  - Rui W
+AUID- ORCID: 0009-0008-1465-0406
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Fang, Shuai
+AU  - Fang S
+AUID- ORCID: 0009-0009-6670-2017
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Wang, Baoqing
+AU  - Wang B
+AUID- ORCID: 0009-0003-3822-7032
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Tian, Yimei
+AU  - Tian Y
+AUID- ORCID: 0009-0000-8985-0631
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Wang, Houmiao
+AU  - Wang H
+AUID- ORCID: 0009-0002-1665-2516
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Chen, Fanjun
+AU  - Chen F
+AUID- ORCID: 0000-0001-8105-1683
+AD  - State Key Laboratory of Nutrient Use and Management, College of Resources and 
+      Environmental Sciences, China Agricultural University, Beijing 100193, China.
+FAU - Jia, Zhongtao
+AU  - Jia Z
+AUID- ORCID: 0000-0003-0233-1578
+AD  - State Key Laboratory of Nutrient Use and Management, College of Resources and 
+      Environmental Sciences, China Agricultural University, Beijing 100193, China.
+FAU - Pan, Qingchun
+AU  - Pan Q
+AUID- ORCID: 0000-0001-8462-3165
+AD  - State Key Laboratory of Nutrient Use and Management, College of Resources and 
+      Environmental Sciences, China Agricultural University, Beijing 100193, China.
+FAU - Yang, Zefeng
+AU  - Yang Z
+AUID- ORCID: 0000-0002-3465-8594
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Yuan, Lixing
+AU  - Yuan L
+AUID- ORCID: 0000-0003-0233-6184
+AD  - State Key Laboratory of Nutrient Use and Management, College of Resources and 
+      Environmental Sciences, China Agricultural University, Beijing 100193, China.
+FAU - Xu, Chenwu
+AU  - Xu C
+AUID- ORCID: 0000-0002-1971-1086
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+FAU - Li, Pengcheng
+AU  - Li P
+AUID- ORCID: 0000-0002-2258-2318
+AD  - Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Key Laboratory of 
+      Plant Functional Genomics of the Ministry of Education, Agriculture College of 
+      Yangzhou University, Yangzhou 225009, China.
+AD  - Jiangsu Co-Innovation Center for Modern Production Technology of Grain 
+      Crops/Jiangsu Key Laboratory of Crop Genetics and Physiology, Yangzhou 
+      University, Yangzhou 225009, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Plant Cell
+JT  - The Plant cell
+JID - 9208688
+SB  - IM
+OTO - NOTNLM
+OT  - Abiotic stress tolerance
+OT  - Gamma-aminobutyric acid
+OT  - Maize root
+OT  - Metabolite
+OT  - Natural variation
+EDAT- 2025/09/22 18:38
+MHDA- 2025/09/22 18:38
+CRDT- 2025/09/22 13:44
+PHST- 2025/01/15 00:00 [received]
+PHST- 2025/05/13 00:00 [revised]
+PHST- 2025/09/22 18:38 [medline]
+PHST- 2025/09/22 18:38 [pubmed]
+PHST- 2025/09/22 13:44 [entrez]
+AID - 8261593 [pii]
+AID - 10.1093/plcell/koaf221 [doi]
+PST - aheadofprint
+SO  - Plant Cell. 2025 Sep 22:koaf221. doi: 10.1093/plcell/koaf221.

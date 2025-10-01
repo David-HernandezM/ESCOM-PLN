@@ -1,0 +1,250 @@
+PMID- 40967224
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1875-9777 (Electronic)
+IS  - 1875-9777 (Linking)
+DP  - 2025 Sep 17
+TI  - Spatially patterned kidney assembloids recapitulate progenitor self-assembly and 
+      enable high-fidelity in vivo disease modeling.
+LID - S1934-5909(25)00328-5 [pii]
+LID - 10.1016/j.stem.2025.08.013 [doi]
+AB  - Current kidney organoids do not recapitulate the kidney's complex spatial 
+      patterning and function, limiting their applications. The human kidney comprises 
+      one million nephrons, derived from nephron progenitor cells, that connect to an 
+      arborized ureteric progenitor cell-derived collecting system. Here, we develop 
+      spatially organized mouse and human kidney progenitor assembloid (KPA) models in 
+      which the nephrons undergo extensive development and fuse to a centrally located 
+      collecting system, recapitulating kidney progenitor self-assembly processes 
+      observed in vivo. KPAs show dramatically improved cellular complexity and 
+      maturity and exhibit several aspects of major kidney functions in vitro and in 
+      vivo. Modeling human autosomal dominant polycystic kidney disease (ADPKD) with 
+      genome-edited, in vivo-grown human KPAs recapitulated the cystic phenotype and 
+      the molecular and cellular hallmarks of the disease and highlighted the crosstalk 
+      among cyst epithelium, stroma, and macrophages. The KPA platform opens new 
+      avenues for high-fidelity disease modeling and lays a strong foundation for 
+      kidney regenerative medicine.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Huang, Biao
+AU  - Huang B
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Medina, Pedro
+AU  - Medina P
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - He, Jincan
+AU  - He J
+AD  - Key Laboratory of Spine and Spinal Cord Injury Repair and Regeneration of 
+      Ministry of Education, Orthopaedic Department of Tongji Hospital, School of Life 
+      Sciences and Technology, Tongji University, Shanghai 200065, China.
+FAU - Zeng, Zipeng
+AU  - Zeng Z
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Kim, Sunghyun
+AU  - Kim S
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Romo, Janet
+AU  - Romo J
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Koppitch, Kari
+AU  - Koppitch K
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Zhang, Chennan C
+AU  - Zhang CC
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Gyarmati, Georgina
+AU  - Gyarmati G
+AD  - Department of Physiology and Neuroscience and Department of Medicine, Zilkha 
+      Neurogenetic Institute, University of Southern California, Los Angeles, CA 90033, 
+      USA.
+FAU - Park, Yohan
+AU  - Park Y
+AD  - Department of Internal Medicine, Division of Nephrology and Hypertension, 
+      University of Oklahoma Health Sciences Center, Oklahoma City, OK 73034, USA.
+FAU - Bohovyk, Ruslan
+AU  - Bohovyk R
+AD  - Department of Molecular Pharmacology and Physiology, University of South Florida, 
+      Tampa, FL 33602, USA.
+FAU - N'Guetta, Pierre-Emmanuel Yoann
+AU  - N'Guetta PY
+AD  - Department of Cell Biology and Physiology, The University of North Carolina at 
+      Chapel Hill, Chapel Hill, NC 27599, USA.
+FAU - Guo, Jinjin
+AU  - Guo J
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Ma, Tianyi
+AU  - Ma T
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Schreiber, Megan E
+AU  - Schreiber ME
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Xu, Cong
+AU  - Xu C
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Pham, Jessica
+AU  - Pham J
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA.
+FAU - Parvez, Riana K
+AU  - Parvez RK
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Su, Jackson
+AU  - Su J
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Xia, Mateo W
+AU  - Xia MW
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA.
+FAU - Liu, Zhenqing
+AU  - Liu Z
+AD  - Department of Neurodegenerative Diseases, Beckman Research Institute of City of 
+      Hope, Duarte, CA 91010, USA.
+FAU - Perin, Laura
+AU  - Perin L
+AD  - GOFARR Laboratory, Division of Urology, Saban Research Institute, Children's 
+      Hospital Los Angeles, Los Angeles, CA 90027, USA.
+FAU - El-Nachef, Danny
+AU  - El-Nachef D
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Murry, Charles E
+AU  - Murry CE
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Kumar, Sanjeev
+AU  - Kumar S
+AD  - Board of Governors Regenerative Medicine Institute, Cedars-Sinai Medical Center, 
+      Los Angeles, CA 90048, USA.
+FAU - O'Brien, Lori
+AU  - O'Brien L
+AD  - Department of Cell Biology and Physiology, The University of North Carolina at 
+      Chapel Hill, Chapel Hill, NC 27599, USA.
+FAU - Zimmerman, Kurt A
+AU  - Zimmerman KA
+AD  - Department of Internal Medicine, Division of Nephrology and Hypertension, 
+      University of Oklahoma Health Sciences Center, Oklahoma City, OK 73034, USA.
+FAU - Ichida, Justin
+AU  - Ichida J
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Lindström, Nils O
+AU  - Lindström NO
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Pastor-Soler, Nuria M
+AU  - Pastor-Soler NM
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA.
+FAU - Hallows, Kenneth R
+AU  - Hallows KR
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA.
+FAU - Staruschenko, Alexander
+AU  - Staruschenko A
+AD  - Department of Molecular Pharmacology and Physiology, University of South Florida, 
+      Tampa, FL 33602, USA.
+FAU - Peti-Peterdi, Janos
+AU  - Peti-Peterdi J
+AD  - Department of Physiology and Neuroscience and Department of Medicine, Zilkha 
+      Neurogenetic Institute, University of Southern California, Los Angeles, CA 90033, 
+      USA.
+FAU - Jiang, Cizhong
+AU  - Jiang C
+AD  - Key Laboratory of Spine and Spinal Cord Injury Repair and Regeneration of 
+      Ministry of Education, Orthopaedic Department of Tongji Hospital, School of Life 
+      Sciences and Technology, Tongji University, Shanghai 200065, China.
+FAU - McMahon, Andrew P
+AU  - McMahon AP
+AD  - Department of Stem Cell Biology and Regenerative Medicine, Keck School of 
+      Medicine, University of Southern California, Los Angeles, CA 90033, USA.
+FAU - Li, Zhongwei
+AU  - Li Z
+AD  - Vito M. Campese MD/UKRO Kidney Research Center, Division of Nephrology and 
+      Hypertension, Department of Medicine, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA 90033, USA; Department of Stem Cell Biology 
+      and Regenerative Medicine, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA 90033, USA. Electronic address: 
+      zhongwei.li@med.usc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - Cell Stem Cell
+JT  - Cell stem cell
+JID - 101311472
+SB  - IM
+OTO - NOTNLM
+OT  - collecting duct
+OT  - functional maturation
+OT  - kidney organoid
+OT  - nephron
+OT  - nephron patterning
+OT  - nephron progenitor cell
+OT  - pluripotent stem cell
+OT  - polycystic kidney disease
+OT  - progenitor plasticity
+OT  - ureteric progenitor cell
+COIS- Declaration of interests A.P.M. is a scientific advisor or consultant for 
+      eGENESIS, Trestle Biotherapeutics, GentiBio, and IVIVA Medical. J.P.-P. and G.G. 
+      are co-founders of Macula Densa Cell LLC, a biotechnology company that develops 
+      therapeutics to target macula densa cells for a regenerative treatment for 
+      chronic kidney disease. Macula Densa Cell LLC has a patent entitled “Targeting 
+      macula densa cells as a new therapeutic approach for kidney disease” (US patents 
+      10,828,374 and 11,318,209). Z. Li, B.H., P.M., Z.Z., and A.P.M. have applied for 
+      intellectual property protection on technologies discussed here.
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+CRDT- 2025/09/18 18:41
+PHST- 2024/08/21 00:00 [received]
+PHST- 2025/06/28 00:00 [revised]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 18:41 [entrez]
+AID - S1934-5909(25)00328-5 [pii]
+AID - 10.1016/j.stem.2025.08.013 [doi]
+PST - aheadofprint
+SO  - Cell Stem Cell. 2025 Sep 17:S1934-5909(25)00328-5. doi: 
+      10.1016/j.stem.2025.08.013.

@@ -1,0 +1,116 @@
+PMID- 40976711
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1349-7006 (Electronic)
+IS  - 1347-9032 (Linking)
+DP  - 2025 Sep 21
+TI  - Durvalumab Post Concurrent Chemoradiotherapy in Japanese Patients With 
+      Limited-Stage Small-Cell Lung Cancer in the Phase 3 ADRIATIC Trial.
+LID - 10.1111/cas.70188 [doi]
+AB  - At the first interim analysis of the global, randomized, phase 3, double-blind 
+      ADRIATIC trial in patients with limited-stage small-cell lung cancer (LS-SCLC) 
+      not progressing after concurrent chemoradiotherapy (cCRT), consolidation 
+      durvalumab significantly improved overall survival (OS; hazard ratio [HR] 0.73) 
+      and progression-free survival (PFS) by blinded independent central review (BICR; 
+      HR 0.76) versus placebo (dual primary endpoints). We report an exploratory 
+      analysis in patients enrolled in Japan. Patients received durvalumab 1500 mg 
+      (N = 264), durvalumab+tremelimumab 75 mg (4 doses, N = 200; arm remained 
+      blinded), or placebo (N = 266) every 4 weeks for ≤ 24 months. Prior cCRT ± 
+      prophylactic cranial irradiation (PCI) was per local standards of care. In the 
+      Japan subgroup, 19 and 31 patients received durvalumab and placebo, respectively; 
+      prior cCRT comprised cisplatin-etoposide/carboplatin-etoposide in 94.7/5.3% and 
+      87.1/12.9% and once-daily/twice-daily radiotherapy in 10.5/89.5% and 0/100%; 
+      52.6% and 58.1% received PCI. Median OS was not reached versus 44.9 months 
+      (3-year OS 67.4% versus 58.1%; HR 0.67, 95% CI 0.24-1.62). Median PFS by BICR was 
+      44.2 versus 29.4 months (24-month PFS 59.6% vs. 58.6%; HR 1.05, 95% CI 
+      0.44-2.36); median PFS by investigator assessment (sensitivity analysis) was 44.2 
+      versus 19.7 months (24-month PFS 65.6% vs. 47.0%; HR 0.68, 95% CI 0.28-1.51). 
+      With durvalumab and placebo, 21.1% and 19.4% had maximum grade 3-4 adverse events 
+      (AEs), 21.1% and 9.7% had AEs leading to treatment discontinuation, and 52.6% and 
+      45.2% had pneumonitis/radiation pneumonitis (grade 3-4: 0% and 6.5%). In 
+      conclusion, consolidation durvalumab demonstrated a favorable risk/benefit 
+      profile in Japanese patients with LS-SCLC post cCRT. Trial Registration: 
+      ClinicalTrials.gov identifier: NCT03703297.
+CI  - © 2025 The Author(s). Cancer Science published by John Wiley & Sons Australia, 
+      Ltd on behalf of Japanese Cancer Association.
+FAU - Zenke, Yoshitaka
+AU  - Zenke Y
+AUID- ORCID: 0000-0002-7641-9065
+AD  - Department of Thoracic Oncology, National Cancer Center Hospital East, Kashiwa, 
+      Japan.
+FAU - Shiraishi, Yoshimasa
+AU  - Shiraishi Y
+AD  - Department of Respiratory Medicine, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan.
+FAU - Goto, Yasushi
+AU  - Goto Y
+AD  - Research and Development, National Cancer Center Hospital, Tokyo, Japan.
+FAU - Azuma, Koichi
+AU  - Azuma K
+AD  - Department of Internal Medicine, Kurume University School of Medicine, Kurume, 
+      Japan.
+FAU - Okishio, Kyoichi
+AU  - Okishio K
+AD  - Department of Thoracic Oncology, National Hospital Organization Kinki Chuo Chest 
+      Medical Center, Sakai, Japan.
+FAU - Ogino, Hirokazu
+AU  - Ogino H
+AD  - Department of Respiratory Medicine & Rheumatology, Tokushima University Hospital, 
+      Tokushima, Japan.
+FAU - Horio, Yoshitsugu
+AU  - Horio Y
+AD  - Department of Thoracic Oncology, Aichi Cancer Center Hospital, Nagoya, Japan.
+FAU - Oizumi, Satoshi
+AU  - Oizumi S
+AD  - Department of Respiratory Medicine, National Hospital Organization Hokkaido 
+      Cancer Center, Sapporo, Japan.
+FAU - Hayama, Manabu
+AU  - Hayama M
+AD  - AstraZeneca K.K., Tokyo, Japan.
+FAU - Nii, Masahiro
+AU  - Nii M
+AD  - AstraZeneca K.K., Osaka, Japan.
+FAU - Harada, Masaya
+AU  - Harada M
+AD  - AstraZeneca K.K., Tokyo, Japan.
+FAU - Mann, Helen
+AU  - Mann H
+AD  - AstraZeneca, Cambridge, UK.
+FAU - Olivo, Yuka S
+AU  - Olivo YS
+AD  - AstraZeneca, New York, New York, USA.
+FAU - Jiang, Haiyi
+AU  - Jiang H
+AD  - AstraZeneca, Gaithersburg, Maryland, USA.
+FAU - Senan, Suresh
+AU  - Senan S
+AD  - Amsterdam University Medical Centers, Vrije Universiteit Amsterdam, Cancer Center 
+      Amsterdam, Amsterdam, the Netherlands.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03703297
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - Cancer Sci
+JT  - Cancer science
+JID - 101168776
+SB  - IM
+OTO - NOTNLM
+OT  - consolidation
+OT  - durvalumab
+OT  - limited‐stage SCLC
+OT  - overall survival
+OT  - progression‐free survival
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 22:33
+PHST- 2025/08/29 00:00 [revised]
+PHST- 2025/06/05 00:00 [received]
+PHST- 2025/08/31 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 22:33 [entrez]
+AID - 10.1111/cas.70188 [doi]
+PST - aheadofprint
+SO  - Cancer Sci. 2025 Sep 21. doi: 10.1111/cas.70188.

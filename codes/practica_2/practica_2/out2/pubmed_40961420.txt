@@ -1,0 +1,69 @@
+PMID- 40961420
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+DP  - 2025 Sep 17
+TI  - In Vivo CD19 CAR T-Cell Therapy for Refractory Systemic Lupus Erythematosus.
+LID - 10.1056/NEJMc2509522 [doi]
+FAU - Wang, Qian
+AU  - Wang Q
+AD  - First Affiliated Hospital of University of Science and Technology of China, 
+      Hefei.
+FAU - Xiao, Ze Xiu
+AU  - Xiao ZX
+AD  - Shenzhen MagicRNA Biotechnology, Shenzhen, China.
+FAU - Zheng, Xu
+AU  - Zheng X
+AD  - First Affiliated Hospital of University of Science and Technology of China, 
+      Hefei.
+FAU - Wang, Guihong
+AU  - Wang G
+AD  - Anqing Municipal Hospital, Anqing, China.
+FAU - Yang, Linlin
+AU  - Yang L
+AD  - Anhui University of Science and Technology, Huainan, China.
+FAU - Shi, Lina
+AU  - Shi L
+AD  - Shenzhen MagicRNA Biotechnology, Shenzhen, China.
+FAU - Xiang, Nan
+AU  - Xiang N
+AD  - First Affiliated Hospital of University of Science and Technology of China, 
+      Hefei.
+FAU - Wang, Xingbing
+AU  - Wang X
+AD  - First Affiliated Hospital of University of Science and Technology of China, 
+      Hefei.
+FAU - Zha, Gao-Feng
+AU  - Zha GF
+AD  - Shenzhen MagicRNA Biotechnology, Shenzhen, China.
+FAU - Schett, Georg
+AU  - Schett G
+AD  - Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
+FAU - Chen, Zhu
+AU  - Chen Z
+AUID- ORCID: 0000-0003-0828-1583
+AD  - First Affiliated Hospital of University of Science and Technology of China, 
+      Hefei.
+LA  - eng
+GR  - 2408085J046/Natural Science Foundation of Anhui Province/
+GR  - KJZD20230923115705011/National Natural Science Foundation of China/
+GR  - 82471819/National Natural Science Foundation of China/
+GR  - 2023AH040403/Anhui University/
+PT  - Letter
+DEP - 20250917
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+EDAT- 2025/09/17 18:31
+MHDA- 2025/09/17 18:31
+CRDT- 2025/09/17 16:13
+PHST- 2025/09/17 18:31 [medline]
+PHST- 2025/09/17 18:31 [pubmed]
+PHST- 2025/09/17 16:13 [entrez]
+AID - 10.1056/NEJMc2509522 [doi]
+PST - aheadofprint
+SO  - N Engl J Med. 2025 Sep 17. doi: 10.1056/NEJMc2509522.

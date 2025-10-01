@@ -1,0 +1,88 @@
+PMID- 40983070
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+DP  - 2025 Sep 19
+TI  - The future of type 1 diabetes therapy.
+LID - S0140-6736(25)01438-2 [pii]
+LID - 10.1016/S0140-6736(25)01438-2 [doi]
+AB  - The treatment of type 1 diabetes is entering a transformative era. Teplizumab, 
+      the first immunotherapy treatment to delay the onset of clinical type 1 diabetes, 
+      has been approved by the US Food and Drug Administration. Other immune-based 
+      therapies show promise in preserving β-cell function. Public health screening 
+      using islet autoantibodies is expanding, enabling earlier diagnosis, reducing 
+      diabetic ketoacidosis, and allowing timely introduction of disease-modifying 
+      treatments before the need for insulin therapy. β-cell replacement is shifting 
+      from traditional transplantation of organ donor islets and the pancreas to stem 
+      cell-derived β cells. Bioengineering methods, such as encapsulation, and gene 
+      editing to create hypoimmune cells could reduce the need for immunosuppression 
+      that has hampered β-cell replacement, and patient-derived stem cells open doors 
+      to personalised therapies. Although these innovations have been made available to 
+      a small number of patients, scaling them to widespread use remains a challenge. 
+      Meanwhile, glucose regulation is improving through the use of automated insulin 
+      delivery systems that combine glucose monitoring with insulin pumps. 
+      New-generation insulins (those that are ultrarapid, ultralong, and 
+      glucose-responsive) improve outcomes by minimising blood sugar fluctuations. 
+      Together, these breakthroughs offer renewed hope for improving long-term 
+      management and quality of life for people living with type 1 diabetes.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights 
+      reserved.
+FAU - Ziegler, Anette-Gabriele
+AU  - Ziegler AG
+AD  - Institute of Diabetes Research, Helmholtz Munich, German Research Center for 
+      Environmental Health, Munich, Germany; School of Medicine and Health, 
+      Forschergruppe Diabetes at Klinikum rechts der Isar, Technical University of 
+      Munich and TUM University Hospital, Munich, Germany. Electronic address: 
+      anettegabriele.ziegler@helmholtz-munich.de.
+FAU - Cengiz, Eda
+AU  - Cengiz E
+AD  - Pediatric Diabetes Program, University of California San Francisco School of 
+      Medicine, San Francisco, CA, USA.
+FAU - Kay, Thomas W H
+AU  - Kay TWH
+AD  - St Vincent's Institute of Medical Research and the University of Melbourne 
+      Department of Medicine at St Vincent's Hospital, Fitzroy, VIC, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+COIS- Declaration of interests A-GZ has received consulting fees from The Leona M and 
+      Harry B Helmsley Charitable Trust and from Sanofi France; honoraria from Georg 
+      Thieme Verlag, Novo Nordisk Norway, and Deutsche Diabetes Gesellschaft; and 
+      support for attending meetings from Sanofi France. She is member of the data 
+      monitoring committee for Provention Bio, Sanofi, Sanofi US Services, and ITB-Med, 
+      and is advising the advisory board for Sanofi France and Sanofi-Aventis US. EC 
+      has received honoraria for presentations from the Medical Learning Institute, 
+      Children with Diabetes, and Advanced Technologies and Treatments for Diabetes. 
+      She is a member of the scientific advisory boards of Novo Nordisk, Eli Lilly, 
+      MannKind, PortalInsulin, Tandem, and Arecor, and had a leadership or fiduciary 
+      role at the International Society for Pediatric and Adolescent Diabetes and the 
+      American Diabetes Association. TWHK has received institutional research grants 
+      from Breakthrough T1D, the National Health and Medical Research Council, and the 
+      Medical Research Future Fund; provisions from Eli Lilly, Pfizer, and AbbVie; 
+      consulting fees from SAB Biotherapeutics; and an honorarium from Sanofi for a 
+      talk and travelling. He holds a Patent Cooperation Treaty (application number 
+      PCT/IB2023/055258) and a provisional patent (application number 63/503,588), is a 
+      member of the Scientific Advisory Board of Biotherapeutics, and was president of 
+      the International Pancreas and Islet Transplant Association.
+EDAT- 2025/09/23 03:16
+MHDA- 2025/09/23 03:16
+CRDT- 2025/09/22 18:52
+PHST- 2025/03/25 00:00 [received]
+PHST- 2025/07/04 00:00 [revised]
+PHST- 2025/07/08 00:00 [accepted]
+PHST- 2025/09/23 03:16 [medline]
+PHST- 2025/09/23 03:16 [pubmed]
+PHST- 2025/09/22 18:52 [entrez]
+AID - S0140-6736(25)01438-2 [pii]
+AID - 10.1016/S0140-6736(25)01438-2 [doi]
+PST - aheadofprint
+SO  - Lancet. 2025 Sep 19:S0140-6736(25)01438-2. doi: 10.1016/S0140-6736(25)01438-2.

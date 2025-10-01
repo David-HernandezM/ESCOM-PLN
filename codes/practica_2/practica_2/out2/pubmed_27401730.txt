@@ -1,0 +1,48 @@
+PMID- 27401730
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180305
+LR  - 20220408
+IS  - 1464-3685 (Electronic)
+IS  - 0300-5771 (Linking)
+VI  - 45
+IP  - 6
+DP  - 2016 Dec 1
+TI  - Commentary: Acetaminophen use in pregnancy and neurodevelopment: attention 
+      function and autism spectrum symptoms.
+PG  - 1996-1997
+LID - 10.1093/ije/dyw169 [doi]
+FAU - Olsen, Jørn
+AU  - Olsen J
+FAU - Liew, Zeyan
+AU  - Liew Z
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+PL  - England
+TA  - Int J Epidemiol
+JT  - International journal of epidemiology
+JID - 7802871
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CON - Int J Epidemiol. 2016 Dec 1;45(6):1987-1996. doi: 10.1093/ije/dyw115. PMID: 
+      27353198
+MH  - *Acetaminophen
+MH  - Attention
+MH  - *Autistic Disorder
+MH  - Child
+MH  - Child Development Disorders, Pervasive
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+EDAT- 2016/07/13 06:00
+MHDA- 2018/03/06 06:00
+CRDT- 2016/07/13 06:00
+PHST- 2016/05/18 00:00 [accepted]
+PHST- 2016/07/13 06:00 [pubmed]
+PHST- 2018/03/06 06:00 [medline]
+PHST- 2016/07/13 06:00 [entrez]
+AID - dyw169 [pii]
+AID - 10.1093/ije/dyw169 [doi]
+PST - ppublish
+SO  - Int J Epidemiol. 2016 Dec 1;45(6):1996-1997. doi: 10.1093/ije/dyw169.

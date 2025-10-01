@@ -1,0 +1,69 @@
+PMID- 31567062
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200506
+LR  - 20200506
+IS  - 2327-0578 (Electronic)
+IS  - 2327-056X (Linking)
+VI  - 6
+IP  - 1
+DP  - 2019 Sep 29
+TI  - Cancers in Humans: A Lifelong Search for Contributions of Infectious Agents, 
+      Autobiographic Notes.
+PG  - 1-28
+LID - 10.1146/annurev-virology-092818-015907 [doi]
+AB  - This review briefly covers periods of my early life; experiences during World War 
+      II; my school education; and my period as a medical student in Bonn, Hamburg, and 
+      Düsseldorf. Mainly emphasized is my scientific career after finishing my medical 
+      internship and periods as a postdoc at the Institute for Microbiology in 
+      Düsseldorf and the Virus Laboratories of the Children's Hospital of Philadelphia 
+      and as Senior Research Fellow at the Institute of Virology in Würzburg, Germany. 
+      Subsequent appointment as chairman of the newly established Institute of 
+      Virology, University of Erlangen-Nürnberg, in a similar position at the 
+      University of Freiburg, and then for 20 years as scientific director of the 
+      Deutsches Krebsforschungszentrum, Heidelberg, are discussed, covering the 
+      scientific developments during these periods. The emeritus period since 2003 was 
+      particularly exciting, leading to the discovery of autonomously replicating 
+      plasmids, derived from specific bacteria, and their link to common human cancers 
+      (colon, breast, and prostate).
+FAU - Zur Hausen, Harald
+AU  - Zur Hausen H
+AD  - Deutsches Krebsforschungszentrum, 69120 Heidelberg, Germany; email: 
+      zurhausen@dkfz.de.
+LA  - eng
+PT  - Autobiography
+PT  - Historical Article
+PT  - Journal Article
+PT  - Portrait
+PT  - Review
+PL  - United States
+TA  - Annu Rev Virol
+JT  - Annual review of virology
+JID - 101625721
+SB  - IM
+MH  - History, 20th Century
+MH  - History, 21st Century
+MH  - Humans
+MH  - *Neoplasms
+MH  - Research
+MH  - *Viruses
+PS  - zur Hausen H
+FPS - zur Hausen, Harald
+OTO - NOTNLM
+OT  - Burkitt's lymphoma
+OT  - EBV
+OT  - HPV
+OT  - autobiography
+OT  - cervical cancer
+OT  - nasopharyngeal cancer
+OT  - plasmid-derived human pathogens
+EDAT- 2019/10/01 06:00
+MHDA- 2020/05/07 06:00
+CRDT- 2019/10/01 06:00
+PHST- 2019/10/01 06:00 [entrez]
+PHST- 2019/10/01 06:00 [pubmed]
+PHST- 2020/05/07 06:00 [medline]
+AID - 10.1146/annurev-virology-092818-015907 [doi]
+PST - ppublish
+SO  - Annu Rev Virol. 2019 Sep 29;6(1):1-28. doi: 
+      10.1146/annurev-virology-092818-015907.

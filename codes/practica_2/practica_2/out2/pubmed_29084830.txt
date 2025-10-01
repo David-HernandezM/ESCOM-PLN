@@ -1,0 +1,140 @@
+PMID- 29084830
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171113
+LR  - 20250530
+IS  - 1098-4275 (Electronic)
+IS  - 0031-4005 (Print)
+IS  - 0031-4005 (Linking)
+VI  - 140
+IP  - 5
+DP  - 2017 Nov
+TI  - Prenatal Exposure to Acetaminophen and Risk of ADHD.
+LID - 10.1542/peds.2016-3840 [doi]
+LID - e20163840
+AB  - OBJECTIVES: To estimate the association between maternal use of acetaminophen 
+      during pregnancy and of paternal use before pregnancy with 
+      attention-deficit/hyperactivity disorder (ADHD) in offspring while adjusting for 
+      familial risk for ADHD and indications of acetaminophen use. METHODS: Diagnoses 
+      were obtained from the Norwegian Patient Registry for 112 973 offspring from the 
+      Norwegian Mother and Child Cohort Study, including 2246 with ADHD. We estimated 
+      hazard ratios (HRs) for an ADHD diagnosis by using Cox proportional hazard 
+      models. RESULTS: After adjusting for maternal use of acetaminophen before 
+      pregnancy, familial risk for ADHD, and indications of acetaminophen use, we 
+      observed a modest association between any prenatal maternal use of acetaminophen 
+      in 1 (HR = 1.07; 95% confidence interval [CI] 0.96-1.19), 2 (HR = 1.22; 95% CI 
+      1.07-1.38), and 3 trimesters (HR = 1.27; 95% CI 0.99-1.63). The HR for more than 
+      29 days of maternal acetaminophen use was 2.20 (95% CI 1.50-3.24). Use for <8 
+      days was negatively associated with ADHD (HR = 0.90; 95% CI 0.81-1.00). 
+      Acetaminophen use for fever and infections for 22 to 28 days was associated with 
+      ADHD (HR = 6.15; 95% CI 1.71-22.05). Paternal and maternal use of acetaminophen 
+      were similarly associated with ADHD. CONCLUSIONS: Short-term maternal use of 
+      acetaminophen during pregnancy was negatively associated with ADHD in offspring. 
+      Long-term maternal use of acetaminophen during pregnancy was substantially 
+      associated with ADHD even after adjusting for indications of use, familial risk 
+      of ADHD, and other potential confounders.
+CI  - Copyright © 2017 by the American Academy of Pediatrics.
+FAU - Ystrom, Eivind
+AU  - Ystrom E
+AD  - Norwegian Institute of Public Health, Oslo, Norway; eivind.ystrom@fhi.no.
+AD  - Section of Health, Developmental, and Personality Psychology, Department of 
+      Psychology.
+AD  - PharmacoEpidemiology and Drug Safety Research Group, School of Pharmacy, and.
+FAU - Gustavson, Kristin
+AU  - Gustavson K
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+AD  - Section of Health, Developmental, and Personality Psychology, Department of 
+      Psychology.
+FAU - Brandlistuen, Ragnhild Eek
+AU  - Brandlistuen RE
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+FAU - Knudsen, Gun Peggy
+AU  - Knudsen GP
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+FAU - Magnus, Per
+AU  - Magnus P
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+AD  - Faculty of Medicine, University of Oslo, Oslo, Norway.
+FAU - Susser, Ezra
+AU  - Susser E
+AD  - Mailman School of Public Health, Columbia University, New York, New York.
+AD  - New York State Psychiatric Institute, New York, New York.
+FAU - Davey Smith, George
+AU  - Davey Smith G
+AD  - Medical Research Council Integrative Epidemiology Unit, University of Bristol, 
+      Bristol, United Kingdom; and.
+FAU - Stoltenberg, Camilla
+AU  - Stoltenberg C
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+AD  - Department of Global Public Health and Primary Care, University of Bergen, 
+      Bergen, Norway.
+FAU - Surén, Pål
+AU  - Surén P
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+FAU - Håberg, Siri E
+AU  - Håberg SE
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+FAU - Hornig, Mady
+AU  - Hornig M
+AD  - Mailman School of Public Health, Columbia University, New York, New York.
+FAU - Lipkin, W Ian
+AU  - Lipkin WI
+AD  - Mailman School of Public Health, Columbia University, New York, New York.
+FAU - Nordeng, Hedvig
+AU  - Nordeng H
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+AD  - PharmacoEpidemiology and Drug Safety Research Group, School of Pharmacy, and.
+FAU - Reichborn-Kjennerud, Ted
+AU  - Reichborn-Kjennerud T
+AD  - Norwegian Institute of Public Health, Oslo, Norway.
+AD  - Faculty of Medicine, University of Oslo, Oslo, Norway.
+LA  - eng
+GR  - MC_UU_12013/1/MRC_/Medical Research Council/United Kingdom
+GR  - N01 ES075558/ES/NIEHS NIH HHS/United States
+GR  - U01 NS047537/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Pediatrics
+JT  - Pediatrics
+JID - 0376422
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CIN - Pediatrics. 2017 Nov;140(5):e20172703. doi: 10.1542/peds.2017-2703. PMID: 
+      29084834
+MH  - Acetaminophen/administration & dosage/*adverse effects
+MH  - Adolescent
+MH  - Analgesics, Non-Narcotic/administration & dosage/*adverse effects
+MH  - Attention Deficit Disorder with Hyperactivity/*chemically 
+      induced/diagnosis/*epidemiology
+MH  - Child
+MH  - Child, Preschool
+MH  - Cohort Studies
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - Norway/epidemiology
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*chemically induced/diagnosis/*epidemiology
+MH  - Prospective Studies
+MH  - Registries
+MH  - Risk Factors
+MH  - Surveys and Questionnaires
+PMC - PMC5654387
+COIS- POTENTIAL CONFLICT OF INTEREST: The authors have indicated they have no potential 
+      conflicts of interest to disclose.
+EDAT- 2017/11/01 06:00
+MHDA- 2017/11/14 06:00
+PMCR- 2018/11/01
+CRDT- 2017/11/01 06:00
+PHST- 2017/08/22 00:00 [accepted]
+PHST- 2017/11/01 06:00 [pubmed]
+PHST- 2017/11/14 06:00 [medline]
+PHST- 2017/11/01 06:00 [entrez]
+PHST- 2018/11/01 00:00 [pmc-release]
+AID - peds.2016-3840 [pii]
+AID - 10.1542/peds.2016-3840 [doi]
+PST - ppublish
+SO  - Pediatrics. 2017 Nov;140(5):e20163840. doi: 10.1542/peds.2016-3840.

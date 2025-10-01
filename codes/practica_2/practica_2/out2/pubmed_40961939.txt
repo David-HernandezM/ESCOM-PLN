@@ -1,0 +1,141 @@
+PMID- 40961939
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+DP  - 2025 Sep 16
+TI  - Time-resolved reprogramming of single somatic cells into totipotent states during 
+      plant regeneration.
+LID - S0092-8674(25)01020-7 [pii]
+LID - 10.1016/j.cell.2025.08.031 [doi]
+AB  - Totipotency enables single cells to regenerate an organism, yet how 
+      differentiated somatic cells reacquire this potential remains unclear. Here, we 
+      show that LEAFY COTYLEDON2 (LEC2) reprograms SPEECHLESS (SPCH)-expressing 
+      meristemoid mother cells (MMCs) away from stomatal-lineage progression, driving 
+      their conversion into totipotent somatic embryo founder cells (SEFCs) in 
+      Arabidopsis cotyledons. Using time-course live imaging, single-nucleus RNA 
+      sequencing (snRNA-seq), and spatial laser capture microdissection combined with 
+      RNA sequencing (LCM-RNA-seq), we uncover a lineage bifurcation point where MMC 
+      derivatives either commit to guard cells or transition into a guard mother cell 
+      (GMC)-auxin intermediate, an auxin-enriched state that enables transcriptional 
+      reprogramming and embryonic gene activation. LEC2 and SPCH cooperatively activate 
+      TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS 1 (TAA1) and YUCCA4 (YUC4), 
+      establishing a local auxin biosynthesis circuit essential for SEFC specification. 
+      Genetic and promoter analyses confirm MMCs as the origin of somatic embryos, with 
+      TAA1/YUC-mediated auxin production indispensable for totipotency and 
+      embryogenesis. These findings define an auxin-driven, transcriptionally regulated 
+      trajectory linking stomatal progenitors to somatic embryogenesis, revealing a 
+      direct route that advances mechanistic understanding of plant regenerative 
+      plasticity.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Tang, Li Ping
+AU  - Tang LP
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China; Joint Center for Single Cell 
+      Biology, Shandong Agricultural University and Radboud University, Nijmegen, the 
+      Netherlands.
+FAU - Zhai, Li Ming
+AU  - Zhai LM
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Li, Jiming
+AU  - Li J
+AD  - BGI Research, Beijing 102601, China.
+FAU - Gao, Yue
+AU  - Gao Y
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Ma, Qiu Li
+AU  - Ma QL
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Li, Rui
+AU  - Li R
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Liu, Qing Fei
+AU  - Liu QF
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Zhang, Wen Jie
+AU  - Zhang WJ
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Yao, Wang Jinsong
+AU  - Yao WJ
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China.
+FAU - Mu, Bangbang
+AU  - Mu B
+AD  - BGI Research, Beijing 102601, China.
+FAU - Qin, Chao
+AU  - Qin C
+AD  - BGI Research, Beijing 102601, China.
+FAU - Tian, Xin
+AU  - Tian X
+AD  - Joint Center for Single Cell Biology, Shandong Agricultural University and 
+      Radboud University, Nijmegen, the Netherlands; Plant Systems Physiology, 
+      Department of Plant and Animal Biology, Radboud Institute for Biological and 
+      Environmental Sciences, Radboud University, 6500 AJ Nijmegen, the Netherlands.
+FAU - Shaw, Rahul
+AU  - Shaw R
+AD  - Joint Center for Single Cell Biology, Shandong Agricultural University and 
+      Radboud University, Nijmegen, the Netherlands; Plant Systems Physiology, 
+      Department of Plant and Animal Biology, Radboud Institute for Biological and 
+      Environmental Sciences, Radboud University, 6500 AJ Nijmegen, the Netherlands; 
+      Department of Bio-Sciences, School of Bio Sciences & Technology, Vellore 
+      Institute of Technology, Vellore, Tamil Nadu 632014, India.
+FAU - Xia, Keke
+AU  - Xia K
+AD  - BGI Research, Beijing 102601, China. Electronic address: xiakeke@genomics.cn.
+FAU - Xu, Jian
+AU  - Xu J
+AD  - Joint Center for Single Cell Biology, Shandong Agricultural University and 
+      Radboud University, Nijmegen, the Netherlands; Plant Systems Physiology, 
+      Department of Plant and Animal Biology, Radboud Institute for Biological and 
+      Environmental Sciences, Radboud University, 6500 AJ Nijmegen, the Netherlands. 
+      Electronic address: jian.xu@ru.nl.
+FAU - Su, Ying Hua
+AU  - Su YH
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China; Joint Center for Single Cell 
+      Biology, Shandong Agricultural University and Radboud University, Nijmegen, the 
+      Netherlands. Electronic address: suyh@sdau.edu.cn.
+FAU - Zhang, Xian Sheng
+AU  - Zhang XS
+AD  - State Key Laboratory of Wheat Improvement, College of Life Sciences, Shandong 
+      Agricultural University, Tai'an 271018, China; Joint Center for Single Cell 
+      Biology, Shandong Agricultural University and Radboud University, Nijmegen, the 
+      Netherlands. Electronic address: zhangxs@sdau.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+SB  - IM
+OTO - NOTNLM
+OT  - LEC2
+OT  - SPCH
+OT  - auxin biosynthesis
+OT  - live imaging
+OT  - single-nucleus RNA sequencing
+OT  - somatic embryo founder cells
+OT  - somatic embryogenesis
+OT  - totipotency
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/18 00:30
+MHDA- 2025/09/18 00:30
+CRDT- 2025/09/17 18:41
+PHST- 2025/03/05 00:00 [received]
+PHST- 2025/07/05 00:00 [revised]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2025/09/18 00:30 [medline]
+PHST- 2025/09/18 00:30 [pubmed]
+PHST- 2025/09/17 18:41 [entrez]
+AID - S0092-8674(25)01020-7 [pii]
+AID - 10.1016/j.cell.2025.08.031 [doi]
+PST - aheadofprint
+SO  - Cell. 2025 Sep 16:S0092-8674(25)01020-7. doi: 10.1016/j.cell.2025.08.031.

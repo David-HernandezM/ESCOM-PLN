@@ -1,0 +1,134 @@
+PMID- 31509360
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200522
+LR  - 20200522
+IS  - 1555-2101 (Electronic)
+IS  - 0160-6689 (Linking)
+VI  - 80
+IP  - 5
+DP  - 2019 Sep 10
+TI  - Prenatal Exposure to Acetaminophen and the Risk of 
+      Attention-Deficit/Hyperactivity Disorder: A Nationwide Study in Taiwan.
+LID - 18m12612 [pii]
+LID - 10.4088/JCP.18m12612 [doi]
+AB  - BACKGROUND: Studies have suggested that a significant association exists between 
+      prenatal exposure to acetaminophen and the offspring's 
+      attention-deficit/hyperactivity disorder (ADHD) risk. However, this association 
+      has largely been unexplored among the Asian population, generally, and the 
+      Taiwanese population, specifically. METHODS: In our study, 950 study pairs 
+      (children with ADHD [ICD-9-CM code: 314] and their mothers) and 3,800 control 
+      pairs (children without ADHD and their mothers) matched by demographic 
+      characteristics were identified between 1998 and 2008 from the Taiwan 
+      Longitudinal Health Insurance Database. Maternal use of acetaminophen was 
+      assessed in the first trimester, second trimester, and third trimester of 
+      pregnancy and over the period from 3 months before pregnancy to the date of last 
+      menstrual cycle. RESULTS: Logistic regression analysis with adjustments for 
+      demographic data, gestational infections, comorbid perinatal conditions, and 
+      maternal mental health disorders indicated that exposure to acetaminophen in the 
+      second trimester (odds ratio [OR] = 1.19; 95% CI, 1.00-1.40), both the first and 
+      second trimesters (OR = 1.28; 95% CI, 1.00-1.64), or in any trimester (OR = 1.20; 
+      95% CI, 1.01-1.42) was associated with an increased risk of ADHD in offspring. 
+      Sensitivity analysis excluding gestational infections and maternal mental health 
+      disorders confirmed this association (OR = 1.33; 95% CI, 1.04-1.69). CONCLUSION: 
+      Prenatal exposure to acetaminophen was associated with an increased risk of ADHD 
+      in offspring, regardless of gestational infections and maternal mental health 
+      disorders. Additional studies are necessary to clarify the underlying mechanisms 
+      by which prenatal exposure to acetaminophen leads to neurodevelopmental risks.
+CI  - © Copyright 2019 Physicians Postgraduate Press, Inc.
+FAU - Chen, Mu-Hong
+AU  - Chen MH
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Pan, Tai-Long
+AU  - Pan TL
+AD  - School of Traditional Chinese Medicine, Chang Gung University, Taoyuan, Taiwan.
+AD  - Research Center for Chinese Herbal Medicine and Research Center for Food and 
+      Cosmetic Safety, College of Human Ecology, Chang Gung University of Science and 
+      Technology, Taoyuan, Taiwan.
+AD  - Liver Research Center, Chang Gung Memorial Hospital, Taoyuan, Taiwan.
+FAU - Wang, Pei-Wen
+AU  - Wang PW
+AD  - Department of Medical Research, China Medical University Hospital, Taichung City, 
+      Taiwan.
+FAU - Hsu, Ju-Wei
+AU  - Hsu JW
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Huang, Kai-Lin
+AU  - Huang KL
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Su, Tung-Ping
+AU  - Su TP
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+AD  - Department of Psychiatry, Cheng Hsin General Hospital, Taipei, Taiwan.
+FAU - Li, Cheng-Ta
+AU  - Li CT
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Lin, Wei-Chen
+AU  - Lin WC
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Tsai, Shih-Jen
+AU  - Tsai SJ
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+FAU - Chen, Tzeng-Ji
+AU  - Chen TJ
+AD  - Department of Family Medicine, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Institute of Hospital and Health Care Administration, National Yang-Ming 
+      University, Taipei, Taiwan.
+FAU - Bai, Ya-Mei
+AU  - Bai YM
+AD  - Department of Psychiatry, No. 201, Shih-Pai Rd, Sec. 2, 11217, Taipei, Taiwan. 
+      ymbi@mail2000.com.tw.
+AD  - Department of Psychiatry, Taipei Veterans General Hospital, Taipei, Taiwan.
+AD  - Department of Psychiatry, College of Medicine, National Yang-Ming University, 
+      Taipei, Taiwan.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190910
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/*adverse effects
+MH  - Adult
+MH  - Analgesics, Non-Narcotic/adverse effects
+MH  - Attention Deficit Disorder with Hyperactivity/chemically induced/*epidemiology
+MH  - Case-Control Studies
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/chemically induced/*epidemiology
+MH  - Risk Factors
+MH  - Taiwan/epidemiology
+MH  - Young Adult
+EDAT- 2019/09/12 06:00
+MHDA- 2020/05/23 06:00
+CRDT- 2019/09/12 06:00
+PHST- 2018/10/15 00:00 [received]
+PHST- 2019/04/25 00:00 [accepted]
+PHST- 2019/09/12 06:00 [entrez]
+PHST- 2019/09/12 06:00 [pubmed]
+PHST- 2020/05/23 06:00 [medline]
+AID - 18m12612 [pii]
+AID - 10.4088/JCP.18m12612 [doi]
+PST - epublish
+SO  - J Clin Psychiatry. 2019 Sep 10;80(5):18m12612. doi: 10.4088/JCP.18m12612.

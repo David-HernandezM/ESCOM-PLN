@@ -1,0 +1,136 @@
+PMID- 40965868
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2374-2445 (Electronic)
+IS  - 2374-2437 (Print)
+IS  - 2374-2437 (Linking)
+DP  - 2025 Sep 18
+TI  - Oral Bacterial and Fungal Microbiome and Subsequent Risk for Pancreatic Cancer.
+LID - 10.1001/jamaoncol.2025.3377 [doi]
+LID - e253377
+AB  - IMPORTANCE: The oral microbiota may be involved in the development of pancreatic 
+      cancer, yet current evidence is largely limited to bacterial 16S amplicon 
+      sequencing and small retrospective case-control studies. OBJECTIVE: To test 
+      whether the oral bacterial and fungal microbiome is associated with the 
+      subsequent development of pancreatic cancer. DESIGN, SETTING, AND PARTICIPANTS: 
+      This cohort study used data from 2 epidemiological cohorts: the American Cancer 
+      Society Cancer Prevention Study-II Nutrition Cohort and the Prostate, Lung, 
+      Colorectal, and Ovarian Cancer Screening Trial. Among cohort participants who 
+      provided oral samples, those who prospectively developed pancreatic cancer were 
+      identified during follow-up. Control participants who remained free of cancer 
+      were selected by 1:1 frequency matching on cohort, 5-year age band, sex, race and 
+      ethnicity, and time since oral sample collection. Data were collected from August 
+      2023 to September 2024, and data were analyzed from August 2023 to January 2025. 
+      EXPOSURES: The oral bacterial and fungal microbiome were characterized via 
+      whole-genome shotgun sequencing and internal transcribed spacer (ITS) sequencing, 
+      respectively. The association of periodontal pathogens of the red complex 
+      (Treponema denticola, Porphyromonas gingivalis, and Tannerella forsythia) and 
+      orange complex (Fusobacterium nucleatum, F periodonticum, Prevotella intermedia, 
+      P nigrescens, Parvimonas micra, Eubacterium nodatum, Campylobacter shower, and C 
+      gracilis) with pancreatic cancer was tested via logistic regression. The 
+      association of the microbiome-wide bacterial and fungal taxa with pancreatic 
+      cancer was assessed by Analysis of Compositions of Microbiomes With Bias 
+      Correction 2 (ANCOM-BC2). Microbial risk scores (MRS) for pancreatic cancer were 
+      calculated from the risk-associated bacterial and fungal species. MAIN OUTCOMES 
+      AND MEASURES: Pancreatic cancer incidence. RESULTS: Of 122 000 cohort 
+      participants who provided samples, 445 developed pancreatic cancer over a median 
+      (IQR) follow-up of 8.8 (4.9-13.4) years and were matched with 445 controls. Of 
+      these 890 participants, 474 (53.3%) were male, and the mean (SD) age was 67.2 
+      (7.5) years. Three oral bacterial periodontal pathogens-P gingivalis, E nodatum, 
+      and P micra-were associated with increased risk of pancreatic cancer. A 
+      bacteriome-wide scan revealed 8 oral bacteria associated with decreased and 13 
+      oral bacteria associated with increased risk of pancreatic cancer (false 
+      discovery rate-adjusted Q statistic less than .05). Of the fungi, genus Candida 
+      was associated with increased risk of pancreatic cancer. The MRS, based on 27 
+      oral species, was associated with an increase in pancreatic cancer risk 
+      (multivariate odds ratio per 1-SD increase in MRS, 3.44; 95% CI, 2.63-4.51). 
+      CONCLUSIONS AND RELEVANCE: In this cohort study, oral bacteria and fungi were 
+      significant risk factors for pancreatic cancer development. Oral microbiota hold 
+      promise as biomarkers to identify individuals at high risk of pancreatic cancer, 
+      potentially contributing to personalized prevention.
+FAU - Meng, Yixuan
+AU  - Meng Y
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+FAU - Wu, Feng
+AU  - Wu F
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+FAU - Kwak, Soyoung
+AU  - Kwak S
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+FAU - Wang, Chan
+AU  - Wang C
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+FAU - Usyk, Mykhaylo
+AU  - Usyk M
+AD  - Department of Microbiology, Albert Einstein College of Medicine, New York, New 
+      York.
+AD  - Department of Pediatrics, Albert Einstein College of Medicine, New York, New 
+      York.
+AD  - Department of Immunology, Albert Einstein College of Medicine, New York, New 
+      York.
+AD  - Department of Genetic Medicine, Albert Einstein College of Medicine, New York, 
+      New York.
+FAU - Freedman, Neal D
+AU  - Freedman ND
+AD  - Division of Cancer Control and Population Sciences, National Cancer Institute, 
+      Rockville, Maryland.
+FAU - Huang, Wen-Yi
+AU  - Huang WY
+AD  - Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+      Rockville, Maryland.
+FAU - Um, Caroline Y
+AU  - Um CY
+AD  - Department of Population Science, American Cancer Society, Atlanta, Georgia.
+FAU - Gonda, Tamas A
+AU  - Gonda TA
+AD  - Department of Medicine, NYU Grossman School of Medicine, New York, New York.
+FAU - Oberstein, Paul E
+AU  - Oberstein PE
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+AD  - Department of Medicine, NYU Grossman School of Medicine, New York, New York.
+FAU - Li, Huilin
+AU  - Li H
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+FAU - Hayes, Richard B
+AU  - Hayes RB
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+FAU - Ahn, Jiyoung
+AU  - Ahn J
+AD  - Department of Population Health, NYU Grossman School of Medicine, New York, New 
+      York.
+AD  - NYU Laura and Isaac Perlmutter Cancer Center, New York, New York.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - JAMA Oncol
+JT  - JAMA oncology
+JID - 101652861
+SB  - IM
+PMC - PMC12447289
+COIS- Conflict of Interest Disclosures: None reported.
+EDAT- 2025/09/18 13:14
+MHDA- 2025/09/18 13:14
+PMCR- 2026/09/18
+CRDT- 2025/09/18 11:33
+PHST- 2026/09/18 00:00 [pmc-release]
+PHST- 2025/09/18 13:14 [medline]
+PHST- 2025/09/18 13:14 [pubmed]
+PHST- 2025/09/18 11:33 [entrez]
+AID - 2839132 [pii]
+AID - coi250054 [pii]
+AID - 10.1001/jamaoncol.2025.3377 [doi]
+PST - aheadofprint
+SO  - JAMA Oncol. 2025 Sep 18:e253377. doi: 10.1001/jamaoncol.2025.3377.

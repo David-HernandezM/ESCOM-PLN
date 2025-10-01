@@ -1,0 +1,89 @@
+PMID- 40980310
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1948-9358 (Print)
+IS  - 1948-9358 (Electronic)
+IS  - 1948-9358 (Linking)
+VI  - 16
+IP  - 9
+DP  - 2025 Sep 15
+TI  - Saving muscle while losing weight: A vital strategy for sustainable results while 
+      on glucagon-like peptide-1 related drugs.
+PG  - 109123
+LID - 10.4239/wjd.v16.i9.109123 [doi]
+LID - 109123
+AB  - Obesity affects over 1 billion people worldwide and is linked to more than 230 
+      health complications, with cardiovascular disease being a leading cause of 
+      mortality. Losing 5%-10% of body weight is considered clinically significant for 
+      improving health. This weight loss can be achieved through pharmacotherapy, 
+      including glucagon-like peptide 1 (GLP-1) receptor agonists, 
+      GLP-1/glucose-dependent insulinotropic peptide dual receptor agonists, and 
+      GLP-1/glucose-dependent insulinotropic peptide/glucagon triple receptor agonists 
+      (such as semaglutide, tirzepatide, and retatrutide, respectively). While much of 
+      the weight loss comes from fat mass, these treatments also result in the loss of 
+      lean mass, including muscle. This loss of muscle may contribute to difficulties 
+      in maintaining weight over the long term and can lead to sarcopenia. Therefore, 
+      the focus of new anti-obesity treatments should be primarily on reducing fat mass 
+      while minimizing the loss of muscle mass, ideally promoting muscle gain. Research 
+      focusing on human myocytes has identified more than 600 myokines associated with 
+      muscle contraction, which may play a crucial role in preserving both muscle mass 
+      and function. We explored the potential of new anti-obesity agents and their 
+      combinations with incretin-based therapies to achieve these outcomes. Further 
+      studies are needed to better understand the functional implications of lean mass 
+      expansion during weight loss and weight maintenance programs.
+CI  - ©The Author(s) 2025. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Cigrovski Berkovic, Maja
+AU  - Cigrovski Berkovic M
+AD  - Department of Sport and Exercise Medicine, University of Zagreb Faculty of 
+      Kinesiology, Zagreb 10000, Croatia. maja.cigrovskiberkovic@gmail.com.
+FAU - Ruzic, Lana
+AU  - Ruzic L
+AD  - Department of Sport and Exercise Medicine, University of Zagreb Faculty of 
+      Kinesiology, Zagreb 10000, Croatia.
+FAU - Cigrovski, Vjekoslav
+AU  - Cigrovski V
+AD  - Department of Sport, University of Zagreb Faculty of Kinesiology, Zagreb 10000, 
+      Croatia.
+FAU - Strollo, Felice
+AU  - Strollo F
+AD  - Department of Endocrinology and Metabolism, IRCCS San Raffaele Pisana, Rome 
+      00163, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - World J Diabetes
+JT  - World journal of diabetes
+JID - 101547524
+PMC - PMC12444289
+OTO - NOTNLM
+OT  - Glucagon-like peptide 1 receptor agonists
+OT  - Glucagon-like peptide 1/glucose-dependent insulinotropic peptide dual receptor 
+      agonists
+OT  - Glucagon-like peptide 1/glucose-dependent insulinotropic peptide/glucagon triple 
+      receptor agonists
+OT  - Incretin-based therapy
+OT  - Muscle loss
+OT  - Muscle preservation
+OT  - Myokines
+OT  - Weight loss
+OT  - Weight maintenance
+COIS- Conflict-of-interest statement: All the authors report no relevant conflicts of 
+      interest for this article.
+EDAT- 2025/09/22 12:47
+MHDA- 2025/09/22 12:48
+PMCR- 2025/09/15
+CRDT- 2025/09/22 08:22
+PHST- 2025/04/30 00:00 [received]
+PHST- 2025/05/23 00:00 [revised]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/22 12:48 [medline]
+PHST- 2025/09/22 12:47 [pubmed]
+PHST- 2025/09/22 08:22 [entrez]
+PHST- 2025/09/15 00:00 [pmc-release]
+AID - 10.4239/wjd.v16.i9.109123 [doi]
+PST - ppublish
+SO  - World J Diabetes. 2025 Sep 15;16(9):109123. doi: 10.4239/wjd.v16.i9.109123.

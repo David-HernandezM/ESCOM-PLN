@@ -1,0 +1,97 @@
+PMID- 40975614
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250922
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 406
+IP  - 10509
+DP  - 2025 Sep 20
+TI  - Oncolytic viruses as anticancer agents: clinical progress and remaining 
+      challenges.
+PG  - 1295-1312
+LID - S0140-6736(25)01206-1 [pii]
+LID - 10.1016/S0140-6736(25)01206-1 [doi]
+AB  - Immunotherapy has transformed the treatment of cancer, yet many patients do not 
+      have response or lasting benefit. Strategies to overcome resistance remain of 
+      crucial importance. Oncolytic viruses offer a promising approach, with the unique 
+      ability to selectively replicate within (and to destroy) cancer cells, remodel 
+      the immunosuppressive tumour microenvironment, and stimulate antitumour immunity. 
+      Interest in the potential of oncolytic viruses has grown steadily over the past 
+      two decades, fuelled by advances in cancer immunology and viral engineering. 
+      However, clinical translation has not kept pace, and although a plethora of 
+      promising new constructs have entered clinical testing, several barriers continue 
+      to restrict widespread clinical implementation. This Therapeutics paper 
+      highlights key milestones in oncolytic virus clinical development, discusses the 
+      challenges that remain, and, through clinical reflection, considers how future 
+      research might be streamlined to achieve meaningful benefit for patients.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Appleton, Elizabeth
+AU  - Appleton E
+AD  - Division of Radiotherapy and Imaging, The Institute of Cancer Research, London, 
+      UK; Department of Life Sciences, Imperial College London, London, United Kingdom; 
+      Department of Molecular Medicine Mayo Clinic, Rochester, MN, USA.
+FAU - Chiocca, E Antonio
+AU  - Chiocca EA
+AD  - Harvey Cushing Neuro-oncology Laboratories, Department of Neurosurgery, Brigham 
+      and Women's Hospital, Boston, MA, USA.
+FAU - Ungerechts, Guy
+AU  - Ungerechts G
+AD  - Clinical Cooperation Unit Virotherapy, German Cancer Research Center, National 
+      Center for Tumor Diseases Heidelberg, Germany; Department of Medical Oncology, 
+      Heidelberg University Hospital, Heidelberg, Germany.
+FAU - Melcher, Alan
+AU  - Melcher A
+AD  - Division of Radiotherapy and Imaging, The Institute of Cancer Research, London, 
+      UK.
+FAU - Vile, Richard
+AU  - Vile R
+AD  - Department of Molecular Medicine Mayo Clinic, Rochester, MN, USA; Department of 
+      Immunology, Mayo Clinic, Rochester, MN, USA; Comprehensive Cancer Centre, School 
+      of Cancer and Pharmaceutical Sciences, School of Immunology and Microbial 
+      Sciences, King's College London, London, UK. Electronic address: 
+      vile.richard@mayo.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+MH  - Humans
+MH  - *Oncolytic Virotherapy/methods/trends
+MH  - *Neoplasms/therapy/immunology
+MH  - *Oncolytic Viruses
+MH  - Immunotherapy/methods
+MH  - Tumor Microenvironment
+COIS- Declaration of interests EAC reports grants from the National Institutes of 
+      Health and Alliance for Cancer Gene Therapy; a license with Candel TX; consulting 
+      fees from Calidi; patents planned, issued, or pending with Brigham and Women's 
+      Hospital; leadership or fiduciary role in other board, society, committee, or 
+      advocacy group, paid or unpaid for American Association of Neurological Surgery, 
+      the Society for Neurological Surgery, and Ternalys Therapeutics; and stock or 
+      stock options in Bionaut, Seneca, and Ternalys. RV reports consulting fees from 
+      Oncolytics Biotech, Greenfire Bio, and Adze Biotechnology and participation on a 
+      data safety monitoring board or advisory board for Oncolytics Biotech and 
+      Greenfire. AM reports participation on a data safety monitoring board or advisory 
+      board for Turnstone Biologics and Transgene Trials. EA reports grants or 
+      contracts from the Institute of Cancer Research, London (CRUK–ICR PhD fellowship 
+      and EACR fellowship) and receipt of materials (RP1) from Replimune. GU reports 
+      grants or contracts from DFG, German Cancer Aid, and Wilhelm Sander Foundation 
+      and consulting fees from Boehringer Ingelheim and Amgen.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:31
+CRDT- 2025/09/20 20:58
+PHST- 2024/11/12 00:00 [received]
+PHST- 2025/02/27 00:00 [revised]
+PHST- 2025/06/06 00:00 [accepted]
+PHST- 2025/09/21 00:31 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 20:58 [entrez]
+AID - S0140-6736(25)01206-1 [pii]
+AID - 10.1016/S0140-6736(25)01206-1 [doi]
+PST - ppublish
+SO  - Lancet. 2025 Sep 20;406(10509):1295-1312. doi: 10.1016/S0140-6736(25)01206-1.

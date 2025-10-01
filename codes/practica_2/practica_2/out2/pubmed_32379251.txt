@@ -1,0 +1,67 @@
+PMID- 32379251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210202
+LR  - 20240330
+IS  - 1939-3938 (Electronic)
+IS  - 1556-3693 (Print)
+IS  - 1556-3693 (Linking)
+VI  - 16
+IP  - 4
+DP  - 2020 Oct/Dec
+TI  - Evolution of Forensic Nursing Theory--Introduction of the Constructed Theory of 
+      Forensic Nursing Care: A Middle-Range Theory.
+PG  - 188-198
+LID - 10.1097/JFN.0000000000000287 [doi]
+AB  - The constructed theory of forensic nursing care is a middle-range nursing theory 
+      developed from the integrated practice model for forensic nursing science, a 
+      conceptual framework. Theory evolution was achieved following a critique of the 
+      conceptual framework and through inductive and deductive reasoning. A review of 
+      nursing theory growth and significance of middle-range theories is presented as 
+      background information in understanding the importance of this emerging forensic 
+      nursing middle-range theory. The philosophical and theoretical foundations of 
+      forensic nursing are bolstered with the addition of three nursing theories, two 
+      healthcare models and one social theory. Links are made between theory components 
+      and the current state of forensic nursing. Assumptions and concepts are clearly 
+      defined. The middle-range theory provides three testable propositions to frame 
+      forensic nursing practice, education, and research. Research conducted on the 
+      propositions will expand the forensic nursing scientific base leading to enhanced 
+      evidence-based practice. A pictorial model illustrates the propositions as 
+      relational statements. The constructed theory of forensic nursing care affirms 
+      the focus of forensic nursing care is on the nurse-patient relationship and 
+      improved health outcomes. Additional results of forensic nursing care are 
+      improved forensic science and criminal justice system outcomes.
+FAU - Valentine, Julie L
+AU  - Valentine JL
+AD  - Author Affiliations: Brigham Young University College of Nursing.
+FAU - Sekula, L Kathleen
+AU  - Sekula LK
+AD  - Duquesne University School of Nursing.
+FAU - Lynch, Virginia
+AU  - Lynch V
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Forensic Nurs
+JT  - Journal of forensic nursing
+JID - 101234500
+SB  - IM
+MH  - *Forensic Nursing
+MH  - Humans
+MH  - Models, Nursing
+MH  - *Nursing Theory
+MH  - Philosophy, Nursing
+PMC - PMC7678647
+COIS- The authors declare no conflicts of interest.
+EDAT- 2020/05/08 06:00
+MHDA- 2021/02/03 06:00
+PMCR- 2020/11/20
+CRDT- 2020/05/08 06:00
+PHST- 2020/05/08 06:00 [pubmed]
+PHST- 2021/02/03 06:00 [medline]
+PHST- 2020/05/08 06:00 [entrez]
+PHST- 2020/11/20 00:00 [pmc-release]
+AID - JFN50217 [pii]
+AID - 10.1097/JFN.0000000000000287 [doi]
+PST - ppublish
+SO  - J Forensic Nurs. 2020 Oct/Dec;16(4):188-198. doi: 10.1097/JFN.0000000000000287.

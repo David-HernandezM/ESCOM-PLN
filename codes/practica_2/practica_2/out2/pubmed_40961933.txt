@@ -1,0 +1,129 @@
+PMID- 40961933
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1934-6069 (Electronic)
+IS  - 1931-3128 (Linking)
+DP  - 2025 Sep 16
+TI  - Gut-microbiota-derived indole sulfate promotes heart failure in chronic kidney 
+      disease.
+LID - S1931-3128(25)00340-3 [pii]
+LID - 10.1016/j.chom.2025.08.014 [doi]
+AB  - Heart failure (HF) is highly prevalent in chronic kidney disease (CKD) and 
+      associates with alterations in gut microbiota, although the underlying mechanisms 
+      remain unclear, complicating diagnosis and treatment. In this study, we identify 
+      indoxyl sulfate (IS), produced by E. coli through the tryptophanase (TnaA) 
+      pathway, as a key metabolite involved in CKD-related HF. Mechanistically, IS 
+      disrupts cardiac mitochondrial function and induces myocardial apoptosis via the 
+      AHR-CYP1B1 axis, driving HF progression. To target this gut-microbiota-IS axis 
+      for clinical improvement of CKD-related HF, we applied probiotics to reduce E. 
+      coli abundance and IS levels, resulting in improved cardiac outcomes in rats and 
+      CKD patients. This study was registered at the Chinese Clinical Trial Register 
+      (https://www.chictr.org.cn: ChiCTR2500098366 and ChiCTR2500100588). Furthermore, 
+      E. coli abundance shows diagnostic potential for early prediction of HF onset 
+      within 6 months in a prospective CKD cohort study. These findings underscore the 
+      critical role of gut microbiota in CKD-related HF and suggest a 
+      microbiota-targeted therapeutic and diagnostic strategy for clinical 
+      intervention.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Zhang, Yun
+AU  - Zhang Y
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China.
+FAU - Han, Xuejie
+AU  - Han X
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Feng, Tao
+AU  - Feng T
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China.
+FAU - Li, Zewen
+AU  - Li Z
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China.
+FAU - Yu, Hui
+AU  - Yu H
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Chen, Ye
+AU  - Chen Y
+AD  - Department of Gastroenterology, Integrative Microecology Clinical Center, 
+      Shenzhen Key Laboratory of Gastrointestinal Microbiota and Disease, Shenzhen 
+      Clinical Research Center for Digestive Disease, Shenzhen Hospital, Southern 
+      Medical University, Shenzhen 518000, China; Department of Gastroenterology, State 
+      Key Laboratory of Organ Failure Research, Guangdong Provincial Key Laboratory of 
+      Gastroenterology, Nanfang Hospital, Southern Medical University, Guangzhou 
+      510515, China.
+FAU - Gao, Yunlong
+AU  - Gao Y
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Gao, Qianhui
+AU  - Gao Q
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Zhang, Linwei
+AU  - Zhang L
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Li, Shanshan
+AU  - Li S
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China.
+FAU - Shi, Ling
+AU  - Shi L
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China.
+FAU - Zhang, Xiru
+AU  - Zhang X
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China.
+FAU - Li, Zhuang
+AU  - Li Z
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China. Electronic address: 
+      jiandandjx@smu.edu.cn.
+FAU - Li, Yue
+AU  - Li Y
+AD  - Department of Cardiology, the First Affiliated Hospital, Harbin Medical 
+      University, Harbin 150001, China. Electronic address: ly99ly@vip.163.com.
+FAU - Zhou, Hongwei
+AU  - Zhou H
+AD  - Microbiome Medicine Center, Department of Laboratory Medicine, Zhujiang Hospital, 
+      Southern Medical University, Guangzhou 510000, China; Department of Cardiology, 
+      Shenzhen Hospital, Southern Medical University, Shenzhen 518000, China; State Key 
+      Laboratory of Organ Failure Research, Southern Medical University, Shenzhen 
+      Hospital, Shenzhen 518000, China; Shenzhen Key Laboratory of Gastrointestinal 
+      Microbiota and Disease, Southern Medical University, Shenzhen Hospital, Shenzhen 
+      518000, China; State Key Laboratory of Multi-Organ Injury Prevention and 
+      Treatment, Southern Medical University, Shenzhen Hospital, Shenzhen 518107, 
+      China. Electronic address: biodegradation@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - United States
+TA  - Cell Host Microbe
+JT  - Cell host & microbe
+JID - 101302316
+SB  - IM
+OTO - NOTNLM
+OT  - Escherichia coli
+OT  - chronic kidney disease
+OT  - heart failure
+OT  - indoxyl sulfate
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/18 00:31
+MHDA- 2025/09/18 00:31
+CRDT- 2025/09/17 18:41
+PHST- 2025/02/12 00:00 [received]
+PHST- 2025/07/22 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/18 00:31 [medline]
+PHST- 2025/09/18 00:31 [pubmed]
+PHST- 2025/09/17 18:41 [entrez]
+AID - S1931-3128(25)00340-3 [pii]
+AID - 10.1016/j.chom.2025.08.014 [doi]
+PST - aheadofprint
+SO  - Cell Host Microbe. 2025 Sep 16:S1931-3128(25)00340-3. doi: 
+      10.1016/j.chom.2025.08.014.

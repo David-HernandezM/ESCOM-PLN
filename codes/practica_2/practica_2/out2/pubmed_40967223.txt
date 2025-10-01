@@ -1,0 +1,145 @@
+PMID- 40967223
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1875-9777 (Electronic)
+IS  - 1875-9777 (Linking)
+DP  - 2025 Sep 17
+TI  - Targeting lysozyme 2 in endocardium promotes rapid recovery by modulating remote 
+      injury signals.
+LID - S1934-5909(25)00330-3 [pii]
+LID - 10.1016/j.stem.2025.08.015 [doi]
+AB  - Adult mammalian hearts are non-regenerative, and a majority of studies examining 
+      repair and potential regeneration post-myocardial infarction (MI) have focused on 
+      cardiomyocyte (CM) proliferation and infarcted zones. Here, we observed 
+      aberrantly high expression of lysozyme 2 (Lyz2) in injured mouse hearts at both 
+      local injury sites and at remote zones, with sustained Lyz2 expression 
+      conspicuous in endocardial cells of non-regenerative hearts. Although 
+      traditionally conceptualized as a myeloid marker, we demonstrate that LYZ2 
+      functions as an injury-specific, positive regulator of lysosomal degradation 
+      capacity that mediates pathogenic degradation of the extracellular matrix. We 
+      observed an anti-apoptotic benefit to CMs upon disrupting LYZ2/LYZ function in 
+      mice and in a human endomyocardium experimental model. Harnessing these insights, 
+      we show that both Lyz2 knockout (KO) and pharmacological inhibition of lysosomal 
+      degradation confer rapid functional recovery in injured non-regenerative hearts. 
+      Thus, targeting a remote injury response in a non-CM cell type rapidly promotes 
+      post-MI recovery of non-regenerative hearts.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Fan, Chenghao
+AU  - Fan C
+AD  - Shenzhen Key Laboratory of Cardiovascular Disease, Fuwai Shenzhen Hospital, 
+      Chinese Academy of Medical Sciences, Shenzhen 518052, China; State Key Laboratory 
+      of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular 
+      Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing 100037, China.
+FAU - Song, Shen
+AU  - Song S
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Han, Yu
+AU  - Han Y
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Cai, Dongcheng
+AU  - Cai D
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Shi, Anteng
+AU  - Shi A
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Wan, Fangfang
+AU  - Wan F
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Feng, Jie
+AU  - Feng J
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Zhong, Jiajun
+AU  - Zhong J
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Xie, Yifan
+AU  - Xie Y
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Xu, Fei
+AU  - Xu F
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China.
+FAU - Song, Jiangping
+AU  - Song J
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China; National Health Commission Key Laboratory 
+      of Cardiovascular Regenerative Medicine, Fuwai Central-China Hospital, 
+      Central-China Branch of National Center for Cardiovascular Diseases, Zhengzhou 
+      451464, China.
+FAU - Hu, Shengshou
+AU  - Hu S
+AD  - Shenzhen Key Laboratory of Cardiovascular Disease, Fuwai Shenzhen Hospital, 
+      Chinese Academy of Medical Sciences, Shenzhen 518052, China; State Key Laboratory 
+      of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular 
+      Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing 100037, China. Electronic address: huss@fuwai.com.
+FAU - Nie, Yu
+AU  - Nie Y
+AD  - State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center 
+      for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing 100037, China; National Health Commission Key Laboratory 
+      of Cardiovascular Regenerative Medicine, Fuwai Central-China Hospital, 
+      Central-China Branch of National Center for Cardiovascular Diseases, Zhengzhou 
+      451464, China. Electronic address: nieyu@fuwaihospital.org.
+FAU - Zhang, Hui
+AU  - Zhang H
+AD  - Shenzhen Key Laboratory of Cardiovascular Disease, Fuwai Shenzhen Hospital, 
+      Chinese Academy of Medical Sciences, Shenzhen 518052, China; State Key Laboratory 
+      of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular 
+      Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing 100037, China; National Health Commission Key Laboratory of 
+      Cardiovascular Regenerative Medicine, Fuwai Central-China Hospital, Central-China 
+      Branch of National Center for Cardiovascular Diseases, Zhengzhou 451464, China. 
+      Electronic address: zhanghui@hku-szh.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - Cell Stem Cell
+JT  - Cell stem cell
+JID - 101311472
+SB  - IM
+OTO - NOTNLM
+OT  - HSPG
+OT  - Lyz2
+OT  - apilimod
+OT  - cardiac repair
+OT  - endocardial cells
+OT  - injury responses
+OT  - lysosomal degradability
+OT  - lysosome
+OT  - regeneration
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+CRDT- 2025/09/18 18:41
+PHST- 2024/10/12 00:00 [received]
+PHST- 2025/05/11 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 18:41 [entrez]
+AID - S1934-5909(25)00330-3 [pii]
+AID - 10.1016/j.stem.2025.08.015 [doi]
+PST - aheadofprint
+SO  - Cell Stem Cell. 2025 Sep 17:S1934-5909(25)00330-3. doi: 
+      10.1016/j.stem.2025.08.015.

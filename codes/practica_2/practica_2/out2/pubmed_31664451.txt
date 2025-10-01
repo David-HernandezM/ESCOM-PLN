@@ -1,0 +1,146 @@
+PMID- 31664451
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210202
+LR  - 20210202
+IS  - 2168-6238 (Electronic)
+IS  - 2168-622X (Print)
+IS  - 2168-622X (Linking)
+VI  - 77
+IP  - 2
+DP  - 2020 Feb 1
+TI  - Association of Cord Plasma Biomarkers of In Utero Acetaminophen Exposure With 
+      Risk of Attention-Deficit/Hyperactivity Disorder and Autism Spectrum Disorder in 
+      Childhood.
+PG  - 180-189
+LID - 10.1001/jamapsychiatry.2019.3259 [doi]
+AB  - IMPORTANCE: Prior studies have raised concern about maternal acetaminophen use 
+      during pregnancy and increased risk of attention-deficit/hyperactivity disorder 
+      (ADHD) and autism spectrum disorder (ASD) in their children; however, most 
+      studies have relied on maternal self-report. OBJECTIVE: To examine the 
+      prospective associations between cord plasma acetaminophen metabolites and 
+      physician-diagnosed ADHD, ASD, both ADHD and ASD, and developmental disabilities 
+      (DDs) in childhood. DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort 
+      study analyzed 996 mother-infant dyads, a subset of the Boston Birth Cohort, who 
+      were enrolled at birth and followed up prospectively at the Boston Medical Center 
+      from October 1, 1998, to June 30, 2018. EXPOSURES: Three cord acetaminophen 
+      metabolites (unchanged acetaminophen, acetaminophen glucuronide, and 
+      3-[N-acetyl-l-cystein-S-yl]-acetaminophen) were measured in archived cord plasma 
+      samples collected at birth. MAIN OUTCOMES AND MEASURES: Physician-diagnosed ADHD, 
+      ASD, and other DDs as documented in the child's medical records. RESULTS: Of 996 
+      participants (mean [SD] age, 9.8 [3.9] years; 548 [55.0%] male), the final sample 
+      included 257 children (25.8%) with ADHD only, 66 (6.6%) with ASD only, 42 (4.2%) 
+      with both ADHD and ASD, 304 (30.5%) with other DDs, and 327 (32.8%) who were 
+      neurotypical. Unchanged acetaminophen levels were detectable in all cord plasma 
+      samples. Compared with being in the first tertile, being in the second and third 
+      tertiles of cord acetaminophen burden was associated with higher odds of ADHD 
+      diagnosis (odds ratio [OR] for second tertile, 2.26; 95% CI, 1.40-3.69; OR for 
+      third tertile, 2.86; 95% CI, 1.77-4.67) and ASD diagnosis (OR for second tertile, 
+      2.14; 95% CI, 0.93-5.13; OR for third tertile, 3.62; 95% CI, 1.62-8.60). 
+      Sensitivity analyses and subgroup analyses found consistent associations between 
+      acetaminophen buden and ADHD and acetaminophen burden and ASD across strata of 
+      potential confounders, including maternal indication, substance use, preterm 
+      birth, and child age and sex, for which point estimates for the ORs vary from 2.3 
+      to 3.5 for ADHD and 1.6 to 4.1 for ASD. CONCLUSIONS AND RELEVANCE: Cord 
+      biomarkers of fetal exposure to acetaminophen were associated with significantly 
+      increased risk of childhood ADHD and ASD in a dose-response fashion. Our findings 
+      support previous studies regarding the association between prenatal and perinatal 
+      acetaminophen exposure and childhood neurodevelopmental risk and warrant 
+      additional investigations.
+FAU - Ji, Yuelong
+AU  - Ji Y
+AD  - Center on the Early Life Origins of Disease, Department of Population, Family and 
+      Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, 
+      Baltimore, Maryland.
+FAU - Azuine, Romuladus E
+AU  - Azuine RE
+AD  - Division of Research, Office of Epidemiology and Research, Maternal and Child 
+      Health Bureau, Health Resources and Services Administration, US Department of 
+      Health and Human Services, Rockville, Maryland.
+FAU - Zhang, Yan
+AU  - Zhang Y
+AD  - Department of Biostatistics, Johns Hopkins University Bloomberg School of Public 
+      Health, Baltimore, Maryland.
+FAU - Hou, Wenpin
+AU  - Hou W
+AD  - Department of Computer Science, Johns Hopkins University Whiting School of 
+      Engineering, Baltimore, Maryland.
+FAU - Hong, Xiumei
+AU  - Hong X
+AD  - Center on the Early Life Origins of Disease, Department of Population, Family and 
+      Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, 
+      Baltimore, Maryland.
+FAU - Wang, Guoying
+AU  - Wang G
+AD  - Center on the Early Life Origins of Disease, Department of Population, Family and 
+      Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, 
+      Baltimore, Maryland.
+FAU - Riley, Anne
+AU  - Riley A
+AD  - Center on the Early Life Origins of Disease, Department of Population, Family and 
+      Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, 
+      Baltimore, Maryland.
+FAU - Pearson, Colleen
+AU  - Pearson C
+AD  - Department of Pediatrics, Boston University School of Medicine and Boston Medical 
+      Center, Boston, Massachusetts.
+FAU - Zuckerman, Barry
+AU  - Zuckerman B
+AD  - Department of Pediatrics, Boston University School of Medicine and Boston Medical 
+      Center, Boston, Massachusetts.
+FAU - Wang, Xiaobin
+AU  - Wang X
+AD  - Center on the Early Life Origins of Disease, Department of Population, Family and 
+      Reproductive Health, Johns Hopkins University Bloomberg School of Public Health, 
+      Baltimore, Maryland.
+AD  - Division of General Pediatrics & Adolescent Medicine, Department of Pediatrics, 
+      Johns Hopkins University School of Medicine, Baltimore, Maryland.
+LA  - eng
+GR  - R21 ES011666/ES/NIEHS NIH HHS/United States
+GR  - R21 HD066471/HD/NICHD NIH HHS/United States
+GR  - U01 AI090727/AI/NIAID NIH HHS/United States
+GR  - R21 AI079872/AI/NIAID NIH HHS/United States
+GR  - R01 HD086013/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - JAMA Psychiatry
+JT  - JAMA psychiatry
+JID - 101589550
+RN  - 0 (Biomarkers)
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 8BE7G9R76X (acetaminophen glucuronide)
+SB  - IM
+MH  - Acetaminophen/*adverse effects/analogs & derivatives/blood
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity/blood/*chemically induced
+MH  - Autism Spectrum Disorder/blood/*chemically induced
+MH  - Biomarkers/blood
+MH  - Child
+MH  - Female
+MH  - Fetal Blood/*chemistry
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/blood/*chemically induced
+MH  - Prospective Studies
+MH  - Risk Factors
+MH  - Young Adult
+PMC - PMC6822099
+COIS- Conflict of Interest Disclosures: None reported.
+EDAT- 2019/10/31 06:00
+MHDA- 2021/02/03 06:00
+PMCR- 2020/10/30
+CRDT- 2019/10/31 06:00
+PHST- 2019/10/31 06:00 [pubmed]
+PHST- 2021/02/03 06:00 [medline]
+PHST- 2019/10/31 06:00 [entrez]
+PHST- 2020/10/30 00:00 [pmc-release]
+AID - 2753512 [pii]
+AID - yoi190071 [pii]
+AID - 10.1001/jamapsychiatry.2019.3259 [doi]
+PST - ppublish
+SO  - JAMA Psychiatry. 2020 Feb 1;77(2):180-189. doi: 10.1001/jamapsychiatry.2019.3259.

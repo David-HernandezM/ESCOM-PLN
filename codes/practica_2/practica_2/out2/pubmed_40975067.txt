@@ -1,0 +1,140 @@
+PMID- 40975067
+OWN - NLM
+STAT- Publisher
+LR  - 20250924
+IS  - 1097-4180 (Electronic)
+IS  - 1074-7613 (Print)
+IS  - 1074-7613 (Linking)
+DP  - 2025 Sep 19
+TI  - Rod-shaped microglia interact with neuronal dendrites to attenuate cortical 
+      excitability during TDP-43-related neurodegeneration.
+LID - S1074-7613(25)00379-6 [pii]
+LID - 10.1016/j.immuni.2025.08.016 [doi]
+AB  - Microglia, the principal immune cells of the central nervous system, have emerged 
+      as important players in sensing and regulating neuronal activity. While 
+      microglial activation is a hallmark in neurodegeneration, the specific role of 
+      microglia in disease-related cortical excitability remains unknown. Utilizing 
+      multichannel probe recordings and longitudinal in vivo calcium imaging, we 
+      observed neuronal hyperactivity at the initial stage of disease progression in a 
+      mouse model of TAR DNA-binding protein 43 (TDP-43) neurodegeneration (rNLS8, 
+      regulated nuclear localization sequence-deleted human TDP-43 transgenic mouse 
+      model). Spatial and single-cell RNA sequencing revealed a specific subpopulation 
+      of microglia, rod-shaped microglia, with a distinct morphology and direct 
+      response to cortical hyperactivity. Rod-shaped microglia predominantly interacted 
+      with neuronal dendrites and remodeled excitatory synaptic inputs to attenuate 
+      motor cortical hyperactivity. Triggering receptor expressed on myeloid cells 2 
+      (TREM2) deficiency led to a marked reduction of rod-shaped microglia accompanied 
+      by increased neuronal activity in rNLS8 mice. Together, our results suggest that 
+      rod-shaped microglia play a neuroprotective role by attenuating cortical 
+      hyperexcitability in TDP-43-related neurodegeneration.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Xie, Manling
+AU  - Xie M
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+FAU - Liang, Yue
+AU  - Liang Y
+AD  - Center for Neuroimmunology and Glial Biology, Institute of Molecular Medicine, 
+      University of Texas Health Science Center, Houston, TX, USA.
+FAU - Miller, Alessandra S
+AU  - Miller AS
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+FAU - Pallegar, Praveen N
+AU  - Pallegar PN
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA; Center for 
+      Neuroimmunology and Glial Biology, Institute of Molecular Medicine, University of 
+      Texas Health Science Center, Houston, TX, USA.
+FAU - Umpierre, Anthony D
+AU  - Umpierre AD
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+FAU - Wang, Na
+AU  - Wang N
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA; Department of 
+      Neuroscience, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Zhang, Shuwen
+AU  - Zhang S
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA.
+FAU - Nagaraj, Nagaswaroop Kengunte
+AU  - Nagaraj NK
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA.
+FAU - Fogarty, Zachary C
+AU  - Fogarty ZC
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA.
+FAU - Ghayal, Nikhil B
+AU  - Ghayal NB
+AD  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Oskarsson, Björn
+AU  - Oskarsson B
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+FAU - Zhao, Shunyi
+AU  - Zhao S
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA; Center for 
+      Neuroimmunology and Glial Biology, Institute of Molecular Medicine, University of 
+      Texas Health Science Center, Houston, TX, USA.
+FAU - Zheng, Jiaying
+AU  - Zheng J
+AD  - Center for Neuroimmunology and Glial Biology, Institute of Molecular Medicine, 
+      University of Texas Health Science Center, Houston, TX, USA.
+FAU - Shi, Wu
+AU  - Shi W
+AD  - Center for Neuroimmunology and Glial Biology, Institute of Molecular Medicine, 
+      University of Texas Health Science Center, Houston, TX, USA.
+FAU - Akter, Mastura
+AU  - Akter M
+AD  - Center for Neuroimmunology and Glial Biology, Institute of Molecular Medicine, 
+      University of Texas Health Science Center, Houston, TX, USA.
+FAU - Qi, Fangfang
+AU  - Qi F
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA.
+FAU - Nguyen, Aivi T
+AU  - Nguyen AT
+AD  - Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.
+FAU - Dickson, Dennis W
+AU  - Dickson DW
+AD  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL, USA.
+FAU - Wu, Long-Jun
+AU  - Wu LJ
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA; Center for 
+      Neuroimmunology and Glial Biology, Institute of Molecular Medicine, University of 
+      Texas Health Science Center, Houston, TX, USA. Electronic address: 
+      longjun.wu@uth.tmc.edu.
+LA  - eng
+GR  - R35 NS132326/NS/NINDS NIH HHS/United States
+GR  - RF1 AG082314/AG/NIA NIH HHS/United States
+GR  - U19 AG069701/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Immunity
+JT  - Immunity
+JID - 9432918
+SB  - IM
+UOF - bioRxiv. 2024 Jul 02:2024.06.30.601396. doi: 10.1101/2024.06.30.601396. PMID: 
+      39005475
+PMC - PMC12453602
+MID - NIHMS2107736
+OTO - NOTNLM
+OT  - TDP-43
+OT  - Trem2
+OT  - amyotrophic lateral sclerosis
+OT  - cortical hyperactivity
+OT  - glial biology
+OT  - motor neuron disease
+OT  - neurodegeneration
+OT  - neuroimmunology
+OT  - rod-shaped microglia
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+PMCR- 2026/09/19
+CRDT- 2025/09/20 18:41
+PHST- 2024/07/23 00:00 [received]
+PHST- 2025/07/15 00:00 [revised]
+PHST- 2025/08/24 00:00 [accepted]
+PHST- 2026/09/19 00:00 [pmc-release]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:41 [entrez]
+AID - S1074-7613(25)00379-6 [pii]
+AID - 10.1016/j.immuni.2025.08.016 [doi]
+PST - aheadofprint
+SO  - Immunity. 2025 Sep 19:S1074-7613(25)00379-6. doi: 10.1016/j.immuni.2025.08.016.

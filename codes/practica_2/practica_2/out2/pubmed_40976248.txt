@@ -1,0 +1,368 @@
+PMID- 40976248
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+DP  - 2025 Sep 18
+TI  - Minimum effective low dose of antithymocyte globulin in people aged 5-25 years 
+      with recent-onset stage 3 type 1 diabetes (MELD-ATG): a phase 2, multicentre, 
+      double-blind, randomised, placebo-controlled, adaptive dose-ranging trial.
+LID - S0140-6736(25)01674-5 [pii]
+LID - 10.1016/S0140-6736(25)01674-5 [doi]
+AB  - BACKGROUND: Type 1 diabetes remains an important health-care problem, with no 
+      disease-modifying therapies available in people with recent-onset, clinical type 
+      1 diabetes. Adaptive trial designs, allowing faster evaluation of treatment 
+      modalities, remain underexplored in this stage of the disease. We aimed to 
+      identify the minimum effective dose of antithymocyte globulin (ATG) in people 
+      aged 5-25 years with recent-onset, clinical type 1 diabetes. METHODS: MELD-ATG 
+      was a phase 2, double-blind, randomised, placebo-controlled, multi-arm, adaptive 
+      dose-ranging, parallel-cohort trial done in 14 accredited trial centres in eight 
+      countries (the UK, Denmark, Germany, Finland, Italy, Belgium, Austria, and 
+      Slovenia). Participants aged 5-25 years, diagnosed with clinical, stage 3 type 1 
+      diabetes 3-9 weeks before treatment, with random C-peptide concentrations 0·2 
+      nmol/L or more and at least one diabetes-related autoantibody (GADA, IA-2A, or 
+      ZnT8) were randomly assigned by a web-based randomisation system into seven 
+      consecutive cohorts receiving placebo, 2·5 mg/kg ATG, 1·5 mg/kg ATG, 0·5 mg/kg 
+      ATG, or 0·1 mg/kg ATG. Participants in cohort 1 were randomly assigned 1:1:1:1:1, 
+      participants in cohorts 2 and 3 were randomly assigned 1:1:1:1, and participants 
+      in cohorts 4-7 were randomly assigned 1:1:1. All cohorts included one placebo 
+      group and one 2·5 mg/kg ATG group. The other groups were assigned to ATG doses 
+      that were determined based on accruing data and the decision of the dose 
+      determining committee. The trial cohorts were stratified by age group (5-9 years, 
+      10-17 years, and 18-25 years) with block sizes varying by cohort. Concealment 
+      lists, outlining the treatment allocation, were only available for the 
+      pharmacists; participants and study teams were masked to treatment allocation. 
+      ATG was administered by an intravenous infusion over 2 consecutive days. The 
+      primary outcome was the area under the curve (AUC) of the stimulated C-peptide 
+      concentration during a 2-h mixed-meal tolerance test at 12 months measured as 
+      ln(AUC C-peptide + 1). Conditional on finding a statistically significant 
+      difference at p<0·05 for 2·5 mg/kg ATG versus placebo, the minimum effective dose 
+      of ATG was determined. All randomly assigned participants were included in the 
+      primary analysis. All participants who received the study drug were included in 
+      the safety analysis. The trial was registered at ClinicalTrials.gov (NCT04509791) 
+      and is completed. FINDINGS: Between Nov 24, 2020, and Dec 13, 2023, 152 people 
+      were recruited and screened, 117 of whom were randomly assigned (placebo n=31, 
+      0·1 mg/kg ATG n=6, 0·5 mg/kg ATG n=35, 1·5 mg/kg ATG n=12, and 2·5 mg/kg n=33). 
+      54 (46%) of 117 participants were male and 63 (54%) were female. Participants 
+      were mainly European. The 0·1 mg/kg dose and the 1·5 mg/kg dose were 
+      progressively dropped from the study. At 12 months, the mean ln(AUC 
+      C-peptide + 1) was 0·411 nmol/L per min (SD 0·032) in the placebo group and 0·535 
+      nmol/L per min (0·032) in the 2·5 mg/kg ATG group. The mean difference in the 
+      ln(AUC C-peptide + 1) between 2·5 mg/kg ATG and placebo was 0·124 nmol/L per min 
+      (95% CI 0·043-0·205; p=0·0028). At 12 months, the mean ln(AUC C-peptide + 1) in 
+      the 0·5 mg/kg ATG group, the remaining middle dose, was 0·513 nmol/L per min (SD 
+      0·032), with a mean baseline-adjusted difference from placebo of 0·102 nmol/L per 
+      min (95% CI 0·021-0·183; p=0·014). Cytokine release syndrome occurred in 11 (33%) 
+      of 33 participants in the 2·5 mg/kg ATG group, eight (24%) of 34 in the 0·5mg/kg 
+      ATG group, and no participants in the placebo group. Serum sickness occurred in 
+      27 (82%) participants in the 2·5 mg/kg ATG group, 11 (32%) in the 0·5 mg/kg ATG 
+      group, and no participants in the placebo group. There were no deaths related to 
+      adverse events. INTERPRETATION: In young people with recent-onset, clinical type 
+      1 diabetes, 2·5 mg/kg and 0·5 mg/kg ATG reduced loss of β-cell function, showing 
+      the potential of an affordable, repurposed agent, ATG, in a low and safe dose, as 
+      a disease-modifying agent in this population. FUNDING: The European Union's 
+      Innovative Medicines Initiative 2 Joint Undertaking INNODIA.
+CI  - © 2025 Elsevier Ltd. All rights reserved, including those for text and data 
+      mining, AI training, and similar technologies.
+FAU - Mathieu, Chantal
+AU  - Mathieu C
+AD  - Department of Endocrinology, UZ Gasthuisberg, UZ Leuven, Leuven, Belgium; 
+      Department of Chronic Diseases and Metabolism, KU Leuven, Leuven, Belgium. 
+      Electronic address: chantal.mathieu@uzleuven.be.
+FAU - Wych, Julie
+AU  - Wych J
+AD  - Centre for Trials Research College of Biomedical and Life Sciences, Cardiff 
+      University, Cardiff, UK.
+FAU - Hendriks, A Emile J
+AU  - Hendriks AEJ
+AD  - Department of Paediatrics, University of Cambridge, Cambridge, UK; Department of 
+      Paediatric Diabetes and Endocrinology, Cambridge University Hospitals NHS 
+      Foundation Trust, Cambridge, UK.
+FAU - Van Ryckeghem, Lisa
+AU  - Van Ryckeghem L
+AD  - Department of Endocrinology, UZ Gasthuisberg, UZ Leuven, Leuven, Belgium.
+FAU - Tree, Timothy
+AU  - Tree T
+AD  - Department of Immunobiology, School of Immunology and Microbial Sciences, King's 
+      College London, London, UK.
+FAU - Chmura, Piotr
+AU  - Chmura P
+AD  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 
+      Copenhagen, Denmark.
+FAU - Möller, Christopher
+AU  - Möller C
+AD  - Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, 
+      Copenhagen, Denmark.
+FAU - Casteels, Kristina
+AU  - Casteels K
+AD  - Department of Paediatrics, UZ Gasthuisberg, UZ Leuven, Leuven, Belgium.
+FAU - Danne, Thomas
+AU  - Danne T
+AD  - Center for Paediatric Endocrinology, Diabetology, and Clinical Research, Auf Der 
+      Bult Children's Hospital, Hannover, Germany.
+FAU - Reschke, Felix
+AU  - Reschke F
+AD  - Center for Paediatric Endocrinology, Diabetology, and Clinical Research, Auf Der 
+      Bult Children's Hospital, Hannover, Germany.
+FAU - Šmigoc Schweiger, Darja
+AU  - Šmigoc Schweiger D
+AD  - Department of Endocrinology, Diabetes, and Metabolic Diseases, University 
+      Children's Hospital, University Medical Center Ljubljana, Ljubljana, Slovenia; 
+      Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia.
+FAU - Battelino, Tadej
+AU  - Battelino T
+AD  - Department of Endocrinology, Diabetes, and Metabolic Diseases, University 
+      Children's Hospital, University Medical Center Ljubljana, Ljubljana, Slovenia; 
+      Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia.
+FAU - Johannesen, Jesper
+AU  - Johannesen J
+AD  - Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark; 
+      Copenhagen University Hospital Herlev, Department of Paediatrics, Copenhagen, 
+      Denmark; Steno Diabetes Center, Copenhagen, Denmark.
+FAU - Rami-Merhar, Birgit
+AU  - Rami-Merhar B
+AD  - Department of Paediatric and Adolescent Medicine, Division of Paediatric 
+      Pulmonology, Allergology, and Endocrinology, Comprehensive Centre for 
+      Paediatrics, Medical University of Vienna, Vienna, Austria.
+FAU - Pieber, Thomas
+AU  - Pieber T
+AD  - Division of Endocrinology and Diabetology, Department of Internal Medicine, 
+      Medical University of Graz, Graz, Austria.
+FAU - De Block, Christophe
+AU  - De Block C
+AD  - Department of Endocrinology-Diabetology-Metabolism, Antwerp University Hospital 
+      and University of Antwerp, Antwerp, Belgium.
+FAU - Evans, Mark
+AU  - Evans M
+AD  - Institute of Metabolic Science and Department of Medicine, University of 
+      Cambridge, Cambridge, UK.
+FAU - Hilbrands, Robert
+AU  - Hilbrands R
+AD  - Academic Hospital and Diabetes Research Centre, Vrije Universiteit Brussels, 
+      Brussels, Belgium.
+FAU - Bosi, Emanuele
+AU  - Bosi E
+AD  - Diabetes Research Institute San Raffaele Hospital and San Raffaele Vita Salute 
+      University, Milan, Italy.
+FAU - Willemsen, Ruben H
+AU  - Willemsen RH
+AD  - Department of Paediatric Diabetes and Endocrinology, The Royal London Children's 
+      hospital, Barts Health NHS Trust, London, UK.
+FAU - Basu, Supriyo
+AU  - Basu S
+AD  - Department of Paediatric Endocrinology and Diabetes, Oxford University Hospitals 
+      NHS Foundation Trust, Oxford, UK.
+FAU - Pulkkinen, Mari-Anne
+AU  - Pulkkinen MA
+AD  - New Children's Hospital, Paediatric Research Centre, Helsinki University Hospital 
+      and Faculty of Medicine, University of Helsinki, Helsinki, Finland.
+FAU - Knip, Mikael
+AU  - Knip M
+AD  - Research Program for Clinical and Molecular Metabolism, University of Helsinki, 
+      Helsinki, Finland.
+FAU - Cnop, Miriam
+AU  - Cnop M
+AD  - ULB Center for Diabetes Research, Université Libre de Bruxelles, Brussels, 
+      Belgium; Division of Endocrinology, ULB Erasmus Hospital, Brussels University 
+      Hospital, Université Libre de Bruxelles, Brussels, Belgium.
+FAU - Nitsche, Almut
+AU  - Nitsche A
+AD  - Diabetes Cardiovascular Metabolic Development, Research and Development, 
+      Sanofi-Deutschland, Frankfurt, Germany.
+FAU - Schulte, Anke M
+AU  - Schulte AM
+AD  - Diabetes Cardiovascular Metabolic Development, Research and Development, 
+      Sanofi-Deutschland, Frankfurt, Germany.
+FAU - Niemöller, Elisabeth
+AU  - Niemöller E
+AD  - Diabetes Cardiovascular Metabolic Development, Research and Development, 
+      Sanofi-Deutschland, Frankfurt, Germany.
+FAU - Peakman, Mark
+AU  - Peakman M
+AD  - Department of Immunobiology, School of Immunology and Microbial Sciences, King's 
+      College London, London, UK; Sanofi Research and Development, Paris, France.
+FAU - Wilhelm-Benartzi, Charlotte
+AU  - Wilhelm-Benartzi C
+AD  - Centre for Trials Research College of Biomedical and Life Sciences, Cardiff 
+      University, Cardiff, UK.
+FAU - Gillespie, David
+AU  - Gillespie D
+AD  - Centre for Trials Research College of Biomedical and Life Sciences, Cardiff 
+      University, Cardiff, UK.
+FAU - Overbergh, Lut
+AU  - Overbergh L
+AD  - Department of Chronic Diseases and Metabolism, KU Leuven, Leuven, Belgium.
+FAU - Mander, Adrian P
+AU  - Mander AP
+AD  - Centre for Trials Research College of Biomedical and Life Sciences, Cardiff 
+      University, Cardiff, UK.
+FAU - Marcovecchio, M Loredana
+AU  - Marcovecchio ML
+AD  - Department of Paediatrics, University of Cambridge, Cambridge, UK; Department of 
+      Paediatric Diabetes and Endocrinology, Cambridge University Hospitals NHS 
+      Foundation Trust, Cambridge, UK.
+CN  - INNODIA
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04509791
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+COIS- Declaration of interests CMa serves or has served on an advisory panel for Bayer, 
+      Biomea Fusion, Boehringer Ingelheim, Eli Lilly, Abbott, Insulet, Medtronic, 
+      Novartis, Novo Nordisk, Roche, SAB Bio, Sanofi, and Vertex. Financial 
+      compensation for these activities has been received by KU Leuven. KU Leuven has 
+      received research support for CMa from Dexcom, Abbott, Novo Nordisk, and Sanofi. 
+      CMa serves or has served on the speakers bureau for Novo Nordisk, Sanofi, Eli 
+      Lilly, Medtronic, Roche, Dexcom, Insulet, Vertex, and Abbott. Financial 
+      compensation for these activities has been received by KU Leuven. CMa is 
+      president of the European Association for the Study of Diabetes (EASD). All 
+      external support of EASD is on www.easd.org. AEJH has received research support 
+      from Dexcom. TT serves on an advisory panel for and has received research support 
+      from Sanofi. TD serves or has served on an advisory panel or speakers bureau for 
+      AstraZeneca, Bayer, Boehringer Ingelheim, Abbott, Dexcom, Eli Lilly, Insulet, 
+      Medtronic, Menarini, Roche, Sanofi, Vitalaire, and Ypsomed. FR has served on an 
+      advisory panel Boehringer Ingelheim; and serves or has served on the speakers 
+      bureau for Insulet, Kyowa Kirin, Novo Nordisk, and Sanofi. TB serves or has 
+      served on an advisory panel for Eli Lilly, Abbott, Medtronic, Novartis, Novo 
+      Nordisk, Roche, and Sanofi; has received research support from Dexcom, Abbott, 
+      Novartis, Novo Nordisk, Medtronic, and Sanofi; and serves or has served on the 
+      speakers bureau for Eli Lilly Roche, Dexcom, Abbott, AstraZeneca, Medtronic, Novo 
+      Nordisk, Novartis, and Sanofi. BR-M serves on an advisory panel for Sanofi; and 
+      serves or has served on the speakers bureau for Eli Lilly, Dexcom, Medtronic, and 
+      Sanofi Ypsomed. CDB serves or has served on an advisory panel for Abbott, Eli 
+      Lilly, and Novo Nordisk. University Hospital Antwerp has received research 
+      support for CDB from AstraZeneca, Boehringer Ingelheim, Indigo Diabetes NV, and 
+      Medtronic. CDB serves or has served on the speakers bureau for Abbott, 
+      AstraZeneca, Boehringer Ingelheim, Eli Lilly, Insulet, Medtronic, and Novo 
+      Nordisk. ME serves or has served on an advisory panel for Medtronic, Abbott 
+      Diabetes Care, Novo Nordisk, Eli Lilly, ITB Medical, Sanofi, Vertex, Provention 
+      Bio, and Pila Pharma. University of Cambridge has received research support for 
+      ME from Medtronic, Abbott, Novo Nordisk, Eli Lilly, ITB Medical, and Sanofi. ME 
+      serves or has served on the speakers bureau for Eli Lilly, Abbott, and Sanofi. RH 
+      has served as speaker for Medtronic. EB serves on an advisory panel for Sanofi; 
+      and is or has been on the speakers bureau for Abbott, Medtronic, Sanofi, and 
+      Roche. RHW serves on an advisory panel for Sanofi; and has been a speaker for 
+      Insulet. SB has been a speaker for Sandoz; financial compensation for these 
+      activities has been received by Oxford University. M-AP serves or has served on 
+      an advisory panel for Sanofi and Novo Nordisk and has been a speaker for Novo 
+      Nordisk and Nordic Infucare. AN and AMS are former employees of Sanofi. MP and EN 
+      are employees of Sanofi. MLM has served on an advisory panel for Sanofi and SAB 
+      Bio. All other authors declare no competing interests.
+FIR - Mathieu, Chantal
+IR  - Mathieu C
+FIR - Overbergh, Lutgart
+IR  - Overbergh L
+FIR - Evans, Mark
+IR  - Evans M
+FIR - Hendriks, A Emile J
+IR  - Hendriks AEJ
+FIR - Marcovecchio, M Loredana
+IR  - Marcovecchio ML
+FIR - Peakman, Mark
+IR  - Peakman M
+FIR - Tree, Timothy
+IR  - Tree T
+FIR - Morgan, Noel G
+IR  - Morgan NG
+FIR - Todd, John A
+IR  - Todd JA
+FIR - Wicker, Linda
+IR  - Wicker L
+FIR - Mander, Adrian P
+IR  - Mander AP
+FIR - Dayan, Colin M
+IR  - Dayan CM
+FIR - Wych, Julie
+IR  - Wych J
+FIR - Gillespie, David
+IR  - Gillespie D
+FIR - Pieber, Thomas
+IR  - Pieber T
+FIR - Eizirik, Decio L
+IR  - Eizirik DL
+FIR - Cnop, Miriam
+IR  - Cnop M
+FIR - Brunak, Søren
+IR  - Brunak S
+FIR - Pociot, Flemming
+IR  - Pociot F
+FIR - Johannesen, Jesper
+IR  - Johannesen J
+FIR - Mallone, Roberto
+IR  - Mallone R
+FIR - Knip, Mikael
+IR  - Knip M
+FIR - Otonkoski, Timo
+IR  - Otonkoski T
+FIR - Veijola, Riitta
+IR  - Veijola R
+FIR - Lahesmaa, Riitta
+IR  - Lahesmaa R
+FIR - Ziegler, Anette G
+IR  - Ziegler AG
+FIR - Solimena, Michele
+IR  - Solimena M
+FIR - Bonifacio, Ezio
+IR  - Bonifacio E
+FIR - Holl, Reinhard
+IR  - Holl R
+FIR - Dotta, Francesco
+IR  - Dotta F
+FIR - Chiarelli, Francesco
+IR  - Chiarelli F
+FIR - Marchetti, Piero
+IR  - Marchetti P
+FIR - Bosi, Emanuele
+IR  - Bosi E
+FIR - Cianfarani, Stefano
+IR  - Cianfarani S
+FIR - de Beaufort, Carine
+IR  - de Beaufort C
+FIR - Dahl-Jørgensen, Knut
+IR  - Dahl-Jørgensen K
+FIR - Jarosz-Chobot, Przemyslawa
+IR  - Jarosz-Chobot P
+FIR - Battelino, Tadej
+IR  - Battelino T
+FIR - Gotthardt, Martin
+IR  - Gotthardt M
+FIR - Roep, Bart O
+IR  - Roep BO
+FIR - Lundgren, Markus
+IR  - Lundgren M
+FIR - Costecalde, Guillaume
+IR  - Costecalde G
+FIR - von Herrath, Matthias
+IR  - von Herrath M
+FIR - Napolitano-Rosen, Antonella
+IR  - Napolitano-Rosen A
+FIR - Niemöller, Elisabeth
+IR  - Niemöller E
+FIR - Keil, Stefanie
+IR  - Keil S
+FIR - Dutta, Sanjoy
+IR  - Dutta S
+FIR - Latres, Esther
+IR  - Latres E
+FIR - Agiostratidou, Gina
+IR  - Agiostratidou G
+FIR - Koralova, Anne
+IR  - Koralova A
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:56
+PHST- 2025/07/07 00:00 [received]
+PHST- 2025/08/11 00:00 [revised]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:56 [entrez]
+AID - S0140-6736(25)01674-5 [pii]
+AID - 10.1016/S0140-6736(25)01674-5 [doi]
+PST - aheadofprint
+SO  - Lancet. 2025 Sep 18:S0140-6736(25)01674-5. doi: 10.1016/S0140-6736(25)01674-5.

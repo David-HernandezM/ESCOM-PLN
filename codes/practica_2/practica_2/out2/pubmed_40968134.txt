@@ -1,0 +1,167 @@
+PMID- 40968134
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250918
+LR  - 20250921
+IS  - 2059-3635 (Electronic)
+IS  - 2095-9907 (Print)
+IS  - 2059-3635 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Ultrasound activated herbal bio-heterojunctions for self-catalytic regulation and 
+      bacterial cuproptosis-like death in the treatment of implant infection.
+PG  - 303
+LID - 10.1038/s41392-025-02388-4 [doi]
+LID - 303
+AB  - Conventional antibiotic strategies often fail to consistently suppress escaping 
+      planktonic bacteria and even induce antibiotic resistance, allowing 
+      implant-associated infections (IAIs) to persist. In this study, we demonstrated 
+      an antibiotic-free coating engineered with an herbal bioheterojunction featuring 
+      a shell-in-shell structure where Cu(2)O forms the core, strontium (Sr) is loaded 
+      in the inner shell, and curcumin (Cur) is nucleated in situ at the outer 
+      heterointerface (Cu(2)O-Sr/Cur). Ultrasound-triggered reactive oxygen species 
+      (ROS) generation by the outer heterostructure (Cu(2)O/Cur), coupled with 
+      Cu(I)-induced cuproptosis-like bacterial death, achieved antibacterial rates of 
+      99.56% against S. aureus and 99.43% against E. coli. When ultrasonication ceases, 
+      the released Cu(I) undergoes disproportionation reactions to form Cu(II), which 
+      can chelate with Cur to form Cu-Cur metal complexes. These complexes exhibit 
+      enhanced antioxidative properties through self-catalytic regulation, the 
+      scavenging of ROS, and the activation of anti-inflammatory M2 macrophage 
+      phenotype. Moreover, strontium release from the inner shell simultaneously 
+      suppressed osteoclast activity and promoted osteogenesis, resulting in trabecular 
+      number and thickness increases of 129.03% and 56.71%, respectively, compared with 
+      those in control group. Therefore, our work establishes a sequential treatment 
+      strategy for the antibacterial properties and osteointegration ability of IAIs.
+CI  - © 2025. The Author(s).
+FAU - Yue, Yan
+AU  - Yue Y
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Li, Shuoyuan
+AU  - Li S
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Su, Qiang
+AU  - Su Q
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Wan, Xufeng
+AU  - Wan X
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Li, Qiaochu
+AU  - Li Q
+AD  - Department of Orthopedics, the First Affiliated Hospital, Chongqing Medical 
+      University, Chongqing, 400016, China.
+FAU - Zhang, Zhuang
+AU  - Zhang Z
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Xu, Hong
+AU  - Xu H
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Zheng, Fuyuan
+AU  - Zheng F
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Zhang, Yangming
+AU  - Zhang Y
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Tong, Le
+AU  - Tong L
+AD  - Department of Emergency Medicine, West China Hospital, Sichuan University, 
+      Chengdu, 610041, China.
+FAU - Cao, Jian
+AU  - Cao J
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Zhao, Long
+AU  - Zhao L
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Chen, Xiaoting
+AU  - Chen X
+AD  - Animal Experimental Center, West China Hospital, Sichuan University, Chengdu, 
+      610041, China.
+FAU - Li, Qi
+AU  - Li Q
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Zeng, Yi
+AU  - Zeng Y
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Wang, Haoyang
+AU  - Wang H
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China.
+FAU - Deng, Yi
+AU  - Deng Y
+AD  - School of Chemical Engineering, Sichuan University, Chengdu, 610065, China. 
+      dengyibandeng@scu.edu.cn.
+FAU - Zhou, Zongke
+AU  - Zhou Z
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China. zongke@126.com.
+FAU - Wang, Duan
+AU  - Wang D
+AUID- ORCID: 0000-0001-5487-4414
+AD  - Orthopedic Research Institute and Department of Orthopedics, West China Hospital, 
+      Sichuan University, Chengdu, 610041, China. wangduan_bone@163.com.
+LA  - eng
+GR  - No.U22A2080/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - No.82172394/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - No.82102542/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - No.82472402/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - No.32271392/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Signal Transduct Target Ther
+JT  - Signal transduction and targeted therapy
+JID - 101676423
+RN  - 789U1901C5 (Copper)
+RN  - IT942ZTH98 (Curcumin)
+RN  - YZS2RPE8LE (Strontium)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Reactive Oxygen Species)
+SB  - IM
+MH  - *Copper/chemistry/pharmacology
+MH  - Mice
+MH  - Animals
+MH  - Escherichia coli/drug effects/pathogenicity/growth & development
+MH  - Staphylococcus aureus/drug effects/pathogenicity/growth & development
+MH  - Curcumin/pharmacology/chemistry
+MH  - Strontium/chemistry/pharmacology
+MH  - *Anti-Bacterial Agents/pharmacology/chemistry
+MH  - Reactive Oxygen Species/metabolism
+MH  - *Prosthesis-Related Infections/drug therapy/microbiology
+MH  - Humans
+MH  - Prostheses and Implants/microbiology
+PMC - PMC12446443
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/19 00:35
+MHDA- 2025/09/19 00:36
+PMCR- 2025/09/19
+CRDT- 2025/09/18 23:23
+PHST- 2025/01/15 00:00 [received]
+PHST- 2025/08/08 00:00 [accepted]
+PHST- 2025/07/21 00:00 [revised]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:35 [pubmed]
+PHST- 2025/09/18 23:23 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1038/s41392-025-02388-4 [pii]
+AID - 2388 [pii]
+AID - 10.1038/s41392-025-02388-4 [doi]
+PST - epublish
+SO  - Signal Transduct Target Ther. 2025 Sep 19;10(1):303. doi: 
+      10.1038/s41392-025-02388-4.

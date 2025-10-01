@@ -1,0 +1,118 @@
+PMID- 30992361
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190624
+LR  - 20200309
+IS  - 2150-7511 (Electronic)
+VI  - 10
+IP  - 2
+DP  - 2019 Apr 16
+TI  - A Dopamine-Responsive Signal Transduction Controls Transcription of Salmonella 
+      enterica Serovar Typhimurium Virulence Genes.
+LID - 10.1128/mBio.02772-18 [doi]
+LID - e02772-18
+AB  - We have shown that the ligand-responsive MarR family member SlyA plays an 
+      important role in transcription activation of multiple virulence genes in 
+      Salmonella enterica serovar Typhimurium by responding to guanosine tetraphosphate 
+      (ppGpp). Here, we demonstrate that another MarR family member, EmrR, is required 
+      for virulence of S. Typhimurium and another enteric bacterium, Yersinia pestis 
+      EmrR is found to activate transcription of an array of virulence determinants, 
+      including Salmonella pathogenicity island 2 (SPI-2) genes and several divergent 
+      operons, which have been shown to be activated by SlyA and the PhoP/PhoQ 
+      two-component system. We studied the regulatory effect of EmrR on one of these 
+      genetic loci, i.e., the pagC-pagD divergent operon, and characterized a 
+      catecholamine neurotransmitter, dopamine, as an EmrR-sensed signal. Dopamine acts 
+      on EmrR to reduce its ability to bind to the target promoters, thus functioning 
+      as a negative signal to downregulate this EmrR-activated transcription. EmrR can 
+      bind to AT-rich sequences, which particularly overlap the SlyA and PhoP binding 
+      sites in the pagC-pagD divergent promoter. EmrR is a priming transcription 
+      regulator that binds its target promoters prior to successive transcription 
+      activators, by which it displaces universal silencer H-NS from these promoters 
+      and facilitates successive regulators to bind these regions. Regulation of the 
+      Salmonella-specific gene in Escherichia coli and Y. pestis reveals that 
+      EmrR-dependent regulation is conserved in enteric bacteria. These observations 
+      suggest that EmrR is a transcription activator to control the expression of 
+      virulence genes, including the SPI-2 genes. Dopamine can act on the EmrR-mediated 
+      signal transduction, thus downregulating expression of these virulence 
+      factors.IMPORTANCE In this study, MarR family regulator EmrR is identified as a 
+      novel virulence factor of enteric bacteria, here exemplified by Salmonella 
+      enterica serovar Typhimurium and Yersinia pestis EmrR exerts an essential effect 
+      as a transcription activator for expression of virulence determinants, including 
+      Salmonella pathogenicity island 2 genes and a set of horizontally acquired 
+      genetic loci that formed divergent operons. EmrR senses the neurotransmitter 
+      dopamine and is subsequently released from target promoters, resulting in 
+      downregulation of the virulence gene expression. Through this action on EmrR, 
+      dopamine can weaken Salmonella resistance against host defense mechanisms. This 
+      provides an explanation for the previous observation that dopamine inhibits 
+      bacterial infection in animal gastrointestinal tracts. Our findings provide 
+      evidence that this neurotransmitter can modulate bacterial gene expression 
+      through interaction with virulence regulator EmrR.
+CI  - Copyright © 2019 Yang et al.
+FAU - Yang, Dezhi
+AU  - Yang D
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA.
+FAU - Kong, Ying
+AU  - Kong Y
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA.
+FAU - Sun, Wei
+AU  - Sun W
+AD  - Department of Immunology & Microbial Disease, Albany Medical College, Albany, New 
+      York, USA.
+FAU - Kong, Wei
+AU  - Kong W
+AD  - Center for Immunotherapy, Vaccines, and Virotherapy, Biodesign Institute, Arizona 
+      State University, Tempe, Arizona, USA wei.kong@asu.edu yixin.shi@asu.edu.
+FAU - Shi, Yixin
+AU  - Shi Y
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA 
+      wei.kong@asu.edu yixin.shi@asu.edu.
+AD  - Center for Immunotherapy, Vaccines, and Virotherapy, Biodesign Institute, Arizona 
+      State University, Tempe, Arizona, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190416
+PL  - United States
+TA  - mBio
+JT  - mBio
+JID - 101519231
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Repressor Proteins)
+RN  - 0 (SPI-2 protein, Salmonella)
+RN  - 0 (Transcription Factors)
+RN  - 0 (Virulence Factors)
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - Bacterial Proteins/genetics/metabolism
+MH  - Dopamine/genetics/*metabolism
+MH  - Down-Regulation
+MH  - *Gene Expression Regulation, Bacterial
+MH  - Membrane Proteins/genetics/metabolism
+MH  - Promoter Regions, Genetic
+MH  - Repressor Proteins/genetics
+MH  - Salmonella typhimurium/*genetics/pathogenicity
+MH  - *Signal Transduction
+MH  - Transcription Factors
+MH  - Virulence/genetics
+MH  - Virulence Factors/*genetics
+PMC - PMC6469979
+OTO - NOTNLM
+OT  - MarR family virulence regulator EmrR
+OT  - PhoP/PhoQ and SlyA feedforward loop
+OT  - Salmonella pathogenicity island 2 (SPI-2)
+OT  - bacterial signal transduction
+OT  - catecholamine neurotransmitter dopamine
+EDAT- 2019/04/18 06:00
+MHDA- 2019/06/25 06:00
+PMCR- 2019/04/16
+CRDT- 2019/04/18 06:00
+PHST- 2019/04/18 06:00 [entrez]
+PHST- 2019/04/18 06:00 [pubmed]
+PHST- 2019/06/25 06:00 [medline]
+PHST- 2019/04/16 00:00 [pmc-release]
+AID - mBio.02772-18 [pii]
+AID - mBio02772-18 [pii]
+AID - 10.1128/mBio.02772-18 [doi]
+PST - epublish
+SO  - mBio. 2019 Apr 16;10(2):e02772-18. doi: 10.1128/mBio.02772-18.

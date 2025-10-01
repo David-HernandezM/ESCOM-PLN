@@ -1,0 +1,84 @@
+PMID- 40983729
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1740-1534 (Electronic)
+IS  - 1740-1526 (Linking)
+DP  - 2025 Sep 22
+TI  - Fusobacterium nucleatum: ecology, pathogenesis and clinical implications.
+LID - 10.1038/s41579-025-01237-z [doi]
+AB  - Fusobacterium nucleatum, a commensal microorganism and opportunistic pathogen (a 
+      pathobiont), has emerged as a key player in both local and systemic diseases. In 
+      humans, F. nucleatum is found in the oral microbiota, but under certain 
+      conditions, it can spread to other ecological niches within the body, such as the 
+      gut microbiota. Importantly, F. nucleatum has a pathogenic role in periodontal 
+      disease, inflammatory bowel disease and various cancers, particularly colorectal 
+      cancer. F. nucleatum can promote oncogenesis via several mechanisms, including 
+      virulence factors, chronic inflammation, immune evasion and direct interactions 
+      with tumour cells. The strong link between this pathobiont microorganism and 
+      cancer has led to the emergence of several potential diagnostic strategies and 
+      possible therapeutic interventions. Given its increasing association with cancer 
+      progression and poor clinical outcomes, understanding the role of F. nucleatum in 
+      disease treatment offers critical insights for future research and clinical 
+      applications. This Review underscores the importance of F. nucleatum in 
+      microbiology, oncology and translational medicine.
+CI  - © 2025. Springer Nature Limited.
+FAU - Jiang, Shan-Shan
+AU  - Jiang SS
+AD  - Division of Gastroenterology and Hepatology, Shanghai Jiao Tong University, 
+      Shanghai, China.
+AD  - Shanghai Institute of Digestive Disease, Shanghai Jiao Tong University, Shanghai, 
+      China.
+AD  - NHC Key Laboratory of Digestive Diseases, Shanghai Jiao Tong University, 
+      Shanghai, China.
+AD  - State Key Laboratory of Systems Medicine for Cancer, Shanghai Jiao Tong 
+      University, Shanghai, China.
+AD  - Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China.
+FAU - Chen, Ying-Xuan
+AU  - Chen YX
+AUID- ORCID: 0000-0002-1883-7736
+AD  - Division of Gastroenterology and Hepatology, Shanghai Jiao Tong University, 
+      Shanghai, China. yingxuanchen71@sjtu.edu.cn.
+AD  - Shanghai Institute of Digestive Disease, Shanghai Jiao Tong University, Shanghai, 
+      China. yingxuanchen71@sjtu.edu.cn.
+AD  - NHC Key Laboratory of Digestive Diseases, Shanghai Jiao Tong University, 
+      Shanghai, China. yingxuanchen71@sjtu.edu.cn.
+AD  - State Key Laboratory of Systems Medicine for Cancer, Shanghai Jiao Tong 
+      University, Shanghai, China. yingxuanchen71@sjtu.edu.cn.
+AD  - Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China. yingxuanchen71@sjtu.edu.cn.
+FAU - Fang, Jing-Yuan
+AU  - Fang JY
+AUID- ORCID: 0000-0003-2282-0248
+AD  - Division of Gastroenterology and Hepatology, Shanghai Jiao Tong University, 
+      Shanghai, China. jingyuanfang@sjtu.edu.cn.
+AD  - Shanghai Institute of Digestive Disease, Shanghai Jiao Tong University, Shanghai, 
+      China. jingyuanfang@sjtu.edu.cn.
+AD  - NHC Key Laboratory of Digestive Diseases, Shanghai Jiao Tong University, 
+      Shanghai, China. jingyuanfang@sjtu.edu.cn.
+AD  - State Key Laboratory of Systems Medicine for Cancer, Shanghai Jiao Tong 
+      University, Shanghai, China. jingyuanfang@sjtu.edu.cn.
+AD  - Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China. jingyuanfang@sjtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250922
+PL  - England
+TA  - Nat Rev Microbiol
+JT  - Nature reviews. Microbiology
+JID - 101190261
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:21
+PHST- 2025/08/15 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:21 [entrez]
+AID - 10.1038/s41579-025-01237-z [pii]
+AID - 10.1038/s41579-025-01237-z [doi]
+PST - aheadofprint
+SO  - Nat Rev Microbiol. 2025 Sep 22. doi: 10.1038/s41579-025-01237-z.

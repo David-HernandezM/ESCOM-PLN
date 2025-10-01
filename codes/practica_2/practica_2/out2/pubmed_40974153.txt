@@ -1,0 +1,143 @@
+PMID- 40974153
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1521-4095 (Electronic)
+IS  - 0935-9648 (Linking)
+DP  - 2025 Sep 20
+TI  - Temporal Immunomodulatory Hydrogel Regulating the Immune-Osteogenic Cascade for 
+      Infected Bone Defects Regeneration.
+PG  - e14419
+LID - 10.1002/adma.202514419 [doi]
+AB  - Early pathogen clearance and immunomodulation are critical for the restoration of 
+      infected bone defects. Conventional osteoimmunomodulatory strategies mainly 
+      emphasize M2 macrophage-mediated bone regeneration, neglecting the pivotal role 
+      of early-stage M1 macrophage-activated immune response in microbial elimination. 
+      This oversight ultimately compromises repair efficacy in infected bone defects. 
+      Herein, a temporal immunomodulatory hydrogel is developed to regulate the 
+      immune-osteogenic microenvironment for the repair of infected bone defects. The 
+      hydrogel is rapidly formed by crosslinking of acrylate-modified engineered 
+      protein with oxidized sodium alginate, mimicking extracellular matrix 
+      architecture to promote cell adhesion, angiogenesis, and osteogenesis. To achieve 
+      temporal ion release, zinc-based nanoparticles mineralized with hydroxyapatite 
+      are incorporated within the hydrogel matrix. The early-stage release of Ca(2+) 
+      promotes M1 polarization to inhibit infection, while sustained release of Zn(2+) 
+      induces M2 polarization to promote osteogenic differentiation. This system 
+      further exhibits antioxidant and antibacterial properties, ensuring comprehensive 
+      immunomodulation across the bone healing process. In a rat model of infected 
+      cranial defects, the hydrogel effectively remodels the osteoimmune 
+      microenvironment, suppresses infection, and facilitates vascularized bone 
+      regeneration. This work highlights a temporal immunomodulatory strategy for 
+      infected bone repair and offers new insights into the design of advanced 
+      osteoimmunomodulatory biomaterials.
+CI  - © 2025 Wiley‐VCH GmbH.
+FAU - Jin, Chaonan
+AU  - Jin C
+AD  - Engineering Research Center of Advanced Rare Earth Materials (Ministry of 
+      Education), Department of Chemistry, Tsinghua University, Beijing, 100084, China.
+AD  - State Key Laboratory of Rare Earth Resource Utilization Changchun Institute of 
+      Applied Chemistry, Chinese Academy of Sciences, Changchun, 130022, China.
+FAU - Liang, Jiaming
+AU  - Liang J
+AD  - Department of Orthopaedic Surgery, Peking University China-Japan Friendship 
+      School of Clinical Medicine, Beijing, 100029, China.
+FAU - Wu, Jiangyi
+AU  - Wu J
+AD  - Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing, 100144, China.
+FAU - Han, Xiaodong
+AU  - Han X
+AD  - Center of Materials Science and Optoelectronics Engineering College of Materials 
+      Science and Optoelectronic Technology, University of Chinese Academy of Sciences, 
+      Beijing, 100049, China.
+FAU - Zhou, Yusai
+AU  - Zhou Y
+AD  - Laboratory of Bioinspired Smart Interfacial Science and Technology of Ministry of 
+      Education School of Chemistry, Beihang University, Beijing, 100191, China.
+FAU - Li, Bo
+AU  - Li B
+AD  - Engineering Research Center of Advanced Rare Earth Materials (Ministry of 
+      Education), Department of Chemistry, Tsinghua University, Beijing, 100084, China.
+FAU - Sun, Wei
+AU  - Sun W
+AD  - Department of Orthopaedic Surgery, Peking University China-Japan Friendship 
+      School of Clinical Medicine, Beijing, 100029, China.
+FAU - Su, Juanjuan
+AU  - Su J
+AD  - Center of Materials Science and Optoelectronics Engineering College of Materials 
+      Science and Optoelectronic Technology, University of Chinese Academy of Sciences, 
+      Beijing, 100049, China.
+FAU - Sun, Jing
+AU  - Sun J
+AD  - Shanghai Engineering Research Center of Molecular Therapeutics and New Drug 
+      Development School of Chemistry and Molecular Engineering, East China Normal 
+      University, Shanghai, 200241, China.
+FAU - Wan, Sikang
+AU  - Wan S
+AD  - Engineering Research Center of Advanced Rare Earth Materials (Ministry of 
+      Education), Department of Chemistry, Tsinghua University, Beijing, 100084, China.
+AD  - Xiangfu Laboratory, Jiaxing, Zhejiang, 314102, China.
+FAU - Zhang, Hongjie
+AU  - Zhang H
+AD  - Engineering Research Center of Advanced Rare Earth Materials (Ministry of 
+      Education), Department of Chemistry, Tsinghua University, Beijing, 100084, China.
+AD  - State Key Laboratory of Rare Earth Resource Utilization Changchun Institute of 
+      Applied Chemistry, Chinese Academy of Sciences, Changchun, 130022, China.
+FAU - Liu, Kai
+AU  - Liu K
+AUID- ORCID: 0000-0003-0878-5191
+AD  - Engineering Research Center of Advanced Rare Earth Materials (Ministry of 
+      Education), Department of Chemistry, Tsinghua University, Beijing, 100084, China.
+AD  - State Key Laboratory of Rare Earth Resource Utilization Changchun Institute of 
+      Applied Chemistry, Chinese Academy of Sciences, Changchun, 130022, China.
+AD  - Xiangfu Laboratory, Jiaxing, Zhejiang, 314102, China.
+FAU - Liu, Yawei
+AU  - Liu Y
+AD  - State Key Laboratory of Rare Earth Resource Utilization Changchun Institute of 
+      Applied Chemistry, Chinese Academy of Sciences, Changchun, 130022, China.
+LA  - eng
+GR  - 2024YFA0919300/National Key R&D Program of China/
+GR  - 22020102003/National Nature Science Foundation of China/
+GR  - 22388101/National Nature Science Foundation of China/
+GR  - 22125701/National Nature Science Foundation of China/
+GR  - 22207104/National Nature Science Foundation of China/
+GR  - 52472112/National Nature Science Foundation of China/
+GR  - 82272161/National Nature Science Foundation of China/
+GR  - T2322025/National Nature Science Foundation of China/
+GR  - 52402346/National Nature Science Foundation of China/
+GR  - 22404059/National Nature Science Foundation of China/
+GR  - 82072524/National Nature Science Foundation of China/
+GR  - 22405015/National Nature Science Foundation of China/
+GR  - 82002305/National Nature Science Foundation of China/
+GR  - 20230101102JC/Natural Science Foundation of Jilin Province/
+GR  - GZC20231340/China Postdoctoral Science Foundation/
+GR  - 2024M751627/China Postdoctoral Science Foundation/
+GR  - 2022M721802/China Postdoctoral Science Foundation/
+GR  - 2244071/Beijing Natural Science Foundation/
+GR  - 2022QNRC001/Young Elite Scientists Sponsorship Program/
+GR  - XF012022C0200/Xiangfu Lab Research Project/
+GR  - 2024A41/Jiashan Research Project/
+PT  - Journal Article
+DEP - 20250920
+PL  - Germany
+TA  - Adv Mater
+JT  - Advanced materials (Deerfield Beach, Fla.)
+JID - 9885358
+SB  - IM
+OTO - NOTNLM
+OT  - immunomodulation
+OT  - infected bone repair
+OT  - ion release
+OT  - macrophage polarization
+OT  - osteogenesis
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:31
+CRDT- 2025/09/20 03:28
+PHST- 2025/09/05 00:00 [revised]
+PHST- 2025/07/26 00:00 [received]
+PHST- 2025/09/20 06:31 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 03:28 [entrez]
+AID - 10.1002/adma.202514419 [doi]
+PST - aheadofprint
+SO  - Adv Mater. 2025 Sep 20:e14419. doi: 10.1002/adma.202514419.

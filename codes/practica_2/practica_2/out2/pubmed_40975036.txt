@@ -1,0 +1,116 @@
+PMID- 40975036
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 9
+TI  - Clinical outcomes and safety of Chinese herbal medicine in the treatment of 
+      hyperuricemia: A retrospective real-world study.
+PG  - 157231
+LID - S0944-7113(25)00870-0 [pii]
+LID - 10.1016/j.phymed.2025.157231 [doi]
+AB  - BACKGROUND: Hyperuricemia (HUA) has become a bothersome health problem that 
+      cannot be ignored. An increasing number of patients with HUA seek Chinese herbal 
+      medicine (CHM) as an alternative or complementary treatment. However, there was a 
+      lack of real-world evidence on the long-term impact of CHM in HUA populations. 
+      PURPOSE: This study aimed to explore the clinical outcomes and safety of CHM 
+      among individuals with HUA in mainland China. STUDY DESIGN: A population-based, 
+      active-comparator new-user designed cohort study of patients with HUA was 
+      performed using the Yinzhou Regional Health Care Database (YRHCD). METHODS: A cox 
+      model with propensity score matching was applied to estimate the hazard ratio 
+      (HR) of the association between the use of CHM and gouty arthritis (GA). Various 
+      subgroup analyses and multiple sensitivity analyses were also performed to 
+      demonstrate the robustness of results. The secondary outcomes were drug-induced 
+      liver injury (DILI) risk and gouty nephropathy (GN) risk. RESULTS: A total of 40 
+      653 patients with HUA were included from the YRHCD between 2015 and 2024, among 
+      whom 35 511 participants were CHM users and 5 142 were benzbromarone (BBR) users. 
+      In the primary analysis, the incidence of GA was 34.43 per 1 000 person-years for 
+      CHM users and 58.00 per 1 000 person-years for BRR users, respectively. CHM users 
+      appeared to have a 43 % reduction in risk of developing GA compared with BBR 
+      users with an HR of 0.57 [95 %CI 0.50, 0.65]. In addition, there was comparable 
+      safety in DILI between CHM users and BBR users (HR 1.18 [95 % CI 0.93, 1.49]). 
+      The results were generally consistent in various subgroup analyses and 
+      sensitivity analyses. CONCLUSION: CHM users improved clinical outcomes in 
+      patients with HUA and was safe, which can be a promising complementary therapy 
+      for HUA patients.
+CI  - Copyright © 2025 The Authors. Published by Elsevier GmbH.. All rights reserved.
+FAU - Long, Zilin
+AU  - Long Z
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China; Department of Integration of Chinese and Western 
+      Medicine & Department of Geriatric Oncology, Peking University Cancer Hospital 
+      and Institution, Beijing, China; Key Laboratory of Epidemiology of Major Diseases 
+      (Peking University), Ministry of Education, Beijing, China.
+FAU - Zhao, Houyu
+AU  - Zhao H
+AD  - Key Laboratory of Epidemiology of Major Diseases (Peking University), Ministry of 
+      Education, Beijing, China; Research Center of Clinical Epidemiology, Peking 
+      University Third Hospital, Beijing, China.
+FAU - Yin, Yueqi
+AU  - Yin Y
+AD  - Yinzhou District Center for Disease Control and Prevention, Ningbo, China.
+FAU - Sun, Yexiang
+AU  - Sun Y
+AD  - Yinzhou District Center for Disease Control and Prevention, Ningbo, China.
+FAU - Shen, Peng
+AU  - Shen P
+AD  - Yinzhou District Center for Disease Control and Prevention, Ningbo, China.
+FAU - Lin, Hongbo
+AU  - Lin H
+AD  - Yinzhou District Center for Disease Control and Prevention, Ningbo, China.
+FAU - Liu, Junchang
+AU  - Liu J
+AD  - Xinjiang Medical University Institute of Traditional Chinese Medicine, Xinjiang, 
+      China; Xinjiang Uygur Autonomous Region Academy of Traditional Chinese Medicine, 
+      Urumqi Xinjiang, China.
+FAU - Zhan, Siyan
+AU  - Zhan S
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China; Key Laboratory of Epidemiology of Major Diseases 
+      (Peking University), Ministry of Education, Beijing, China; Research Center of 
+      Clinical Epidemiology, Peking University Third Hospital, Beijing, China.
+FAU - Jiang, Zhiqin
+AU  - Jiang Z
+AD  - Yinzhou District Center for Disease Control and Prevention, Ningbo, China. 
+      Electronic address: 2210221440@qq.com.
+FAU - Sun, Feng
+AU  - Sun F
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China; Key Laboratory of Epidemiology of Major Diseases 
+      (Peking University), Ministry of Education, Beijing, China; Xinjiang Medical 
+      University Institute of Traditional Chinese Medicine, Xinjiang, China; School of 
+      Medicine, Shihezi University,Shihezi,China. Electronic address: 
+      sunfeng@bjmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250909
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Benzbromarone
+OT  - Chinese herbal medicine
+OT  - Efficacy
+OT  - Hyperuricemia
+OT  - Real-world study
+OT  - Safety
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:13
+PHST- 2025/05/07 00:00 [received]
+PHST- 2025/06/30 00:00 [revised]
+PHST- 2025/09/03 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00870-0 [pii]
+AID - 10.1016/j.phymed.2025.157231 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 9;148:157231. doi: 10.1016/j.phymed.2025.157231.

@@ -1,0 +1,91 @@
+PMID- 40975042
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 15
+TI  - Shexiang baoxin pill ameliorates cardiac fibrosis by inhibiting fibroblast to 
+      myofibroblast transition through STAT3 phosphorylation suppression.
+PG  - 157263
+LID - S0944-7113(25)00902-X [pii]
+LID - 10.1016/j.phymed.2025.157263 [doi]
+AB  - BACKGROUND: Shexiang Baoxin Pill (SBP) is a traditional Chinese medicine used to 
+      treat ischemic cardiomyopathy. It can alleviate cardiac fibrosis following 
+      myocardial ischemia/reperfusion (MI/R) injury, but its action mechanism remains 
+      unclear. PURPOSE: To elucidate the mechanism by which SBP alleviates cardiac 
+      fibrosis. METHODS: snRNA-seq was employed to construct a cardiac cell atlas of 
+      MI/R mice treated with SBP, identify DEGs in fibroblasts, and analyse 
+      transcription factor activity. Molecular docking and molecular dynamics 
+      simulations were used to investigate the binding sites and binding stability of 
+      the screened SBP chemical components with the STAT3 protein. 
+      Immunohistochemistry, immunofluorescence, qRT-PCR and WB techniques were utilized 
+      to assess the impact of SBP treatment on cardiac fibrosis and myofibroblast 
+      transition, while echocardiography was used to evaluate cardiac function in mice. 
+      RESULTS: SBP treatment significantly improved cardiac function in mice subjected 
+      to MI/R injury: cardiac fibrosis area was reduced by 4.2 %, EF was increased by 
+      4.5 % and FS was increased by 2.5 %. snRNA-seq revealed that SBP treatment did 
+      not alter the overall number of cardiac fibroblasts but modulated the 
+      proportional distribution of their subtypes. SCENIC-based transcription factor 
+      activity analysis suggested that the STAT3 signalling pathway might play a key 
+      role in this process. In vitro cell experiments demonstrated that H/R treatment 
+      induced the transition of fibroblasts into α-SMA-positive myofibroblasts, which 
+      SBP inhibited. CONCLUSIONS: This study has demonstrated for the first time that 
+      SBP effectively attenuates cardiac fibrosis post-MI/R, and elucidated the 
+      mechanism by which SBP inhibits myofibroblast transdifferentiation via the STAT3 
+      signaling pathway.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Xu, Xuan
+AU  - Xu X
+AD  - Department of Cardiology, Zhongda Hospital Affiliated to Southeast University, 87 
+      Dingjiaqiao, Nanjing 210009, PR China; School of medicine, Southeast University, 
+      Nanjing 210009, PR China.
+FAU - Tan, Yanyi
+AU  - Tan Y
+AD  - School of medicine, Southeast University, Nanjing 210009, PR China.
+FAU - Li, Shengnan
+AU  - Li S
+AD  - School of medicine, Southeast University, Nanjing 210009, PR China.
+FAU - Zhong, Min
+AU  - Zhong M
+AD  - School of medicine, Southeast University, Nanjing 210009, PR China.
+FAU - Liu, Zhigang
+AU  - Liu Z
+AD  - Department of Cardiology, Zhongda Hospital Affiliated to Southeast University, 87 
+      Dingjiaqiao, Nanjing 210009, PR China.
+FAU - Tong, Jiayi
+AU  - Tong J
+AD  - Department of Cardiology, Zhongda Hospital Affiliated to Southeast University, 87 
+      Dingjiaqiao, Nanjing 210009, PR China; School of medicine, Southeast University, 
+      Nanjing 210009, PR China. Electronic address: 101007925@seu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250915
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Myocardial fibrosis
+OT  - Myocardial ischemia/reperfusion injury
+OT  - Myofibroblast transdifferentiation
+OT  - Shexiang baoxin pill
+OT  - Signal transducer and activator of transcription 3
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:13
+PHST- 2025/07/08 00:00 [received]
+PHST- 2025/08/28 00:00 [revised]
+PHST- 2025/09/14 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00902-X [pii]
+AID - 10.1016/j.phymed.2025.157263 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 15;148:157263. doi: 10.1016/j.phymed.2025.157263.

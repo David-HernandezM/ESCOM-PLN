@@ -1,0 +1,138 @@
+PMID- 40983342
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2051-1426 (Electronic)
+IS  - 2051-1426 (Linking)
+VI  - 13
+IP  - 9
+DP  - 2025 Sep 21
+TI  - Lactylation-driven MVP upregulation boosts immunotherapy resistance by inhibiting 
+      PD-L1 degradation in hepatocellular carcinoma.
+LID - e012230 [pii]
+LID - 10.1136/jitc-2025-012230 [doi]
+AB  - BACKGROUND: Hepatocellular carcinoma (HCC) is a prevalent malignancy and the 
+      third leading cause of cancer-related mortality worldwide. Immune checkpoint 
+      inhibitors (ICIs) have emerged as first-line therapies for advanced HCC, 
+      substantially improving clinical outcomes. However, resistance to ICIs remains a 
+      major therapeutic challenge. Lactylation, a recently identified 
+      post-translational modification, has been implicated in tumor progression, 
+      although its role in ICIs resistance in HCC remains unclear. METHODS: 
+      Cytotoxicity assays, flow cytometry and orthotopic HCC mouse model were used to 
+      evaluate the effects of lactylation in remodeling the immune microenvironment. 
+      Chromatin immunoprecipitation sequencing and RNA sequencing were employed to 
+      identify lactylation-regulated gene profiles. Programmed cell death-ligand 1 
+      (PD-L1) protein degradation was assayed by cycloheximide-chase analysis and 
+      ubiquitination assay. Interactions between major vault protein (MVP) and 
+      β-transducin repeat-containing protein (β-TrCP) were analyzed by 
+      co-immunoprecipitation experiments. Site-directed mutagenesis and truncation 
+      mutants were designed to determine binding sites of MVP-β-TrCP complex. RESULTS: 
+      Elevated lactylation correlates with poor prognosis and ICIs resistance in 
+      patients with HCC. Inhibition of lactylation enhances CD8(+) T-cell infiltration 
+      and cytokine production. Multiomics analyses identify MVP as a 
+      lactylation-regulated factor that suppresses CD8(+) T cell-mediated antitumor 
+      immunity. Elevated MVP expression is associated with resistance to checkpoint 
+      blockade therapy. Mechanistic studies reveal that histone lactylation-induced MVP 
+      upregulation stabilizes PD-L1 by preventing β-TrCP-mediated proteasomal 
+      degradation. Pharmacological inhibition of lactylation restores ICIs sensitivity 
+      in orthotopic HCC mouse models. CONCLUSIONS: Our findings demonstrate that 
+      histone lactylation promotes ICIs resistance via MVP-dependent PD-L1 
+      stabilization. Therefore, targeting lactylation in combination with programmed 
+      cell death protein-1/PD-L1 blockade offers a promising strategy to overcome 
+      immunotherapy resistance in HCC.
+CI  - © Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ Group.
+FAU - Liu, Shuang
+AU  - Liu S
+AUID- ORCID: 0000-0002-6647-6197
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Pan, Yihui
+AU  - Pan Y
+AUID- ORCID: 0009-0008-3221-953X
+AD  - Department of Urology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Liu, Wenjian
+AU  - Liu W
+AUID- ORCID: 0009-0005-6388-7758
+AD  - Sun Yat-sen University Cancer Center, Guangzhou, China.
+FAU - Bu, Xiaoyun
+AU  - Bu X
+AUID- ORCID: 0000-0001-6455-1774
+AD  - Department of Colorectal Surgery, Hunan Cancer Hospital, Changsha, Hunan, China.
+FAU - Shao, Ruonan
+AU  - Shao R
+AUID- ORCID: 0000-0002-5566-1848
+AD  - Sun Yat-sen University Cancer Center, Guangzhou, China.
+FAU - Wang, Qi
+AU  - Wang Q
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Wu, Jun
+AU  - Wu J
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Wu, Chen
+AU  - Wu C
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Hu, Wenwei
+AU  - Hu W
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Xu, Jun
+AU  - Xu J
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+FAU - Wu, Changping
+AU  - Wu C
+AD  - Department of Oncology, Third Affiliated Hospital of Soochow University, 
+      Changzhou, Jiangsu, China.
+AD  - Department of Tumor Biological Treatment, Third Affiliated Hospital of Soochow 
+      University, Changzhou, Jiangsu, China.
+FAU - Jiang, Jingting
+AU  - Jiang J
+AUID- ORCID: 0000-0002-3128-9762
+AD  - Department of Tumor Biological Treatment, Third Affiliated Hospital of Soochow 
+      University, Changzhou, Jiangsu, China jiangjingting@suda.edu.cn.
+AD  - Institute of Cell Therapy, Soochow University, Suzhou, Jiangsu, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - J Immunother Cancer
+JT  - Journal for immunotherapy of cancer
+JID - 101620585
+RN  - 0 (B7-H1 Antigen)
+RN  - 0 (CD274 protein, human)
+RN  - 0 (Immune Checkpoint Inhibitors)
+SB  - IM
+MH  - *Carcinoma, Hepatocellular/drug therapy/pathology/metabolism/immunology
+MH  - *Liver Neoplasms/drug therapy/pathology/metabolism/immunology
+MH  - Animals
+MH  - Humans
+MH  - Mice
+MH  - *B7-H1 Antigen/metabolism/antagonists & inhibitors
+MH  - *Drug Resistance, Neoplasm
+MH  - Up-Regulation
+MH  - *Immunotherapy/methods
+MH  - *Immune Checkpoint Inhibitors/pharmacology/therapeutic use
+MH  - Cell Line, Tumor
+OTO - NOTNLM
+OT  - Hepatocellular Carcinoma
+OT  - Immune Checkpoint Inhibitor
+OT  - Immunotherapy
+OT  - Tumor microenvironment - TME
+COIS- Competing interests: No, there are no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 20:33
+PHST- 2025/08/27 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 20:33 [entrez]
+AID - jitc-2025-012230 [pii]
+AID - 10.1136/jitc-2025-012230 [doi]
+PST - epublish
+SO  - J Immunother Cancer. 2025 Sep 21;13(9):e012230. doi: 10.1136/jitc-2025-012230.

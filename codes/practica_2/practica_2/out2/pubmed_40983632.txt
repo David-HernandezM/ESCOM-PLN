@@ -1,0 +1,136 @@
+PMID- 40983632
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1476-5403 (Electronic)
+IS  - 1350-9047 (Linking)
+DP  - 2025 Sep 22
+TI  - A novel lncRNA, lncMCL1, modulates neural pyroptosis associated with epilepsy via 
+      stabilizing DDX3X.
+LID - 10.1038/s41418-025-01584-7 [doi]
+AB  - Pyroptosis is strongly associated with refractory epilepsy. However, the 
+      underlying mechanisms remain poorly understood. Increasing evidence has shown 
+      that long noncoding RNAs (lncRNAs) participate in various neurological disorder 
+      processes by regulating programmed cell death. In this study, we identified a 
+      novel lncRNA, lncMCL1, by high-throughput screening, which suppresses NLRP3 
+      inflammasome-dependent neural pyroptosis in epilepsy. We demonstrated that 
+      lncMCL1 is aberrantly underexpressed in the hippocampus and cortex of epilepsy 
+      patients, a phenomenon that was validated in various mouse and rat epilepsy 
+      models. Through CRISPR/Cas9, siRNA, and viral manipulation, gain- and 
+      loss-of-function experiments confirmed that lncMCL1 inhibits neuronal pyroptosis 
+      in vivo and in vitro and exerts antiepileptic effects. Mechanistically, lncMCL1 
+      acts as a scaffold to modulate DDX3X protein stabilization by enhancing 
+      NEDD4-mediated DDX3X K48 ubiquitination, thereby inhibiting neural pyroptosis 
+      through the suppression of NLRP3 inflammasome signalling. Additionally, 
+      IL-18/IL-1β, downstream cytokines of pyroptosis, inhibit lncMCL1 expression 
+      through the activation of a shared pathway, the STAT3 pathway, forming a feedback 
+      loop. Our findings identify lncMCL1 as a critical regulator of neural cell 
+      pyroptosis and a promising therapeutic target for refractory epilepsy.
+CI  - © 2025. The Author(s), under exclusive licence to ADMC Associazione 
+      Differenziamento e Morte Cellulare.
+FAU - Wang, Huizhi
+AU  - Wang H
+AUID- ORCID: 0009-0007-9516-4014
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China.
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Wu, Liuliu
+AU  - Wu L
+AD  - Research Center of Clinical Epidemiology, Peking University Third Hospital, 
+      Beijing, China.
+AD  - Key Laboratory of Epidemiology of Major Diseases, Peking University, Ministry of 
+      Education, Beijing, China.
+FAU - Liu, Chong
+AU  - Liu C
+AD  - Institute of Brain Science and Brain-inspired Research, Shandong First Medical 
+      University & Shandong Academy of Medical Sciences, Jinan, China.
+FAU - Zhao, Xueming
+AU  - Zhao X
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Cui, Luhao
+AU  - Cui L
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Gao, Jianing
+AU  - Gao J
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Zhang, Chaonan
+AU  - Zhang C
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China.
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Du, Tingting
+AU  - Du T
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+FAU - Shi, Lin
+AU  - Shi L
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China.
+FAU - Ji, Yuchen
+AU  - Ji Y
+AD  - Department of Neurosurgery, The First Affiliated Hospital of Zhengzhou 
+      University, Zhengzhou, Henan, China.
+FAU - Xiao, Yilei
+AU  - Xiao Y
+AUID- ORCID: 0000-0002-6651-4122
+AD  - Department of Neurosurgery, Liaocheng People's Hospital, Liaocheng, Shandong, 
+      China. yileixiao@163.com.
+FAU - Zhang, Jianguo
+AU  - Zhang J
+AUID- ORCID: 0000-0003-2266-6500
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China. jianguozhang@ccmu.edu.cn.
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China. 
+      jianguozhang@ccmu.edu.cn.
+FAU - Tu, Wenjun
+AU  - Tu W
+AUID- ORCID: 0000-0002-1703-1802
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China. tuwenjun@irm-cams.ac.cn.
+FAU - Meng, Fangang
+AU  - Meng F
+AUID- ORCID: 0000-0002-8577-6443
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China. fgmeng@ccmu.edu.cn.
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China. 
+      fgmeng@ccmu.edu.cn.
+AD  - Department of Neurosurgery, The First Affiliated Hospital of Zhengzhou 
+      University, Zhengzhou, Henan, China. fgmeng@ccmu.edu.cn.
+AD  - Chinese Institute for Brain Research, Beijing, China. fgmeng@ccmu.edu.cn.
+FAU - Han, Chunlei
+AU  - Han C
+AUID- ORCID: 0000-0002-5724-4466
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, China. hanchunlei622@163.com.
+AD  - Beijing Neurosurgical Institute, Capital Medical University, Beijing, China. 
+      hanchunlei622@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Cell Death Differ
+JT  - Cell death and differentiation
+JID - 9437445
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethical 
+      approval: Human brain tissue samples were collected from patients after written 
+      informed consent was obtained from the patients or their legal representatives, 
+      and all experimental procedures were performed in accordance with the recognized 
+      ethical guidelines of the Declaration of Helsinki, and approval by the Ethics 
+      Committee on Human Research at Capital Medical University (Approval No. KY 
+      2021-067-02). All animal experiments were performed in accordance with National 
+      Institutes of Health and relevant guidelines for the care and use of laboratory 
+      animals of Capital Medical University in China, and approved by Ethics Committee 
+      of Capital Medical University (Approval Numbers AEEI-2018-200 and AEEI-2019-097).
+EDAT- 2025/09/23 03:16
+MHDA- 2025/09/23 03:16
+CRDT- 2025/09/22 23:16
+PHST- 2025/02/05 00:00 [received]
+PHST- 2025/09/10 00:00 [accepted]
+PHST- 2025/08/18 00:00 [revised]
+PHST- 2025/09/23 03:16 [medline]
+PHST- 2025/09/23 03:16 [pubmed]
+PHST- 2025/09/22 23:16 [entrez]
+AID - 10.1038/s41418-025-01584-7 [pii]
+AID - 10.1038/s41418-025-01584-7 [doi]
+PST - aheadofprint
+SO  - Cell Death Differ. 2025 Sep 22. doi: 10.1038/s41418-025-01584-7.

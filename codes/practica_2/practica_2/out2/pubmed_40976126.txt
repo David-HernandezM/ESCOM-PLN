@@ -1,0 +1,116 @@
+PMID- 40976126
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 11
+TI  - Eriocalyxin B induces ferroptosis through SIRT3 inhibition in triple-negative 
+      breast cancer.
+PG  - 157257
+LID - S0944-7113(25)00896-7 [pii]
+LID - 10.1016/j.phymed.2025.157257 [doi]
+AB  - BACKGROUND: Triple-negative breast cancer (TNBC), a highly aggressive and 
+      heterogeneous breast cancer subtype, remains clinically challenging due to the 
+      paucity of actionable therapeutic targets. The unique metabolic landscape of 
+      TNBC, characterized by elevated iron and lipid levels, renders it particularly 
+      susceptible to ferroptosis, positioning this cell death modality as a promising 
+      therapeutic avenue. Eriocalyxin B (Eri B), a natural diterpenoid, exhibits 
+      multifaceted anticancer properties that warrant further investigation. OBJECT: To 
+      elucidate the therapeutic mechanism of Eri B-induced ferroptosis in TNBC. METHOD: 
+      In this study, the anti-proliferative effects of Eri B on TNBC cells were 
+      evaluated using cell colony formation assays, three-dimensional tumor sphere 
+      formation assays, EdU incorporation assays, and analysis of the proliferation 
+      marker Ki-67. The anti-metastatic potential of Eri B was assessed through wound 
+      healing assays, transwell migration assays, immunofluorescence staining, and 
+      western blot analysis. Furthermore, RNA sequencing (RNA-seq), flow cytometry, 
+      transmission electron microscopy, and western blotting demonstrated that Eri B 
+      induces ferroptosis in TNBC cells. Molecular docking, surface plasmon resonance 
+      (SPR), and cellular thermal shift assays (CETSA) provided evidence of a direct 
+      interaction between Eri B and signal transducer and activator of transcription 3 
+      (STAT3). Moreover, the efficacy and underlying mechanism of Eri B were further 
+      validated through SIRT3 overexpression experiments and by employing a STAT3 
+      activator, colivelin. In vivo anti-TNBC activity was confirmed using a 
+      xenografted tumor model combined with bioluminescence imaging. RESULT: For the 
+      first time, we demonstrate that Eri B exhibits significant antitumor activity 
+      both in vitro and in vivo through the induction of ferroptosis. RNA-seq analysis 
+      enabled us to identify and confirm that Eri B induces ferroptosis and oxidative 
+      stress by inhibiting sirtuin 3 (SIRT3), which subsequently modulates the nuclear 
+      factor erythroid 2-related factor 2 (NRF2)-glutathione peroxidase 4 (GPX4) 
+      signaling pathway. Moreover, our findings reveal that Eri B suppresses SIRT3 
+      transcription by directly targeting STAT3, thereby regulating the SIRT3-sterol 
+      regulatory element-binding transcription factor 1 (SREBP1)-peroxisome 
+      proliferator-activated receptor α (PPARα) -mediated fatty acid metabolism and 
+      cellular redox homeostasis. CONCLUSION: In summary, our findings suggest that Eri 
+      B functions as a novel inducer of ferroptosis in TNBC, demonstrating potential 
+      therapeutic value through the inhibition of SIRT3 in TNBC.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Chen, Xiya
+AU  - Chen X
+AD  - Sichuan Engineering Research Center for Biomimetic Synthesis of Natural Drugs, 
+      School of Life Science and Engineering, Southwest Jiaotong University, Chengdu 
+      610031, China; School of Pharmaceutical Sciences, Health Science Center, Shenzhen 
+      University, Shenzhen 518000, China; Key Laboratory of Advanced Technologies of 
+      Material, Minister of Education, School of Materials Science and Engineering, 
+      Southwest Jiaotong University, Chengdu 610031, Sichuan, China.
+FAU - He, Jingjing
+AU  - He J
+AD  - Sichuan Engineering Research Center for Biomimetic Synthesis of Natural Drugs, 
+      School of Life Science and Engineering, Southwest Jiaotong University, Chengdu 
+      610031, China.
+FAU - Ge, Ge
+AU  - Ge G
+AD  - School of Pharmaceutical Sciences, Health Science Center, Shenzhen University, 
+      Shenzhen 518000, China.
+FAU - Ma, Shuangshuang
+AU  - Ma S
+AD  - School of Pharmaceutical Sciences, Health Science Center, Shenzhen University, 
+      Shenzhen 518000, China.
+FAU - Chen, Zixuan
+AU  - Chen Z
+AD  - School of Pharmaceutical Sciences, Health Science Center, Shenzhen University, 
+      Shenzhen 518000, China.
+FAU - Zhang, Lan
+AU  - Zhang L
+AD  - Sichuan Engineering Research Center for Biomimetic Synthesis of Natural Drugs, 
+      School of Life Science and Engineering, Southwest Jiaotong University, Chengdu 
+      610031, China. Electronic address: zhanglanx_9@126.com.
+FAU - Gao, Feng
+AU  - Gao F
+AD  - Sichuan Engineering Research Center for Biomimetic Synthesis of Natural Drugs, 
+      School of Life Science and Engineering, Southwest Jiaotong University, Chengdu 
+      610031, China. Electronic address: gaof@swjtu.edu.cn.
+FAU - Zhang, Jin
+AU  - Zhang J
+AD  - School of Pharmaceutical Sciences, Health Science Center, Shenzhen University, 
+      Shenzhen 518000, China. Electronic address: zhangjin1989@szu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250911
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Eri B
+OT  - SIRT3
+OT  - TNBC
+OT  - ferroptosis
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:07
+PHST- 2025/04/07 00:00 [received]
+PHST- 2025/08/10 00:00 [revised]
+PHST- 2025/08/15 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:07 [entrez]
+AID - S0944-7113(25)00896-7 [pii]
+AID - 10.1016/j.phymed.2025.157257 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 11;148:157257. doi: 10.1016/j.phymed.2025.157257.

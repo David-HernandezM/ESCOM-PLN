@@ -1,0 +1,190 @@
+PMID- 40982684
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 122
+IP  - 39
+DP  - 2025 Sep 30
+TI  - Triple checkpoint blockade of PD-1, Tim-3, and Lag-3 enhances adoptive T cell 
+      immunotherapy in a mouse model of ovarian cancer.
+PG  - e2419888122
+LID - 10.1073/pnas.2419888122 [doi]
+AB  - The five-year survival rate for ovarian cancer patients remains below 50%, 
+      underscoring the need for innovative therapies. One promising approach involves 
+      engineering T cells to specifically target proteins uniquely overexpressed in 
+      tumors, thereby controlling tumor growth without toxicity to healthy tissues. 
+      Mesothelin (MSLN) contributes to the malignant and invasive phenotype in ovarian 
+      cancer and has limited expression in healthy cells, making it a candidate 
+      immunotherapy target. Our previous results in a mouse model of ovarian cancer 
+      demonstrated that T cells engineered to express a T cell receptor (TCR) targeting 
+      MSLN (TCR(MSLN)) mediated therapeutic activity, delaying tumor growth and 
+      prolonging mouse survival. However, inhibitory ligands expressed in the tumor 
+      microenvironment (TME) interacted with inhibitory receptors on activated T cells, 
+      suppressing antitumor function. We hypothesized combining engineered T cells with 
+      checkpoint blockade would enhance T cell function and improve therapeutic 
+      efficacy, but administration of monospecific antibodies targeting individual 
+      inhibitory pathways had no significant impact on T cell efficacy. By contrast, 
+      the combination of PD-1, Tim-3, and Lag-3 blockade with engineered T cells 
+      significantly improved T cell function and overall animal survival relative to 
+      treatment with antibody alone or TCR(MSLN) with singlet or doublet antibody 
+      combinations. Single-cell RNA sequencing revealed TCR(MSLN) T cells treated with 
+      the triplet antibody combination increased expression of genes involved in 
+      interferon responses and metabolic function, and reduced expression of genes 
+      associated with exhaustion. These results suggest that strategies to disrupt 
+      multiple inhibitory pathways simultaneously may be necessary for improved 
+      adoptive T cell therapy efficacy in patients.
+FAU - Alencar, Gabriel F
+AU  - Alencar GF
+AD  - Department of Microbiology, Immunology and Cancer Biology, and Beirne B. Carter 
+      Center for Immunology Research University of Virginia School of Medicine, 
+      Charlottesville, VA 22908.
+FAU - Mohamed, Asmaa O
+AU  - Mohamed AO
+AD  - Department of Microbiology, Immunology and Cancer Biology, and Beirne B. Carter 
+      Center for Immunology Research University of Virginia School of Medicine, 
+      Charlottesville, VA 22908.
+FAU - Burnett, Madison G
+AU  - Burnett MG
+AUID- ORCID: 0000-0003-4852-3639
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Jean, Samantha St
+AU  - Jean SS
+AUID- ORCID: 0000-0001-5555-9299
+AD  - Department of Pathology and Center for Comparative Medicine, University of 
+      Virginia, Charlottesville, VA 22908.
+FAU - Nelson, Anders R
+AU  - Nelson AR
+AD  - Department of Microbiology, Immunology and Cancer Biology, and Beirne B. Carter 
+      Center for Immunology Research University of Virginia School of Medicine, 
+      Charlottesville, VA 22908.
+FAU - Su, Yapeng
+AU  - Su Y
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+AD  - Department of Immunology, University of Washington School of Medicine, Seattle, 
+      WA 98109.
+FAU - Voillet, Valentin
+AU  - Voillet V
+AUID- ORCID: 0000-0002-5751-3881
+AD  - Cape Town HIV Vaccine Trials Network Immunology Laboratory, Hutchinson Centre 
+      Research Institute of South Africa, Cape Town 8001, South Africa.
+AD  - Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, 
+      WA 98109.
+FAU - Bates, Breanna M
+AU  - Bates BM
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Rodgers Suarez, Magdalia
+AU  - Rodgers Suarez M
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Ruskin, Susan L
+AU  - Ruskin SL
+AUID- ORCID: 0009-0005-2699-7296
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Trieu, Lam
+AU  - Trieu L
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Lam, Jennifer L
+AU  - Lam JL
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+FAU - Bekiranov, Stefan
+AU  - Bekiranov S
+AUID- ORCID: 0000-0002-3177-4346
+AD  - Department of Biochemistry and Molecular Genetics, University of Virginia School 
+      of Medicine, Charlottesville, VA 22908.
+FAU - Gottardo, Raphael
+AU  - Gottardo R
+AD  - Biomedical Data Science Center, Division of Clinical Research and Innovation, 
+      Lausanne University Hospital & University of Lausanne, and Swiss Institute of 
+      Bioinformatics, Lausanne 1005, Switzerland.
+FAU - Greenberg, Philip D
+AU  - Greenberg PD
+AUID- ORCID: 0000-0003-3812-647X
+AD  - Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer 
+      Research Center, Seattle, WA 98109.
+AD  - Department of Immunology, University of Washington School of Medicine, Seattle, 
+      WA 98109.
+FAU - Anderson, Kristin G
+AU  - Anderson KG
+AUID- ORCID: 0000-0001-9263-4438
+AD  - Department of Microbiology, Immunology and Cancer Biology, and Beirne B. Carter 
+      Center for Immunology Research University of Virginia School of Medicine, 
+      Charlottesville, VA 22908.
+AD  - Department of Obstetrics and Gynecology, University of Virginia School of 
+      Medicine, Charlottesville, VA 22908.
+LA  - eng
+GR  - CA009657-26A1 CA266737 P30CA044579 CA018029 CA033084/HHS | NIH | National Cancer 
+      Institute (NCI)/
+GR  - Ann and Sol Schreiber Mentored Investigator Training Grant/Ovarian Cancer 
+      Research Alliance (OCRA)/
+GR  - no number/Parker Institute for Cancer Immunotherapy (PICI)/
+GR  - no number/Lonza Houston (Lonza Houston, Inc.)/
+GR  - no number/Celgene Corporation | Juno Therapeutics/
+GR  - 5T32AI007496-29/HHS | NIH | National Institute of Allergy and Infectious Diseases 
+      (NIAID)/
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Programmed Cell Death 1 Receptor)
+RN  - 0 (Hepatitis A Virus Cellular Receptor 2)
+RN  - J27WDC343N (Mesothelin)
+RN  - 0 (Lymphocyte Activation Gene 3 Protein)
+RN  - 0 (Immune Checkpoint Inhibitors)
+RN  - 0 (Lag3 protein, mouse)
+RN  - 0 (Havcr2 protein, mouse)
+RN  - 0 (Antigens, CD)
+RN  - 0 (Pdcd1 protein, mouse)
+RN  - 0 (Msln protein, mouse)
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - *Ovarian Neoplasms/therapy/immunology/pathology/genetics
+MH  - Mice
+MH  - *Programmed Cell Death 1 Receptor/antagonists & inhibitors/immunology
+MH  - *Immunotherapy, Adoptive/methods
+MH  - *Hepatitis A Virus Cellular Receptor 2/antagonists & 
+      inhibitors/immunology/metabolism
+MH  - Mesothelin
+MH  - Lymphocyte Activation Gene 3 Protein
+MH  - *Immune Checkpoint Inhibitors/pharmacology
+MH  - *T-Lymphocytes/immunology
+MH  - Tumor Microenvironment/immunology
+MH  - Disease Models, Animal
+MH  - *Antigens, CD/immunology/metabolism/genetics
+MH  - Cell Line, Tumor
+MH  - Humans
+OTO - NOTNLM
+OT  - T cell engineering
+OT  - adoptive cell therapy
+OT  - checkpoint blockade
+OT  - immunotherapy
+OT  - ovarian cancer
+COIS- Competing interests statement:R. Gottardo has received consulting income from 
+      Takeda, Owkin, Arcellx and Sanofi, and declares ownership in Ozette Technologies. 
+      P.D. Greenberg is a consultant/advisory board member for Juno Therapeutics, 
+      Elpiscience, FLX Bio, and Nextech, P.D. Greenberg has ownership interest 
+      (including stock, patents, etc.) in FLX Bio, Nextech Therapeutics, Elpiscience 
+      and Affini-T Therapeutics. P.D. Greenberg reports receiving commercial research 
+      grants from Lonza, Juno Therapeutics and the Parker Institute for Cancer 
+      Immunotherapy.
+EDAT- 2025/09/22 18:38
+MHDA- 2025/09/22 18:39
+CRDT- 2025/09/22 15:03
+PHST- 2025/09/22 18:39 [medline]
+PHST- 2025/09/22 18:38 [pubmed]
+PHST- 2025/09/22 15:03 [entrez]
+AID - 10.1073/pnas.2419888122 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2025 Sep 30;122(39):e2419888122. doi: 
+      10.1073/pnas.2419888122. Epub 2025 Sep 22.

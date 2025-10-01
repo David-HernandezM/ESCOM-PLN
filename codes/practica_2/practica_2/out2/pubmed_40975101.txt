@@ -1,0 +1,589 @@
+PMID- 40975101
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250920
+IS  - 1474-4465 (Electronic)
+IS  - 1474-4422 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2025 Oct
+TI  - Diagnosis of multiple sclerosis: 2024 revisions of the McDonald criteria.
+PG  - 850-865
+LID - S1474-4422(25)00270-4 [pii]
+LID - 10.1016/S1474-4422(25)00270-4 [doi]
+AB  - Advances in the understanding of multiple sclerosis and the development of 
+      biomarkers of pathophysiology prompted a substantial revision of the 2017 
+      McDonald diagnostic criteria. The new 2024 McDonald criteria provide a unified 
+      approach for diagnosing multiple sclerosis in individuals with relapsing or 
+      progressive courses throughout the lifespan (ie, from paediatric to late-life 
+      presentations). The optic nerve can now serve as a fifth anatomical location 
+      within the CNS for diagnosis. The central vein sign, paramagnetic rim lesions, 
+      and kappa free-light chain concentrations in CSF can be used, when available, to 
+      provide supportive evidence and confer specificity for a diagnosis of multiple 
+      sclerosis in specific situations. In certain cases, radiologically isolated 
+      syndrome or neurological symptoms that do not constitute a clear attack or 
+      progression of disability can fulfil the criteria for a multiple sclerosis 
+      diagnosis. We also provide guidance for the diagnosis of multiple sclerosis in 
+      older individuals (≥50 years) and those with comorbidities. The 2024 revised 
+      criteria should expedite the diagnosis of multiple sclerosis, while maintaining 
+      specificity.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Montalban, Xavier
+AU  - Montalban X
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology, Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain; 
+      Universitat de Vic Central de Catalunya, Barcelona, Spain. Electronic address: 
+      xavier.montalban@cem-cat.org.
+FAU - Lebrun-Frénay, Christine
+AU  - Lebrun-Frénay C
+AD  - Université Nice Cote d'Azur UMR2CA-URRIS; Centre Hospitalier Universitaire de 
+      Nice, Nice, France.
+FAU - Oh, Jiwon
+AU  - Oh J
+AD  - Division of Neurology, Department of Medicine, St. Michael's Hospital, University 
+      of Toronto, Toronto, ON, Canada.
+FAU - Arrambide, Georgina
+AU  - Arrambide G
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology, Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Moccia, Marcello
+AU  - Moccia M
+AD  - Department of Molecular Medicine and Medical Biotechnology, Federico II 
+      University of Naples, Naples, Italy; Queen Square Multiple Sclerosis Centre, 
+      Department of Neuroinflammation, UCL Queen Square Institute of Neurology, Faculty 
+      of Brain Sciences, University College London, London, UK.
+FAU - Pia Amato, Maria
+AU  - Pia Amato M
+AD  - Department NEUROFARBA, University of Florence; IRCCS Fondazione Don Carlo 
+      Gnocchi, Florence, Italy.
+FAU - Amezcua, Lilyana
+AU  - Amezcua L
+AD  - Department of Neurology, University of Southern California, Los Angeles, CA, USA.
+FAU - Banwell, Brenda
+AU  - Banwell B
+AD  - Department of Pediatrics, Johns Hopkins University, Johns Hopkins University 
+      School of Medicine, Baltimore, MD, USA.
+FAU - Bar-Or, Amit
+AU  - Bar-Or A
+AD  - The Center for Neuroinflammation and Experimental Therapeutics and the Department 
+      of Neurology, Perelman School of Medicine, University of Pennsylvania, 
+      Philadelphia, PA, USA.
+FAU - Barkhof, Frederik
+AU  - Barkhof F
+AD  - Queen Square Multiple Sclerosis Centre, Department of Neuroinflammation, UCL 
+      Queen Square Institute of Neurology, Faculty of Brain Sciences, University 
+      College London, London, UK; Centre for Medical Image Computing, University 
+      College London, London, UK; Department of Radiology & Nuclear Medicine, Amsterdam 
+      UMC, Vrije Universiteit, Amsterdam, Netherlands.
+FAU - Butzkueven, Helmut
+AU  - Butzkueven H
+AD  - Department of Neuroscience, School for Translational Medicine, Monash University 
+      and Alfred Health, Melbourne, VIC, Australia.
+FAU - Ciccarelli, Olga
+AU  - Ciccarelli O
+AD  - Queen Square Multiple Sclerosis Centre, Department of Neuroinflammation, UCL 
+      Queen Square Institute of Neurology, Faculty of Brain Sciences, University 
+      College London, London, UK; National Institute for Health and Care Research 
+      (NIHR) University College London Hospitals (UCLH) Biomedical Research Centre, 
+      London, UK.
+FAU - Chataway, Jeremy
+AU  - Chataway J
+AD  - Queen Square Multiple Sclerosis Centre, Department of Neuroinflammation, UCL 
+      Queen Square Institute of Neurology, Faculty of Brain Sciences, University 
+      College London, London, UK; National Institute for Health and Care Research 
+      (NIHR) University College London Hospitals (UCLH) Biomedical Research Centre, 
+      London, UK.
+FAU - Cohen, Jeffrey A
+AU  - Cohen JA
+AD  - Department of Neurology, Mellen Center for Multiple Sclerosis Treatment and 
+      Research, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA.
+FAU - Comi, Giancarlo
+AU  - Comi G
+AD  - Vita-Salute San Raffaele University, Milan, Italy.
+FAU - Correale, Jorge
+AU  - Correale J
+AD  - Department of Neurology, Raúl Carrea Institute for Neurological Research (FLENI), 
+      Buenos Aires, Argentina.
+FAU - Deisenhammer, Florian
+AU  - Deisenhammer F
+AD  - Department of Neurology, Innsbruck Medical University, Innsbruck, Austria.
+FAU - Filippi, Massimo
+AU  - Filippi M
+AD  - Vita-Salute San Raffaele University, Milan, Italy; Neurology Unit, 
+      Neurorehabilitation Unit, and Neurophysiology Service, and Neuroimaging Research 
+      Unit, Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, 
+      Italy.
+FAU - Fiol, Julie
+AU  - Fiol J
+AD  - National Multiple Sclerosis Society, New York, NY, USA.
+FAU - Freedman, Mark S
+AU  - Freedman MS
+AD  - University of Ottawa, Department of Medicine and the Ottawa Hospital Research 
+      Institute, Ottawa, ON, Canada.
+FAU - Fujihara, Kazuo
+AU  - Fujihara K
+AD  - Department of Multiple Sclerosis Therapeutics, Fukushima Medical University 
+      School of Medicine, Fukushima, Japan; Multiple Sclerosis & Neuromyelitis Optica 
+      Center, Southern TOHOKU Research Institute for Neuroscience, Koriyama, Japan.
+FAU - Granziera, Cristina
+AU  - Granziera C
+AD  - Translational Imaging in Neurology (ThINK) Basel, Department of Biomedical 
+      Engineering, Faculty of Medicine, University Hospital Basel and University of 
+      Basel, Basel, Switzerland; Department of Neurology, University Hospital Basel and 
+      University of Basel, Basel, Switzerland; Research Center for Clinical 
+      Neuroimmunology and Neuroscience Basel, University Hospital Basel and University 
+      of Basel, Basel, Switzerland.
+FAU - Green, Ari J
+AU  - Green AJ
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Hartung, Hans-Peter
+AU  - Hartung HP
+AD  - Department of Neurology, Medical Faculty, Heinrich-Heine-University Düsseldorf, 
+      Düsseldorf, Germany; Brain and Mind Center, Sydney Medical School, Faculty of 
+      Medicine and Health, University of Sydney, Sydney, NSW, Australia; Department of 
+      Neurology, Palacky University in Olomouc, Olomouc, Czech Republic.
+FAU - Hellwig, Kerstin
+AU  - Hellwig K
+AD  - Department of Neurology, St. Josef Hospital, Ruhr University, Bochum, Germany.
+FAU - Kappos, Ludwig
+AU  - Kappos L
+AD  - Translational Imaging in Neurology (ThINK) Basel, Department of Biomedical 
+      Engineering, Faculty of Medicine, University Hospital Basel and University of 
+      Basel, Basel, Switzerland; Department of Neurology, University Hospital Basel and 
+      University of Basel, Basel, Switzerland; Research Center for Clinical 
+      Neuroimmunology and Neuroscience Basel, University Hospital Basel and University 
+      of Basel, Basel, Switzerland.
+FAU - Kimbrough, Dorlan
+AU  - Kimbrough D
+AD  - Department of Neurology, Duke University, Durham, NC, USA.
+FAU - Killestein, Joep
+AU  - Killestein J
+AD  - Department of Neurology, MS Center Amsterdam, Amsterdam UMC, Vrije Universiteit, 
+      Amsterdam, Netherlands.
+FAU - Lublin, Fred
+AU  - Lublin F
+AD  - Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY, 
+      USA.
+FAU - Marignier, Romain
+AU  - Marignier R
+AD  - Service de Neurologie, Sclérose en Plaques, Pathologies de la Myéline et 
+      Neuroinflammation and Centre de Référence des Maladies Inflammatoires Rares du 
+      Cerveau et de la Moelle (MIRCEM), Hôpital Neurologique Pierre Wertheimer, 
+      Hospices Civils de Lyon, Bron, France.
+FAU - Ann Marrie, Ruth
+AU  - Ann Marrie R
+AD  - Departments of Medicine and Community Health and Epidemiology, Faculty of 
+      Medicine, Dalhousie University, and Nova Scotia Health, Halifax, NS, Canada.
+FAU - Miller, Aaron
+AU  - Miller A
+AD  - Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY, 
+      USA.
+FAU - Otero-Romero, Susana
+AU  - Otero-Romero S
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology, Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Ontaneda, Daniel
+AU  - Ontaneda D
+AD  - Department of Neurology, Mellen Center for Multiple Sclerosis Treatment and 
+      Research, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA.
+FAU - Ramanathan, Sudarshini
+AU  - Ramanathan S
+AD  - Translational Neuroimmunology Group, Sydney Medical School, Faculty of Medicine 
+      and Health, University of Sydney, Sydney, NSW, Australia; Department of Neurology 
+      and Concord Clinical School, Concord Hospital, Sydney, NSW, Australia.
+FAU - Reich, Daniel
+AU  - Reich D
+AD  - Translational Neuroradiology Section, National Institute of Neurological 
+      Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+FAU - Rocca, Maria A
+AU  - Rocca MA
+AD  - Vita-Salute San Raffaele University, Milan, Italy.
+FAU - Rovira, Àlex
+AU  - Rovira À
+AD  - Section of Neuroradiology, Department of Radiology, Hospital Universitari Vall 
+      d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Saidha, Shiv
+AU  - Saidha S
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA.
+FAU - Salter, Amber
+AU  - Salter A
+AD  - Department of Neurology, Section on Statistical Planning and Analysis, University 
+      of Texas Southwestern Medical Center, Dallas, TX, USA.
+FAU - Sastre-Garriga, Jaume
+AU  - Sastre-Garriga J
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology, Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Saylor, Deanna
+AU  - Saylor D
+AD  - Department of Neurology, University of North Carolina School of Medicine, Chapel 
+      Hill, NC, USA; University Teaching Hospital, Lusaka, Zambia.
+FAU - Solomon, Andrew J
+AU  - Solomon AJ
+AD  - Department of Neurological Sciences, Larner College of Medicine at the University 
+      of Vermont, Burlington, VT, USA.
+FAU - Sormani, Maria Pia
+AU  - Sormani MP
+AD  - Department of Health Sciences (DISSAL), Biostatistics Unit, University of Genoa, 
+      Genoa, Italy.
+FAU - Stankoff, Bruno
+AU  - Stankoff B
+AD  - Sorbonne University, Paris Brain Institute, Neurology Department, Pitié 
+      Salpetriere Hospital, APHP, Paris, France.
+FAU - Tintore, Mar
+AU  - Tintore M
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology, Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Tremlett, Helen
+AU  - Tremlett H
+AD  - Faculty of Medicine (Neurology), University of British Columbia, Vancouver, BC, 
+      Canada.
+FAU - Van der Walt, Anneke
+AU  - Van der Walt A
+AD  - Department of Neuroscience, School for Translational Medicine, Monash University 
+      and Alfred Health, Melbourne, VIC, Australia.
+FAU - Viswanathan, Shanthi
+AU  - Viswanathan S
+AD  - Department of Neurology, Kuala Lumpur Hospital, Kuala Lumpur, Malaysia.
+FAU - Wiendl, Heinz
+AU  - Wiendl H
+AD  - Department of Neurology, University Hospital Heidelberg, Heidelberg, Germany.
+FAU - Wildemann, Brigitte
+AU  - Wildemann B
+AD  - Department of Neurology and Neurophysiology, University Freiburg, Freiburg, 
+      Germany.
+FAU - Yamout, Bassem
+AU  - Yamout B
+AD  - Harley Street Medical Center, Abu Dhabi, United Arab Emirates.
+FAU - Zaratin, Paola
+AU  - Zaratin P
+AD  - Italian MS Society and Foundation, Genoa, Italy.
+FAU - Calabresi, Peter A
+AU  - Calabresi PA
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA.
+FAU - Coetzee, Timothy
+AU  - Coetzee T
+AD  - National Multiple Sclerosis Society, New York, NY, USA.
+FAU - Thompson, Alan J
+AU  - Thompson AJ
+AD  - Queen Square Multiple Sclerosis Centre, Department of Neuroinflammation, UCL 
+      Queen Square Institute of Neurology, Faculty of Brain Sciences, University 
+      College London, London, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Lancet Neurol
+JT  - The Lancet. Neurology
+JID - 101139309
+SB  - IM
+MH  - Humans
+MH  - *Multiple Sclerosis/diagnosis/cerebrospinal fluid
+MH  - Magnetic Resonance Imaging
+COIS- Declaration of interests GA received compensation for consulting services, 
+      speaking honoraria, or participation in advisory boards from Roche, Horizon 
+      Therapeutics, and Bristol Myers Squibb; travel support for scientific meetings 
+      from Novartis, Roche, ECTRIMS and EAN; GA serves as Editor for Europe of the 
+      Multiple Sclerosis Journal – Experimental, Translational and Clinical; is a 
+      member of the editorial and scientific committee for Acta Neurológica Colombiana; 
+      is a member of the International Women in Multiple Sclerosis (iWiMS) network 
+      executive committee, the European Biomarkers in Multiple Sclerosis (BioMS-eu) 
+      steering committee, the MOGAD Eugene Devic European Network (MEDEN) steering 
+      group, and the Platform Adaptive Trial for remyelination and neuroprotection in 
+      multiple Sclerosis (PLATYPUS) steering committee. MPA received research grants 
+      from the National MS Society, Canadian MS Society, Italian Health Ministry, 
+      Regione Toscana, Bayer, Biogen, Merck, Novartis, Sanofi Genzyme, Teva, Almirall, 
+      Roche; honoraria as a speaker and member of advisory boards for Bayer, Biogen, 
+      Merck, Novartis, Sanofi Genzyme, Teva, Almirall, Roche, Celgene Bristol Myers 
+      Squibb, and Sandoz; and is member of the editorial board for Multiple Sclerosis. 
+      LA received research support from the National Institutes of Health (NIH) 
+      National Institute of Neurological Disorders and Stroke (NINDS) and Bristol Myer 
+      Squibb Foundation; is a local Principal Investigator for commercial trials funded 
+      by Genentech and Sanofi Genzyme; and received consulting fees from TGI 
+      Therapeutics, Novartis, Genentech, and EMD Serono. FB is supported by European 
+      Commission, Medical Research Council, National Institute for Health and Care 
+      Research (NIHR) Biomedical Research Centre at University College London Hospitals 
+      (UCLH), GE Healthcare, Roche, and ADDI (paid to institution); is a consultant for 
+      Combinostics, IXICO, and Roche; and participates in steering committees or data 
+      safety monitoring boards for EISAI, Biogen, Prothena, and Merck. AB-O received 
+      consulting fees or advisory board participation fees from Abata, Autolus, Biogen, 
+      Cabaletta, Capstan, GlaxoSmithKline, Immunic, Merck EMD Serono, Moderna, 
+      Novartis, Roche Genentech, Sana, Sangamo, Sanofi Genzyme, and Viracta; and grant 
+      support to the University of Pennsylvania from Merck EMD Serono, Roche Genentech, 
+      Biogen Idec, and Novartis. BB served as a consultant to Novartis, Sanofi, Teva 
+      Neuroscience, and Biogen in the design of clinical trials for paediatric multiple 
+      sclerosis; has served as a central imaging Reviewer for clinical trials by 
+      Novartis and Roche; and received grant funding from the NIH, National Multiple 
+      Sclerosis Society, and Multiple Sclerosis Canada. PAC received grants from the 
+      NIH, National Multiple Sclerosis Society, Department of Defence, Genentech, and 
+      the Myelin Repair Foundation; and consulting honoraria for serving on safety 
+      advisory boards for Novartis, Idorsia, and Lilly. HB received research grants and 
+      contracts from Roche, Novartis, Biogen, UCB, Merck, National Health and Medical 
+      Research Council (NHMRC) Australia, Trish Foundation, MS Australia, Pennycook 
+      Foundation, and Alfred Health (to institution); honoraria for consulting and 
+      speaking from Roche, Novartis, UCB, Merck, and Neuorphan; travel support from 
+      Merck and Novartis; and personal compensation from the MSBase Foundation. JCh 
+      received support from the Health Technology Assessment (HTA) Programme NIHR, the 
+      UK MS Society, the US National MS Society, and the Rosetrees Trust; is supported 
+      in part by the NIHR UCLH Biomedical Research Centre; has been a local Principal 
+      Investigator for a trial in multiple sclerosis funded by MS Canada; is a local 
+      Principal Investigator for commercial trials funded by Ionis and Roche; and has 
+      taken part in advisory boards or consultancy for Biogen, Contineum Therapeutics, 
+      FSD Pharma, InnoCare, Pheno Therapeutics, and Roche. OC holds a NIHR Research 
+      Professorship (RP-2017-08-ST2-004); received grants from the NIHR, UK MS Society, 
+      Medical Research Council, Rosetrees Trust; and received personal compensation for 
+      consulting or speaking from Novartis, Merck, Roche, Biogen, and Lundbeck. TC is 
+      an employee of the National Multiple Sclerosis USA, a sponsor of the 
+      International Committee on Clinical Trials in multiple sclerosis. JAC received 
+      personal compensation for consulting for Astoria, Bristol Myers Squibb, Convelo, 
+      and Viatris; and is a chair for a data safety and monitoring board DSMB for 
+      Celltrion. JCo received economic compensation for academic presentations, 
+      participation in advisory councils, and assistance to attend congresses from 
+      Biogen, Merck, Novartis, Roche, Bayer, Sanofi Genzyme, Gador, Raffo, Bristol 
+      Myers Squibb, and Janssen. FD has participated in meetings sponsored by or 
+      received honoraria for acting as an advisor or speaker for Alexion, Almirall, 
+      Biogen, Bristol Myers Squibb, Sanofi, Horizon, Janssen, Laurea Group, Medwhizz, 
+      Merck, Novartis Pharma, Neuraxpharm, Roche, Sandoz, and Teva; received research 
+      grants from Biogen, Novartis Pharma, and Sanofi (to institution); and is Section 
+      Editor of Multiple Sclerosis and Related Disorders and Review Editor for 
+      Frontiers Neurology. MF received compensation for consulting services from 
+      Alexion, Almirall, Biogen, Merck, Novartis, Roche, and Sanofi; speaker fees from 
+      Bayer, Biogen, Celgene, Chiesi Italia SpA, Eli Lilly, Genzyme, Janssen, Merck 
+      Serono, Neopharmed Gentili, Novartis, Novo Nordisk, Roche, Sanofi, Takeda, and 
+      TEVA; participated in advisory boards for Alexion, Biogen, Bristol Myers Squibb, 
+      Merck, Novartis, Roche, Sanofi, Sanofi Aventis, Sanofi Genzyme, and Takeda; fees 
+      for scientific direction of educational events for Biogen, Merck, Roche, Celgene, 
+      Bristol Myers Squibb, Lilly, Novartis, and Sanofi Genzyme; and research support 
+      from Biogen Idec, Merck Serono, Novartis, Roche, the Italian Ministry of Health, 
+      the Italian Ministry of University and Research, and Fondazione Italiana Sclerosi 
+      Multipla. JF is an employee of the National Multiple Sclerosis USA, a sponsor of 
+      the International Committee on Clinical Trials in multiple sclerosis. MSF 
+      received research support from Sanofi Genzyme Canada; speaking fees from 
+      Hoffman-La Roche, Novartis, and EMD; honoraria and consulting fees from Amgen, 
+      AstraZeneca, EMD, EMD Serono, Merck Serono, Find Therapeutics, Hoffman La-Roche, 
+      Novartis, Sandoz, Sanofi Genzyme, Sentrex, and TEVA Canada Innovation; 
+      compensation for service on advisory boards and corporate boards for Amgen, 
+      AstraZeneca, Autolus, Bayer Healthcare, Celestra Health, EMD, Merck Serono, Find 
+      Therapeutics, Hoffman-La Roche, Neurogenesis, Novartis, Sanofi Genzyme, Sentrex, 
+      and Setpoint Medical; and compensation for serving on data safety monitoring 
+      boards for Abata Therapeutics, Celltrion, Hoffman-La Roche, and Moderna. DK 
+      served as a consultant for CVS Health; received research support from the UK MS 
+      Society, National Multiple Sclerosis Society, BMA Foundation, Horne Family 
+      Charitable Foundation, Biogen, and Merck; and received honoraria for advisory 
+      boards and educational activities from Biogen, Novartis, Sandoz, Roche, Janssen, 
+      and Merck. KF received grants from the Ministry of Education, Culture, Sports, 
+      Science and Technology of Japan and Ministry of Health, Welfare and Labor of 
+      Japan; personal compensation for consulting from Merck Biopharma, Japan Tobacco, 
+      and AbbVie; payment or honoraria for lectures and presentations from Biogen, 
+      Eisai, Mitsubishi Tanabe, Novartis, Chugai Roche, Alexion, VielaBio Horizon 
+      Therapeutics, Teijin, Asahi Kasei Medical, Merck, and Takeda; participated on an 
+      advisory board for Biogen, Mitsubishi Tanabe, Novartis, Chugai Roche, Alexion, 
+      VielaBio Horizon Therapeutics, and UCB; serves as the immediate past President of 
+      the Pan-Asian Committee for Treatment and Research in Multiple Sclerosis 
+      (unpaid); is the immediate past President of the Japanese Society of 
+      Neuroimmunology (unpaid); is a board member of the Japan Multiple Sclerosis 
+      Society (unpaid); is a board member of the European Charcot Foundation (unpaid); 
+      and is a member of the International Medical and Scientific Board (MSIF; unpaid). 
+      CG is supported by the Swiss National Science Foundation and the Stiftung zur 
+      Förderung der gastroenterologischen und allgemeinen klinischen Forschung; 
+      received the fees that were used exclusively for research support from Siemens, 
+      GeNeuro, Genzyme Sanofi, Biogen, Novartis, and Hoffman-La Roche (to institution); 
+      advisory board and consultancy fees from Actelion, Genzyme Sanofi, Novartis, 
+      GeNeuro, Merck, Biogen, and Hoffman-La Roche (to institution); and speaker fees 
+      from Genzyme Sanofi, Novartis, GeNeuro, Merck, Biogen, and Hoffmann-La Roche (to 
+      institution). AJG receiveds grants from the Conrad N Hilton Foundation and the 
+      Tom Sherak MS Hope Foundation; other financial relationships for activities as 
+      expert witness, Associate Editor, advisory board or steering committee 
+      participation, and endpoint adjudication from Bionure, Inception Sciences, JAMA 
+      Neurology, MedImmune Viela Bio, Mylan, Synthon, and Trims Pharma; and personal 
+      fees from Pipeline Therapeutics. H-PH received honoraria for serving on a 
+      steering committee from Sanofi, TG Therapeutics, and Hoffmann-La Roche; served on 
+      data monitoring committees for Boehringer Ingelheim, Merck, and Novartis; and 
+      received consulting fees from Neuraxpharm and Aurinia Pharma. KH received speaker 
+      honoraria and research support from Bayer, Biogen, Bristol Myers Squibb, Merck, 
+      Novartis, Sanofi Genzyme, Roche, Viatris, and TEVA; support for congress 
+      participation from Merck, Roche, Sanofi Genzyme, and Novartis; and has served on 
+      scientific advisory boards for Sanofi Genzyme, TEVA, Roche, Novartis, and Merck. 
+      LK received research support, including steering committee, advisory board, and 
+      consultancy fees from Actelion, Bayer, Biogen, Bristol Myers Squibb, 
+      GlaxoSmithKline, Janssen Johnson & Johnson, Japan Tobacco, Merck, Novartis, 
+      Roche, Sanofi, Santhera, Shionogi, and TG Therapeutics (to institution); speaker 
+      fees from Bayer, Biogen, Merck, Novartis, Roche, and Sanofi; support of 
+      educational activities from Allergan, Bayer, Biogen, CSL Behring, Desitin, Merck, 
+      Novartis, Pfizer, Roche, Sanofi, Shire, and TEVA; license fees for Neurostatus 
+      platform access; and grants from Bayer, Biogen, the EU, InnoSwiss, Merck, 
+      Novartis, Roche, Swiss Multiple Sclerosis Society, and the Swiss National 
+      Research Foundation. JK received research grants for multicentre 
+      investigator-initiated trials DOT-MS (NCT04260711, ZonMW), Supernext 
+      (NCT04225312, Treatmeds) and BLOOMS (NCT05296161, ZonMW and Treatmeds); 
+      consulting fees from Hoffmann-La Roche, Biogen, TEVA, Merck, Novartis, Sandoz, 
+      and Sanofi Genzyme (to institution); reports speaker relationships with 
+      Hoffmann-La Roche, Biogen, Immunic, TEVA, Merck, Novartis, and Sanofi Genzyme (to 
+      institution); and is on the adjudication committee of multiple sclerosis clinical 
+      trials of Immunic (to institution). CL-F received travel support from the 
+      European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS). FL 
+      received research funding from Novartis, Biogen, Sanofi, National Multiple 
+      Sclerosis Society (NMSS), NIH, and Brainstorm Cell Therapeutics; consulting, 
+      advisory board, and data safety monitoring board fees from EMD Serono, Novartis, 
+      Sanofi Genzyme, Roche Genentech, Horizon Therapeutics Amgen, Bristol Myers 
+      Squibb, Brainstorm Cell Therapeutics, Mylan Viatris, Immunic, Avotres, LabCorp, 
+      Neuralight, SetPoint Medical, Hexal Sandoz, Baim Institute, Sudo Biosciences, 
+      Lapix Therapeutics, Biohaven Pharmaceuticals, Abata Therapeutics, Cognito 
+      Therapeutics, ImmPACT Bio, InnoCare Pharma, and Appia Bio; holds stock in 
+      Avotres, Neuralight, and Lapix Therapeutics; and received speaker fees from 
+      Sanofi. XM received compensation for lecture honoraria and travel expenses, 
+      participation in scientific meetings, clinical trial steering committee 
+      membership, or clinical advisory board participation from AbbVie, Actelion, 
+      Alexion, Bial PD, Biogen, Bristol Myers Squibb Celgene, EMD Serono, Genzyme, 
+      Hoffmann-La Roche, Immunic Therapeutics, Janssen Pharmaceuticals, Medday, Merck, 
+      Mylan, Nervgen, Neuraxpharm, Novartis, Peervoice, Samsung Biosys, Sandoz, Sanofi 
+      Genzyme, TEVA, TG Therapeutics, Excemed, Medscape, ECTRIMS, MSIF, and NMSS or any 
+      of their affiliates (to institution). JO holds the Waugh Family Chair in multiple 
+      sclerosis Research at St. Michael's Hospital, University of Toronto and received 
+      grant funding from MS Canada, Brain Canada, the National MS Society, Biogen-Idec, 
+      Roche, and EMD Serono; received personal compensation for consulting or speaker 
+      fees from Biogen Idec, Bristol Myers Squibb, EMD Serono, Eli Lilly, Horizon 
+      Therapeutics, Novartis, Roche, and Sanofi Genzyme. SO-R received compensation for 
+      consulting services, speaking honoraria, and travel expenses for participation in 
+      scientific meetings from Genzyme, Biogen, Novartis, Roche, Excemed, Merck, 
+      Moderna GlaxoSmithKline, Pfizer, and AstraZeneca; and research support from 
+      Novartis and GlaxoSmithKline. RAM received research funding from the Canadian 
+      Institutes of Health Research, MS Canada, Crohn's and Colitis Canada, National 
+      Multiple Sclerosis Society, Consortium of Multiple Sclerosis Centers, the 
+      Arthritis Society, Public Health Agency of Canada, Pfizer Foundation, Brain 
+      Canada, and the US Department of Defense; is a co-investigator on studies 
+      receiving funding from Biogen Idec and Roche Canada; and holds the Multiple 
+      Sclerosis Clinical Research Chair at Dalhousie University. RM serves on 
+      scientific advisory boards for Amgen Horizon Therapeutics, UCB, and Roche; and 
+      received funding for travel and fees from Amgen, Alexion, Biogen, Roche, and UCB. 
+      MM received financial support from the MUR PNRR Extended Partnership (MNESYS no. 
+      PE00000006 and DHEAL-COM no. PNC-E3-2022-23683267); research grants from 
+      ECTRIMS-European Magnetic Resonance Imaging in MS network (MAGNIMS), the UK MS 
+      Society, and Merck; salary as an Assistant Editor for Neurology and as social 
+      media Editor for Multiple Sclerosis; and honoraria from AbbVie, Biogen, Bristol 
+      Myers Squibb Celgene, Ipsen, Janssen, Merck, Novartis, Roche, and Sanofi Genzyme. 
+      AM received research support from Genzyme Sanofi; consulting fees from CVS 
+      Health, Biogen Idec, Corevitas, Mapi Pharma, Verana Health, and Viatris (Mylan); 
+      speaker fees from Biogen Idec, Alexion, and Amgen Horizon Therapeutics (all 
+      unbranded disease awareness programmes only). DR is supported by the Intramural 
+      Research Program of the NINDS NIH; and received research support from Abata 
+      Therapeutics and Sanofi. MAR received consulting fees from Biogen, Bristol Myers 
+      Squibb, Eli Lilly, Janssen, and Roche; speaker honoraria from AstraZeneca, 
+      Biogen, Bristol Myers Squibb, Bromatech, Celgene, Genzyme, Horizon Therapeutics 
+      Italy, Merck Serono, Novartis, Roche, Sanofi, and TEVA; research support from the 
+      MS Society of Canada, the Italian Ministry of Health, the Italian Ministry of 
+      University and Research, and Fondazione Italiana Sclerosi Multipla. DO received 
+      research support from the NIH, NMSS, Patient Centered Outcomes Research 
+      Institute, Race to Erase MS Foundation, Genentech, Genzyme, Bristol Myers Squibb, 
+      and Novartis; and consulting fees from Bristol Myers Squibb, Genentech Roche, 
+      Novartis, and Contineum Therapeutics. SR received research funding from the NHMRC 
+      Australia, the Petre Foundation, the Brain Foundation, the Royal Australasian 
+      College of Physicians, and the University of Sydney; is supported by an NHMRC 
+      investigator grant (GNT2008339); serves as a consultant on an advisory board for 
+      UCB and Limbic Neurology; and has been an invited speaker for educational or 
+      research sessions coordinated by Biogen, Alexion, UCB, Novartis, Excemed, and 
+      Limbic Neurology. ÀR serves or served on scientific advisory boards for Novartis, 
+      Sanofi, Synthetic MR, Roche, and Biogen; received speaker honoraria from Bayer, 
+      Sanofi Genzyme, Merck Serono, TEVA, Novartis, Roche, Bristol Myers Squibb, and 
+      Biogen; is Chief Medical Officer and co-founder of TensorMedical; and receives 
+      research support from Fondo de Investigación en Salud (PI19/00950 and PI22/01589) 
+      from Instituto de Salud Carlos III, Spain. SS received consulting fees from 
+      Medical Logix for the development of continuing medical education programmes in 
+      neurology; has served on scientific advisory boards for Biogen, Novartis, 
+      Genentech, Clene Pharmaceuticals, Horizon therapeutics, and ReWind therapeutics; 
+      received consulting fees from Novartis, Genentech, JuneBrain, Innocare, Kiniksa, 
+      Lapix Therapeutics, and Setpoint Medical; is the Principal Investigator of 
+      investigator-initiated studies funded by Genentech, Biogen, and Novartis; was the 
+      site investigator of trials sponsored by MedDay Pharmaceuticals and Clene 
+      Pharmaceuticals; and is the site investigator of trials sponsored by Novartis and 
+      Lapix Therapeutics. AS received research funding from the Department of Defense 
+      Congressionally Directed Medical Research Program, Multiple Sclerosis Society of 
+      Canada, NMSS, Consortium of MS Centers; is a member of the editorial board for 
+      Neurology; serves as a consultant for Gryphon Bio, Sora Neuroscience, and Abata 
+      Therapeutics; has equity in Owl Therapeutics; is a member of the data and safety 
+      monitoring board for Central Vein Sign: A Diagnostic Biomarker in Multiple 
+      Sclerosis, P3 EQUATE Health Equity Research Network, a phase 3, randomised 
+      controlled trial of video telehealth rehabilitation to reduce hospital 
+      readmission in chronic obstructive pulmonary disease (Tele-COPD), and 
+      Methotrexate treatment of Arthritis caused by Chikungunya virus (MARCH) trials; 
+      and holds the Kenney Marie Dixon–Pickens Distinguished Professorship in Multiple 
+      Sclerosis Research. JS-G received compensation for consulting services and 
+      speaking honoraria from Bristol Myers Squibb, Sanofi, Merck, and Roche; is the 
+      Scientific Director of Revista de Neurología; is a member of the editorial 
+      committee of Multiple Sclerosis and received honorarium; and has received 
+      research support from Fondo de Investigación en Salud (PI19/00950 and PI22/00750) 
+      from Instituto de Salud Carlos III, Spain. DS received a pilot research grant 
+      from the NMSS (to institution); personal honoraria for lecturing from Roche; 
+      travel support from Roche; and is a committee member and Chair of the Multiple 
+      Sclerosis International Federation (unpaid). AJS received consulting fees from 
+      Octave Bioscience, Kiniksa, and TG Therapeutics; served on advisory boards for TG 
+      Therapeutics, Horizon Therapeutics, Genentech Roche, and Bristol Meyers Squibb; 
+      provided non-promotional speaking for EMD Serono; is a site Principal 
+      Investigator for contract research for Sanofi, Actelion, Genentech Roche, and 
+      Novartis; and received research funding from Bristol Myers Squibb. MPS received 
+      personal compensation for consulting services and for speaking activities from 
+      Merck, Novartis, Roche, Sanofi, Bristol Myers Squibb, Immunic, and Biogen. BS 
+      received compensation for lectures from Novartis, Roche, Biogen, Alexion, Merck, 
+      and Sanofi; research grant supports from Roche, Merck, and Novartis (to 
+      institution); and research funding from the Programme Hospitalier de Recherche 
+      Clinique from the French health ministry; and grants from the Big Brain Theory 
+      grant from Paris Brain Institute, France SEP-ARSEP, and Fondation pour la 
+      recherche médicale. MT received compensation for consulting services, speaking 
+      honoraria, and research support from Almirall, Bayer Schering Pharma, Biogen 
+      Idec, Genzyme, Immunic, Janssen, Merck Serono, Novartis, Roche, Sanofi Aventis, 
+      Viela Bio, and TEVA; and served on data safety monitoring boards for Parexel, 
+      UCB, and the Relapse Adjudication Committee for IMCYSE SA. HT received research 
+      support from the Canada Research Chair Program, the National Multiple Sclerosis 
+      Society, the CIHR, MS Canada, the Multiple Sclerosis Scientific Research 
+      Foundation, and the Fondation EDMUS contre la sclérose en plaques; served as an 
+      advisor for Canada's Drug Agency (2024–25, payment declined); is a clinical 
+      expert for the Scientific Advice Program; received travel expenses or 
+      registration fees to present at continuing medical eduation conferences or to 
+      attend meetings (as a member of the International Advisory Committee on Clinical 
+      Trials in Multiple Sclerosis) from the Consortium of MS Centres, the Canadian 
+      Neurological Sciences Federation, National MS Society, ECTRIMS ACTRIMS, and the 
+      American Academy of Neurology; and speaker honoraria are either declined or 
+      donated to an multiple sclerosis charity or to an unrestricted grant for use by 
+      HT's research group. AVdW served on advisory boards and received travel honoraria 
+      and unrestricted research grants from Novartis, Merck, and Roche; serves as the 
+      Chief Operating Officer of the non-profit MSBase Foundation (to self); and 
+      received research support from NHMRC Australia and MS Research Australia. SV is 
+      currently involved in industry sponsored trials with Novartis, and Sanofi; and 
+      has completed a trial with Alexion. HW received honoraria for acting as a member 
+      of scientific advisory boards from Alexion, Argenx, Biocryst, Bristol Myers 
+      Squibb, Cellerys, Galapagos, Janssen, Merck, Novartis, Sandoz Hexal, and uniQure; 
+      speaker honoraria and travel support from Alexion, AOCN, AstraZeneca, Biogen, BGP 
+      Products Operations GmbH, Bristol Myers Squibb, CEMCAT, EPG Health Medthority, 
+      Genzyme, Kohlhammer, Merck, MS at the Limits, Neurodiem, NMSS, Novartis, Ology, 
+      Roche, Sanofi, Springer, Streamed up, TEVA, Uvet, and WebMD Global; is a paid 
+      consultant for Alexion, Argenx, Argobio, Bristol Myers Squibb, Dianthus, EMD 
+      Serono, Fondazione Cariplo, Idorsia, Immunic, Immunovant, INmune Bio_Syneos 
+      Health, Janssen, LTS, Lundbeck, Merck, Muna Therapeutics, Myrobalan Therapeutics, 
+      Novartis, PSL Group, Red Nucleus, Roche, Samsung, Sangamo, Sanofi, Swiss Multiple 
+      Sclerosis Society, Teladochealth, Toleranzia, UCB, and Viatris; and received 
+      research funding from Deutsche Forschungsgemeinschaft, Deutsche Myasthenie 
+      Gesellschaft, the EU, Alexion, Amicus Therapeutics, Argenx, Biogen, CSL Behring, 
+      Hoffmann-La Roche, Genzyme, Merck, Novartis, Roche, and UCB. BW received grants 
+      from Deutsche Forschungsgemeinschaft, the German Ministry of Eduaction and 
+      Research, Baden-Württembeg Ministry of Science, Research and Arts, 
+      Dietmar-Hopp-Stiftung, Klaus-Tschira-Stiftung, Novartis, and Roche; and personal 
+      fees from Alexion, Argenx, INSTAND, Novartis, and Roche. BY received honoraria, 
+      consulting or speaker fees, and research grants from Merck Serono, Biogen, Bayer, 
+      Novartis, and Sanofi. AJT and PZ declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:31
+CRDT- 2025/09/20 18:53
+PHST- 2025/02/24 00:00 [received]
+PHST- 2025/06/17 00:00 [revised]
+PHST- 2025/07/17 00:00 [accepted]
+PHST- 2025/09/21 00:31 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S1474-4422(25)00270-4 [pii]
+AID - 10.1016/S1474-4422(25)00270-4 [doi]
+PST - ppublish
+SO  - Lancet Neurol. 2025 Oct;24(10):850-865. doi: 10.1016/S1474-4422(25)00270-4.

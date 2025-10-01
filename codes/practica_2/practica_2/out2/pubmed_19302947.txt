@@ -1,0 +1,68 @@
+PMID- 19302947
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090522
+LR  - 20090323
+IS  - 0887-8994 (Print)
+IS  - 0887-8994 (Linking)
+VI  - 40
+IP  - 4
+DP  - 2009 Apr
+TI  - Gene associated with seizures, autism, and hepatomegaly in an Amish girl.
+PG  - 310-3
+LID - 10.1016/j.pediatrneurol.2008.10.013 [doi]
+AB  - A genetic defect causing autism and epilepsy involving the contactin associated 
+      protein-like 2 gene (CNTNAP2) has been discovered in a selected cohort of Amish 
+      children. These children were found to have focal seizures and autistic 
+      regression. Surgical biopsy of the anterior temporal lobe of two such children 
+      revealed cortical dysplasia and a single nucleotide polymorphism mutation of this 
+      gene. The present case is that of a related but geographically distant proband 
+      with a similar phenotype but a single-base-pair deletion in the CNTNAP2 gene. 
+      This patient exhibited the additional features of periventricular leukomalacia 
+      and hepatomegaly.
+FAU - Jackman, Christopher
+AU  - Jackman C
+AD  - Department of Neurology, Indiana University School of Medicine, Indianapolis, 
+      Indiana, USA.
+FAU - Horn, Nicole D
+AU  - Horn ND
+FAU - Molleston, Jean P
+AU  - Molleston JP
+FAU - Sokol, Deborah K
+AU  - Sokol DK
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Pediatr Neurol
+JT  - Pediatric neurology
+JID - 8508183
+RN  - 0 (CNTNAP2 protein, human)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+SB  - IM
+MH  - Adolescent
+MH  - Autistic Disorder/complications/*genetics
+MH  - Epilepsy, Complex Partial/complications/*genetics
+MH  - Female
+MH  - Hepatomegaly/complications/*genetics/pathology
+MH  - Humans
+MH  - Membrane Proteins/*genetics
+MH  - Mutation/physiology
+MH  - Nerve Tissue Proteins/*genetics
+MH  - Pedigree
+MH  - Polymorphism, Single Nucleotide
+MH  - Splenomegaly/genetics/pathology
+EDAT- 2009/03/24 09:00
+MHDA- 2009/05/23 09:00
+CRDT- 2009/03/24 09:00
+PHST- 2008/08/12 00:00 [received]
+PHST- 2008/10/16 00:00 [revised]
+PHST- 2008/10/20 00:00 [accepted]
+PHST- 2009/03/24 09:00 [entrez]
+PHST- 2009/03/24 09:00 [pubmed]
+PHST- 2009/05/23 09:00 [medline]
+AID - S0887-8994(08)00541-9 [pii]
+AID - 10.1016/j.pediatrneurol.2008.10.013 [doi]
+PST - ppublish
+SO  - Pediatr Neurol. 2009 Apr;40(4):310-3. doi: 10.1016/j.pediatrneurol.2008.10.013.

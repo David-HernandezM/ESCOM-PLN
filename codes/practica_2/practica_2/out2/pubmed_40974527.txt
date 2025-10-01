@@ -1,0 +1,103 @@
+PMID- 40974527
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1869-1889 (Electronic)
+IS  - 1674-7305 (Linking)
+DP  - 2025 Sep 17
+TI  - AR/ERK co-targeting triggers ferroptosis via FOXC2 in triple-negative breast 
+      cancer.
+LID - 10.1007/s11427-025-3044-4 [doi]
+AB  - Triple-negative breast cancer (TNBC), the most aggressive subtype of breast 
+      cancer, notably lacks effective treatment strategies. Although androgen receptor 
+      (AR) has emerged as a potential therapeutic target for TNBC, monotherapy with AR 
+      inhibitors has proven to be of restricted efficacy. Aiming to develop superior 
+      therapeutic approaches, a comprehensive drug library screening was conducted. The 
+      ERK inhibitor GDC-0994 exhibited significant synergistic effects with the AR 
+      inhibitor bicalutamide. Transcriptome sequencing showed that this combination 
+      therapy activates ferroptosis, as evidenced by elevated ROS, increased Fe(2+) 
+      levels, a reduced GSH/GSSG ratio, and lipid peroxide accumulation (MDA and 
+      4-HNE). FOXC2 was identified as a key mediator of this synergy. Specifically, the 
+      combination therapy inhibits FOXC2-driven EMT and induces ferroptosis via the 
+      FOXC2-Hippo signaling axis, suppressing tumor proliferation, migration, and 
+      invasion. In summary, this study uncovers the value of AR/ERK co-targeting in 
+      TNBC, which might potentiate the development of novel targeted therapeutic 
+      strategies in TNBC.
+CI  - © 2025. Science China Press.
+FAU - Zhao, Yuhan
+AU  - Zhao Y
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Xu, Chi
+AU  - Xu C
+AD  - Department of Breast Surgery, Peking Union Medical College Hospital, Academy of 
+      Medical Sciences and Peking Union Medical College, Beijing, 100050, China.
+FAU - Liu, Yiqiu
+AU  - Liu Y
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Zhu, Ye
+AU  - Zhu Y
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Fan, Lingling
+AU  - Fan L
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Gao, Fangyan
+AU  - Gao F
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Liang, Xiaojie
+AU  - Liang X
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China.
+FAU - Shi, Yaqin
+AU  - Shi Y
+AD  - Department of Oncology, the First Affiliated Hospital of Soochow University, 
+      Suzhou, 215000, China. shiyaqinand@126.com.
+FAU - Chen, Yongbin
+AU  - Chen Y
+AD  - The First Affiliated Hospital of Zhengzhou University, Zhengzhou, 450052, China. 
+      ybchen@mail.kiz.ac.cn.
+AD  - Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy 
+      of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, 650223, 
+      China. ybchen@mail.kiz.ac.cn.
+FAU - Guan, Xiaoxiang
+AU  - Guan X
+AD  - Department of Oncology, the First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, 210029, China. xguan@njmu.edu.cn.
+AD  - Jiangsu Key Lab of Cancer Biomarkers, Prevention and Treatment, Collaborative 
+      Innovation Center for Cancer Personalized Medicine, Nanjing Medical University, 
+      Nanjing, 211166, China. xguan@njmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - China
+TA  - Sci China Life Sci
+JT  - Science China. Life sciences
+JID - 101529880
+SB  - IM
+OTO - NOTNLM
+OT  - FOXC2
+OT  - combination treatment
+OT  - ferroptosis
+OT  - synergistic effect
+OT  - triple-negative breast cancer
+COIS- Compliance and ethics. The authors disclose there are no conflicts of interest, 
+      including relevant financial interests, activities, relationships, and 
+      affiliations. All animal experimental procedures were approved by the 
+      Institutional Animal Care and Use Ethics Committee of Nanjing Medical University 
+      (NO. 2012052).
+EDAT- 2025/09/20 12:33
+MHDA- 2025/09/20 12:33
+CRDT- 2025/09/20 11:26
+PHST- 2025/03/27 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/20 12:33 [medline]
+PHST- 2025/09/20 12:33 [pubmed]
+PHST- 2025/09/20 11:26 [entrez]
+AID - 10.1007/s11427-025-3044-4 [pii]
+AID - 10.1007/s11427-025-3044-4 [doi]
+PST - aheadofprint
+SO  - Sci China Life Sci. 2025 Sep 17. doi: 10.1007/s11427-025-3044-4.

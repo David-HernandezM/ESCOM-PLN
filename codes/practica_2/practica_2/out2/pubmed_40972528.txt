@@ -1,0 +1,191 @@
+PMID- 40972528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250919
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+VI  - 85
+IP  - 18
+DP  - 2025 Sep 18
+TI  - Structural characterization of five functional states of metabotropic glutamate 
+      receptor 8.
+PG  - 3460-3473.e6
+LID - S1097-2765(25)00704-X [pii]
+LID - 10.1016/j.molcel.2025.08.019 [doi]
+AB  - Metabotropic glutamate receptors (mGluRs) are dimeric class C G protein-coupled 
+      receptors, which play crucial roles in brain physiology and pathology. Among 
+      them, mGlu8 is the least characterized, though it is physiologically important. 
+      While recognized to signal via G(i/o) proteins, the involvement of β-arrestin is 
+      unknown. Here, we found that both mGlu8 agonists and positive allosteric 
+      modulators (PAMs) activate G(i) signaling, but mainly agonists induce β-arrestin 
+      recruitment. We solved five human mGlu8 cryo-electron microscopy (cryo-EM) 
+      structures in various states: apo, antagonist-bound, agonist + PAM-bound, agonist 
+      + PAM-bound with G(i) protein, and agonist-bound with β-arrestin1 states. They 
+      revealed a unique PAM-binding pocket at the extracellular side of the TM6/TM7 
+      interface. Agonist and PAM promote active mGlu8 association with one G(i) protein 
+      asymmetrically (2:1), while two β-arrestin1 can interact symmetrically (2:2) to 
+      both subunits of an inactive dimer state to promote constitutive internalization. 
+      These findings elucidate how mGlu8 selectively engages transducers, offering 
+      insights into its signaling capabilities and selective drug development.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Zhao, Jie
+AU  - Zhao J
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China; 
+      Tianfu Jincheng Laboratory, Chengdu 610212, China.
+FAU - Deng, Yue
+AU  - Deng Y
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Xu, Zheng
+AU  - Xu Z
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Xu, Chanjuan
+AU  - Xu C
+AD  - Key Laboratory of Molecular Biophysics of MOE, International Research Center for 
+      Sensory Biology and Technology of MOST, College of Life Science and Technology, 
+      Huazhong University of Science and Technology (HUST), Wuhan 430074, China; 
+      Bioland Laboratory, Guangzhou Regenerative Medicine and Health Guangdong 
+      Laboratory, Guangzhou 510005, China.
+FAU - Zhao, Chang
+AU  - Zhao C
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China; 
+      Tianfu Jincheng Laboratory, Chengdu 610212, China.
+FAU - Li, Ziyan
+AU  - Li Z
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Sun, Hui
+AU  - Sun H
+AD  - Tianfu Jincheng Laboratory, Chengdu 610212, China.
+FAU - Tian, Xiaowen
+AU  - Tian X
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Song, Yuxuan
+AU  - Song Y
+AD  - Key Laboratory of Molecular Biophysics of MOE, International Research Center for 
+      Sensory Biology and Technology of MOST, College of Life Science and Technology, 
+      Huazhong University of Science and Technology (HUST), Wuhan 430074, China.
+FAU - Cimadevila, Marta
+AU  - Cimadevila M
+AD  - Institut de Génomique Fonctionnelle (IGF), University of Montpellier, CNRS, 
+      INSERM, 34094 Montpellier, France.
+FAU - Wang, Heli
+AU  - Wang H
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Liu, Yuxuan
+AU  - Liu Y
+AD  - Key Laboratory of Molecular Biophysics of MOE, International Research Center for 
+      Sensory Biology and Technology of MOST, College of Life Science and Technology, 
+      Huazhong University of Science and Technology (HUST), Wuhan 430074, China.
+FAU - Zhang, Xiaoyu
+AU  - Zhang X
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Chen, Yiyang
+AU  - Chen Y
+AD  - Key Laboratory of Molecular Biophysics of MOE, International Research Center for 
+      Sensory Biology and Technology of MOST, College of Life Science and Technology, 
+      Huazhong University of Science and Technology (HUST), Wuhan 430074, China.
+FAU - Sun, Suyue
+AU  - Sun S
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Yong, Xihao
+AU  - Yong X
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China.
+FAU - Su, Lantian
+AU  - Su L
+AD  - Tianfu Jincheng Laboratory, Chengdu 610212, China.
+FAU - He, Yixiao
+AU  - He Y
+AD  - Tianfu Jincheng Laboratory, Chengdu 610212, China.
+FAU - Zhong, Yi
+AU  - Zhong Y
+AD  - Liver Surgery and NHC Key Lab of Transplant Engineering and Immunology, 
+      Proteomics-Metabolomics Platform of Core Facilities, West China Hospital, Sichuan 
+      University, Chengdu 610041, China.
+FAU - Yang, Hao
+AU  - Yang H
+AD  - Liver Surgery and NHC Key Lab of Transplant Engineering and Immunology, 
+      Proteomics-Metabolomics Platform of Core Facilities, West China Hospital, Sichuan 
+      University, Chengdu 610041, China.
+FAU - Pin, Jean-Philippe
+AU  - Pin JP
+AD  - Institut de Génomique Fonctionnelle (IGF), University of Montpellier, CNRS, 
+      INSERM, 34094 Montpellier, France. Electronic address: 
+      jean-philippe.pin@igf.cnrs.fr.
+FAU - Yan, Wei
+AU  - Yan W
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China. 
+      Electronic address: weiyan2018@scu.edu.cn.
+FAU - Shao, Zhenhua
+AU  - Shao Z
+AD  - Division of Nephrology and Kidney Research Institute, State Key Laboratory of 
+      Biotherapy, West China Hospital, Sichuan University, Chengdu 610041, China; 
+      Tianfu Jincheng Laboratory, Chengdu 610212, China. Electronic address: 
+      zhenhuashao@scu.edu.cn.
+FAU - Liu, Jianfeng
+AU  - Liu J
+AD  - Key Laboratory of Molecular Biophysics of MOE, International Research Center for 
+      Sensory Biology and Technology of MOST, College of Life Science and Technology, 
+      Huazhong University of Science and Technology (HUST), Wuhan 430074, China; 
+      Bioland Laboratory, Guangzhou Regenerative Medicine and Health Guangdong 
+      Laboratory, Guangzhou 510005, China; Hubei Jiangxia Laboratory, Wuhan, Hubei, 
+      China. Electronic address: jfliu@mail.hust.edu.cn.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+RN  - 0 (Receptors, Metabotropic Glutamate)
+RN  - 0 (metabotropic glutamate receptor 8)
+RN  - EC 3.6.5.1 (GTP-Binding Protein alpha Subunits, Gi-Go)
+RN  - 0 (Excitatory Amino Acid Agonists)
+RN  - 0 (beta-Arrestin 1)
+SB  - IM
+MH  - Humans
+MH  - *Receptors, Metabotropic 
+      Glutamate/chemistry/metabolism/genetics/agonists/ultrastructure
+MH  - Cryoelectron Microscopy
+MH  - HEK293 Cells
+MH  - Signal Transduction
+MH  - Allosteric Regulation
+MH  - GTP-Binding Protein alpha Subunits, Gi-Go/metabolism/genetics/chemistry
+MH  - Protein Multimerization
+MH  - Excitatory Amino Acid Agonists/pharmacology/chemistry
+MH  - beta-Arrestin 1/metabolism/chemistry/genetics
+MH  - Protein Binding
+MH  - Binding Sites
+MH  - Models, Molecular
+OTO - NOTNLM
+OT  - G protein
+OT  - allosteric modulator
+OT  - asymmetric allosterism
+OT  - cryo-EM
+OT  - drug design
+OT  - metabotropic glutamate receptor
+OT  - symmetric coupling
+OT  - β-arrestin
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 18:17
+PHST- 2025/04/20 00:00 [received]
+PHST- 2025/07/05 00:00 [revised]
+PHST- 2025/08/18 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 18:17 [entrez]
+AID - S1097-2765(25)00704-X [pii]
+AID - 10.1016/j.molcel.2025.08.019 [doi]
+PST - ppublish
+SO  - Mol Cell. 2025 Sep 18;85(18):3460-3473.e6. doi: 10.1016/j.molcel.2025.08.019.

@@ -1,0 +1,107 @@
+PMID- 35989852
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220823
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 14
+IP  - 7
+DP  - 2022 Jul
+TI  - A Systematic Review of the Link Between Autism Spectrum Disorder and 
+      Acetaminophen: A Mystery to Resolve.
+PG  - e26995
+LID - 10.7759/cureus.26995 [doi]
+LID - e26995
+AB  - The purpose of this study is to review the published papers investigating 
+      maternal acetaminophen (AP) use during pregnancy and its effect on the 
+      offspring's neurodevelopment, particularly autism spectrum disorders (ASD). 
+      Acetaminophen is an over-the-counter analgesic and antipyretic considered safe in 
+      pregnancy. Recent studies have found an association between acetaminophen and 
+      immune system alterations like asthma and adverse neurodevelopmental outcomes. We 
+      used online databases (PubMed/Medline/PubMed Central, Science Direct, and Google 
+      Scholar) to search the studies relevant to our topic. We screened the papers by 
+      titles, abstracts, and then full-text availability. The screened articles were 
+      checked for eligibility using relevant quality assessment tools for each study 
+      design, extracting and analyzing the data. We finalized 30 studies after the 
+      screening; 14 were ineligible. Our final selection included 16 high-quality 
+      papers - 13 prospective cohort studies, two review articles, and one 
+      meta-analysis. We found a wide range of neurodevelopmental outcomes in our data 
+      collection. So, we included autism spectrum disorders, intelligent quotient (IQ), 
+      attention-deficit/hyperactivity disorder (ADHD), isolated language, attention and 
+      executive function, communication, behavior, and psychomotor development. All 
+      studies showed an association between acetaminophen use and listed 
+      neurodevelopmental outcomes. Long-term use, increased dose, and frequency were 
+      associated with a stronger association. We extracted collective evidence from 16 
+      studies suggesting acetaminophen's role in developing adverse neurodevelopmental 
+      outcomes. It is urgent to do more research on this association before pregnant 
+      women can be cautioned about the precise use of acetaminophen.
+CI  - Copyright © 2022, Khan et al.
+FAU - Khan, Farhana Yaqoob
+AU  - Khan FY
+AD  - Pathology, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Kabiraj, Gargi
+AU  - Kabiraj G
+AD  - Medicine, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Ahmed, Maryam A
+AU  - Ahmed MA
+AD  - Research, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Adam, Mona
+AU  - Adam M
+AD  - Internal Medicine, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Mannuru, Sai Prakash
+AU  - Mannuru SP
+AD  - Family Medicine, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Ramesh, Vaiishnavi
+AU  - Ramesh V
+AD  - Neurology, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Shahzad, Ahmed
+AU  - Shahzad A
+AD  - Orthopedics, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Chaduvula, Phani
+AU  - Chaduvula P
+AD  - Medicine, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+FAU - Khan, Safeera
+AU  - Khan S
+AD  - Internal Medicine, California Institute of Behavioral Neurosciences & Psychology, 
+      Fairfield, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220718
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC9385573
+OTO - NOTNLM
+OT  - acetaminophen
+OT  - asd
+OT  - autism
+OT  - autism spectrum disorder
+OT  - autism spectrum disorders
+OT  - paracetamol
+OT  - tylenol
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/08/23 06:00
+MHDA- 2022/08/23 06:01
+PMCR- 2022/07/18
+CRDT- 2022/08/22 03:46
+PHST- 2022/02/03 00:00 [received]
+PHST- 2022/07/18 00:00 [accepted]
+PHST- 2022/08/22 03:46 [entrez]
+PHST- 2022/08/23 06:00 [pubmed]
+PHST- 2022/08/23 06:01 [medline]
+PHST- 2022/07/18 00:00 [pmc-release]
+AID - 10.7759/cureus.26995 [doi]
+PST - epublish
+SO  - Cureus. 2022 Jul 18;14(7):e26995. doi: 10.7759/cureus.26995. eCollection 2022 
+      Jul.

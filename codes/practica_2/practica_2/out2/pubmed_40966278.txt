@@ -1,0 +1,155 @@
+PMID- 40966278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250918
+LR  - 20250918
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 122
+IP  - 38
+DP  - 2025 Sep 23
+TI  - USP14-mediated metabolic competition impairs CD8+ T cell immunosurveillance in 
+      hepatocellular carcinoma.
+PG  - e2510576122
+LID - 10.1073/pnas.2510576122 [doi]
+AB  - Hepatocellular carcinoma (HCC) frequently develops resistance to CD8+ T 
+      cell-based immunotherapy, yet the mechanisms driving this immune evasion remain 
+      poorly understood. To identify tumor-intrinsic regulators of immunotherapy 
+      resistance and explore therapeutic strategies to restore T cell-mediated tumor 
+      control, we employed three functional genomics approaches using in vitro and in 
+      vivo CRISPR screening. Cancer USP14 was identified as the critical immune evasion 
+      driver. USP14-high HCC patients exhibited poorer anti-PD1 antibody therapy 
+      responses and reduced CD8+ T cell infiltration. Inhibition of USP14 suppressed 
+      HCC cell growth in coculture with activated CD8+ T cells and restored cocultured 
+      CD8+ T cell cytotoxicity. In vivo USP14 targeting synergized with anti-PD1 
+      antibody therapy. Mechanistically, USP14 deubiquitinated and stabilized GLUT1 
+      through the removal of Lys-48-linked ubiquitin chains at Lys-245, which enabled 
+      HCC cells to outcompete CD8+ T cells for glucose, generating a glucose-deprived 
+      tumor microenvironment that suppressed CD8+ T cell function. Our findings show 
+      USP14 in cancer has a proimmunoevasive role in CD8+ T cell-based tumor immunity 
+      through GLUT1-mediated glucose competition. These findings position USP14 
+      inhibitors as promising adjuvants to enhance immunotherapy efficacy in HCC, 
+      providing actionable insights for overcoming resistance.
+FAU - Yuan, Yichuan
+AU  - Yuan Y
+AUID- ORCID: 0000-0003-0783-9549
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Niu, Yi
+AU  - Niu Y
+AUID- ORCID: 0009-0004-1551-7069
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+FAU - Huang, Zhenkun
+AU  - Huang Z
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Shi, Yunxing
+AU  - Shi Y
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Lin, Zhu
+AU  - Lin Z
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Zuo, Dinglan
+AU  - Zuo D
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+FAU - Zhong, Chengrui
+AU  - Zhong C
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Li, Kai
+AU  - Li K
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Guan, Xin-Yuan
+AU  - Guan XY
+AUID- ORCID: 0000-0002-4485-6017
+AD  - Department of Clinical Oncology, The University of Hong Kong, Hong Kong 000000, 
+      China.
+FAU - Yuan, Yunfei
+AU  - Yuan Y
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+FAU - Li, Binkui
+AU  - Li B
+AUID- ORCID: 0000-0003-3201-2914
+AD  - State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical 
+      Research for Cancer, Sun Yat-sen University Cancer Center, Guangzhou 510060, 
+      China.
+AD  - Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou 
+      510060, China.
+LA  - eng
+GR  - 82272887/MOST | National Natural Science Foundation of China (NSFC)/
+GR  - 82172815/MOST | National Natural Science Foundation of China (NSFC)/
+GR  - 82473037/MOST | National Natural Science Foundation of China (NSFC)/
+GR  - CIRP-SYSUCC-0012/SYSU | Sun Yat-sen University Cancer Center (SYSUCC)/
+GR  - YTP-SYSUCC-0088/SYSU | Sun Yat-sen University Cancer Center (SYSUCC)/
+GR  - YTP-SYSUCC-0066/SYSU | Sun Yat-sen University Cancer Center (SYSUCC)/
+PT  - Journal Article
+DEP - 20250918
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - EC 3.4.19.12 (Ubiquitin Thiolesterase)
+RN  - 0 (Glucose Transporter Type 1)
+RN  - 0 (SLC2A1 protein, human)
+RN  - 0 (Programmed Cell Death 1 Receptor)
+RN  - IY9XDZ35W2 (Glucose)
+SB  - IM
+MH  - *Carcinoma, Hepatocellular/immunology/metabolism/pathology/genetics
+MH  - *CD8-Positive T-Lymphocytes/immunology/metabolism
+MH  - *Liver Neoplasms/immunology/metabolism/pathology/genetics
+MH  - Humans
+MH  - *Ubiquitin Thiolesterase/metabolism/genetics/immunology
+MH  - Animals
+MH  - Mice
+MH  - Glucose Transporter Type 1/metabolism
+MH  - Cell Line, Tumor
+MH  - Tumor Microenvironment/immunology
+MH  - Programmed Cell Death 1 Receptor/antagonists & inhibitors/immunology
+MH  - Glucose/metabolism
+MH  - *Immunologic Surveillance
+MH  - Immunotherapy
+OTO - NOTNLM
+OT  - GLUT1
+OT  - USP14
+OT  - glucose competition
+OT  - hepatocellular carcinoma
+COIS- Competing interests statement:The authors declare no competing interest.
+EDAT- 2025/09/18 18:31
+MHDA- 2025/09/18 18:32
+CRDT- 2025/09/18 13:53
+PHST- 2025/09/18 18:32 [medline]
+PHST- 2025/09/18 18:31 [pubmed]
+PHST- 2025/09/18 13:53 [entrez]
+AID - 10.1073/pnas.2510576122 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2025 Sep 23;122(38):e2510576122. doi: 
+      10.1073/pnas.2510576122. Epub 2025 Sep 18.

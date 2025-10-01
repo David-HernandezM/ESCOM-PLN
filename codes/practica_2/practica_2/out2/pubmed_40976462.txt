@@ -1,0 +1,80 @@
+PMID- 40976462
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1096-1186 (Electronic)
+IS  - 1043-6618 (Linking)
+DP  - 2025 Sep 19
+TI  - Stem cells therapy in neurodegenerative and neuroimmune diseases: current status 
+      of treatments and future prospects.
+PG  - 107960
+LID - S1043-6618(25)00385-8 [pii]
+LID - 10.1016/j.phrs.2025.107960 [doi]
+AB  - Neurodegenerative and neuroimmune diseases, such as multiple sclerosis (MS), 
+      Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral 
+      sclerosis (ALS) share a common pathologic hallmark i.e. loss of neurons in the 
+      central nervous system (CNS), despite diverse pathological manifestations. These 
+      diseases present major challenges to global health due to incurable or extremely 
+      difficult to treat, imposing a heavy burden on society and families. Stem cell 
+      therapy, as a novel promising approach for treating various neurological 
+      diseases, harnesses the regenerative potential of stem cells to repair damaged 
+      neural tissues and circuits, and has become the only hope for patients to recover 
+      their health or delay the deterioration of disease symptoms. In recent years, 
+      researchers have successfully generated neurons from multiple types of stem 
+      cells, and good curative effects have been achieved in their animal models and in 
+      clinical trials. This comprehensive review elaborates on the relevant content of 
+      stem cell biology, focuses on conducting an in-depth analysis of the current 
+      application status of various stem cells in major neurodegenerative and 
+      neuroimmune diseases including MS, AD, PD and ALS, kindling the hope for the 
+      development of stem cell-based cell therapies in neurological diseases.
+CI  - Copyright © 2025. Published by Elsevier Ltd.
+FAU - Shi, Mingchao
+AU  - Shi M
+AD  - Neuroscience Center, Department of Neurology, The First Hospital of Jilin 
+      University, Changchun, China; Department of Neurobiology, Care Sciences & 
+      Society, Division of Neurogeriatrcs, Karolinska Institute, Karolinska University 
+      Hospital Solna, Stockholm, Sweden. Electronic address: superstone@jlu.edu.cn.
+FAU - Chu, Fengna
+AU  - Chu F
+AD  - Neuroscience Center, Department of Neurology, The First Hospital of Jilin 
+      University, Changchun, China; Department of Neurobiology, Care Sciences & 
+      Society, Division of Neurogeriatrcs, Karolinska Institute, Karolinska University 
+      Hospital Solna, Stockholm, Sweden. Electronic address: chufengna2008@jlu.edu.cn.
+FAU - Zhu, Jie
+AU  - Zhu J
+AD  - Neuroscience Center, Department of Neurology, The First Hospital of Jilin 
+      University, Changchun, China; Department of Neurobiology, Care Sciences & 
+      Society, Division of Neurogeriatrcs, Karolinska Institute, Karolinska University 
+      Hospital Solna, Stockholm, Sweden. Electronic address: jzhuhs@yahoo.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - Netherlands
+TA  - Pharmacol Res
+JT  - Pharmacological research
+JID - 8907422
+SB  - IM
+OTO - NOTNLM
+OT  - mechanisms
+OT  - neurodegenerative
+OT  - neuroimmune
+OT  - stem cells
+OT  - treatment
+COIS- Declaration of Competing Interests The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this article. Competing interests The authors 
+      have no competing interests to declare.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 19:55
+PHST- 2025/06/11 00:00 [received]
+PHST- 2025/08/29 00:00 [revised]
+PHST- 2025/09/17 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 19:55 [entrez]
+AID - S1043-6618(25)00385-8 [pii]
+AID - 10.1016/j.phrs.2025.107960 [doi]
+PST - aheadofprint
+SO  - Pharmacol Res. 2025 Sep 19:107960. doi: 10.1016/j.phrs.2025.107960.

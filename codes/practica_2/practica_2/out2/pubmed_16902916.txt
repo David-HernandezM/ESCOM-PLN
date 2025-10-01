@@ -1,0 +1,43 @@
+PMID- 16902916
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060925
+LR  - 20181201
+IS  - 1860-7179 (Print)
+IS  - 1860-7179 (Linking)
+VI  - 1
+IP  - 7
+DP  - 2006 Jul
+TI  - Helicobacter: the ease and difficulty of a new discovery (Nobel lecture).
+PG  - 672-85
+FAU - Warren, J Robin
+AU  - Warren JR
+AD  - NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre, University of 
+      Western Australia, Room 1.11, LBlock, Nedlands, WA 6009, Australia. 
+      jrwarren@aapt.net.au
+LA  - eng
+PT  - Biography
+PT  - Historical Article
+PT  - Lecture
+PL  - Germany
+TA  - ChemMedChem
+JT  - ChemMedChem
+JID - 101259013
+SB  - IM
+MH  - Australia
+MH  - Helicobacter/*isolation & purification
+MH  - History, 20th Century
+MH  - History, 21st Century
+MH  - *Nobel Prize
+MH  - Pathology, Clinical/*history
+PS  - Warren J R
+FPS - Warren, J Robin
+EDAT- 2006/08/12 09:00
+MHDA- 2006/09/26 09:00
+CRDT- 2006/08/12 09:00
+PHST- 2006/08/12 09:00 [pubmed]
+PHST- 2006/09/26 09:00 [medline]
+PHST- 2006/08/12 09:00 [entrez]
+AID - 10.1002/cmdc.200600121 [doi]
+PST - ppublish
+SO  - ChemMedChem. 2006 Jul;1(7):672-85. doi: 10.1002/cmdc.200600121.

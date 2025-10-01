@@ -1,0 +1,109 @@
+PMID- 40987840
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 2522-5812 (Electronic)
+IS  - 2522-5812 (Linking)
+DP  - 2025 Sep 23
+TI  - Cholesterol metabolic reprogramming mediates microglia-induced chronic 
+      neuroinflammation and hinders neurorestoration following stroke.
+LID - 10.1038/s42255-025-01379-7 [doi]
+AB  - Chronic neuroinflammation is a major obstacle to post-stroke recovery, yet the 
+      underlying mechanisms, particularly the link between prolonged microglial 
+      activation and cholesterol metabolism, are not fully known. Here we show that 
+      ischaemic injury induces persistent microglial activation that perpetuates 
+      chronic inflammation, leading to microglial cholesterol accumulation and 
+      metabolic reprogramming. Using single-cell RNA sequencing, we identified distinct 
+      stroke-associated foamy microglia clusters characterized by extensive 
+      reprogramming of cholesterol metabolism. Furthermore, direct intracerebral free 
+      cholesterol or cholesterol crystal infusion recapitulated sustained microglial 
+      activation, directly linking aberrant cholesterol metabolism to prolonged 
+      neuroinflammatory responses. Therapeutically, we demonstrate that reducing 
+      microglial cholesterol overload through genetic or pharmacological activation of 
+      CYP46A1 in male mice promotes white matter repair and functional recovery. These 
+      findings highlight microglial cholesterol metabolism as a key driver of 
+      post-stroke inflammation, offering therapeutic strategies targeting cholesterol 
+      metabolism to mitigate long-term brain damage and promote neurorestoration, 
+      potentially improving stroke-related disability outcomes.
+CI  - © 2025. The Author(s).
+FAU - Zhao, Qiang
+AU  - Zhao Q
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Li, Jiajian
+AU  - Li J
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Feng, Jingjing
+AU  - Feng J
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Wang, Xin
+AU  - Wang X
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Liu, Yueting
+AU  - Liu Y
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Wang, Fei
+AU  - Wang F
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Liu, Liang
+AU  - Liu L
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Jin, Bingxue
+AU  - Jin B
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Lin, Ming
+AU  - Lin M
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China.
+FAU - Wang, Ya-Chao
+AU  - Wang YC
+AD  - Department of Neurosurgery, The Institute of Translational Medicine, Shenzhen 
+      Second People's Hospital/The First Affiliated Hospital of Shenzhen University, 
+      Shenzhen, China.
+FAU - Guo, Xiuhua
+AU  - Guo X
+AD  - Department of Epidemiology and Health Statistics, School of Public Health, 
+      Capital Medical University, Beijing, China.
+FAU - Chen, Jieli
+AU  - Chen J
+AD  - Department of Neurology, Tianjin Huanhu Hospital, Tianjin Key Laboratory of 
+      Cerebral Vascular and Neurodegenerative Diseases, Tianjin, China.
+FAU - Hao, Junwei
+AU  - Hao J
+AUID- ORCID: 0000-0002-3075-5434
+AD  - Department of Neurology, Xuanwu Hospital Capital Medical University, National 
+      Center for Neurological Disorders, Beijing, China. haojunwei@vip.163.com.
+AD  - Beijing Municipal Geriatric Medical Research Center, Beijing, China. 
+      haojunwei@vip.163.com.
+AD  - Key Laboratory for Neurodegenerative Diseases of Ministry of Education, Beijing, 
+      China. haojunwei@vip.163.com.
+LA  - eng
+GR  - 82090043/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250923
+PL  - Germany
+TA  - Nat Metab
+JT  - Nature metabolism
+JID - 101736592
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/24 00:39
+MHDA- 2025/09/24 00:39
+CRDT- 2025/09/23 23:19
+PHST- 2024/08/15 00:00 [received]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/24 00:39 [medline]
+PHST- 2025/09/24 00:39 [pubmed]
+PHST- 2025/09/23 23:19 [entrez]
+AID - 10.1038/s42255-025-01379-7 [pii]
+AID - 10.1038/s42255-025-01379-7 [doi]
+PST - aheadofprint
+SO  - Nat Metab. 2025 Sep 23. doi: 10.1038/s42255-025-01379-7.

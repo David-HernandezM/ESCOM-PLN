@@ -1,0 +1,125 @@
+PMID- 40971428
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250923
+IS  - 2375-2548 (Electronic)
+IS  - 2375-2548 (Linking)
+VI  - 11
+IP  - 38
+DP  - 2025 Sep 19
+TI  - A long-term ketogenic diet causes hyperlipidemia, liver dysfunction, and glucose 
+      intolerance from impaired insulin secretion in mice.
+PG  - eadx2752
+LID - 10.1126/sciadv.adx2752 [doi]
+LID - eadx2752
+AB  - Ketogenic diets (KDs)-very-low-carbohydrate and very-high-fat diets-have gained 
+      popularity as therapeutic against obesity and type 2 diabetes. However, their 
+      long-term effects on metabolic health remain understudied. Here, we show that, in 
+      male and female mice, a KD protects against weight gain and induces weight loss 
+      but over time leads to the development of hyperlipidemia, hepatic steatosis, and 
+      severe glucose intolerance. Unlike mice on conventional high-fat diet, KD-fed 
+      mice remain insulin sensitive and display low-insulin levels. Hyperglycemic clamp 
+      and ex vivo glucose-stimulated insulin secretion assays revealed systemic and 
+      cell-intrinsic impairments in insulin secretion. Transcriptomic profiling of 
+      islets from KD-fed mice indicated endoplasmic reticulum (ER)/Golgi stress and 
+      disrupted ER-Golgi protein trafficking, which were confirmed by electron 
+      microscopy showing a dilated Golgi network consistent with defective insulin 
+      granule trafficking and secretion. Together, these results suggest that long-term 
+      KD leads to multiple aberrations of metabolic parameters that caution their 
+      systematic use as a health-promoting dietary intervention.
+FAU - Gallop, Molly R
+AU  - Gallop MR
+AUID- ORCID: 0000-0003-1120-4626
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Vieira, Renan F L
+AU  - Vieira RFL
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Mower, Peyton D
+AU  - Mower PD
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Matsuzaki, Elijah T
+AU  - Matsuzaki ET
+AUID- ORCID: 0009-0001-7262-7043
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Liou, Willisa
+AU  - Liou W
+AUID- ORCID: 0000-0002-3280-9635
+AD  - Electron Microscopy, Health Science Center Cores, The University of Utah, Salt 
+      Lake City, UT, USA.
+FAU - Smart, Faith E
+AU  - Smart FE
+AUID- ORCID: 0009-0001-5095-8589
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Roberts, Seth
+AU  - Roberts S
+AUID- ORCID: 0009-0001-6697-9341
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Evason, Kimberley J
+AU  - Evason KJ
+AUID- ORCID: 0000-0002-0471-2473
+AD  - Department of Pathology, University of Utah School of Medicine, Salt Lake City, 
+      UT, USA.
+AD  - Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA.
+FAU - Holland, William L
+AU  - Holland WL
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+FAU - Chaix, Amandine
+AU  - Chaix A
+AUID- ORCID: 0000-0001-7007-197X
+AD  - Department of Nutrition and Integrative Physiology, University of Utah, Salt Lake 
+      City, UT, USA.
+AD  - Utah Diabetes and Metabolism Research Center, Salt Lake City, UT, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Sci Adv
+JT  - Science advances
+JID - 101653440
+RN  - 0 (Insulin)
+SB  - IM
+UOF - bioRxiv. 2024 Jun 17:2024.06.14.599117. doi: 10.1101/2024.06.14.599117. PMID: 
+      38948738
+MH  - Animals
+MH  - *Diet, Ketogenic/adverse effects
+MH  - *Glucose Intolerance/etiology/metabolism/pathology
+MH  - *Hyperlipidemias/etiology/metabolism/pathology
+MH  - Mice
+MH  - Male
+MH  - *Insulin Secretion
+MH  - Female
+MH  - *Insulin/metabolism
+MH  - *Liver/metabolism/pathology
+MH  - Golgi Apparatus/metabolism
+MH  - Diet, High-Fat/adverse effects
+MH  - Disease Models, Animal
+MH  - Endoplasmic Reticulum Stress
+PMC - PMC12448075
+EDAT- 2025/09/19 18:30
+MHDA- 2025/09/19 18:31
+PMCR- 2025/09/19
+CRDT- 2025/09/19 14:04
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:30 [pubmed]
+PHST- 2025/09/19 14:04 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - adx2752 [pii]
+AID - 10.1126/sciadv.adx2752 [doi]
+PST - ppublish
+SO  - Sci Adv. 2025 Sep 19;11(38):eadx2752. doi: 10.1126/sciadv.adx2752. Epub 2025 Sep 
+      19.

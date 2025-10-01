@@ -1,0 +1,59 @@
+PMID- 1823120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19910530
+LR  - 20190702
+IS  - 0042-4900 (Print)
+IS  - 0042-4900 (Linking)
+VI  - 128
+IP  - 9
+DP  - 1991 Mar 2
+TI  - Bovine spongiform encephalopathy: epidemiological studies on the origin.
+PG  - 199-203
+AB  - The results of further epidemiological studies of bovine spongiform 
+      encephalopathy (BSE) support the previous findings that the onset of exposure of 
+      the cattle population to a scrapie-like agent, sufficient to result in clinical 
+      disease, occurred in 1981/82. The onset of this exposure was related to the 
+      cessation, in all but two rendering plants, of the hydrocarbon solvent extraction 
+      of fat from meat and bone meal. A further possible explanation, related to the 
+      geographical variation in the reprocessing of greaves to produce meat and bone 
+      meal, was identified for the geographical variation in the incidence of BSE.
+FAU - Wilesmith, J W
+AU  - Wilesmith JW
+AD  - Epidemiology Unit, Central Veterinary Laboratory, New Haw, Weybridge, Surrey.
+FAU - Ryan, J B
+AU  - Ryan JB
+FAU - Atkinson, M J
+AU  - Atkinson MJ
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Vet Rec
+JT  - The Veterinary record
+JID - 0031164
+RN  - 0 (Biological Products)
+RN  - 0 (Fats)
+RN  - 0 (Minerals)
+RN  - TRS31EO6ZN (bone meal)
+SB  - IM
+CIN - Vet Rec. 1991 Mar 16;128(11):262-3. doi: 10.1136/vr.128.11.262-a. PMID: 1903569
+CIN - Vet Rec. 1991 Mar 30;128(13):310. doi: 10.1136/vr.128.13.310. PMID: 1903570
+MH  - Age Factors
+MH  - Animals
+MH  - Biological Products
+MH  - Brain Diseases/epidemiology/etiology/*veterinary
+MH  - Cattle
+MH  - Cattle Diseases/*epidemiology/etiology
+MH  - Fats/*analysis
+MH  - Meat/*analysis
+MH  - Minerals/*analysis
+MH  - Slow Virus Diseases/epidemiology/etiology/*veterinary
+EDAT- 1991/03/02 00:00
+MHDA- 1991/03/02 00:01
+CRDT- 1991/03/02 00:00
+PHST- 1991/03/02 00:00 [pubmed]
+PHST- 1991/03/02 00:01 [medline]
+PHST- 1991/03/02 00:00 [entrez]
+AID - 10.1136/vr.128.9.199 [doi]
+PST - ppublish
+SO  - Vet Rec. 1991 Mar 2;128(9):199-203. doi: 10.1136/vr.128.9.199.

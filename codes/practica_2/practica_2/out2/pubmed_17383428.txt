@@ -1,0 +1,146 @@
+PMID- 17383428
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070426
+LR  - 20181201
+IS  - 0016-5085 (Print)
+IS  - 0016-5085 (Linking)
+VI  - 132
+IP  - 3
+DP  - 2007 Mar
+TI  - Suppression of FHL2 expression induces cell differentiation and inhibits gastric 
+      and colon carcinogenesis.
+PG  - 1066-76
+AB  - BACKGROUND AND AIMS: FHL2 (4-1/2 LIM protein 2) is an adapter and modifier in 
+      protein interactions that is expressed mainly in the heart and ovary. It 
+      functions in a cell type- or promoter-specific manner. The aims of this study 
+      were to examine its expression in gastrointestinal cancers and to determine its 
+      role in cell differentiation and tumorigenesis. METHODS: FHL2 expression in 
+      cancerous and normal gastrointestinal cells was detected by reverse-transcription 
+      polymerase chain reaction, immunoblotting, and immunohistochemistry. The effect 
+      of FHL2 suppression by both antisense and siRNA methods on cell differentiation 
+      and growth were evaluated in vitro and in vivo. RESULTS: FHL2 expression was 
+      up-regulated in gastrointestinal cancer, compared with matched normal tissues. 
+      Stable transfection of gastric cancer cell line, AGS, and colon cancer cell line, 
+      Lovo, with antisense FHL2 induced lengthened or shuttle-shape morphologic changes 
+      with long or dendritic-like cytoplasmic processes and decreased the 
+      nuclear:cytoplasmic ratio. FHL2 antisense induced expressions of carcinoembryonic 
+      antigen and E-cadherin and the maturation of F-actin. Furthermore, FHL2 antisense 
+      inhibited the transcriptions of some oncogenes including cox-2, survivin, c-jun, 
+      and hTERT, and suppressed the promoter activity of activator protein-1 and hTERT. 
+      Suppression of FHL2 inhibited serum-dependent, anchorage-dependent and 
+      -independent cell growth, and suppressed de novo tumor formation in nude mice 
+      xenograft. CONCLUSIONS: Suppression of FHL2 induces cell differentiation and 
+      inhibits tumorigenesis. Antisense or siRNA methods targeting FHL2 is a promising 
+      strategy for treatment of gastrointestinal cancers.
+FAU - Wang, Jide
+AU  - Wang J
+AD  - Institute for Digestive Medicine, Nanfang Hospital, Southern Medical University, 
+      Guangzhou, People's Republic of China.
+FAU - Yang, Yi
+AU  - Yang Y
+FAU - Xia, Harry H X
+AU  - Xia HH
+FAU - Gu, Qing
+AU  - Gu Q
+FAU - Lin, Marie C M
+AU  - Lin MC
+FAU - Jiang, Bo
+AU  - Jiang B
+FAU - Peng, Ying
+AU  - Peng Y
+FAU - Li, Guoqing
+AU  - Li G
+FAU - An, Xiaomeng
+AU  - An X
+FAU - Zhang, Yali
+AU  - Zhang Y
+FAU - Zhuang, Zehao
+AU  - Zhuang Z
+FAU - Zhang, Zhenshu
+AU  - Zhang Z
+FAU - Kung, Hsiang Fu
+AU  - Kung HF
+FAU - Wong, Benjamin C Y
+AU  - Wong BC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20061203
+PL  - United States
+TA  - Gastroenterology
+JT  - Gastroenterology
+JID - 0374630
+RN  - 0 (Actins)
+RN  - 0 (BIRC5 protein, human)
+RN  - 0 (Cadherins)
+RN  - 0 (Carcinoembryonic Antigen)
+RN  - 0 (FHL2 protein, human)
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (Inhibitor of Apoptosis Proteins)
+RN  - 0 (LIM-Homeodomain Proteins)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Microtubule-Associated Proteins)
+RN  - 0 (Muscle Proteins)
+RN  - 0 (Neoplasm Proteins)
+RN  - 0 (Proto-Oncogene Proteins c-jun)
+RN  - 0 (RNA, Antisense)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Survivin)
+RN  - 0 (Transcription Factor AP-1)
+RN  - 0 (Transcription Factors)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 2.7.7.49 (TERT protein, human)
+RN  - EC 2.7.7.49 (Telomerase)
+SB  - IM
+MH  - Actins/metabolism
+MH  - Animals
+MH  - Cadherins/metabolism
+MH  - Carcinoembryonic Antigen/metabolism
+MH  - *Cell Differentiation
+MH  - Cell Line, Tumor
+MH  - Cell Proliferation
+MH  - Cell Shape
+MH  - Cell Transformation, Neoplastic/genetics/*metabolism/pathology
+MH  - Colonic Neoplasms/genetics/*metabolism/pathology
+MH  - Cyclooxygenase 2/genetics/metabolism
+MH  - Homeodomain Proteins/genetics/*metabolism
+MH  - Humans
+MH  - Inhibitor of Apoptosis Proteins
+MH  - LIM-Homeodomain Proteins
+MH  - Membrane Proteins/genetics/metabolism
+MH  - Mice
+MH  - Mice, Nude
+MH  - Microtubule-Associated Proteins/genetics/metabolism
+MH  - Muscle Proteins/genetics/*metabolism
+MH  - Neoplasm Proteins/genetics/metabolism
+MH  - Proto-Oncogene Proteins c-jun/genetics/metabolism
+MH  - RNA Interference
+MH  - RNA, Antisense/metabolism
+MH  - RNA, Messenger/metabolism
+MH  - RNA, Small Interfering/metabolism
+MH  - Stomach Neoplasms/genetics/*metabolism/pathology
+MH  - Survivin
+MH  - Telomerase/genetics/metabolism
+MH  - Time Factors
+MH  - Transcription Factor AP-1/metabolism
+MH  - Transcription Factors/genetics/*metabolism
+MH  - Transcription, Genetic
+MH  - Transfection
+MH  - Transplantation, Heterologous
+MH  - Up-Regulation
+EDAT- 2007/03/27 09:00
+MHDA- 2007/04/27 09:00
+CRDT- 2007/03/27 09:00
+PHST- 2006/03/04 00:00 [received]
+PHST- 2006/11/16 00:00 [accepted]
+PHST- 2007/03/27 09:00 [pubmed]
+PHST- 2007/04/27 09:00 [medline]
+PHST- 2007/03/27 09:00 [entrez]
+AID - S0016-5085(06)02562-5 [pii]
+AID - 10.1053/j.gastro.2006.12.004 [doi]
+PST - ppublish
+SO  - Gastroenterology. 2007 Mar;132(3):1066-76. doi: 10.1053/j.gastro.2006.12.004. 
+      Epub 2006 Dec 3.

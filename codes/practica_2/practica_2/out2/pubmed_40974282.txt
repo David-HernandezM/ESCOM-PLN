@@ -1,0 +1,94 @@
+PMID- 40974282
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1544-0591 (Electronic)
+IS  - 0022-0345 (Linking)
+DP  - 2025 Sep 20
+TI  - Periodontitis Leads to Systemic Bone Loss through Neutrophil Reprogramming.
+PG  - 220345251360752
+LID - 10.1177/00220345251360752 [doi]
+AB  - Periodontitis is a chronic oral inflammatory disease characterized by alveolar 
+      bone loss. Other diseases, such as osteoporosis, cardiovascular disease, and 
+      diabetes, can exacerbate its progression. These chronic diseases also have 
+      systemic effects that vary in frequency in men and women. Thus, this study sought 
+      to determine if periodontitis induced sex-specific changes in long bones. 
+      Periodontitis was induced by tying a 5-0 silk suture around the second maxillary 
+      molar of 6- to 8-wk-old male and female C57BL/6J mice. Ligatures were left in 
+      place for 7 d or 21 d, and the tibia was subsequently collected for 
+      characterization using micro-computed tomography, flow cytometry, and proteomics 
+      analysis. Female mice exhibited sustained trabecular and cortical bone loss 
+      through day 21, whereas males recovered from any bone loss observed at day 7. 
+      Flow cytometry and proteomics analysis indicated that an increased neutrophil 
+      response contributes to this bone loss by upregulating pathways associated with 
+      neutrophil extracellular trap (NET) formation and reactive oxygen species 
+      production. Eliminating NET generation using a Padi4-deficient mouse eliminated 
+      the bone loss phenotype during periodontitis. This study suggests that the 
+      neutrophil-driven pattern of bone loss observed in female mice, as well as the 
+      higher prevalence of osteoporosis in women, may highlight a potential mechanism 
+      by which periodontitis exacerbates systemic bone loss.
+FAU - Martin, K
+AU  - Martin K
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+FAU - Dabaja, R
+AU  - Dabaja R
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+AD  - Department of Mechanical Engineering, University of Michigan School of 
+      Engineering, Ann Arbor, MI, USA.
+FAU - Mianecki, M J
+AU  - Mianecki MJ
+AD  - Department of Cariology, Restorative Sciences, and Endodontics, University of 
+      Michigan School of Dentistry, Ann Arbor, MI, USA.
+FAU - Sheikh, A
+AU  - Sheikh A
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+AD  - Department of Periodontics and Endodontics, Stony Brook School of Dental 
+      Medicine, Stony Brook, NY, USA.
+FAU - Maglaras, V
+AU  - Maglaras V
+AUID- ORCID: 0009-0004-8821-4069
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+AD  - Department of Cariology, Restorative Sciences, and Endodontics, University of 
+      Michigan School of Dentistry, Ann Arbor, MI, USA.
+FAU - Saleh, M H A
+AU  - Saleh MHA
+AUID- ORCID: 0000-0001-5067-7317
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+FAU - Decker, J T
+AU  - Decker JT
+AUID- ORCID: 0000-0001-7914-4741
+AD  - Department of Cariology, Restorative Sciences, and Endodontics, University of 
+      Michigan School of Dentistry, Ann Arbor, MI, USA.
+FAU - Decker, A M
+AU  - Decker AM
+AD  - Department of Periodontics and Oral Medicine, University of Michigan School of 
+      Dentistry, Ann Arbor, MI, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250920
+PL  - United States
+TA  - J Dent Res
+JT  - Journal of dental research
+JID - 0354343
+SB  - IM
+OTO - NOTNLM
+OT  - bone biology
+OT  - extracellular traps
+OT  - gender differences
+OT  - inflammation
+OT  - neutrophil biology
+OT  - periodontal disease
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:32
+CRDT- 2025/09/20 08:57
+PHST- 2025/09/20 12:32 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 08:57 [entrez]
+AID - 10.1177/00220345251360752 [doi]
+PST - aheadofprint
+SO  - J Dent Res. 2025 Sep 20:220345251360752. doi: 10.1177/00220345251360752.

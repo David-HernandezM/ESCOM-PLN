@@ -1,0 +1,113 @@
+PMID- 40983687
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1460-2075 (Electronic)
+IS  - 0261-4189 (Linking)
+DP  - 2025 Sep 22
+TI  - The Plasmodium CSP repeats have elastic properties with a critical role in 
+      sporozoite motility.
+LID - 10.1038/s44318-025-00551-9 [doi]
+AB  - The Plasmodium circumsporozoite protein (CSP) is the major surface protein of the 
+      sporozoite, the infective stage of the malaria parasite. The central repeat 
+      region of CSP is the primary immunological target of the sporozoite stage, yet 
+      little is known about its structure or function. Here, we show that sporozoite 
+      mutants with truncated or scrambled CSP repeats exhibit impaired motility due to 
+      altered adhesion site formation and dynamics. Since CSP forms the environment in 
+      which the thrombospondin-related anonymous protein (TRAP)-containing adhesion 
+      sites assemble, our data suggest that the dense CSP coat is altered in the repeat 
+      mutants, affecting adhesion site formation. We hypothesized that this role 
+      depends on the biophysical properties of the repeats, and used single-molecule 
+      fluorescence-force spectroscopy to test this hypothesis. Our results indicate 
+      that the CSP repeats behave like a stiff, linear spring with elastic properties 
+      that depend on its length and are lost when the repeats are scrambled. These data 
+      provide evidence for a functional role of the CSP repeat region during Plasmodium 
+      infection and motility.
+CI  - © 2025. The Author(s).
+FAU - Balaban, Amanda E
+AU  - Balaban AE
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA.
+AD  - IDEXX Laboratories, Westbrook, ME, USA.
+FAU - Kanatani, Sachie
+AU  - Kanatani S
+AUID- ORCID: 0000-0002-7072-0447
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA.
+FAU - Mitra, Jaba
+AU  - Mitra J
+AD  - Department of Biophysics and Biophysical Chemistry, Johns Hopkins School of 
+      Medicine, Baltimore, MD, 21205, USA.
+AD  - Department of Materials Science and Engineering, University of Illinois at 
+      Urbana-Champaign, Champaign, IL, 61801, USA.
+FAU - Gregory, Jason
+AU  - Gregory J
+AUID- ORCID: 0000-0002-5030-7292
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA.
+FAU - Vartak, Natasha
+AU  - Vartak N
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA.
+FAU - Sinnis-Bourozikas, Ariadne
+AU  - Sinnis-Bourozikas A
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA.
+FAU - Frischknecht, Fredrich
+AU  - Frischknecht F
+AUID- ORCID: 0000-0002-8332-6668
+AD  - Integrative Parasitology, Center for Infectious Diseases, Heidelberg University 
+      Medical School, Heidelberg, Germany.
+AD  - German Center for Infection Research (DZIF), Heidelberg, Germany.
+FAU - Ha, Taekjip
+AU  - Ha T
+AUID- ORCID: 0000-0003-2195-6258
+AD  - Department of Biophysics and Biophysical Chemistry, Johns Hopkins School of 
+      Medicine, Baltimore, MD, 21205, USA.
+AD  - Howard Hughes Medical Institute and Program in Cellular and Molecular Medicine, 
+      Boston Children's Hospital, Boston, MA, 02115, USA.
+AD  - Department of Pediatrics, Harvard Medical School, Boston, MA, 02115, USA.
+FAU - Sinnis, Photini
+AU  - Sinnis P
+AUID- ORCID: 0000-0003-2954-7547
+AD  - Johns Hopkins Malaria Research Institute and Department of Molecular Microbiology 
+      & Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 
+      21201, USA. psinnis1@jhu.edu.
+LA  - eng
+GR  - R01AI056840/HHS | National Institutes of Health (NIH)/
+GR  - R35 122569/HHS | National Institutes of Health (NIH)/
+GR  - fellowships/JHSPH | Johns Hopkins Malaria Research Institute, Johns Hopkins 
+      Bloomberg School of Public Health/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - EMBO J
+JT  - The EMBO journal
+JID - 8208664
+SB  - IM
+OTO - NOTNLM
+OT  - Circumsporozoite Protein
+OT  - Malaria
+OT  - Motility
+OT  - Repeats
+OT  - Sporozoite
+COIS- Disclosure and competing interests statement. The authors declare no competing 
+      interests.
+EDAT- 2025/09/23 03:16
+MHDA- 2025/09/23 03:16
+CRDT- 2025/09/22 23:20
+PHST- 2025/01/03 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/06/22 00:00 [revised]
+PHST- 2025/09/23 03:16 [medline]
+PHST- 2025/09/23 03:16 [pubmed]
+PHST- 2025/09/22 23:20 [entrez]
+AID - 10.1038/s44318-025-00551-9 [pii]
+AID - 10.1038/s44318-025-00551-9 [doi]
+PST - aheadofprint
+SO  - EMBO J. 2025 Sep 22. doi: 10.1038/s44318-025-00551-9.

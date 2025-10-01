@@ -1,0 +1,178 @@
+PMID- 40972843
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1600-0641 (Electronic)
+IS  - 0168-8278 (Linking)
+DP  - 2025 Sep 17
+TI  - Nivolumab plus ipilimumab for potentially resectable hepatocellular carcinoma: 
+      long-term efficacy and biomarker exploration.
+LID - S0168-8278(25)02471-7 [pii]
+LID - 10.1016/j.jhep.2025.08.035 [doi]
+AB  - BACKGROUND AND AIMS: Immune checkpoint inhibitor-based combination therapy has 
+      demonstrated high objective response rates in patients with hepatocellular 
+      carcinoma (HCC) and might improve clinical outcome as neoadjuvant or 
+      perioperative therapy. This study evaluated the efficacy and safety of nivolumab 
+      plus ipilimumab in patients with potentially resectable HCC and explored 
+      predictive biomarkers of treatment response. METHODS: Eligible patients received 
+      nivolumab (3 mg/kg) plus ipilimumab (1 mg/kg) every 3 weeks. Tumor response was 
+      assessed after two and four treatment cycles. Patients then proceeded to curative 
+      surgery or alternative treatments according to clinical guidelines. Serial tumor 
+      and peripheral blood samples were collected for genomic and transcriptomic 
+      analyses and immune cell profiling. RESULTS: Among the 43 enrolled patients 
+      (men/women: 37/6; viral/non-viral 41/2; Barcelona Clinic Liver Cancer stage 
+      A/B/C: 4/13/26; median tumor size: 8.7 cm), 24 underwent surgery, and eight 
+      achieved a major pathological response (>90% tumor necrosis). The estimated 
+      4-year progression-free survival and overall survival rates were 44% (95% 
+      confidence interval [CI], 28-59%) and 60% (95% CI, 42-74%), respectively. 
+      Increased interferon-γ and tertiary lymphoid structure (TLS) signatures in 
+      resected tumors were associated with objective response. In a mouse liver cancer 
+      model, B cell depletion abolished the efficacy of anti-programmed death-1 plus 
+      anti-cytotoxic T lymphocyte-associated protein 4 therapy, supporting the 
+      mechanistic role of TLS. Peripheral blood T cell activation and exhaustion at 
+      baseline and post-immunotherapy, assessed using spectral flow cytometry and deep 
+      learning algorithms, correlated with response and survival. CONCLUSIONS: 
+      Neoadjuvant nivolumab plus ipilimumab followed by surgery is feasible and might 
+      improve long-term survival in patients with potentially resectable HCC. 
+      Immunotherapy-induced TLS formation is associated with enhanced antitumor 
+      immunity. CLINICAL TRIAL NUMBER: NCT03510871.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Lin, Yih-Jyh
+AU  - Lin YJ
+AD  - Department of Surgery, National Cheng-Kung University Hospital, Tainan, Taiwan.
+FAU - Ou, Da-Liang
+AU  - Ou DL
+AD  - Graduate Institute of Oncology, National Taiwan University College of Medicine, 
+      Taipei, Taiwan.
+FAU - Su, Yung-Yeh
+AU  - Su YY
+AD  - National Institute of Cancer Research, National Health Research Institute, 
+      Tainan, Taiwan; Department of Oncology, National Cheng Kung University Hospital, 
+      College of Medicine, National Cheng Kung University, Tainan, Taiwan; Department 
+      of Internal Medicine, Kaohsiung Medical University Hospital, and Center for 
+      Cancer Research, Kaohsiung Medical University, Kaohsiung, Taiwan.
+FAU - Hsu, Chia-Lang
+AU  - Hsu CL
+AD  - Department of Medical Research, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Hsiao, Chin-Fu
+AU  - Hsiao CF
+AD  - Institute of Population Health Sciences, National Health Research Institutes, 
+      Miaoli, Taiwan.
+FAU - Ko, Bor-Sheng
+AU  - Ko BS
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Chen, San-Chi
+AU  - Chen SC
+AD  - Department of Oncology, Taipei Veterans General Hospital, Taipei, Taiwan.
+FAU - Wang, Hung-Wei
+AU  - Wang HW
+AD  - Department of Internal Medicine, China Medical University Hospital, Taichung, 
+      Taiwan.
+FAU - Wang, Jing-Houng
+AU  - Wang JH
+AD  - Department of Internal Medicine, Kaohsiung Chang Gung Memorial Hospital, 
+      Kaohsiung, Taiwan.
+FAU - Wu, Yao-Ming
+AU  - Wu YM
+AD  - Department of Surgery, National Taiwan University Hospital, Taipei, Taiwan.
+FAU - Jeng, Yung-Ming
+AU  - Jeng YM
+AD  - Department of Pathology, National Taiwan University Hospital, Taipei, Taiwan.
+FAU - Lee, Wei-Chen
+AU  - Lee WC
+AD  - Department of Surgery, Linkou Chang-Gung Memorial Hospital, Linkou, Taiwan.
+FAU - Chou, Shu-Cheng
+AU  - Chou SC
+AD  - Department of Surgery, Taipei Veterans General Hospital, Taipei, Taiwan; 
+      Institute of Clinical Medicine, National Yang Ming Chiao Tung University, Taipei, 
+      Taiwan.
+FAU - Chen, Teng-Wei
+AU  - Chen TW
+AD  - Department of Surgery, Tri-Service General Hospital, Taipei, Taiwan.
+FAU - Chiu, Chang-Fang
+AU  - Chiu CF
+AD  - Department of Internal Medicine, China Medical University Hospital, Taichung, 
+      Taiwan.
+FAU - Shiuan Lin Jr
+AU  - Shiuan Lin Jr
+AD  - Graduate Institute of Immunology, National Taiwan University College of Medicine, 
+      Taipei, Taiwan.
+FAU - Hsieh, Ching-Hung
+AU  - Hsieh CH
+AD  - Graduate Institute of Oncology, National Taiwan University College of Medicine, 
+      Taipei, Taiwan.
+FAU - Lee, Chi-Chun
+AU  - Lee CC
+AD  - Department of Electrical Engineering, National Tsing Hua University, Hsinchu, 
+      Taiwan.
+FAU - Shen, Yen-Shen
+AU  - Shen YS
+AD  - Department of Surgery, National Cheng-Kung University Hospital, Tainan, Taiwan; 
+      Institute of Clinical Medicine, College of Medicine, National Chen Kung 
+      University, Tainan, Taiwan.
+FAU - Cheng, Ann-Lii
+AU  - Cheng AL
+AD  - Graduate Institute of Oncology, National Taiwan University College of Medicine, 
+      Taipei, Taiwan; Department of Internal Medicine, National Taiwan University 
+      Hospital, Taipei, Taiwan; Department of Medical Oncology, National Taiwan 
+      University Cancer Center, Taipei, Taiwan. Electronic address: alcheng@ntu.edu.tw.
+FAU - Chen, Li-Tzong
+AU  - Chen LT
+AD  - National Institute of Cancer Research, National Health Research Institute, 
+      Tainan, Taiwan; Department of Oncology, National Cheng Kung University Hospital, 
+      College of Medicine, National Cheng Kung University, Tainan, Taiwan; Department 
+      of Internal Medicine, Kaohsiung Medical University Hospital, and Center for 
+      Cancer Research, Kaohsiung Medical University, Kaohsiung, Taiwan. Electronic 
+      address: leochenk153@gmail.com.
+FAU - Hsu, Chiun
+AU  - Hsu C
+AD  - Graduate Institute of Oncology, National Taiwan University College of Medicine, 
+      Taipei, Taiwan; Department of Medical Oncology, National Taiwan University Cancer 
+      Center, Taipei, Taiwan; Department of Oncology, National Taiwan University 
+      Hospital, Taipei, Taiwan. Electronic address: hsuchiun@ntu.edu.tw.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03510871
+PT  - Journal Article
+DEP - 20250917
+PL  - Netherlands
+TA  - J Hepatol
+JT  - Journal of hepatology
+JID - 8503886
+SB  - IM
+OTO - NOTNLM
+OT  - T cell exhaustion
+OT  - dendritic cells
+OT  - neoadjuvant
+OT  - peripheral blood mononuclear cells
+OT  - tertiary lymphoid structure
+COIS- Declaration of Competing Interest CH received research fundings (to the 
+      institution) from Bristol-Myers Squibb/ ONO, GoldenBiotech, IPSEN, Roche and 
+      honorarium from AstraZeneca, Bristol-Myers Squibb/ONO, Eisai, MSD, and Roche. ALC 
+      received research fundings (to the institution) from Pilatus Biosciences Inc, and 
+      consulting fees from AstraZeneca, Bayer, BeiGene, Bristol Myers Squibb, 
+      Genentech/Roche, Ipsen Innovation, Eisai, Ono Pharmaceutical, Sanofi, Omega 
+      Therapeutics and MSD, and honoraria for lectures, presentations, speakers 
+      bureaus, from Amgen Taiwan, Roche, and Ipsen Innovation, support for attending 
+      meetings and/or travel from Roche and AstraZeneca, participation on a Data Safety 
+      Monitoring Board or Advisory Board from Abbisko, and independent director for TTY 
+      Biopharma. LTC received research fundings (to the institution) from Ono 
+      Pharmaceutical, and consulting fees from Academab Biomedical Inc., and honoraria 
+      for lectures, presentations, speakers bureaus, from AstraZeneca, Astellas, Ono 
+      Pharmaceutical, and TTY Biopharma, participation on a Data Safety Monitoring 
+      Board or Advisory Board from AstraZeneca, Astellas, MSD, Ono Pharmaceutical, and 
+      TTY Biopharma. Other authors have no relevant conflict of interests to declare.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:20
+PHST- 2024/11/10 00:00 [received]
+PHST- 2025/08/21 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:20 [entrez]
+AID - S0168-8278(25)02471-7 [pii]
+AID - 10.1016/j.jhep.2025.08.035 [doi]
+PST - aheadofprint
+SO  - J Hepatol. 2025 Sep 17:S0168-8278(25)02471-7. doi: 10.1016/j.jhep.2025.08.035.

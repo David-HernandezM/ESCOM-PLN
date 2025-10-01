@@ -1,0 +1,154 @@
+PMID- 40973790
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2058-5276 (Electronic)
+IS  - 2058-5276 (Linking)
+DP  - 2025 Sep 19
+TI  - Phages with a broad host range are common across ecosystems.
+LID - 10.1038/s41564-025-02108-2 [doi]
+AB  - Phages are diverse and abundant within microbial communities, where they play 
+      major roles in their evolution and adaptation. Phage replication, and 
+      multiplication, is generally thought to be restricted within a single or narrow 
+      host range. Here we use published and newly generated proximity-ligation-based 
+      metagenomic Hi-C (metaHiC) data from various environments to explore virus-host 
+      interactions. We reconstructed 4,975 microbial and 6,572 phage genomes of medium 
+      quality or higher. MetaHiC yielded a contact network between genomes and enabled 
+      assignment of approximately half of phage genomes to their hosts, revealing that 
+      a substantial proportion of these phages interact with multiple species in 
+      environments as diverse as the oceanic water column or the human gut. This 
+      observation challenges the traditional view of a narrow host spectrum of phages 
+      by unveiling that multihost associations are common across ecosystems, with 
+      implications for how they might impact ecology and evolution and phage therapy 
+      approaches.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+FAU - Bignaud, Amaury
+AU  - Bignaud A
+AUID- ORCID: 0000-0003-4480-920X
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France.
+AD  - Collège Doctoral, Sorbonne Université, Paris, France.
+FAU - Conti, Devon E
+AU  - Conti DE
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France.
+AD  - Collège Doctoral, Sorbonne Université, Paris, France.
+AD  - Bacteriophage Bacterium Host, Institut Pasteur, Université Paris Cité, CNRS 
+      UMR6047, Paris, France.
+FAU - Thierry, Agnès
+AU  - Thierry A
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France.
+FAU - Serizay, Jacques
+AU  - Serizay J
+AUID- ORCID: 0000-0002-4295-0624
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France.
+FAU - Labadie, Karine
+AU  - Labadie K
+AUID- ORCID: 0000-0001-7467-8509
+AD  - Genoscope, Institut François Jacob, CEA, CNRS, Univ Evry, Université 
+      Paris-Saclay, Evry, France.
+FAU - Poulain, Julie
+AU  - Poulain J
+AD  - Génomique Métabolique, Genoscope, Institut François Jacob, CEA, CNRS, Univ Evry, 
+      Université Paris-Saclay, Evry, France.
+FAU - Cheny, Olivia
+AU  - Cheny O
+AD  - Clinical Research Coordination Office, Institut Pasteur, Université Paris Cité, 
+      Paris, France.
+FAU - Colón-González, Maritrini
+AU  - Colón-González M
+AUID- ORCID: 0000-0001-6821-1726
+AD  - Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad 
+      Nacional Autónoma de México, Querétaro, Mexico.
+FAU - Debarbieux, Laurent
+AU  - Debarbieux L
+AUID- ORCID: 0000-0001-6875-5758
+AD  - Bacteriophage Bacterium Host, Institut Pasteur, Université Paris Cité, CNRS 
+      UMR6047, Paris, France.
+FAU - Guerrero-Osornio, Marianna
+AU  - Guerrero-Osornio M
+AD  - Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad 
+      Nacional Autónoma de México, Querétaro, Mexico.
+FAU - Helaine, Sophie
+AU  - Helaine S
+AUID- ORCID: 0000-0002-9877-4180
+AD  - Department of Infectious Diseases, School of Immunology and Microbial Sciences, 
+      Guy's Hospital , King's College London, London, UK.
+FAU - Hill, Peter
+AU  - Hill P
+AD  - Department of Infectious Diseases, School of Immunology and Microbial Sciences, 
+      Guy's Hospital , King's College London, London, UK.
+FAU - Le Tinier, Gwenaelle
+AU  - Le Tinier G
+AD  - Médecine petite enfance, Orsay, France.
+FAU - Millot, Gael A
+AU  - Millot GA
+AD  - Bioinformatics and Biostatistics Hub, Institut Pasteur, Université Paris Cité, 
+      Paris, France.
+FAU - Morales, Lucia
+AU  - Morales L
+AUID- ORCID: 0000-0002-9511-5067
+AD  - Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad 
+      Nacional Autónoma de México, Querétaro, Mexico.
+FAU - Parada, Andrés
+AU  - Parada A
+AUID- ORCID: 0000-0003-0100-7100
+AD  - Microbial Genomics Laboratory, Institut Pasteur de Montevideo, Montevideo, 
+      Uruguay.
+AD  - Departamento de Ecología y Evolución, Facultad de Ciencias, Universidad de la 
+      República, Montevideo, Uruguay.
+FAU - Riera, Nadia
+AU  - Riera N
+AUID- ORCID: 0000-0001-6295-6452
+AD  - Microbial Genomics Laboratory, Institut Pasteur de Montevideo, Montevideo, 
+      Uruguay.
+FAU - Iraola, Gregorio
+AU  - Iraola G
+AUID- ORCID: 0000-0002-6516-3404
+AD  - Microbial Genomics Laboratory, Institut Pasteur de Montevideo, Montevideo, 
+      Uruguay.
+FAU - Koszul, Romain
+AU  - Koszul R
+AUID- ORCID: 0000-0002-3086-1173
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France. romain.koszul@pasteur.fr.
+FAU - Marbouty, Martial
+AU  - Marbouty M
+AUID- ORCID: 0000-0002-1668-8423
+AD  - Spatial Regulation of Genomes Group, Institut Pasteur, CNRS UMR 3525, Université 
+      Paris Cité, Paris, France. martial.marbouty@pasteur.fr.
+LA  - eng
+GR  - ANR-20-CE92-0048/Agence Nationale de la Recherche (French National Research 
+      Agency)/
+GR  - ANR-20-CE92-0048/Agence Nationale de la Recherche (French National Research 
+      Agency)/
+GR  - 16-JPEC-0003-05/Agence Nationale de la Recherche (French National Research 
+      Agency)/
+GR  - FSGSK_1_2019_1_159735/Agencia Nacional de Investigación e Innovación (National 
+      Agency for Research and Innovation)/
+GR  - FSGSK_1_2019_1_159735/Agencia Nacional de Investigación e Innovación (National 
+      Agency for Research and Innovation)/
+GR  - FSGSK_1_2019_1_159735/Agencia Nacional de Investigación e Innovación (National 
+      Agency for Research and Innovation)/
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Nat Microbiol
+JT  - Nature microbiology
+JID - 101674869
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 23:50
+PHST- 2025/03/06 00:00 [received]
+PHST- 2025/08/04 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:50 [entrez]
+AID - 10.1038/s41564-025-02108-2 [pii]
+AID - 10.1038/s41564-025-02108-2 [doi]
+PST - aheadofprint
+SO  - Nat Microbiol. 2025 Sep 19. doi: 10.1038/s41564-025-02108-2.

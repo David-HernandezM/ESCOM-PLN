@@ -1,0 +1,113 @@
+PMID- 29341895
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190415
+LR  - 20190415
+IS  - 1095-6867 (Electronic)
+IS  - 0018-506X (Linking)
+VI  - 101
+DP  - 2018 May
+TI  - Prenatal paracetamol exposure and child neurodevelopment: A review.
+PG  - 125-147
+LID - S0018-506X(17)30454-3 [pii]
+LID - 10.1016/j.yhbeh.2018.01.003 [doi]
+AB  - BACKGROUND: The non-prescription medication paracetamol (acetaminophen, APAP) is 
+      currently recommended as a safe pain and fever treatment during pregnancy. 
+      However, recent studies suggest a possible association between APAP use in 
+      pregnancy and offspring neurodevelopment. OBJECTIVES: To conduct a review of 
+      publications reporting associations between prenatal APAP use and offspring 
+      neurodevelopmental outcomes. METHODS: Relevant sources were identified through a 
+      key word search of multiple databases (Medline, CINAHL, OVID and TOXNET) in 
+      September 2016. All English language observational studies of pregnancy APAP and 
+      three classes of neurodevelopmental outcomes (autism spectrum disorder (ASD), 
+      attention deficit hyperactivity disorder (ADHD), and intelligence quotient (IQ)) 
+      were included. One reviewer (AZB) independently screened all titles and 
+      abstracts, extracted and analyzed the data. RESULTS: 64 studies were retrieved 
+      and 55 were ineligible. Nine prospective cohort studies fulfilled all inclusion 
+      criteria. Data pooling was not appropriate due to heterogeneity in outcomes. All 
+      included studies suggested an association between prenatal APAP exposure and the 
+      neurodevelopmental outcomes; ADHD, ASD, or lower IQ. Longer duration of APAP use 
+      was associated with increased risk. Associations were strongest for hyperactivity 
+      and attention-related outcomes. Little modification of associations by indication 
+      for use was reported. CONCLUSIONS: Together, these nine studies suggest an 
+      increased risk of adverse neurodevelopmental outcomes following prenatal APAP 
+      exposure. Further studies are urgently needed with; precise indication of use and 
+      exposure assessment of use both in utero and in early life. Given the current 
+      findings, pregnant women should be cautioned against indiscriminate use of APAP. 
+      These results have substantial public health implications.
+CI  - Copyright © 2018 Elsevier Inc. All rights reserved.
+FAU - Bauer, Ann Z
+AU  - Bauer AZ
+AD  - Department of Public Health, University of Massachusetts, 1 University Avenue, 
+      Lowell, MA, 01854, USA. Electronic address: Ann_Bauer@uml.edu.
+FAU - Kriebel, David
+AU  - Kriebel D
+AD  - Department of Public Health, University of Massachusetts, 1 University Avenue, 
+      Lowell, MA, 01854, USA. Electronic address: David_Kriebel@uml.edu.
+FAU - Herbert, Martha R
+AU  - Herbert MR
+AD  - Department of Neurology, MGH, Harvard Medical School, A.A. Martinos Centre for 
+      Biomedical Imaging, MGH/MIT/Harvard 149 Thirteenth Street, Charlestown, MA 02129, 
+      USA.
+FAU - Bornehag, Carl-Gustaf
+AU  - Bornehag CG
+AD  - Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+      at Mount Sinai, New York City, NY 10029, USA; Department of Health Sciences, 
+      Karlstad University, Karlstad, Sweden. Electronic address: 
+      carl-gustaf.bornehag@kau.se.
+FAU - Swan, Shanna H
+AU  - Swan SH
+AD  - Department of Environmental Medicine and Public Health, Icahn School of Medicine 
+      at Mount Sinai, New York City, NY 10029, USA. Electronic address: 
+      shanna.swan@mssm.edu.
+LA  - eng
+GR  - T03 OH008424/OH/NIOSH CDC HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20180203
+PL  - United States
+TA  - Horm Behav
+JT  - Hormones and behavior
+JID - 0217764
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/adverse effects/*therapeutic use
+MH  - Attention/drug effects
+MH  - Attention Deficit Disorder with Hyperactivity/chemically induced/epidemiology
+MH  - Autism Spectrum Disorder/chemically induced/epidemiology
+MH  - Child
+MH  - Child Development/*drug effects
+MH  - Cognition/*drug effects
+MH  - Female
+MH  - Humans
+MH  - Intelligence/*drug effects
+MH  - Male
+MH  - Pregnancy
+MH  - *Prenatal Exposure Delayed Effects/chemically 
+      induced/epidemiology/physiopathology/psychology
+OTO - NOTNLM
+OT  - ADHD
+OT  - APAP
+OT  - ASD
+OT  - Acetaminophen
+OT  - Attention deficit hyperactivity disorder
+OT  - Autism
+OT  - Autism spectrum disorder
+OT  - Behavior
+OT  - Hyperactivity
+OT  - Neurodevelopment
+OT  - Paracetamol
+EDAT- 2018/01/18 06:00
+MHDA- 2019/04/16 06:00
+CRDT- 2018/01/18 06:00
+PHST- 2017/10/11 00:00 [received]
+PHST- 2017/12/09 00:00 [revised]
+PHST- 2018/01/03 00:00 [accepted]
+PHST- 2018/01/18 06:00 [pubmed]
+PHST- 2019/04/16 06:00 [medline]
+PHST- 2018/01/18 06:00 [entrez]
+AID - S0018-506X(17)30454-3 [pii]
+AID - 10.1016/j.yhbeh.2018.01.003 [doi]
+PST - ppublish
+SO  - Horm Behav. 2018 May;101:125-147. doi: 10.1016/j.yhbeh.2018.01.003. Epub 2018 Feb 
+      3.

@@ -1,0 +1,110 @@
+PMID- 40960239
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+DP  - 2025 Sep 16
+TI  - Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity 
+      Treatment.
+LID - 10.1056/NEJMoa2511774 [doi]
+AB  - BACKGROUND: Orforglipron, a small-molecule, nonpeptide oral glucagon-like 
+      peptide-1 (GLP-1) receptor agonist, is being investigated as a treatment for 
+      obesity. METHODS: In this phase 3, multinational, randomized, double-blind trial, 
+      we examined the safety and efficacy of once-daily orforglipron at doses of 6 mg, 
+      12 mg, or 36 mg, as compared with placebo (assigned in a 3:3:3:4 ratio) as an 
+      adjunct to healthy diet and physical activity for 72 weeks. All the patients had 
+      obesity without diabetes mellitus. The primary end point was the percent change 
+      in body weight from baseline to week 72, as assessed according to the 
+      treatment-regimen estimand in the intention-to-treat population. RESULTS: A total 
+      of 3127 patients underwent randomization. The mean change in body weight from 
+      baseline to week 72 was -7.5% (95% confidence interval [CI], -8.2 to -6.8) with 6 
+      mg of orforglipron, -8.4% (95% CI, -9.1 to -7.7) with 12 mg of orforglipron, and 
+      -11.2% (95% CI, -12.0 to -10.4) with 36 mg of orforglipron, as compared with 
+      -2.1% (95% CI, -2.8 to -1.4) with placebo (P<0.001 for all comparisons with 
+      placebo). Among the patients in the orforglipron 36-mg group, 54.6% had a 
+      reduction of 10% or more, 36.0% had a reduction of 15% or more, and 18.4% had a 
+      reduction of 20% or more, as compared with 12.9%, 5.9%, and 2.8% of the patients, 
+      respectively, in the placebo group. Waist circumference, systolic blood pressure, 
+      triglyceride levels, and non-HDL cholesterol levels significantly improved with 
+      orforglipron treatment as compared with placebo. Adverse events resulted in 
+      treatment discontinuation in 5.3 to 10.3% of the patients in the orforglipron 
+      groups and in 2.7% of those in the placebo group. The most common adverse events 
+      with orforglipron were gastrointestinal effects, which were mostly mild to 
+      moderate. CONCLUSIONS: In adults with obesity, 72-week treatment with 
+      orforglipron led to significantly greater reductions in body weight than placebo; 
+      the adverse-event profile was consistent with that of other GLP-1 receptor 
+      agonists. (Funded by Eli Lilly; ATTAIN-1 ClinicalTrials.gov number, 
+      NCT05869903.).
+CI  - Copyright © 2025 Massachusetts Medical Society.
+FAU - Wharton, Sean
+AU  - Wharton S
+AD  - McMaster University, Hamilton, ON, Canada.
+AD  - York University, Toronto.
+AD  - Wharton Weight Management Clinic, Burlington, ON, Canada.
+FAU - Aronne, Louis J
+AU  - Aronne LJ
+AD  - Comprehensive Weight Control Center, Division of Endocrinology, Diabetes, and 
+      Metabolism, Weill Cornell Medicine, New York.
+FAU - Stefanski, Adam
+AU  - Stefanski A
+AD  - Eli Lilly, Indianapolis.
+FAU - Alfaris, Nasreen F
+AU  - Alfaris NF
+AD  - Obesity, Endocrine, and Metabolism Center, King Fahad Medical City, Riyadh, Saudi 
+      Arabia.
+FAU - Ciudin, Andreea
+AU  - Ciudin A
+AD  - Endocrinology and Nutrition Department, Hospital Universitari Vall d'Hebron, 
+      Barcelona.
+AD  - Diabetes and Metabolism Research Unit, Vall d'Hebron Institut de Recerca, 
+      Barcelona.
+AD  - Department of Human Physiology, Universitat Autònoma de Barcelona, Barcelona.
+AD  - Centro de Investigación Biomédica en Red de Diabetes y Enfermedades Metabólicas 
+      Asociadas, Madrid.
+AD  - Instituto de Salud Carlos III, Madrid.
+FAU - Yokote, Koutaro
+AU  - Yokote K
+AD  - Chiba University, Chiba, Japan.
+FAU - Halpern, Bruno
+AU  - Halpern B
+AUID- ORCID: 0000-0003-0973-5065
+AD  - Obesity Center, Nove de Julho Hospital, São Paulo.
+FAU - Shukla, Alpana P
+AU  - Shukla AP
+AD  - Comprehensive Weight Control Center, Division of Endocrinology, Diabetes, and 
+      Metabolism, Weill Cornell Medicine, New York.
+FAU - Zhou, Chunmei
+AU  - Zhou C
+AD  - Eli Lilly, Indianapolis.
+FAU - Macpherson, Lisa
+AU  - Macpherson L
+AD  - Eli Lilly, Indianapolis.
+FAU - Allen, Sheryl E
+AU  - Allen SE
+AD  - Eli Lilly, Indianapolis.
+FAU - Ahmad, Nadia N
+AU  - Ahmad NN
+AD  - Eli Lilly, Indianapolis.
+FAU - Klise, Suzanne R
+AU  - Klise SR
+AD  - Eli Lilly, Indianapolis.
+CN  - ATTAIN-1 Trial Investigators
+LA  - eng
+SI  - ClinicalTrials.gov/NCT05869903
+PT  - Journal Article
+DEP - 20250916
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+EDAT- 2025/09/17 12:46
+MHDA- 2025/09/17 12:46
+CRDT- 2025/09/17 08:33
+PHST- 2025/09/17 12:46 [medline]
+PHST- 2025/09/17 12:46 [pubmed]
+PHST- 2025/09/17 08:33 [entrez]
+AID - 10.1056/NEJMoa2511774 [doi]
+PST - aheadofprint
+SO  - N Engl J Med. 2025 Sep 16. doi: 10.1056/NEJMoa2511774.

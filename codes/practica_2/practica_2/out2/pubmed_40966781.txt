@@ -1,0 +1,131 @@
+PMID- 40966781
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 5
+TI  - Yiqi Xugu HeJi restores cartilage metabolic homeostasis via AKT1-Thr473 
+      activation in osteoarthritis.
+PG  - 157228
+LID - S0944-7113(25)00867-0 [pii]
+LID - 10.1016/j.phymed.2025.157228 [doi]
+AB  - BACKGROUND: Osteoarthritis (OA) is a degenerative joint disease marked by 
+      cartilage degradation, inflammation, and changes in subchondral bone structure. 
+      Despite its widespread use in treating OA, the mechanisms of traditional Chinese 
+      medicine (TCM) are not well understood. PURPOSE: This study aimed to explore the 
+      bioactive components and therapeutic mechanism of Yiqi Xugu HeJi (YQXGHJ), a 
+      classic TCM prescription, in alleviating OA progression. METHODS: A 
+      destabilization of the medial meniscus (DMM)-induced OA rat model was established 
+      to evaluate the protective effects of YQXGHJ. Liquid Chromatography-Tandem Mass 
+      Spectrometry (LC-MS/MS) identified serum-absorbed compounds, while network 
+      pharmacology and molecular docking predicted potential targets. Cellular and 
+      molecular validation, including CCK-8, EdU, flow cytometry, qPCR, Western 
+      blotting, immunofluorescence, and Transwell assays, were performed in 
+      IL-1β-induced chondrocyte inflammation models. Key signaling pathways were 
+      verified using the AKT inhibitor MK2206. RESULTS: YQXGHJ significantly alleviated 
+      cartilage degeneration and subchondral bone sclerosis in DMM rats. In vitro, 
+      YQXGHJ-containing serum promoted chondrocyte proliferation, suppressed apoptosis, 
+      and restored the balance between anabolic (COL2A1, SOX9) and catabolic (MMP13, 
+      IL-6) markers. Network pharmacology and docking pinpointed AKT1 as a central 
+      target, with KEGG analysis emphasizing the PI3K-AKT pathway. Western blot and 
+      immunofluorescence confirmed that YQXGHJ activated PI3K/AKT signaling and 
+      enhanced phosphorylation at the AKT1-T473 site. Inhibition of AKT1 
+      phosphorylation by MK2206 abolished these protective effects, confirming pathway 
+      specificity. CONCLUSION: YQXGHJ mitigates OA progression by reestablishing 
+      cartilage metabolic balance through the activation of the PI3K/AKT signaling 
+      pathway, specifically enhancing AKT1-T473 phosphorylation. This study provides a 
+      pharmacological and mechanistic foundation for the clinical use of YQXGHJ in 
+      treating OA.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Wu, Zugui
+AU  - Wu Z
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China; Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital 
+      (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou 
+      510000, China.
+FAU - Xu, Huazhen
+AU  - Xu H
+AD  - Scientific Research Center, The Seventh Affliated Hospital of Sun Yat-sen 
+      University, Shenzhen 518107, China.
+FAU - Qiao, Bo
+AU  - Qiao B
+AD  - College of Basic Medicine, Yunnan University of Chinese Medicine, Yunnan 
+      Provincial Key Laboratory of Integrated Traditional Chinese and Western Medicine 
+      for Chronic Disease in Prevention and Treatment, Kunming 650000, China.
+FAU - Zhu, Yue
+AU  - Zhu Y
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China.
+FAU - Yuan, Rong
+AU  - Yuan R
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China.
+FAU - Wu, Zhiwei
+AU  - Wu Z
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China.
+FAU - Li, Shixian
+AU  - Li S
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China.
+FAU - Li, Jiao
+AU  - Li J
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China.
+FAU - Xu, Yanfei
+AU  - Xu Y
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China. Electronic address: 254229226@qq.com.
+FAU - Dong, Wei
+AU  - Dong W
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China. Electronic address: dongweiky@sina.com.
+FAU - Guo, Ying
+AU  - Guo Y
+AD  - The Third Clinical College of Yunnan University of Chinese Medicine, The Third 
+      Affiliated Hospital of Yunnan University of Chinese Medicine, Kunming 650000, 
+      China. Electronic address: gy1200@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250905
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - AKT1 phosphorylation
+OT  - Chondrocyte metabolic homeostasis
+OT  - Osteoarthritis
+OT  - Traditional Chinese medicine
+OT  - Yiqi Xugu HeJi
+COIS- Declaration of competing interest We declare that we have no fimancial and 
+      personal relationships with other people or organizations that caninappropriately 
+      influence our work, there is no professional or other personal interest of any 
+      nature or kind in anyproduct, service and/or company that could be construed as 
+      influencing the position presented in, or the review of the manuscript “Yiqi Xugu 
+      HeJi Restores Cartilage Metabolic Homeostasis via AKT1-Thr473 Activation in 
+      Osteoarthritis”entitled.
+EDAT- 2025/09/18 18:33
+MHDA- 2025/09/18 18:33
+CRDT- 2025/09/18 17:59
+PHST- 2025/05/21 00:00 [received]
+PHST- 2025/08/16 00:00 [revised]
+PHST- 2025/09/03 00:00 [accepted]
+PHST- 2025/09/18 18:33 [medline]
+PHST- 2025/09/18 18:33 [pubmed]
+PHST- 2025/09/18 17:59 [entrez]
+AID - S0944-7113(25)00867-0 [pii]
+AID - 10.1016/j.phymed.2025.157228 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 5;148:157228. doi: 10.1016/j.phymed.2025.157228.

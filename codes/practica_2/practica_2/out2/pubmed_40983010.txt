@@ -1,0 +1,250 @@
+PMID- 40983010
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1532-2157 (Electronic)
+IS  - 0748-7983 (Linking)
+VI  - 51
+IP  - 11
+DP  - 2025 Sep 17
+TI  - AGO Breast Commission recommendations for the surgical therapy of breast cancer: 
+      Working Group on Gynecologic Cancers (AGO) update 2025.
+PG  - 110445
+LID - S0748-7983(25)00873-X [pii]
+LID - 10.1016/j.ejso.2025.110445 [doi]
+AB  - The German Guideline Commission (AGO: Working Group on Gynecologic Cancers) 
+      updated its recommendations on the diagnosis and treatment of breast cancer in 
+      March 2025. Chapters on oncological and oncoplastic-reconstructive surgery are 
+      coordinated with the Working Group for Plastic, Aesthetic, and Reconstructive 
+      Surgery in Gynecology (AWOgyn). The most important changes include the 
+      incorporation of INSEMA and SOUND trial results into the guidelines. In patients 
+      with low-risk characteristics, defined as age ≥50 years, postmenopausal status, 
+      hormone receptor-positive/HER2-negative subtype, tumor grading G1-2 with a 
+      maximum preoperative size of 2 cm, and unsuspicious axillary ultrasound and 
+      clinical examination, the sentinel lymph node biopsy (SLNB) can be omitted if 
+      breast-conserving surgery and whole-breast irradiation are planned. In patients 
+      with 1-2 macrometastatic sentinel lymph nodes (SLNs) undergoing a mastectomy and 
+      postoperative irradiation, completion axillary lymph node dissection (ALND) is no 
+      longer recommended. After neoadjuvant systemic therapy (NST), ALND is recommended 
+      if the targeted axillary dissection (TAD) shows macrometastases in the sentinel 
+      and/or in the target lymph node (the node that was marked and had a 
+      macrometastasis in the biopsy before NST). Patients with isolated tumor cells in 
+      the sentinel and/or target lymph node should not receive ALND after NST. In case 
+      of ypN1mi status, the decision to perform a completion ALND should be made on a 
+      case-by-case basis. Oncoplastic surgery is safe and may replace a mastectomy in 
+      select cases.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Reimer, Toralf
+AU  - Reimer T
+AD  - Universitätsfrauenklinik und Poliklinik Am Klinikum Südstadt, Rostock, Germany. 
+      Electronic address: toralf.reimer@med.uni-rostock.de.
+FAU - Kuehn, Thorsten
+AU  - Kuehn T
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Universitätsklinikum Ulm, Germany; 
+      Filderklinik, Filderstadt, Germany.
+FAU - Mueller, Volkmar
+AU  - Mueller V
+AD  - Klinik und Poliklinik für Gynäkologie, Universitätsklinikum Hamburg-Eppendorf, 
+      Hamburg, Germany.
+FAU - Ditsch, Nina
+AU  - Ditsch N
+AD  - Gynecology, Obstetrics and Senology, Faculty of Medicine, University of Augsburg, 
+      Breast Center, University Hospital Augsburg, CCC Alliance WERA, Augsburg, 
+      Germany.
+FAU - Fehm, Tanja
+AU  - Fehm T
+AD  - Klinik für Gynäkologie und Geburtshilfe, Universitätsklinikum Düsseldorf, 
+      Germany.
+FAU - Albert, Ute-Susann
+AU  - Albert US
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Universitätsklinikum Würzburg, 
+      Germany.
+FAU - Bartsch, Rupert
+AU  - Bartsch R
+AD  - Universitätsklinik für Innere Medizin I, Klinische Abteilung für Onkologie, 
+      Medizinische Universität Wien, Austria.
+FAU - Bauerfeind, Ingo
+AU  - Bauerfeind I
+AD  - Frauenklinik, Klinikum Landshut AdöR, Germany.
+FAU - Bjelic-Radisic, Vesna
+AU  - Bjelic-Radisic V
+AD  - Abteilung für Senologie, Landesfrauenklinik, Helios Universitätsklinikum 
+      Wuppertal, Universität Witten/Herdecke, Germany.
+FAU - Blohmer, Jens-Uwe
+AU  - Blohmer JU
+AD  - Klinik für Gynäkologie Mit Brustzentrum, Charité-Universitätsmedizin Berlin- 
+      Campus Charité Mitte, Germany.
+FAU - Budach, Wilfried
+AU  - Budach W
+AD  - Klinik für Strahlentherapie und Radioonkologie Düsseldorf, Universitätsklinikum 
+      Düsseldorf, Germany.
+FAU - Dall, Peter
+AU  - Dall P
+AD  - Frauenklinik, Städtisches Klinikum Lüneburg, Germany.
+FAU - Fallenberg, Eva Maria
+AU  - Fallenberg EM
+AD  - Institut für Klinische Radiologie, Klinikum der Universität München Campus 
+      Großhadern, Germany.
+FAU - Fasching, Peter A
+AU  - Fasching PA
+AD  - Frauenklinik, Universitätsklinikum Erlangen, Germany.
+FAU - Friedrich, Michael
+AU  - Friedrich M
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Helios Klinikum Krefeld, Germany.
+FAU - Gerber, Bernd
+AU  - Gerber B
+AD  - Universitätsfrauenklinik und Poliklinik Am Klinikum Südstadt, Rostock, Germany.
+FAU - Gluz, Oleg
+AU  - Gluz O
+AD  - Brustzentrum, Evang. Krankenhaus Bethesda, Mönchengladbach, Germany.
+FAU - Harbeck, Nadia
+AU  - Harbeck N
+AD  - Brustzentrum, Klinik für Gynäkologie und Geburtshilfe und CCC Munich, LMU 
+      Klinikum, München, Germany.
+FAU - Hartkopf, Andreas
+AU  - Hartkopf A
+AD  - Department für Frauengesundheit, Forschungsinstitut für Frauengesundheit, 
+      Universitätsfrauenklinik, Tübingen, Germany.
+FAU - Heil, Joerg
+AU  - Heil J
+AD  - Brustzentrum Heidelberg, Klinik St. Elisabeth, Heidelberg, Germany.
+FAU - Hoerner-Rieber, Juliane
+AU  - Hoerner-Rieber J
+AD  - Klinik für Strahlentherapie und Radioonkologie Düsseldorf, Universitätsklinikum 
+      Düsseldorf, Germany.
+FAU - Huober, Jens
+AU  - Huober J
+AD  - Brustzentrum, Kantonspital St. Gallen, Switzerland.
+FAU - Janni, Wolfgang
+AU  - Janni W
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Universitätsklinikum Ulm, Germany.
+FAU - Kreipe, Hans-Heinrich
+AU  - Kreipe HH
+AD  - Institut für Pathologie, Medizinische Hochschule Hannover, Germany.
+FAU - Krug, David
+AU  - Krug D
+AD  - Klinik für Strahlentherapie, Universitätsklinikum Schleswig-Holstein, Campus 
+      Kiel, Germany; Klinik für Strahlentherapie und Radioonkologie, 
+      Universitätsklinikum Hamburg-Eppendorf, Germany.
+FAU - Kuemmel, Sherko
+AU  - Kuemmel S
+AD  - Klinik für Senologie, Evangelische Kliniken Essen Mitte, Germany.
+FAU - Loibl, Sibylle
+AU  - Loibl S
+AD  - German Breast Group Forschungs GmbH, Neu-Isenburg, Germany.
+FAU - Lueftner, Diana
+AU  - Lueftner D
+AD  - Immanuel Hospital Märkische Schweiz, Buckow & Immanuel Hospital 
+      Rüdersdorf/Medical University of Brandenburg Theodor Fontane, Rüdersdorf, 
+      Germany.
+FAU - Lux, Michael Patrick
+AU  - Lux MP
+AD  - Kooperatives Brustzentrum Paderborn, Klinik für Gynäkologie und Geburtshilfe, 
+      Frauenklinik St. Louise, Paderborn, St. Josefs-Krankenhaus, Salzkotten, St. 
+      Vincenz Kliniken GmbH, Germany.
+FAU - Maass, Nicolai
+AU  - Maass N
+AD  - Klinik für Gynäkologie und Geburtshilfe, Universitätsklinikum Schleswig-Holstein, 
+      Campus Kiel, Germany.
+FAU - Mundhenke, Christoph
+AU  - Mundhenke C
+AD  - Klinik für Gynäkologie und Geburtshilfe, Klinikum Bayreuth, Germany.
+FAU - Park-Simon, Tjoung-Won
+AU  - Park-Simon TW
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Medizinische Hochschule Hannover, 
+      Germany.
+FAU - Reinisch, Mattea
+AU  - Reinisch M
+AD  - Interdisciplinary Breast Center, University Medical Center Mannheim, Mannheim, 
+      Germany.
+FAU - Rhiem, Kerstin
+AU  - Rhiem K
+AD  - Zentrum Familiärer Brust- und Eierstockkrebs, Universitätsklinikum Köln, Germany.
+FAU - Rody, Achim
+AU  - Rody A
+AD  - Klinik für Gynäkologie und Geburtshilfe, Universitätsklinikum Schleswig-Holstein, 
+      Campus Lübeck, Germany.
+FAU - Schmidt, Marcus
+AU  - Schmidt M
+AD  - Klinik und Poliklinik für Geburtshilfe und Frauengesundheit der 
+      Johannes-Gutenberg-Universität Mainz, Germany.
+FAU - Schneeweiss, Andreas
+AU  - Schneeweiss A
+AD  - Nationales Centrum für Tumorerkrankungen, Universitätsklinikum und Deutsches 
+      Krebsforschungszentrum, Heidelberg, Germany.
+FAU - Schuetz, Florian
+AU  - Schuetz F
+AD  - Klinik für Gynäkologie und Geburtshilfe, Diakonissen Krankenhaus Speyer, Germany.
+FAU - Sinn, Hans-Peter
+AU  - Sinn HP
+AD  - Sektion Gynäkopathologie, Pathologisches Institut, Universitätsklinikum 
+      Heidelberg, Germany.
+FAU - Solbach, Christine
+AU  - Solbach C
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Universitätsklinikum Frankfurt, 
+      Germany.
+FAU - Solomayer, Erich-Franz
+AU  - Solomayer EF
+AD  - Klinik für Frauenheilkunde, Geburtshilfe und Reproduktionsmedizin, 
+      Universitätsklinikum des Saarlandes, Germany.
+FAU - Stickeler, Elmar
+AU  - Stickeler E
+AD  - Klinik für Gynäkologie und Geburtsmedizin, Universitätsklinikum Aachen, Germany.
+FAU - Thomssen, Christoph
+AU  - Thomssen C
+AD  - Martin-Luther-Universität Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Untch, Michael
+AU  - Untch M
+AD  - Klinik für Gynäkologie und Geburtshilfe, Helios Klinikum Berlin-Buch, Germany.
+FAU - van Mackelenbergh, Marion
+AU  - van Mackelenbergh M
+AD  - Klinik für Gynäkologie und Geburtshilfe, Universitätsklinikum Schleswig-Holstein, 
+      Campus Kiel, Germany.
+FAU - Witzel, Isabell
+AU  - Witzel I
+AD  - Department of Gynecology, Universitätsspital Zürich, University of Zurich, 
+      Switzerland.
+FAU - Woeckel, Achim
+AU  - Woeckel A
+AD  - Klinik für Frauenheilkunde und Geburtshilfe, Universitätsklinikum Würzburg, 
+      Germany.
+FAU - Wuerstlein, Rachel
+AU  - Wuerstlein R
+AD  - Brustzentrum, Klinik für Gynäkologie und Geburtshilfe und CCC Munich, LMU 
+      Klinikum, München, Germany.
+FAU - Banys-Paluchowski, Maggie
+AU  - Banys-Paluchowski M
+AD  - Klinik für Gynäkologie und Geburtshilfe, Universitätsklinikum Schleswig-Holstein, 
+      Campus Lübeck, Germany.
+FAU - Thill, Marc
+AU  - Thill M
+AD  - Klinik für Gynäkologie und Gynäkologische Onkologie, Agaplesion Markus 
+      Krankenhaus, Frankfurt, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250917
+PL  - England
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of 
+      Surgical Oncology and the British Association of Surgical Oncology
+JID - 8504356
+SB  - IM
+OTO - NOTNLM
+OT  - Axillary surgery
+OT  - Breast cancer
+OT  - Breast surgery
+OT  - Guidelines
+OT  - Oncoplastic breast surgery
+EDAT- 2025/09/22 18:38
+MHDA- 2025/09/22 18:38
+CRDT- 2025/09/22 18:00
+PHST- 2025/09/09 00:00 [received]
+PHST- 2025/09/13 00:00 [accepted]
+PHST- 2025/09/22 18:38 [medline]
+PHST- 2025/09/22 18:38 [pubmed]
+PHST- 2025/09/22 18:00 [entrez]
+AID - S0748-7983(25)00873-X [pii]
+AID - 10.1016/j.ejso.2025.110445 [doi]
+PST - aheadofprint
+SO  - Eur J Surg Oncol. 2025 Sep 17;51(11):110445. doi: 10.1016/j.ejso.2025.110445.

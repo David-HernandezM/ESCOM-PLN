@@ -1,0 +1,142 @@
+PMID- 38592388
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240410
+LR  - 20241010
+IS  - 1538-3598 (Electronic)
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 331
+IP  - 14
+DP  - 2024 Apr 9
+TI  - Acetaminophen Use During Pregnancy and Children's Risk of Autism, ADHD, and 
+      Intellectual Disability.
+PG  - 1205-1214
+LID - 10.1001/jama.2024.3172 [doi]
+AB  - IMPORTANCE: Several studies suggest that acetaminophen (paracetamol) use during 
+      pregnancy may increase risk of neurodevelopmental disorders in children. If true, 
+      this would have substantial implications for management of pain and fever during 
+      pregnancy. OBJECTIVE: To examine the associations of acetaminophen use during 
+      pregnancy with children's risk of autism, attention-deficit/hyperactivity 
+      disorder (ADHD), and intellectual disability. DESIGN, SETTING, AND PARTICIPANTS: 
+      This nationwide cohort study with sibling control analysis included a 
+      population-based sample of 2 480 797 children born in 1995 to 2019 in Sweden, 
+      with follow-up through December 31, 2021. EXPOSURE: Use of acetaminophen during 
+      pregnancy prospectively recorded from antenatal and prescription records. MAIN 
+      OUTCOMES AND MEASURES: Autism, ADHD, and intellectual disability based on 
+      International Classification of Diseases, Ninth Revision and International 
+      Classification of Diseases, Tenth Revision codes in health registers. RESULTS: In 
+      total, 185 909 children (7.49%) were exposed to acetaminophen during pregnancy. 
+      Crude absolute risks at 10 years of age for those not exposed vs those exposed to 
+      acetaminophen were 1.33% vs 1.53% for autism, 2.46% vs 2.87% for ADHD, and 0.70% 
+      vs 0.82% for intellectual disability. In models without sibling control, ever-use 
+      vs no use of acetaminophen during pregnancy was associated with marginally 
+      increased risk of autism (hazard ratio [HR], 1.05 [95% CI, 1.02-1.08]; risk 
+      difference [RD] at 10 years of age, 0.09% [95% CI, -0.01% to 0.20%]), ADHD (HR, 
+      1.07 [95% CI, 1.05-1.10]; RD, 0.21% [95% CI, 0.08%-0.34%]), and intellectual 
+      disability (HR, 1.05 [95% CI, 1.00-1.10]; RD, 0.04% [95% CI, -0.04% to 0.12%]). 
+      To address unobserved confounding, matched full sibling pairs were also analyzed. 
+      Sibling control analyses found no evidence that acetaminophen use during 
+      pregnancy was associated with autism (HR, 0.98 [95% CI, 0.93-1.04]; RD, 0.02% 
+      [95% CI, -0.14% to 0.18%]), ADHD (HR, 0.98 [95% CI, 0.94-1.02]; RD, -0.02% [95% 
+      CI, -0.21% to 0.15%]), or intellectual disability (HR, 1.01 [95% CI, 0.92-1.10]; 
+      RD, 0% [95% CI, -0.10% to 0.13%]). Similarly, there was no evidence of a 
+      dose-response pattern in sibling control analyses. For example, for autism, 
+      compared with no use of acetaminophen, persons with low (<25th percentile), 
+      medium (25th-75th percentile), and high (>75th percentile) mean daily 
+      acetaminophen use had HRs of 0.85, 0.96, and 0.88, respectively. CONCLUSIONS AND 
+      RELEVANCE: Acetaminophen use during pregnancy was not associated with children's 
+      risk of autism, ADHD, or intellectual disability in sibling control analysis. 
+      This suggests that associations observed in other models may have been 
+      attributable to familial confounding.
+FAU - Ahlqvist, Viktor H
+AU  - Ahlqvist VH
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Sjöqvist, Hugo
+AU  - Sjöqvist H
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Dalman, Christina
+AU  - Dalman C
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Karlsson, Håkan
+AU  - Karlsson H
+AD  - Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+FAU - Stephansson, Olof
+AU  - Stephansson O
+AD  - Clinical Epidemiology Division, Department of Medicine, Solna, Karolinska 
+      Institutet, Stockholm, Sweden.
+AD  - Department of Women's Health, Division of Obstetrics, Karolinska University 
+      Hospital, Stockholm, Sweden.
+FAU - Johansson, Stefan
+AU  - Johansson S
+AD  - Clinical Epidemiology Division, Department of Medicine, Solna, Karolinska 
+      Institutet, Stockholm, Sweden.
+AD  - Department of Neonatology, Sachs' Children and Youth Hospital, Stockholm, Sweden.
+FAU - Magnusson, Cecilia
+AU  - Magnusson C
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+AD  - Centre for Epidemiology and Community Medicine, Region Stockholm, Stockholm, 
+      Sweden.
+FAU - Gardner, Renee M
+AU  - Gardner RM
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Lee, Brian K
+AU  - Lee BK
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+AD  - Department of Epidemiology and Biostatistics, Drexel University Dornsife School 
+      of Public Health, Philadelphia, Pennsylvania.
+AD  - A.J. Drexel Autism Institute, Drexel University, Philadelphia, Pennsylvania.
+LA  - eng
+GR  - R01 NS107607/NS/NINDS NIH HHS/United States
+GR  - P50 HD111142/HD/NICHD NIH HHS/United States
+GR  - R01 NS131433/NS/NINDS NIH HHS/United States
+PT  - Clinical Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - JAMA
+JT  - JAMA
+JID - 7501160
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CIN - JAMA. 2024 Jul 23;332(4):338-339. doi: 10.1001/jama.2024.10704. PMID: 38958987
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - *Acetaminophen/adverse effects
+MH  - *Attention Deficit Disorder with Hyperactivity/chemically induced/epidemiology
+MH  - *Autistic Disorder/chemically induced/epidemiology
+MH  - Cohort Studies
+MH  - Confounding Factors, Epidemiologic
+MH  - Follow-Up Studies
+MH  - *Intellectual Disability/chemically induced/epidemiology
+MH  - Neurodevelopmental Disorders/chemically induced/epidemiology
+MH  - *Prenatal Exposure Delayed Effects/chemically induced/epidemiology
+MH  - Sweden/epidemiology
+PMC - PMC11004836
+COIS- Conflict of Interest Disclosures: Dr Johansson reported being a founder of 
+      Neobiomics AB, a startup company located at the Karolinska Campus that works with 
+      niche food supplement solutions for infants. Dr Gardner reported receiving grants 
+      from Swedish Research Council during the conduct of the study. Dr Lee reported 
+      receiving personal fees from Beasley Allen Law Firm, Patterson Belknap Webb & 
+      Tyler LLP, and AlphaSights and grants from NIH (1R01NS107607) during the conduct 
+      of the study and grants from NIH (1P50HD11142-01, 3 P50HD111142-02S1, 1 R01 
+      NS131433-01), Pennsylvania Department of Human Services, US Department of 
+      Defense, and Pennsylvania Department of Health CURE SAP (# 410008574)7 outside 
+      the submitted work. No other disclosures were reported.
+EDAT- 2024/04/09 12:44
+MHDA- 2024/04/10 06:42
+PMCR- 2024/10/09
+CRDT- 2024/04/09 11:06
+PHST- 2024/04/10 06:42 [medline]
+PHST- 2024/04/09 12:44 [pubmed]
+PHST- 2024/04/09 11:06 [entrez]
+PHST- 2024/10/09 00:00 [pmc-release]
+AID - 2817406 [pii]
+AID - joi240031 [pii]
+AID - 10.1001/jama.2024.3172 [doi]
+PST - ppublish
+SO  - JAMA. 2024 Apr 9;331(14):1205-1214. doi: 10.1001/jama.2024.3172.

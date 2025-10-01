@@ -1,0 +1,153 @@
+PMID- 40975746
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1476-5403 (Electronic)
+IS  - 1350-9047 (Linking)
+DP  - 2025 Sep 20
+TI  - Male specific conserved LncRNA TSCL1 regulated target mRNA translation by 
+      interaction with PIWIL1.
+LID - 10.1038/s41418-025-01583-8 [doi]
+AB  - Long non-coding RNAs (lncRNAs) play crucial roles in diverse mammalian 
+      physiological processes, yet their functions in spermatogenesis remain largely 
+      underexplored. Here, we identify a unique class of conserved haploid 
+      spermatid-associated lncRNAs (cHS-LncRNAs) defined by sequence conservation, 
+      testis-restricted expression, and elevated levels in haploid spermatids. Among 
+      these, testis-specific conserved lncRNA 1 (Tscl1) is the most highly expressed in 
+      round spermatids. Tscl1-null male mice exhibit reduced sperm motility, 
+      disorganized mitochondrial sheaths, abnormal fatty acid metabolism, and complete 
+      infertility. Mechanistically, Tscl1 directly binds PIWIL1 and HuR via its 5' 
+      stem-loop and multiple AU-rich elements, respectively. This interaction promotes 
+      assembly of a PIWIL1/eIF3f/HuR/eIF4G3 complex that enhances translation of 
+      fatty-acid-metabolism-related mRNAs within the chromatoid body. Notably, TSCL1 
+      variants disrupting the PIWIL1-binding region are significantly enriched in 
+      patients with non-obstructive azoospermia (NOA) compared to fertile controls. 
+      Collectively, our findings uncover a critical role for Tscl1 in modulating 
+      translation during spermiogenesis and implicate TSCL1 as a potential pathogenic 
+      locus in human male infertility.
+CI  - © 2025. The Author(s), under exclusive licence to ADMC Associazione 
+      Differenziamento e Morte Cellulare.
+FAU - Lu, Shuai
+AU  - Lu S
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+AD  - Changzhou maternal and Child Health Care Hospital, Changzhou Medical Center, 
+      Nanjing Medical University; Changzhou Key Laboratory of Maternal and Child Health 
+      Medicine, Changzhou, China.
+FAU - Li, Yang
+AU  - Li Y
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Li, Chenmeijie
+AU  - Li C
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Zou, Zhongyu
+AU  - Zou Z
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Xu, Xiaoxi
+AU  - Xu X
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Zhu, Shijie
+AU  - Zhu S
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Yang, Beibei
+AU  - Yang B
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Tang, Gaoming
+AU  - Tang G
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Chen, Haoran
+AU  - Chen H
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Wang, Yuchen
+AU  - Wang Y
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Li, Feng
+AU  - Li F
+AUID- ORCID: 0000-0001-6586-7295
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+FAU - Qin, Na
+AU  - Qin N
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Wang, Cheng
+AU  - Wang C
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Shen, Hongbing
+AU  - Shen H
+AUID- ORCID: 0000-0002-2581-5906
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Hu, Zhibin
+AU  - Hu Z
+AUID- ORCID: 0000-0002-8277-5234
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China. zhibin_hu@njmu.edu.cn.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China. zhibin_hu@njmu.edu.cn.
+FAU - Gu, Yayun
+AU  - Gu Y
+AUID- ORCID: 0000-0002-6893-311X
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Nanjing 
+      Medical University, Nanjing, Jiangsu, China. yayungu@njmu.edu.cn.
+AD  - Department of Epidemiology, Center for Global Health, School of Public Health, 
+      Nanjing Medical University, Nanjing, Jiangsu, China. yayungu@njmu.edu.cn.
+AD  - Changzhou maternal and Child Health Care Hospital, Changzhou Medical Center, 
+      Nanjing Medical University; Changzhou Key Laboratory of Maternal and Child Health 
+      Medicine, Changzhou, China. yayungu@njmu.edu.cn.
+AD  - Reproductive Genetic Centre, The Affiliated Suzhou Hospital of Nanjing Medical 
+      University, Gusu School, Innovation Center of Suzhou Nanjing Medical University, 
+      Suzhou, Jiangsu, China. yayungu@njmu.edu.cn.
+LA  - eng
+GR  - 32300720/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 2022YFC2702500/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Cell Death Differ
+JT  - Cell death and differentiation
+JID - 9437445
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethics approval 
+      and consent to participate: Animal work performed in this study was approved by 
+      the Institution of Animal Care and Use Committee of Nanjing Medical University 
+      (Approval No. IACUC-1601117). All methods and experimental protocols on human 
+      participants were carried out in compliance with the Declaration of Helsinki and 
+      approved by the relevant review of the Ethics Committee of Nanjing Medical 
+      University No. 363 (2023). Written informed consent was obtained from all 
+      participants.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 23:15
+PHST- 2024/12/18 00:00 [received]
+PHST- 2025/09/10 00:00 [accepted]
+PHST- 2025/08/21 00:00 [revised]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 23:15 [entrez]
+AID - 10.1038/s41418-025-01583-8 [pii]
+AID - 10.1038/s41418-025-01583-8 [doi]
+PST - aheadofprint
+SO  - Cell Death Differ. 2025 Sep 20. doi: 10.1038/s41418-025-01583-8.

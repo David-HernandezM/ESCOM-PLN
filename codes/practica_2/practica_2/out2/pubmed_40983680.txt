@@ -1,0 +1,219 @@
+PMID- 40983680
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2522-5812 (Electronic)
+IS  - 2522-5812 (Linking)
+DP  - 2025 Sep 22
+TI  - The Neurolipid Atlas: a lipidomics resource for neurodegenerative diseases.
+LID - 10.1038/s42255-025-01365-z [doi]
+AB  - Lipid alterations in the brain have been implicated in many neurodegenerative 
+      diseases. To facilitate comparative lipidomic research across brain diseases, we 
+      establish a data common named the Neurolipid Atlas that we prepopulated with 
+      isogenic induced pluripotent stem cell (iPS cell)-derived lipidomics data for 
+      different brain diseases. Additionally, the resource contains lipidomics data of 
+      human and mouse brain tissue. Leveraging multiple datasets, we demonstrate that 
+      iPS cell-derived neurons, microglia and astrocytes exhibit distinct lipid 
+      profiles that recapitulate in vivo lipotypes. Notably, the Alzheimer disease (AD) 
+      risk gene ApoE4 drives cholesterol ester (CE) accumulation specifically in human 
+      astrocytes and we also observe CE accumulation in whole-brain lipidomics from 
+      persons with AD. Multiomics interrogation of iPS cell-derived astrocytes revealed 
+      that altered cholesterol metabolism has a major role in astrocyte immune pathways 
+      such as the immunoproteasome and major histocompatibility complex class I antigen 
+      presentation. Our data commons, available online ( https://neurolipidatlas.com/ 
+      ), allows for data deposition by the community and provides a user-friendly tool 
+      and knowledge base for a better understanding of lipid dyshomeostasis in 
+      neurodegenerative diseases.
+CI  - © 2025. The Author(s).
+FAU - Feringa, Femke M
+AU  - Feringa FM
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands.
+FAU - Koppes-den Hertog, Sascha J
+AU  - Koppes-den Hertog SJ
+AUID- ORCID: 0000-0002-7372-8946
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands.
+AD  - Alzheimer Center Amsterdam, Department of Neurology, Amsterdam University Medical 
+      Center, Amsterdam Neuroscience, Amsterdam, The Netherlands.
+FAU - Wang, Lian Y
+AU  - Wang LY
+AUID- ORCID: 0009-0006-0509-6680
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands.
+FAU - Derks, Rico J E
+AU  - Derks RJE
+AUID- ORCID: 0000-0002-8920-7133
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands.
+FAU - Kruijff, Iris
+AU  - Kruijff I
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands.
+AD  - Alzheimer Center Amsterdam, Department of Neurology, Amsterdam University Medical 
+      Center, Amsterdam Neuroscience, Amsterdam, The Netherlands.
+FAU - Erlebach, Lena
+AU  - Erlebach L
+AUID- ORCID: 0000-0002-9077-8689
+AD  - German Center for Neurodegenerative Diseases (DZNE) Tübingen, Tübingen, Germany.
+AD  - Department of Cellular Neurology, Hertie Institute for Clinical Brain Research, 
+      University of Tübingen, Tübingen, Germany.
+FAU - Heijneman, Jorin
+AU  - Heijneman J
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands.
+AD  - Alzheimer Center Amsterdam, Department of Neurology, Amsterdam University Medical 
+      Center, Amsterdam Neuroscience, Amsterdam, The Netherlands.
+FAU - Miramontes, Ricardo
+AU  - Miramontes R
+AD  - Department of Psychiatry and Human Behavior, University of California, Irvine, 
+      Irvine, CA, USA.
+AD  - Department of Neurobiology and Behavior, University of California, Irvine, 
+      Irvine, CA, USA.
+AD  - Institute for Memory Impairments and Neurological Disorders, University of 
+      California, Irvine, Irvine, CA, USA.
+FAU - Pömpner, Nadine
+AU  - Pömpner N
+AD  - Leibniz Institute on Aging, Fritz Lipmann Institute, Jena, Germany.
+FAU - Blomberg, Niek
+AU  - Blomberg N
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands.
+FAU - Olivier-Jimenez, Damien
+AU  - Olivier-Jimenez D
+AUID- ORCID: 0000-0002-6363-0857
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands.
+FAU - Johansen, Lill Eva
+AU  - Johansen LE
+AUID- ORCID: 0000-0003-2187-6709
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands.
+FAU - Cammack, Alexander J
+AU  - Cammack AJ
+AD  - Department of Neurodegenerative Disease, Queen Square Institute of Neurology, 
+      University College London, London, UK.
+AD  - UK Dementia Research Institute, University College London, London, UK.
+FAU - Giblin, Ashling
+AU  - Giblin A
+AD  - UK Dementia Research Institute, University College London, London, UK.
+AD  - Institute of Healthy Ageing, University College London, London, UK.
+FAU - Toomey, Christina E
+AU  - Toomey CE
+AUID- ORCID: 0000-0002-5146-3326
+AD  - Department of Neurodegenerative Disease, Queen Square Institute of Neurology, 
+      University College London, London, UK.
+FAU - Rose, Indigo V L
+AU  - Rose IVL
+AUID- ORCID: 0000-0003-0491-1269
+AD  - Institute for Neurodegenerative Diseases, University of California, San 
+      Francisco, San Francisco, CA, USA.
+AD  - Neuroscience Graduate Program, University of California, San Francisco, San 
+      Francisco, CA, USA.
+FAU - Yuan, Hebao
+AU  - Yuan H
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, MD, USA.
+FAU - Ward, Michael E
+AU  - Ward ME
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, MD, USA.
+FAU - Isaacs, Adrian M
+AU  - Isaacs AM
+AD  - Department of Neurodegenerative Disease, Queen Square Institute of Neurology, 
+      University College London, London, UK.
+AD  - UK Dementia Research Institute, University College London, London, UK.
+FAU - Kampmann, Martin
+AU  - Kampmann M
+AUID- ORCID: 0000-0002-3819-7019
+AD  - Institute for Neurodegenerative Diseases, University of California, San 
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Biochemistry and Biophysics, University of California, San 
+      Francisco, San Francisco, CA, USA.
+FAU - Kronenberg-Versteeg, Deborah
+AU  - Kronenberg-Versteeg D
+AD  - German Center for Neurodegenerative Diseases (DZNE) Tübingen, Tübingen, Germany.
+AD  - Department of Cellular Neurology, Hertie Institute for Clinical Brain Research, 
+      University of Tübingen, Tübingen, Germany.
+FAU - Lashley, Tammaryn
+AU  - Lashley T
+AD  - Department of Neurodegenerative Disease, Queen Square Institute of Neurology, 
+      University College London, London, UK.
+FAU - Thompson, Leslie M
+AU  - Thompson LM
+AD  - Department of Psychiatry and Human Behavior, University of California, Irvine, 
+      Irvine, CA, USA.
+AD  - Department of Neurobiology and Behavior, University of California, Irvine, 
+      Irvine, CA, USA.
+AD  - Institute for Memory Impairments and Neurological Disorders, University of 
+      California, Irvine, Irvine, CA, USA.
+FAU - Ori, Alessandro
+AU  - Ori A
+AUID- ORCID: 0000-0002-3046-0871
+AD  - Leibniz Institute on Aging, Fritz Lipmann Institute, Jena, Germany.
+AD  - Genentech, Inc., San Francisco, CA, USA.
+FAU - Mohammed, Yassene
+AU  - Mohammed Y
+AUID- ORCID: 0000-0003-3265-3332
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands.
+AD  - Gerald Bronfman Department of Oncology, McGill University, Montreal, Quebec, 
+      Canada.
+FAU - Giera, Martin
+AU  - Giera M
+AUID- ORCID: 0000-0003-1684-1894
+AD  - Leiden University Medical Center, Center for Proteomics and Metabolomics, Leiden, 
+      The Netherlands. m.a.giera@lumc.nl.
+FAU - van der Kant, Rik
+AU  - van der Kant R
+AUID- ORCID: 0000-0002-7023-0106
+AD  - Center for Neurogenomics and Cognitive Research, Vrije Universiteit Amsterdam, 
+      Amsterdam Neuroscience, Amsterdam, The Netherlands. r.h.n.vander.kant@vu.nl.
+AD  - Alzheimer Center Amsterdam, Department of Neurology, Amsterdam University Medical 
+      Center, Amsterdam Neuroscience, Amsterdam, The Netherlands. 
+      r.h.n.vander.kant@vu.nl.
+LA  - eng
+GR  - 2019-AARG-643165/ALZ/Alzheimer's Association/United States
+GR  - ADSF-21-831212-C/ALZ/Alzheimer's Association/United States
+GR  - ADSF-21-816750/ALZ/Alzheimer's Association/United States
+GR  - WE-03-2017-09P/Alzheimer Nederland (Alzheimer Netherlands)/
+GR  - WE.03-2019-13/Alzheimer Nederland (Alzheimer Netherlands)/
+GR  - WE.15-2019-16/Alzheimer Nederland (Alzheimer Netherlands)/
+GR  - 09150172110086/Nederlandse Organisatie voor Wetenschappelijk Onderzoek 
+      (Netherlands Organisation for Scientific Research)/
+GR  - 733050515/ZonMw (Netherlands Organisation for Health Research and Development)/
+GR  - 435005033/ZonMw (Netherlands Organisation for Health Research and Development)/
+GR  - EDUC412812/California Institute for Regenerative Medicine (CIRM)/
+GR  - T32NS115706/Foundation for the National Institutes of Health (Foundation for the 
+      National Institutes of Health, Inc.)/
+GR  - R01 AG062359/AG/NIA NIH HHS/United States
+GR  - U01 AG072464/AG/NIA NIH HHS/United States
+GR  - P01 NS084974-06A1/Foundation for the National Institutes of Health (Foundation 
+      for the National Institutes of Health, Inc.)/
+GR  - R35 NS116872/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+DEP - 20250922
+PL  - Germany
+TA  - Nat Metab
+JT  - Nature metabolism
+JID - 101736592
+SB  - IM
+COIS- Competing interests: R.K. has acted as a consultant for NewAmsterdam Pharma. M.K. 
+      is a coscientific founder of Montara Therapeutics, serves on the scientific 
+      advisory boards of Engine Biosciences, Casma Therapeutics, Cajal Neuroscience, 
+      Alector and Montara Therapeutics and is an advisor to Modulo Bio and Recursion 
+      Therapeutics. M.G. is a consultant to Boehringer-Ingelheim Pharma and an inventor 
+      of patent application WO2023172132A1. The other authors declare no competing 
+      interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:20
+PHST- 2024/07/29 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:20 [entrez]
+AID - 10.1038/s42255-025-01365-z [pii]
+AID - 10.1038/s42255-025-01365-z [doi]
+PST - aheadofprint
+SO  - Nat Metab. 2025 Sep 22. doi: 10.1038/s42255-025-01365-z.

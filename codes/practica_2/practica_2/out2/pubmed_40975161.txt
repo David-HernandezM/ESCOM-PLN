@@ -1,0 +1,104 @@
+PMID- 40975161
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1872-7980 (Electronic)
+IS  - 0304-3835 (Linking)
+DP  - 2025 Sep 18
+TI  - Hinokitiol preferentially suppresses metastatic lung adenocarcinoma via 
+      TMDD1-mediated ferroptosis induction and iron-sulfur cluster inhibition.
+PG  - 218046
+LID - S0304-3835(25)00618-4 [pii]
+LID - 10.1016/j.canlet.2025.218046 [doi]
+AB  - Dysregulated ISC metabolism has been implicated in cancer progression, but its 
+      role in LUAD pathogenesis and therapeutic targeting remains poorly understood. 
+      Here, we demonstrate that ISC biogenesis is significantly upregulated in LUAD, 
+      driven by transcription factors KLF15 and ZNF384, which activate GLRX5, LYRM4, 
+      NFS1 and BOLA3 promoters. IL-1β promotes PCAF mitochondrial translocation, 
+      releasing EP300 to amplify KLF15/ZNF384-mediated transcriptional activation. The 
+      natural monoterpenoid Hinokitiol inhibits LUAD growth by disrupting 
+      EP300-KLF15/ZNF384 interactions, suppressing ISC biogenesis gene expression and 
+      inducing ferroptosis. Mechanistically, the membrane protein TMDD1, particularly 
+      its cytoplasmic domain, promotes Hinokitiol's anti-tumor effects by facilitating 
+      EP300-KLF15/ZNF384 dissociation and inhibiting ISC biogenesis. Remarkably, 
+      Hinokitiol exhibits stage-dependent efficacy, with superior suppression of 
+      metastatic (stage IV) tumors linked to heightened ferroptosis sensitivity. This 
+      study not only elucidates the transcriptional machinery governing ISC biogenesis 
+      in LUAD but also highlights Hinokitiol's dual mechanism as a promising 
+      stage-specific therapeutic agent, offering novel strategies for advanced disease 
+      management.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Kuang, Yanbin
+AU  - Kuang Y
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China; Shanghai Key 
+      Laboratory of Thoracic Tumor Biotherapy, Shanghai Chest Hospital, Shanghai Jiao 
+      Tong University School of Medicine, Shanghai, China.
+FAU - Yang, Suyang
+AU  - Yang S
+AD  - Shanghai Institute of Thoracic Oncology, Shanghai Chest Hospital, Shanghai Jiao 
+      Tong University School of Medicine, Shanghai, China.
+FAU - Tian, Xiaoting
+AU  - Tian X
+AD  - Shanghai Institute of Thoracic Oncology, Shanghai Chest Hospital, Shanghai Jiao 
+      Tong University School of Medicine, Shanghai, China.
+FAU - Cheng, Huiyan
+AU  - Cheng H
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+FAU - Liu, Beibei
+AU  - Liu B
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+FAU - Zhang, Congcong
+AU  - Zhang C
+AD  - Department of Clinical Laboratory Medicine, Shanghai Chest Hospital, Shanghai 
+      Jiao Tong University School of Medicine, Shanghai, China.
+FAU - Han, Baohui
+AU  - Han B
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China. Electronic 
+      address: 18930858216@163.com.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China. Electronic 
+      address: zhwei2002@sjtu.edu.cn.
+FAU - Zhang, Xiao
+AU  - Zhang X
+AD  - Shanghai Institute of Thoracic Oncology, Shanghai Chest Hospital, Shanghai Jiao 
+      Tong University School of Medicine, Shanghai, China. Electronic address: 
+      zhangxiao_sjtu@126.com.
+FAU - Lou, Yuqing
+AU  - Lou Y
+AD  - Department of Respiratory and Critical Care Medicine, Shanghai Chest Hospital, 
+      Shanghai Jiao Tong University School of Medicine, Shanghai, China. Electronic 
+      address: louyq@hotmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - Ireland
+TA  - Cancer Lett
+JT  - Cancer letters
+JID - 7600053
+SB  - IM
+OTO - NOTNLM
+OT  - Lipid peroxidation
+OT  - Lung Cancer
+OT  - Metastasis
+OT  - Redox homeostasis
+OT  - Transcriptional regulation
+COIS- Declaration of Competing Interest The authors declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 19:36
+PHST- 2025/06/29 00:00 [received]
+PHST- 2025/09/10 00:00 [revised]
+PHST- 2025/09/17 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 19:36 [entrez]
+AID - S0304-3835(25)00618-4 [pii]
+AID - 10.1016/j.canlet.2025.218046 [doi]
+PST - aheadofprint
+SO  - Cancer Lett. 2025 Sep 18:218046. doi: 10.1016/j.canlet.2025.218046.

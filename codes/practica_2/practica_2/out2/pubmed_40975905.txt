@@ -1,0 +1,95 @@
+PMID- 40975905
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1873-491X (Electronic)
+IS  - 0020-7489 (Linking)
+VI  - 172
+DP  - 2025 Sep 12
+TI  - Nursing judgment in the age of generative artificial intelligence: A 
+      cross-national study on clinical decision-making performance among emergency 
+      nurses.
+PG  - 105216
+LID - S0020-7489(25)00226-3 [pii]
+LID - 10.1016/j.ijnurstu.2025.105216 [doi]
+AB  - BACKGROUND: Clinical decision-making is a core competency in emergency nursing, 
+      requiring rapid and accurate assessments. With the growing integration of 
+      Generative Artificial Intelligence in healthcare, there is a pressing need to 
+      understand its potential as a clinical decision support tool. While Generative 
+      Artificial Intelligence models show high accuracy and consistency, their ability 
+      to navigate complex, context-sensitive scenarios remains in question. OBJECTIVES: 
+      This study aimed to compare the clinical decision-making performance of emergency 
+      nurses from Israel and Italy with Generative Artificial Intelligence models 
+      (Claude-3.5, ChatGPT-4.0, and Gemini-1.5). It evaluated differences in severity 
+      assessment, hospitalization decisions, and test selection, while exploring the 
+      influence of demographic and professional characteristics on decision accuracy. 
+      METHODS: A prospective observational study was conducted among 82 emergency 
+      nurses (49 from Italy, 33 from Israel), each independently evaluating five 
+      standardized clinical cases. Their decisions were compared with those generated 
+      by Generative Artificial Intelligence models using a structured evaluation 
+      rubric. Statistical analyses included ANOVA, chi-square tests, logistic 
+      regression, and receiver operating characteristic curve analysis to assess 
+      predictive accuracy. RESULTS: Generative Artificial Intelligence models exhibited 
+      higher overall decision accuracy and stronger alignment with expert 
+      recommendations. However, notable discrepancies emerged in hospitalization 
+      decisions and severity assessments. For example, in Case 2, Generative Artificial 
+      Intelligence rated severity as level 1, while Italian and Israeli nurses rated it 
+      at 1.98 and 2.23, respectively (P < 0.01, F = 199). In Case 1, only 4.1 % of 
+      Italian nurses recommended hospitalization compared to 30.3 % of Israeli nurses, 
+      whereas all Generative Artificial Intelligence models advised hospitalization. 
+      Nurses showed greater variability in test selection and severity judgments, 
+      reflecting their use of clinical intuition and contextual reasoning. Demographics 
+      such as age, gender, and years of experience did not significantly predict 
+      accuracy. CONCLUSIONS: Generative Artificial Intelligence models demonstrated 
+      consistency and expert alignment but lacked the contextual sensitivity vital in 
+      emergency care. These results highlight the potential of Generative Artificial 
+      Intelligence as a clinical decision-support tool while emphasizing the continued 
+      importance of human clinical judgment.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Levin, C
+AU  - Levin C
+AD  - Faculty of School of Life and Health Sciences, Nursing Department, The Jerusalem 
+      College of Technology-Lev Academic Center, Jerusalem, Israel.
+FAU - Zaboli, A
+AU  - Zaboli A
+AD  - Innovation, Research and Teaching Service (SABES-ASDAA), Teaching Hospital of the 
+      Paracelsus Medical Private University (PMU), Bolzano, Italy.
+FAU - Turcato, G
+AU  - Turcato G
+AD  - Department of Internal Medicine, Intermediate Care Unit, Hospital Alto Vicentino 
+      (AULSS-7), Santorso, Italy; UniCamillus-Saint Camillus International University 
+      of Health Science, Rome, Italy.
+FAU - Saban, M
+AU  - Saban M
+AD  - Department of Nursing, School of Health Professions, Gray Faculty of Medical & 
+      Health Sciences, Tel Aviv University, Israel. Electronic address: 
+      morsaban1@tauex.tau.ac.il.
+LA  - eng
+PT  - Journal Article
+DEP - 20250912
+PL  - England
+TA  - Int J Nurs Stud
+JT  - International journal of nursing studies
+JID - 0400675
+SB  - IM
+OTO - NOTNLM
+OT  - AI decision support
+OT  - AI in healthcare
+OT  - Clinical decision-making
+OT  - Emergency nursing
+OT  - Generative AI
+OT  - Nursing judgment
+COIS- Declaration of competing interest None.
+EDAT- 2025/09/21 18:29
+MHDA- 2025/09/21 18:29
+CRDT- 2025/09/21 17:59
+PHST- 2025/02/23 00:00 [received]
+PHST- 2025/09/05 00:00 [revised]
+PHST- 2025/09/09 00:00 [accepted]
+PHST- 2025/09/21 18:29 [medline]
+PHST- 2025/09/21 18:29 [pubmed]
+PHST- 2025/09/21 17:59 [entrez]
+AID - S0020-7489(25)00226-3 [pii]
+AID - 10.1016/j.ijnurstu.2025.105216 [doi]
+PST - aheadofprint
+SO  - Int J Nurs Stud. 2025 Sep 12;172:105216. doi: 10.1016/j.ijnurstu.2025.105216.

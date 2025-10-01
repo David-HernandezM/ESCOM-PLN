@@ -1,0 +1,66 @@
+PMID- 24396983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140220
+LR  - 20240324
+IS  - 1121-2233 (Print)
+IS  - 2421-4248 (Electronic)
+IS  - 1121-2233 (Linking)
+VI  - 54
+IP  - 2
+DP  - 2013 Jun
+TI  - HPV related diseases in males: a heavy vaccine-preventable burden.
+PG  - 61-70
+AB  - Human Papillomavirus (HPV) has a significant impact in male's health, as cause of 
+      clinical manifestations ranging from genital warts to several cancers of the 
+      anogenital and aero-digestive tract. HPV types which most frequently affect men 
+      are 6, 11, 16 and 18, included in the HPV quadrivalent vaccine, recently approved 
+      for use in males by Food and Drug Administration (FDA) and European Medicines 
+      Agency (EMA). Although several data about the safety and efficacy of quadrivalent 
+      vaccine are available, the implementation of proper immunization plans dedicate 
+      to male's population cannot ignore the knowledge of the characteristics of the 
+      disease in men, which in some aspects should be clarify, in particular clearance 
+      of type-specific HPV infections and transmission dynamics. Purpose of this review 
+      is to summarise the main information about the burden and the natural history of 
+      the HPV related disease in males.
+FAU - Canepa, P
+AU  - Canepa P
+AD  - Department of Health Sciences, University of Genoa, Italy. paola.canepa@unige.it
+FAU - Orsi, A
+AU  - Orsi A
+AD  - Department of Health Sciences, University of Genoa, Italy.
+FAU - Martini, M
+AU  - Martini M
+AD  - Department of Health Sciences, University of Genoa, Italy.
+FAU - Icardi, G
+AU  - Icardi G
+AD  - Department of Health Sciences, University of Genoa, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Italy
+TA  - J Prev Med Hyg
+JT  - Journal of preventive medicine and hygiene
+JID - 9214440
+RN  - 0 (Papillomavirus Vaccines)
+SB  - IM
+MH  - Europe/epidemiology
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Papillomavirus Infections/*epidemiology/*prevention & control/transmission
+MH  - *Papillomavirus Vaccines
+MH  - Prevalence
+MH  - United States/epidemiology
+PMC - PMC4718386
+EDAT- 2014/01/09 06:00
+MHDA- 2014/02/22 06:00
+PMCR- 2013/06/01
+CRDT- 2014/01/09 06:00
+PHST- 2014/01/09 06:00 [entrez]
+PHST- 2014/01/09 06:00 [pubmed]
+PHST- 2014/02/22 06:00 [medline]
+PHST- 2013/06/01 00:00 [pmc-release]
+AID - Pacini [pii]
+PST - ppublish
+SO  - J Prev Med Hyg. 2013 Jun;54(2):61-70.

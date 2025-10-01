@@ -1,0 +1,161 @@
+PMID- 40980971
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1478-3231 (Electronic)
+IS  - 1478-3223 (Print)
+IS  - 1478-3223 (Linking)
+VI  - 45
+IP  - 10
+DP  - 2025 Oct
+TI  - Target Trial Emulations of GLP-1 and Dual GLP-1/GIP Agonists to Reduce Major 
+      Adverse Liver Outcomes in Type 2 Diabetes.
+PG  - e70367
+LID - 10.1111/liv.70367 [doi]
+LID - e70367
+AB  - BACKGROUND: Clinical trials suggest GLP-1 receptor agonists (RAs) and dual 
+      glucagon-like peptide-1 (GLP-1)/glucose-dependent insulinotropic polypeptide 
+      (GIP) RAs improve metabolic dysfunction associated with steatohepatitis (MASH) in 
+      patients with metabolic dysfunction-associated steatotic liver disease (MASLD). 
+      We aimed to compare the estimate of the relative effect of tirzepatide, 
+      semaglutide, and liraglutide in reducing the risk of major adverse liver outcomes 
+      (MALOs) in patients with type 2 diabetes (T2D). DESIGN, SETTING AND PARTICIPANTS: 
+      We emulated target trials based on a real-world network of electronic health 
+      records (EHRs) from over 150 million patients. Three target trials were emulated, 
+      among eligible patients with T2D who had no prior MALO diagnosis, by comparing 
+      therapy involving tirzepatide, semaglutide, and liraglutide versus DPP4 inhibitor 
+      (DPP4i) therapy. We identified the first-ever diagnosis of MALO occurring within 
+      a 2-year follow-up period and compared across the treatment groups using 
+      Kaplan-Meier survival analyses. Cohorts underwent propensity score matching 1:1 
+      for confounders. We performed sensitivity analyses relating to geographical 
+      location, combination with metformin, and by treatment adherence. We also 
+      performed head-to-head analyses of the incretin-based therapies. RESULTS: After 
+      matching, we identified three target trials comprised of 10 165, 56 702, and 
+      8 301 patients treated with tirzepatide, semaglutide, and liraglutide, 
+      respectively (1:1 with reference patients) for a 2-year period. Tirzepatide (HR 
+      0.53 [95% CI 0.40, 0.71]) and semaglutide (HR 0.81 [0.72, 0.90]) were associated 
+      with a significant reduction in the risk of incident MALO compared with DPP4i, 
+      whereas liraglutide was not (HR 1.04 [95% CI 0.79, 1.36]). In head-to-head 
+      comparisons, tirzepatide was associated with a significantly lower risk of 
+      incident MALO compared with liraglutide (HR 0.56 [95% CI 0.39, 0.79]), but not 
+      semaglutide (HR 0.83 [95% CI 0.63, 1.09]). Semaglutide was not associated with a 
+      reduced risk compared with liraglutide (HR 0.77 [95% CI 0.57, 1.05]). CONCLUSION: 
+      Treatment with tirzepatide and, to a lesser extent, semaglutide, in patients with 
+      T2D, was associated with a lower incidence of MALO compared with DPP4i after 
+      2 years; largely driven by a reduction in the rates of compensated and 
+      decompensated cirrhosis. A reduction in MALO was not demonstrated with the use of 
+      liraglutide. These findings highlight a comparative benefit of tirzepatide (and 
+      semaglutide) versus DPP4i and should prompt more robust, longer-term randomised 
+      controlled studies to evaluate their role in preventing MALO in this increasingly 
+      prevalent patient population with co-existing T2D and MASLD.
+CI  - © 2025 The Author(s). Liver International published by John Wiley & Sons Ltd.
+FAU - Henney, Alex E
+AU  - Henney AE
+AUID- ORCID: 0000-0002-8066-9470
+AD  - Department of Cardiovascular & Metabolic Medicine, University of Liverpool, 
+      Liverpool, UK.
+AD  - Metabolism & Nutrition Research Group, Liverpool University Hospitals NHS 
+      Foundation Trust, Liverpool, UK.
+AD  - Liverpool Centre for Cardiovascular Sciences, University of Liverpool and 
+      Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK.
+FAU - Riley, David R
+AU  - Riley DR
+AD  - Department of Cardiovascular & Metabolic Medicine, University of Liverpool, 
+      Liverpool, UK.
+AD  - Metabolism & Nutrition Research Group, Liverpool University Hospitals NHS 
+      Foundation Trust, Liverpool, UK.
+AD  - Liverpool Centre for Cardiovascular Sciences, University of Liverpool and 
+      Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK.
+FAU - Anson, Matthew
+AU  - Anson M
+AD  - Department of Cardiovascular & Metabolic Medicine, University of Liverpool, 
+      Liverpool, UK.
+AD  - Metabolism & Nutrition Research Group, Liverpool University Hospitals NHS 
+      Foundation Trust, Liverpool, UK.
+AD  - Liverpool Centre for Cardiovascular Sciences, University of Liverpool and 
+      Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK.
+FAU - Azmi, Shazli
+AU  - Azmi S
+AD  - Division of Cardiovascular Sciences, University of Manchester, Manchester, UK.
+FAU - Alam, Uazman
+AU  - Alam U
+AD  - Department of Cardiovascular & Metabolic Medicine, University of Liverpool, 
+      Liverpool, UK.
+AD  - Metabolism & Nutrition Research Group, Liverpool University Hospitals NHS 
+      Foundation Trust, Liverpool, UK.
+AD  - Liverpool Centre for Cardiovascular Sciences, University of Liverpool and 
+      Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK.
+AD  - Centre for Musculoskeletal Research, Faculty of Biology Medicine and Health, The 
+      University of Manchester, Manchester, UK.
+FAU - Cuthbertson, Daniel J
+AU  - Cuthbertson DJ
+AD  - Department of Cardiovascular & Metabolic Medicine, University of Liverpool, 
+      Liverpool, UK.
+AD  - Metabolism & Nutrition Research Group, Liverpool University Hospitals NHS 
+      Foundation Trust, Liverpool, UK.
+AD  - Liverpool Centre for Cardiovascular Sciences, University of Liverpool and 
+      Liverpool University Hospitals NHS Foundation Trust, Liverpool, UK.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Liver Int
+JT  - Liver international : official journal of the International Association for the 
+      Study of the Liver
+JID - 101160857
+RN  - 839I73S42A (Liraglutide)
+RN  - 62340-29-8 (Glucagon-Like Peptides)
+RN  - 53AXN4NNHX (semaglutide)
+RN  - 0 (Glucagon-Like Peptide-1 Receptor Agonists)
+RN  - 0 (Hypoglycemic Agents)
+RN  - OYN3CCI6QE (Tirzepatide)
+RN  - 0 (Dipeptidyl-Peptidase IV Inhibitors)
+RN  - 59392-49-3 (Gastric Inhibitory Polypeptide)
+RN  - 89750-14-1 (Glucagon-Like Peptide 1)
+RN  - 0 (Incretins)
+SB  - IM
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/drug therapy/complications
+MH  - *Liraglutide/therapeutic use
+MH  - Glucagon-Like Peptides/therapeutic use
+MH  - Male
+MH  - Female
+MH  - *Glucagon-Like Peptide-1 Receptor Agonists
+MH  - *Hypoglycemic Agents/therapeutic use
+MH  - Middle Aged
+MH  - Tirzepatide/therapeutic use
+MH  - Aged
+MH  - Dipeptidyl-Peptidase IV Inhibitors/therapeutic use
+MH  - Gastric Inhibitory Polypeptide/agonists
+MH  - Glucagon-Like Peptide 1/agonists
+MH  - Incretins/therapeutic use
+PMC - PMC12452214
+COIS- M.A. receives a fellowship from the Novo Nordisk UK research foundation and JDRF. 
+      D.J.C. has received investigator‐initiated grants from Astra Zeneca and Novo 
+      Nordisk, support for education from Perspectum with any financial remuneration 
+      from pharmaceutical company consultation made to the University of Liverpool and 
+      serves as the Topic Advisor for Type 2 Diabetes medications for The National 
+      Institute for Health and Care Excellence (NICE), UK. G.H.I. is an employee of 
+      TriNetX LLC. U.A. has received honoraria from Procter & Gamble, Viatris, 
+      Grunenthal and Sanofi for educational meetings and funding for attendance to an 
+      educational meeting from Diiachi Sankyo. U.A. has also received investigator‐led 
+      funding by Procter & Gamble and is a council member of the Royal Society of 
+      Medicine's Vascular, Lipid & Metabolic Medicine Section. All other authors 
+      declare that there are no financial relationships or activities that might bias, 
+      or be perceived to bias, their contribution to this manuscript.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:47
+PMCR- 2025/09/22
+CRDT- 2025/09/22 08:48
+PHST- 2025/09/09 00:00 [revised]
+PHST- 2025/04/22 00:00 [received]
+PHST- 2025/09/16 00:00 [accepted]
+PHST- 2025/09/22 12:47 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 08:48 [entrez]
+PHST- 2025/09/22 00:00 [pmc-release]
+AID - LIV70367 [pii]
+AID - 10.1111/liv.70367 [doi]
+PST - ppublish
+SO  - Liver Int. 2025 Oct;45(10):e70367. doi: 10.1111/liv.70367.

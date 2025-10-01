@@ -1,0 +1,128 @@
+PMID- 40974405
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250923
+LR  - 20250923
+IS  - 1432-1459 (Electronic)
+IS  - 0340-5354 (Linking)
+VI  - 272
+IP  - 9
+DP  - 2025 Sep 20
+TI  - Clinical phenotype associated with A118V mutation of PRPN gene.
+PG  - 635
+LID - 10.1007/s00415-025-13397-2 [doi]
+AB  - BACKGROUND: Creutzfeldt-Jakob disease (CJD) is the most common human prion 
+      disease, with genetic forms linked to PRNP gene mutations accounting for 10-15% 
+      of cases. We present a case of probable genetic prion disease associated with a 
+      novel PRNP mutation. CASE PRESENTATION: A previously healthy 60-year-old woman 
+      developed gait ataxia and micrographia. Six months later, she experienced severe 
+      anxiety, emotional lability, and visual hallucinations. Brain magnetic resonance 
+      imaging (MRI) showed cortical ribboning in the frontal-insular regions. Her 
+      condition progressed to walking dependence and cerebellar dysarthria. She died 
+      15 months after symptom onset. CSF analysis revealed elevated total-Tau 
+      (1933 pg/mL; reference < 450 pg/mL). RT-QuIC assay using full-length recombinant 
+      PrP was negative. Genetic testing revealed a Met/Val polymorphism at codon 129 
+      and a novel heterozygous A118V mutation in the PRNP gene. A second RT-QuIC using 
+      truncated PrP confirmed abnormal prion seeds, supporting a probable diagnosis of 
+      prion disease. CONCLUSIONS: The compound heterozygous A118V and M129V PRNP 
+      variant had not previously been associated with prion disease. Family history was 
+      unobtainable, as relatives declined testing. The patient's 
+      presentation-cerebellar and psychiatric symptoms-resembled 
+      Gerstmann-Sträussler-Scheinker syndrome, though a definitive diagnosis was not 
+      possible without neuropathology. MRI and RT-QuIC findings supported prion 
+      disease. The positive result with truncated PrP highlights its diagnostic value, 
+      offering improved sensitivity. This case underscores the phenotypic diversity of 
+      PRNP mutations and the importance of molecular testing, especially when family 
+      history or neuropathology is unavailable. PRNP gene analysis should be considered 
+      in patients with rapidly progressive motor and cognitive symptoms suggestive of 
+      prion disease.
+CI  - © 2025. Springer-Verlag GmbH Germany, part of Springer Nature.
+FAU - Giannelli, Thomas
+AU  - Giannelli T
+AUID- ORCID: 0009-0003-4323-9142
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy. tp.giannelli@gmail.com.
+FAU - Ladogana, Anna
+AU  - Ladogana A
+AUID- ORCID: 0000-0002-7504-6906
+AD  - Department of Neuroscience, Istituto Superiore Di Sanità, Rome, Italy.
+FAU - Tiple, Dorina
+AU  - Tiple D
+AUID- ORCID: 0000-0001-7155-4957
+AD  - Department of Neuroscience, Istituto Superiore Di Sanità, Rome, Italy.
+FAU - Vaianella, Luana
+AU  - Vaianella L
+AUID- ORCID: 0000-0002-6642-8304
+AD  - Department of Neuroscience, Istituto Superiore Di Sanità, Rome, Italy.
+FAU - Poleggi, Anna
+AU  - Poleggi A
+AUID- ORCID: 0000-0001-7094-7767
+AD  - Department of Neuroscience, Istituto Superiore Di Sanità, Rome, Italy.
+FAU - Ruta, Giorgia
+AU  - Ruta G
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy.
+FAU - Totaro, Dalila
+AU  - Totaro D
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy.
+FAU - Logroscino, Giancarlo
+AU  - Logroscino G
+AUID- ORCID: 0000-0003-0423-3242
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy.
+AD  - Center for Neurodegenerative Diseases and the Aging Brain, University of Bari 
+      "Aldo Moro" at Pia Fondazione "Card. G. Panico", Tricase, Italy.
+FAU - Paolicelli, Damiano
+AU  - Paolicelli D
+AUID- ORCID: 0000-0002-8645-1763
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy.
+FAU - Introna, Alessandro
+AU  - Introna A
+AUID- ORCID: 0000-0002-3141-6442
+AD  - Department of Translational Biomedicine and Neurosciences (DiBraiN), University 
+      of Bari "Aldo Moro", Bari, Italy.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20250920
+PL  - Germany
+TA  - J Neurol
+JT  - Journal of neurology
+JID - 0423161
+RN  - 0 (PRNP protein, human)
+RN  - 0 (Prion Proteins)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - *Creutzfeldt-Jakob Syndrome/genetics
+MH  - *Prion Proteins/genetics
+MH  - Fatal Outcome
+MH  - Mutation
+MH  - Brain/diagnostic imaging/pathology
+OTO - NOTNLM
+OT  - CJD
+OT  - Creutzfeldt–Jakob disease
+OT  - GSS
+OT  - Genetic
+OT  - Novel mutation
+OT  - Prion disease
+OT  - Second-generation RT-QuIC
+COIS- Declarations. Conflicts of interest: The authors declare that they have no 
+      competing interests. Consent for publication: Written and informed consent for 
+      publication was given by the patient and the patient’s representatives.
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:33
+CRDT- 2025/09/20 11:13
+PHST- 2025/08/06 00:00 [received]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/09 00:00 [revised]
+PHST- 2025/09/20 12:33 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 11:13 [entrez]
+AID - 10.1007/s00415-025-13397-2 [pii]
+AID - 10.1007/s00415-025-13397-2 [doi]
+PST - epublish
+SO  - J Neurol. 2025 Sep 20;272(9):635. doi: 10.1007/s00415-025-13397-2.

@@ -1,0 +1,109 @@
+PMID- 40982672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 122
+IP  - 39
+DP  - 2025 Sep 30
+TI  - Inorganic sulfate is critical for Mycobacterium tuberculosis lung tissue 
+      colonization and redox balance.
+PG  - e2503966122
+LID - 10.1073/pnas.2503966122 [doi]
+AB  - Tuberculosis remains the deadliest infectious disease caused by a single 
+      pathogen, highlighting the urgent need for novel therapies. A deeper 
+      understanding of Mycobacterium tuberculosis metabolism could uncover specific 
+      vulnerabilities and inform the development of new treatments. Sulfur, essential 
+      for bacterial growth and survival, fuels key pathways including redox buffering 
+      and coenzyme production. Although previous studies suggest that M. tuberculosis 
+      utilizes various substrates to meet its sulfur requirements, the primary sources 
+      of sulfur exploited during in vivo infection remain unclear. Here, we reveal that 
+      M. tuberculosis acquires inorganic sulfate through the SubI-CysTWA transporter 
+      during macrophage infection. Using nanoSIMS (high spatial resolution Secondary 
+      Ion Mass Spectrometry) analysis, we observed significant sulfate-derived (33)S 
+      enrichment in intracellular bacteria, correlating with metabolic activity. 
+      Deletion of subI abolished sulfate uptake, impairing bacterial growth in vitro 
+      and reducing M. tuberculosis survival in murine macrophages and lungs of infected 
+      mice. Finally, our data demonstrate that sulfate acquisition is essential for 
+      maintaining mycobacterial redox balance and resisting nitrosative stress in vitro 
+      and in vivo. Thus, unlike many intracellular pathogens, M. tuberculosis depends 
+      on an energetically costly inorganic sulfate assimilation pathway to survive in 
+      the nutrient-limited host environment. These findings challenge prior assumptions 
+      that organic reduced sulfur sources, such as methionine, fuel M. tuberculosis 
+      sulfur metabolism during infection. Since animal cells lack a sulfate 
+      assimilation pathway, uncovering the critical role of SubI-CysTWA-mediated 
+      sulfate import in M. tuberculosis pathogenesis highlights this pathway as a 
+      promising pathogen-specific therapeutic target. Targeting this system could 
+      either directly impair M. tuberculosis survival during infection or sensitize 
+      bacilli to antibiotic-induced oxidative stress by disrupting redox homeostasis.
+FAU - Le Mouëllic, Wendy
+AU  - Le Mouëllic W
+AUID- ORCID: 0009-0008-3251-036X
+AD  - Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+      CNRS, Université Paul Sabatier, Toulouse 31400, France.
+FAU - Levillain, Florence
+AU  - Levillain F
+AD  - Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+      CNRS, Université Paul Sabatier, Toulouse 31400, France.
+FAU - Wu, Ting-Di
+AU  - Wu TD
+AD  - Institut Curie, Paris Sciences et Lettres University, Université Paris-Saclay, 
+      CNRS Unité d'Appui et de Recherche 2016, Inserm US43, Multimodal Imaging Center, 
+      Orsay 75005, France.
+FAU - Caouaille, Maxime
+AU  - Caouaille M
+AUID- ORCID: 0009-0006-9232-7773
+AD  - Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+      CNRS, Université Paul Sabatier, Toulouse 31400, France.
+FAU - Bousso, Philippe
+AU  - Bousso P
+AUID- ORCID: 0000-0002-6362-561X
+AD  - Dynamics of Immune Responses Unit, Institut Pasteur, Université Paris Cité, 
+      INSERM U1223, Paris 91401, France.
+FAU - Poquet, Yannick
+AU  - Poquet Y
+AD  - Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+      CNRS, Université Paul Sabatier, Toulouse 31400, France.
+FAU - Neyrolles, Olivier
+AU  - Neyrolles O
+AUID- ORCID: 0000-0003-0047-5885
+AD  - Institut de Pharmacologie et de Biologie Structurale, Université de Toulouse, 
+      CNRS, Université Paul Sabatier, Toulouse 31400, France.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Sulfates)
+RN  - 0 (Bacterial Proteins)
+SB  - IM
+MH  - *Mycobacterium tuberculosis/metabolism/growth & development/pathogenicity
+MH  - Animals
+MH  - Oxidation-Reduction
+MH  - Mice
+MH  - *Sulfates/metabolism
+MH  - *Lung/microbiology/metabolism
+MH  - Macrophages/microbiology/metabolism
+MH  - Bacterial Proteins/metabolism/genetics
+MH  - Mice, Inbred C57BL
+MH  - *Tuberculosis/microbiology/metabolism
+OTO - NOTNLM
+OT  - Mycobacterium tuberculosis
+OT  - redox homeostasis
+OT  - sulfur metabolism
+OT  - virulence
+COIS- Competing interests statement:The authors declare no competing interest.
+EDAT- 2025/09/22 18:36
+MHDA- 2025/09/22 18:37
+CRDT- 2025/09/22 15:02
+PHST- 2025/09/22 18:37 [medline]
+PHST- 2025/09/22 18:36 [pubmed]
+PHST- 2025/09/22 15:02 [entrez]
+AID - 10.1073/pnas.2503966122 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2025 Sep 30;122(39):e2503966122. doi: 
+      10.1073/pnas.2503966122. Epub 2025 Sep 22.

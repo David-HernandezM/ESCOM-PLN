@@ -1,0 +1,277 @@
+PMID- 40972791
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2213-2961 (Electronic)
+IS  - 2213-2961 (Linking)
+DP  - 2025 Sep 17
+TI  - Short bouts of accumulated exercise: Review and consensus statement on 
+      definition, efficacy, feasibility, practical applications, and future directions.
+PG  - 101088
+LID - S2095-2546(25)00070-5 [pii]
+LID - 10.1016/j.jshs.2025.101088 [doi]
+AB  - BACKGROUND: Insufficient physical activity and prolonged sedentary behavior have 
+      emerged as major global public health challenges. Short bouts (≤10 min) of 
+      accumulated exercise (SBAE) throughout the day may be a promising strategy to 
+      mitigate the adverse effects of prolonged sitting and promote physical activity, 
+      ultimately promoting overall health. However, previous ambiguity in defining this 
+      concept has resulted in a fragmented and inconsistent evidence base, impeding 
+      practical applications, the development of guidelines, and policymaking. The 
+      purpose of this study is to establish an operational definition of SBAE by 
+      synthesizing systematic reviews and research trials alongside an expert 
+      consensus. Additionally, it seeks to evaluate acute and long-term efficacy and 
+      feasibility, providing evidence-based recommendations for practice and future 
+      research directions. METHODS: A literature search was performed across PubMed and 
+      Web of Science, followed by systematic screening and summarization of eligible 
+      studies based on predefined inclusion criteria. Inclusion criteria encompassed 
+      various modes/types of SBAE (bouts lasting ≤10 min, performed multiple times 
+      daily with ≥30 min intervals); both aerobic and resistance exercise were 
+      considered. Relevant systematic reviews and research trials were included. 
+      Methodological quality, risk of bias, and evidence certainty were assessed. 
+      Expert consensus was obtained through a survey to evaluate recommendations and 
+      agreement levels on findings. RESULTS: After analyzing 27 systematic reviews, 135 
+      research studies, and an expert consensus involving 48 researchers from 11 
+      countries, SBAE is defined as any exercise mode of activity, regardless of 
+      intensity, that is accumulated in either continuous or intermittent bouts lasting 
+      ≤10 min per session (including multiple intermittent sets) that are performed 
+      multiple times (≥2 sessions/day) per day, with intervals of ≥30 min between bouts 
+      or otherwise sufficient time for recovery. When used to interrupt prolonged 
+      periods of sedentary time, SBAE mitigates the acute adverse effects of sedentary 
+      behavior on more than 10 clinical biomarkers of endocrine, cardiovascular, and 
+      brain health/function among adults of diverse ages and conditions. Moreover, SBAE 
+      was superior for improving acute glycemic control compared to a single continuous 
+      exercise session. As a long-term intervention (average of 11 weeks), SBAE can 
+      improve over 20 health outcomes, including peak oxygen uptake, resting blood 
+      pressure, and metabolic health. Additionally, SBAE might be more effective than 
+      continuous exercise for improving longer-term glycemic control and body 
+      composition. Long-term completion rates for SBAE interventions are generally high 
+      (95%), with low dropout rates (12%) and high adherence rates even without 
+      supervision (85%), and its safety has been preliminarily validated. CONCLUSION: 
+      An operational definition of SBAE is provided along with its classification and 
+      acute and long-term efficacy. Practical exercise prescription recommendations and 
+      evidence-based strategies for various populations and contexts are provided. 
+      Future research should focus on generating high-quality evidence for SBAE in 5 
+      key areas: quantification and monitoring, population-specific responses, 
+      optimization of exercise prescriptions, intervention efficacy, and practical 
+      implementation. Additionally, addressing policy, environmental, and promotional 
+      barriers is crucial for transitioning from expert consensus to public consensus, 
+      and for facilitating the application of this strategy in real-world environments.
+CI  - Copyright © 2025. Production and hosting by Elsevier B.V.
+FAU - Yin, Mingyue
+AU  - Yin M
+AD  - School of Athletic Performance, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Li, Yongming
+AU  - Li Y
+AD  - School of Athletic Performance, Shanghai University of Sport, Shanghai 200438, 
+      China; School of Coaching, Shanghai University of Sport, Shanghai 200438, China; 
+      China Institute of Sport Science, Beijing 100061, China.
+FAU - Aziz, Abdul Rashid
+AU  - Aziz AR
+AD  - Sport Science and Sport Medicine, Singapore Sport Institute 397630, Singapore.
+FAU - Buffey, Aidan
+AU  - Buffey A
+AD  - Physical Activity for Health, Health Research Institute, University of Limerick, 
+      Limerick V94 T9PX, Ireland; Department of Physical Education and Sport Sciences, 
+      Faculty of Education of Health and Sciences, University of Limerick, Limerick V94 
+      T9PX, Ireland.
+FAU - Bishop, David J
+AU  - Bishop DJ
+AD  - Institute for Health and Sport (IHES), Victoria University, Melbourne, VIC 3011, 
+      Australia.
+FAU - Bao, Dapeng
+AU  - Bao D
+AD  - China Institute of Sport and Health Science, Beijing Sport University, Beijing 
+      100061, China; Medical Examination Center, Peking University, Third Hospital, 
+      Beijing 100191, China.
+FAU - Nassis, George P
+AU  - Nassis GP
+AD  - College of Sport Science, University of Kalba, Sharjah, United Arab Emirates.
+FAU - Islam, Hashim
+AU  - Islam H
+AD  - School of Health and Exercise Sciences, Faculty of Health and Social Development, 
+      The University of British Columbia - Okanagan, Kelowna V1V 1V7, Canada; Centre 
+      for Chronic Disease Prevention and Management, Faculty of Medicine, The 
+      University of British Columbia - Okanagan, Kelowna V1V 1V7, Canada.
+FAU - Wang, Hongying
+AU  - Wang H
+AD  - School of Athletic Performance, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Fyfe, Jackson J
+AU  - Fyfe JJ
+AD  - School of Exercise and Nutrition Sciences, Institute for Physical Activity and 
+      Nutrition (IPAN), Deakin University, Geelong, VIC 3216, Australia.
+FAU - Xu, Jianfang
+AU  - Xu J
+AD  - China Institute of Sport Science, Beijing 100061, China.
+FAU - Liu, Jianxiu
+AU  - Liu J
+AD  - Division of Sports Science and Physical Education, Tsinghua University, Beijing 
+      100084, China.
+FAU - Zhao, Jiexiu
+AU  - Zhao J
+AD  - China Institute of Sport Science, Beijing 100061, China.
+FAU - Cao, Jingwei
+AU  - Cao J
+AD  - China Institute of Sport Science, Beijing 100061, China.
+FAU - Little, Jonathan P
+AU  - Little JP
+AD  - School of Health and Exercise Sciences, Faculty of Health and Social Development, 
+      The University of British Columbia - Okanagan, Kelowna V1V 1V7, Canada; Centre 
+      for Chronic Disease Prevention and Management, Faculty of Medicine, The 
+      University of British Columbia - Okanagan, Kelowna V1V 1V7, Canada.
+FAU - Qiu, Junqiang
+AU  - Qiu J
+AD  - Department of Exercise Biochemistry, School of Sports Science, Beijing Sport 
+      University, Beijing 100084, China; Beijing Sports Nutrition Engineering Research 
+      Center, Beijing 100084, China.
+FAU - Diaz, Keith M
+AU  - Diaz KM
+AD  - Center for Behavioral Cardiovascular Health, Department of Medicine, Columbia 
+      University Medical Center, New York, NY 10032, USA.
+FAU - Wang, Lijuan
+AU  - Wang L
+AD  - School of Physical Education, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Zou, Liye
+AU  - Zou L
+AD  - Body-Brain-Mind Laboratory, School of Psychology, Shenzhen University, Shenzhen 
+      518060, China.
+FAU - Western, Max J
+AU  - Western MJ
+AD  - Department for Health, University of Bath, Bath BA2 7AY, UK; Centre for 
+      Motivation and Health Behaviour Change, University of Bath, Bath BA2 7AY, UK.
+FAU - Toledo, Meynard L
+AU  - Toledo ML
+AD  - Center for Self-report Science, Center for Economic and Social Research, 
+      University of Southern California, Los Angeles, CA 90089, USA.
+FAU - Hu, Min
+AU  - Hu M
+AD  - Guangdong Key Lab of Physical Activity and Health Promotion, Guangzhou Sport 
+      University, Guangzhou 510500, China.
+FAU - Quan, Minghui
+AU  - Quan M
+AD  - School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Owen, Neville
+AU  - Owen N
+AD  - Swinburne University of Technology, Melbourne, VIC 3122, Australia; Physical 
+      Activity Laboratory, Baker Heart & Diabetes Institute, Melbourne, VIC 3004, 
+      Australia.
+FAU - Vollaard, Niels B J
+AU  - Vollaard NBJ
+AD  - Faculty of Health Science and Sport, University of Stirling, Stirling FK9 4LA, 
+      UK.
+FAU - Girard, Olivier
+AU  - Girard O
+AD  - School of Human Science (Exercise and Sport Science), University of Western 
+      Australia, Perth, WA 6009, Australia.
+FAU - Shi, Qingde
+AU  - Shi Q
+AD  - Faculty of Health Sciences and Sports, Macao Polytechnic University, Macao SAR 
+      999078, China.
+FAU - Metcalfe, Richard S
+AU  - Metcalfe RS
+AD  - Applied Sport, Technology, Exercise and Medicine (A-STEM) Research Centre, 
+      Swansea University, Swansea SA1 8EN, UK; Welsh Institute of Physical Activity, 
+      Health and Sport (WIPAHS), Swansea University, Swansea SA1 8EN, UK.
+FAU - Ramirez-Campillo, Rodrigo
+AU  - Ramirez-Campillo R
+AD  - Sport Sciences and Human Performance Laboratories, Instituto de Alta 
+      Investigación, Universidad de Tarapacá, Arica 1000000, Chile; Exercise and 
+      Rehabilitation Sciences Institute, School of Physical Therapy, Faculty of 
+      Rehabilitation Sciences, Universidad Andres Bello, Santiago 8370035, Chile; Human 
+      Performance Laboratory, Department of Physical Activity Sciences, Universidad de 
+      Los Lagos, Osorno 5290000, Chile.
+FAU - Wang, Ru
+AU  - Wang R
+AD  - School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Wongpipit, Waris
+AU  - Wongpipit W
+AD  - Division of Health and Physical Education, Faculty of Education, Chulalongkorn 
+      University, Bangkok 10330, Thailand; Research Unit for Sports Management & 
+      Physical Activity Policy (RU-SMPAP), Chulalongkorn University, Bangkok 10330, 
+      Thailand; Department of Sports Science and Physical Education, Faculty of 
+      Education, The Chinese University of Hong Kong, Hong Kong SAR 999077, China.
+FAU - Zhu, Weimo
+AU  - Zhu W
+AD  - Yunnan Plateau Thermal Health Industry Innovation Research Institute, Yunnan 
+      650221,China; Department of Health & Kinesiology University of Illinois at 
+      Urbana-Champaign, Urbana, IL 61801, USA.
+FAU - Zhu, Wenfei
+AU  - Zhu W
+AD  - School of Physical Education, Shaanxi Normal University, Xi'an 710062, China.
+FAU - Xu, Weigang
+AU  - Xu W
+AD  - The Naval Medical University, Shanghai 200433, China.
+FAU - Wang, Xiaochun
+AU  - Wang X
+AD  - School of Psychology, Shanghai University of Sport, Shanghai 200438, China.
+FAU - Chen, Xiaoping
+AU  - Chen X
+AD  - China Institute of Sport Science, Beijing 100061, China.
+FAU - Wang, Xiong
+AU  - Wang X
+AD  - National Sports Training Center, Beijing 100084, China.
+FAU - Wen, Xu
+AU  - Wen X
+AD  - Department of Sports Science, College of Education, Zhejiang University, Hangzhou 
+      310058, China.
+FAU - Liu, Yang
+AU  - Liu Y
+AD  - School of Physical Education, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Gao, Ying
+AU  - Gao Y
+AD  - Department of Sports Science, College of Education, Zhejiang University, Hangzhou 
+      310058, China.
+FAU - Fu, Yue
+AU  - Fu Y
+AD  - Nanjing Sport Institute, Nanjing 10032, China.
+FAU - Kong, Zhaowei
+AU  - Kong Z
+AD  - Faculty of Education, University of Macau, Macau 999078, China.
+FAU - Cao, Zhenbo
+AU  - Cao Z
+AD  - School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, 
+      China.
+FAU - Wang, Zhengzhen
+AU  - Wang Z
+AD  - College of Sports Medicine and Rehabilitation, Beijing Sport University, Beijing 
+      100084, China.
+FAU - Chen, Peijie
+AU  - Chen P
+AD  - School of Exercise and Health, Shanghai University of Sport, Shanghai 200438, 
+      China. Electronic address: chenpeijie@sus.edu.cn.
+FAU - Mao, Lijuan
+AU  - Mao L
+AD  - School of Athletic Performance, Shanghai University of Sport, Shanghai 200438, 
+      China. Electronic address: maolijuan@sus.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - China
+TA  - J Sport Health Sci
+JT  - Journal of sport and health science
+JID - 101606001
+SB  - IM
+OTO - NOTNLM
+OT  - Consensus statement
+OT  - Exercise snacks
+OT  - Sedentary breaks
+OT  - Short bouts of accumulated exercise
+COIS- Competing interests The authors declare that they have no competing interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:18
+PHST- 2024/12/21 00:00 [received]
+PHST- 2025/04/10 00:00 [revised]
+PHST- 2025/05/08 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:18 [entrez]
+AID - S2095-2546(25)00070-5 [pii]
+AID - 10.1016/j.jshs.2025.101088 [doi]
+PST - aheadofprint
+SO  - J Sport Health Sci. 2025 Sep 17:101088. doi: 10.1016/j.jshs.2025.101088.

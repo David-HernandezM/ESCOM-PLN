@@ -1,0 +1,67 @@
+PMID- 26513853
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151217
+LR  - 20220316
+IS  - 0265-539X (Print)
+IS  - 0265-539X (Linking)
+VI  - 32
+IP  - 3
+DP  - 2015 Sep
+TI  - Fluoride content and labelling of toothpastes marketed in India.
+PG  - 170-3
+AB  - OBJECTIVE: To enumerate the fluoride content and labelling practices of 
+      toothpastes marketed in India and to determine if the content is in accordance 
+      with the information provided on the packaging. METHOD: In vitro analysis of 
+      total and free available fluoride in 5 adult and 5 children's fluoride 
+      toothpastes in India using fluoride ion electrode. Information on the tube and 
+      carton was checked to assess the labelling. RESULTS: The mean Total Fluoride 
+      concentrations (TF) in the toothpastes labelled 1,000 ppm, 500ppm and 458 ppm 
+      were 1,000, 500 and 449mg/L (sd values 3, 5 and 4mg/L) respectively. The 
+      toothpastes' Total Soluble Fluoride (TSF) concentration was generally slightly 
+      less than the TF concentration. Overall mean percentage of TSF concentration was 
+      94% sd 9%. The mean percentage of TSF concentration in SMFP (sodium 
+      monofluorophosphate)/CaCO3 (calcium carbonate) containing toothpastes was 86% sd 
+      16% while that in NaF (sodium fluoride)/Si (silica) based toothpastes was 98% sd 
+      1% and 95% sd 1% in the remaining toothpastes with unknown abrasive. NaF/Si based 
+      toothpastes had more TSF concentration than the others (p<0.05). All the 
+      information required by the Indian regulations was shown on all 10 toothpastes. 
+      CONCLUSION: The available fluoride content of one of the ten toothpastes was 
+      substantially less than the total fluoride content. Although the toothpastes were 
+      labelled following the guidelines of the regulatory body of India, 3 of the 10 
+      failed to mention the abrasive present.
+FAU - Thakkar, V P
+AU  - Thakkar VP
+FAU - Rao, A
+AU  - Rao A
+FAU - Rajesh, G
+AU  - Rajesh G
+FAU - Shenoy, R
+AU  - Shenoy R
+FAU - Pai, M
+AU  - Pai M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Community Dent Health
+JT  - Community dental health
+JID - 8411261
+RN  - 0 (Cariostatic Agents)
+RN  - 0 (Toothpastes)
+RN  - Q80VPU408O (Fluorides)
+SB  - IM
+MH  - Cariostatic Agents/*analysis
+MH  - Fluorides/*analysis
+MH  - In Vitro Techniques
+MH  - India
+MH  - Product Labeling
+MH  - Toothpastes/*chemistry
+EDAT- 2015/10/31 06:00
+MHDA- 2015/12/19 06:00
+CRDT- 2015/10/31 06:00
+PHST- 2015/10/31 06:00 [entrez]
+PHST- 2015/10/31 06:00 [pubmed]
+PHST- 2015/12/19 06:00 [medline]
+PST - ppublish
+SO  - Community Dent Health. 2015 Sep;32(3):170-3.

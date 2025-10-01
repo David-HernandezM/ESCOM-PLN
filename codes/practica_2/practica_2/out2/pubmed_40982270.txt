@@ -1,0 +1,639 @@
+PMID- 40982270
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1538-3598 (Electronic)
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+DP  - 2025 Sep 22
+TI  - Levodopa Added to Stroke Rehabilitation: The ESTREL Randomized Clinical Trial.
+LID - 10.1001/jama.2025.15185 [doi]
+LID - e2515185
+AB  - IMPORTANCE: Levodopa enhances dopaminergic signaling and may stimulate 
+      neuroplasticity, which could potentially enhance motor recovery after stroke. 
+      Levodopa is used in stroke rehabilitation despite mixed evidence for its 
+      effectiveness. OBJECTIVE: To determine whether levodopa compared with placebo, 
+      administered in addition to standardized rehabilitation based on active 
+      task-oriented training, is associated with enhanced motor recovery in patients 
+      with acute stroke. DESIGN, SETTING, AND PARTICIPANTS: A double-blind, 
+      placebo-controlled randomized clinical trial at 13 stroke units and centers and 
+      11 collaborating rehabilitation centers in Switzerland. Between June 14, 2019 
+      (first patient, first visit), and August 27, 2024 (last patient, last visit), 610 
+      patients with acute ischemic or hemorrhagic stroke with clinically meaningful 
+      hemiparesis (ie, a total score of ≥3 points on the following National Institutes 
+      of Health Stroke Scale items: motor arm, motor leg, or limb ataxia) were 
+      randomized 1:1 to receive levodopa or placebo. Statistical analyses were 
+      conducted from November 2024 to August 2025. INTERVENTION: Patients received 
+      levodopa/carbidopa (100 mg/25 mg; n = 307) or placebo (n = 303) 3 times daily for 
+      39 days, alongside standardized rehabilitation therapy based on active 
+      task-oriented training. MAIN OUTCOMES AND MEASURES: The primary outcome was the 
+      adjusted mean between-group difference in the Fugl-Meyer Assessment (FMA) total 
+      score (range, 0-100 points; fewer points indicate worse motor function; 6-point 
+      difference considered patient-relevant) at 3 months. RESULTS: Among the 610 
+      participants (median [IQR] age, 73 [64-82] years; 252 [41.3%] female; median 
+      baseline FMA total score, 34 [14-54]), 28 participants died by 3 months, leaving 
+      582 (95.4%) participants eligible for the primary analysis. At 3 months, the 
+      median (IQR) FMA total score was 68 (42-85) points in the levodopa group and 64 
+      (44-83) points in the placebo group. The mean difference in the FMA total score 
+      between the levodopa and placebo groups was -0.90 points (95% CI, -3.78 to 1.98; 
+      P = .54). There were 126 serious adverse events in the levodopa group and 129 in 
+      the placebo group; the most common was infection (levodopa, n = 55; placebo, 
+      n = 44). CONCLUSIONS AND RELEVANCE: In this randomized clinical trial, among 
+      patients receiving inpatient rehabilitation for acute stroke, levodopa added to 
+      standardized rehabilitation did not significantly improve motor function at 3 
+      months compared with placebo plus standardized rehabilitation. These results do 
+      not support the use of levodopa as an adjunct to rehabilitation therapy for 
+      enhancing motor recovery after acute stroke. TRIAL REGISTRATION: 
+      ClinicalTrials.gov Identifier: NCT03735901.
+FAU - Engelter, Stefan T
+AU  - Engelter ST
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Kaufmann, Josefin E
+AU  - Kaufmann JE
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Zietz, Annaelle
+AU  - Zietz A
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Luft, Andreas R
+AU  - Luft AR
+AD  - Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, 
+      University Hospital of Zurich and University of Zurich, Zurich, Switzerland.
+AD  - cereneo Center for Neurology & Rehabilitation, Vitznau, Switzerland.
+FAU - Polymeris, Alexandros
+AU  - Polymeris A
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+AD  - Stroke Division, Department of Neurology, Beth Israel Deaconess Medical Center, 
+      Harvard Medical School, Boston, Massachusetts.
+FAU - Altersberger, Valerian L
+AU  - Altersberger VL
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+AD  - Department of Medicine and Neurology, Melbourne Brain Centre at the Royal 
+      Melbourne Hospital, University of Melbourne, Parkville, Victoria, Australia.
+FAU - Wiesner, Karin
+AU  - Wiesner K
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+FAU - Wiegert, Martina
+AU  - Wiegert M
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Held, Jeremia P O
+AU  - Held JPO
+AD  - Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, 
+      University Hospital of Zurich and University of Zurich, Zurich, Switzerland.
+AD  - Bellevue Medical Group, Zurich, Switzerland.
+FAU - Rottenberger, Yannik
+AU  - Rottenberger Y
+AD  - Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, 
+      University Hospital of Zurich and University of Zurich, Zurich, Switzerland.
+FAU - Schwarz, Anne
+AU  - Schwarz A
+AD  - Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, 
+      University Hospital of Zurich and University of Zurich, Zurich, Switzerland.
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, 
+      California.
+FAU - Medlin, Friedrich
+AU  - Medlin F
+AD  - Service of Neurology and Stroke Unit, HFR Fribourg-Cantonal Hospital, Fribourg, 
+      Switzerland.
+FAU - Accolla, Ettore A
+AU  - Accolla EA
+AD  - Service of Neurology and Stroke Unit, HFR Fribourg-Cantonal Hospital, Fribourg, 
+      Switzerland.
+FAU - Foucras, Sandrine
+AU  - Foucras S
+AD  - Service of Neurology and Stroke Unit, HFR Fribourg-Cantonal Hospital, Fribourg, 
+      Switzerland.
+FAU - Kägi, Georg
+AU  - Kägi G
+AD  - University Teaching and Research Hospital, Neurology Department & Stroke Center, 
+      HOCH Health Ostschweiz, Kantonsspital St Gallen, St Gallen, Switzerland.
+AD  - Department of Neurology, Inselspital, Bern University Hospital and University of 
+      Bern, Bern, Switzerland.
+FAU - De Marchis, Gian Marco
+AU  - De Marchis GM
+AD  - University Teaching and Research Hospital, Neurology Department & Stroke Center, 
+      HOCH Health Ostschweiz, Kantonsspital St Gallen, St Gallen, Switzerland.
+FAU - Politz, Svetlana
+AU  - Politz S
+AD  - Kantonsspital Münsterlingen, Münsterlingen, Switzerland.
+FAU - Greulich, Matthias
+AU  - Greulich M
+AD  - Kantonsspital Winterthur, Winterthur, Switzerland.
+AD  - NeuroPraxis Zurich GmbH, Zurich, Switzerland.
+FAU - Tarnutzer, Alexander A
+AU  - Tarnutzer AA
+AD  - Neurology, Cantonal Hospital of Baden, Baden, Switzerland.
+AD  - Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+FAU - Sturzenegger, Rolf
+AU  - Sturzenegger R
+AD  - Kantonsspital Graubünden, Departement Innere Medizin, Neurologie, Chur, 
+      Switzerland.
+FAU - Katan, Mira
+AU  - Katan M
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Fischer, Urs
+AU  - Fischer U
+AD  - Department of Neurology, University Hospital Bern, University of Bern, Bern, 
+      Switzerland.
+FAU - Nedeltchev, Krassen
+AU  - Nedeltchev K
+AD  - Cantonal Hospital of Aarau and Department of Neurology, University of Bern, Bern, 
+      Switzerland.
+FAU - Schär, Janine
+AU  - Schär J
+AD  - Department of Neurology and Stroke Center, Klinik Hirslanden, Zurich, 
+      Switzerland.
+FAU - Van Den Keybus Deglon, Katrien
+AU  - Van Den Keybus Deglon K
+AD  - Acute Neurorehabilitation Unit, Department of Clinical Neurosciences, Lausanne 
+      University Hospital and University of Lausanne, Lausanne, Switzerland.
+FAU - Rapin, Pierre-André
+AU  - Rapin PA
+AD  - Lavigny Rehabilitation Institution, Lavigny, Switzerland.
+FAU - Salerno, Alexander
+AU  - Salerno A
+AD  - Stroke Center, Service of Neurology, Department of Clinical Neurosciences, 
+      Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.
+FAU - Seiffge, David J
+AU  - Seiffge DJ
+AD  - Department of Neurology, University Hospital Bern, University of Bern, Bern, 
+      Switzerland.
+FAU - Auer, Elias
+AU  - Auer E
+AD  - Department of Neurology, University Hospital Bern, University of Bern, Bern, 
+      Switzerland.
+FAU - Lippert, Julian
+AU  - Lippert J
+AD  - Department of Neurology, University Hospital Bern, University of Bern, Bern, 
+      Switzerland.
+FAU - Bonati, Leo H
+AU  - Bonati LH
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+AD  - Research Department, Reha Rheinfelden, Rheinfelden, Switzerland.
+FAU - Schuster-Amft, Corina
+AU  - Schuster-Amft C
+AD  - Research Department, Reha Rheinfelden, Rheinfelden, Switzerland.
+AD  - School of Engineering and Computer Science, Bern University of Applied Sciences, 
+      Biel, Switzerland.
+AD  - Department for Sport, Exercise and Health, University of Basel, Basel, 
+      Switzerland.
+FAU - Gäumann, Szabina
+AU  - Gäumann S
+AD  - Research Department, Reha Rheinfelden, Rheinfelden, Switzerland.
+FAU - Chabwine, Joelle N
+AU  - Chabwine JN
+AD  - Division of Neurorehabilitation, Fribourg Hospital, Meyriez-Murten, Switzerland.
+AD  - Laboratory for Neurorehabilitation Science, Medicine Section, University of 
+      Fribourg, Fribourg, Switzerland.
+FAU - Humm, Andrea
+AU  - Humm A
+AD  - Service of Neurology and Stroke Unit, HFR Fribourg-Cantonal Hospital, Fribourg, 
+      Switzerland.
+FAU - Möller, J Carsten
+AU  - Möller JC
+AD  - Division of Neurorehabilitation, Fribourg Hospital, Meyriez-Murten, Switzerland.
+AD  - Rehaklinik Zihlschlacht AG, Zihlschlacht-Sittendorf, Switzerland.
+FAU - Schweinfurther, Raoul
+AU  - Schweinfurther R
+AD  - Rehaklinik Zihlschlacht AG, Zihlschlacht-Sittendorf, Switzerland.
+FAU - Bujan, Bartosz
+AU  - Bujan B
+AD  - Neurorehabilitation, Klinik Lengg Zurich, Zurich, Switzerland.
+FAU - Jedrysiak, Piotr
+AU  - Jedrysiak P
+AD  - Neurorehabilitation, Klinik Lengg Zurich, Zurich, Switzerland.
+FAU - Sandor, Peter S
+AU  - Sandor PS
+AD  - Research Department, Rehaklinik Bad Zurzach, ZURZACH Care Group, Bad Zurzach, 
+      Switzerland.
+FAU - Gonzenbach, Roman
+AU  - Gonzenbach R
+AD  - Kliniken Valens, St Gallen, Switzerland.
+FAU - Mylius, Veit
+AU  - Mylius V
+AD  - Kliniken Valens, St Gallen, Switzerland.
+FAU - Lutz, Dietmar
+AU  - Lutz D
+AD  - Kliniken Valens, St Gallen, Switzerland.
+FAU - Lienert, Carmen
+AU  - Lienert C
+AD  - Kliniken Valens, St Gallen, Switzerland.
+FAU - Peters, Nils
+AU  - Peters N
+AD  - Department of Neurology and Stroke Center, Klinik Hirslanden, Zurich, 
+      Switzerland.
+FAU - Michel, Patrik
+AU  - Michel P
+AD  - Stroke Center, Service of Neurology, Department of Clinical Neurosciences, 
+      Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.
+FAU - Müri, René M
+AU  - Müri RM
+AD  - Department of Neurology, Inselspital, Bern University Hospital and University of 
+      Bern, Bern, Switzerland.
+AD  - Gerontechnology and Rehabilitation Group, University of Bern, Bern, Switzerland.
+FAU - Schädelin, Sabine
+AU  - Schädelin S
+AD  - Department of Clinical Research, University Hospital Basel and University of 
+      Basel, Basel, Switzerland.
+FAU - Hemkens, Lars G
+AU  - Hemkens LG
+AD  - Department of Clinical Research, University Hospital Basel and University of 
+      Basel, Basel, Switzerland.
+AD  - Pragmatic Evidence Lab, Research Center for Clinical Neuroimmunology and 
+      Neuroscience Basel, (RC2NB), University Hospital Basel and University of Basel, 
+      Basel, Switzerland.
+AD  - Meta-Research Innovation Center at Stanford (METRICS), Stanford University, 
+      Stanford, California.
+FAU - Ford, Gary A
+AU  - Ford GA
+AD  - Radcliffe Department of Medicine, University of Oxford, Oxford, United Kingdom.
+FAU - Lyrer, Philippe A
+AU  - Lyrer PA
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Gensicke, Henrik
+AU  - Gensicke H
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Traenka, Christopher
+AU  - Traenka C
+AD  - Department of Rehabilitation and Neurology, University Department of Geriatric 
+      Medicine FELIX PLATTER, University of Basel, Basel, Switzerland.
+AD  - Department of Neurology and Stroke Center, Department of Clinical Research, 
+      University Hospital Basel and University of Basel, Basel, Switzerland.
+CN  - ESTREL Investigators
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03735901
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - JAMA
+JT  - JAMA
+JID - 7501160
+SB  - IM
+PMC - PMC12455486
+COIS- Conflict of Interest Disclosures: Dr Engelter reported receiving an 
+      investigator-initiated research grant to their institution from Swiss National 
+      Science Foundation (SNSF) during the conduct of the study. Ms Wiegert reported 
+      receiving grants from SNSF during the conduct of the study. Dr Greulich reported 
+      receiving personal fees from Novartis, Pfizer AG, and Lundbeck AG outside the 
+      submitted work. Dr Katan reported receiving grants from SNSF and Swiss Heart 
+      Foundation; and personal fees for serving on the advisory boards of Bristol Myers 
+      Squibb, Janssen, AstraZeneca, and Medtronic outside the submitted work. Dr 
+      Fischer reported receiving consulting fees to their institution from AbbVie, 
+      AstraZeneca, Bayer, Biogen, Boehringer Ingelheim, CSL, and Siemens outside the 
+      submitted work; and being the president of the European Stroke Organization, 
+      president-elect of Swiss Federation of Clinical Neuro-Societies, and president of 
+      the Advanced Training in Neuro-subjects task force at Swiss Neurological Society. 
+      Dr Seiffge reported receiving consulting and advisory fees paid to their 
+      institution from AstraZeneca; and grants from Swiss Heart Foundation, SNSF, and 
+      AstraZeneca outside the submitted work. Dr Bonati reported receiving grants from 
+      SNSF outside the submitted work. Dr Humm reported receiving reimbursement from 
+      University of Basel for patient recruitment and follow-up during the conduct of 
+      the study. Dr Sandor reported serving as a board member of Swiss Neurological 
+      Society, Swiss Society for Neurorehabilitation, and SW!SS REHA. Dr Michel 
+      reported receiving grants from SNSF, Swiss Heart Foundation, Faculty of Biology 
+      and Medicine of the University of Lausanne, and Porphyrogenis Foundation outside 
+      the submitted work. Dr Hemkens reported receiving grants from SNSF (179667) 
+      during the conduct of the study; working for Research Center for Clinical 
+      Neuroimmunology and Neuroscience Basel (RC2NB), University of Basel and 
+      University Hospital Basel, which is supported by Foundation of Clinical 
+      Neuroimmunology and Neuroscience Basel; and RC2NB having a contract with Roche 
+      for Dr Hemkens’ steering committee participation outside the submitted work. Dr 
+      Gensicke reported receiving grants from SNSF during the conduct of the study; 
+      grants from AbbVie, Merz, and Ipsen; and personal fees from AbbVie outside the 
+      submitted work. Dr Traenka reported receiving grants from Swiss Heart Foundation; 
+      honoraria from Reha Rheinfelden for lectures during the conduct of the study; and 
+      grants from Swiss Heart Foundation outside the submitted work. No other 
+      disclosures were reported.
+FIR - Nedeltchev, Krassen
+IR  - Nedeltchev K
+FIR - Kahles, Timo
+IR  - Kahles T
+FIR - Clarke, Sandra
+IR  - Clarke S
+FIR - Fritz-Rochner, Catharina
+IR  - Fritz-Rochner C
+FIR - Tarnutzer, Alexander
+IR  - Tarnutzer A
+FIR - Berney, Loric
+IR  - Berney L
+FIR - Buehrer, Manuela
+IR  - Buehrer M
+FIR - Diserens, Karin
+IR  - Diserens K
+FIR - Dos Reis Moreira, Alexandra
+IR  - Dos Reis Moreira A
+FIR - Eberle, Grégoire
+IR  - Eberle G
+FIR - Eskandari, Ashraf
+IR  - Eskandari A
+FIR - Esteves, Melissa
+IR  - Esteves M
+FIR - Hafner, Gaël
+IR  - Hafner G
+FIR - Maslias, Errikos
+IR  - Maslias E
+FIR - Michel, Patrik
+IR  - Michel P
+FIR - Rapin, Pierre-André
+IR  - Rapin PA
+FIR - Remillard, Suzette
+IR  - Remillard S
+FIR - Salerno, Alexander
+IR  - Salerno A
+FIR - Strambo, Davide
+IR  - Strambo D
+FIR - Thevoz, Guillaume
+IR  - Thevoz G
+FIR - Van Den Keybus Deglon, Katrien
+IR  - Van Den Keybus Deglon K
+FIR - Cottier, Elodie
+IR  - Cottier E
+FIR - Duc, Aline
+IR  - Duc A
+FIR - Foucras, Sandrine
+IR  - Foucras S
+FIR - Medlin, Friedrich
+IR  - Medlin F
+FIR - Rime, Martine
+IR  - Rime M
+FIR - Stohr, Romain
+IR  - Stohr R
+FIR - Spring, Sabine
+IR  - Spring S
+FIR - Bleuler, Barbara
+IR  - Bleuler B
+FIR - Huser, Marion
+IR  - Huser M
+FIR - Keller, Joelle
+IR  - Keller J
+FIR - Maibach, Fabienne
+IR  - Maibach F
+FIR - Müller, Maja
+IR  - Müller M
+FIR - Peters, Nils
+IR  - Peters N
+FIR - Rieger, Steven
+IR  - Rieger S
+FIR - Schär, Janine
+IR  - Schär J
+FIR - Taheri, Shadi
+IR  - Taheri S
+FIR - Wehrli, Carina
+IR  - Wehrli C
+FIR - Zwissler, Sereina
+IR  - Zwissler S
+FIR - Arnold, Marcel
+IR  - Arnold M
+FIR - Auer, Elias
+IR  - Auer E
+FIR - Beyeler, Morin
+IR  - Beyeler M
+FIR - Boronylo, Anna
+IR  - Boronylo A
+FIR - Brückner, Yvonne
+IR  - Brückner Y
+FIR - Brülisauer, Christine
+IR  - Brülisauer C
+FIR - Clénin, Leander
+IR  - Clénin L
+FIR - Drop, Boudewijn
+IR  - Drop B
+FIR - Hanke, Julie
+IR  - Hanke J
+FIR - Kaufmann, Eveline
+IR  - Kaufmann E
+FIR - Kormann, Marianne
+IR  - Kormann M
+FIR - Lange, Martin
+IR  - Lange M
+FIR - Leistner, Christina
+IR  - Leistner C
+FIR - Maamari, Basel
+IR  - Maamari B
+FIR - McEvoy, Liselotte
+IR  - McEvoy L
+FIR - Müller, Madlaine
+IR  - Müller M
+FIR - Müri, René
+IR  - Müri R
+FIR - Rauch, Janis Patricia
+IR  - Rauch JP
+FIR - Schlatter, Jasmin
+IR  - Schlatter J
+FIR - Scutelnic, Adrian
+IR  - Scutelnic A
+FIR - Siepen, Bernhard Matthias
+IR  - Siepen BM
+FIR - Silimon, Norbert
+IR  - Silimon N
+FIR - Tentolouris Piperas, Vasileios
+IR  - Tentolouris Piperas V
+FIR - Vynckier, Jan
+IR  - Vynckier J
+FIR - Weghorn, Johanna
+IR  - Weghorn J
+FIR - Altersberger, Valerian
+IR  - Altersberger V
+FIR - Avramiotis, Nikolaos Symeon
+IR  - Avramiotis NS
+FIR - Barone, Lea
+IR  - Barone L
+FIR - Boos, Lukas
+IR  - Boos L
+FIR - Brunner, Eveline
+IR  - Brunner E
+FIR - De Marchis, Gian Marco
+IR  - De Marchis GM
+FIR - Engelter, Stefan
+IR  - Engelter S
+FIR - Engelter, Fabina
+IR  - Engelter F
+FIR - Engelter, Sophia
+IR  - Engelter S
+FIR - Fischer, Sandro
+IR  - Fischer S
+FIR - Fladt, Joachim
+IR  - Fladt J
+FIR - Gensicke, Henrik
+IR  - Gensicke H
+FIR - Jost, Jasmine
+IR  - Jost J
+FIR - Katan, Mira
+IR  - Katan M
+FIR - Kaufmann, Josefin
+IR  - Kaufmann J
+FIR - Kamerbeek Verhagen, Wilma
+IR  - Kamerbeek Verhagen W
+FIR - Lucht, Martin
+IR  - Lucht M
+FIR - Lyrer, Philippe
+IR  - Lyrer P
+FIR - Liechti, Yasmin
+IR  - Liechti Y
+FIR - Maurer, Marina
+IR  - Maurer M
+FIR - Meya, Louisa
+IR  - Meya L
+FIR - Minio, Daniela
+IR  - Minio D
+FIR - Nussbaum, Lukas
+IR  - Nussbaum L
+FIR - Nussbaumer, Larissa
+IR  - Nussbaumer L
+FIR - Piot, Ines
+IR  - Piot I
+FIR - Polymeris, Alexandros
+IR  - Polymeris A
+FIR - Ravanelli, Flavia
+IR  - Ravanelli F
+FIR - Sauter, Mirjam
+IR  - Sauter M
+FIR - Schneider, Iris
+IR  - Schneider I
+FIR - Tränka, Christopher
+IR  - Tränka C
+FIR - Trüssel, Simon
+IR  - Trüssel S
+FIR - Wagner, Benjamin
+IR  - Wagner B
+FIR - Wiegert, Martina
+IR  - Wiegert M
+FIR - Wiesner, Karin
+IR  - Wiesner K
+FIR - Zbinden, Céline
+IR  - Zbinden C
+FIR - Zietz, Annaelle
+IR  - Zietz A
+FIR - Branscheidt, Meret
+IR  - Branscheidt M
+FIR - Georgiou, Ioannis
+IR  - Georgiou I
+FIR - Globas, Christoph
+IR  - Globas C
+FIR - Haeberlin, Marcellina
+IR  - Haeberlin M
+FIR - Held, Jeremia
+IR  - Held J
+FIR - Heusi-Thürlimann, Eva
+IR  - Heusi-Thürlimann E
+FIR - Lehmann, Aurelia
+IR  - Lehmann A
+FIR - Luft, Andreas
+IR  - Luft A
+FIR - Pipping, Theodor
+IR  - Pipping T
+FIR - Pohl, Johannes
+IR  - Pohl J
+FIR - Popov, Todor
+IR  - Popov T
+FIR - Rottenberger, Yannik
+IR  - Rottenberger Y
+FIR - Schwarz, Anne
+IR  - Schwarz A
+FIR - Schweizer, Juliane
+IR  - Schweizer J
+FIR - Surbeck, Ursula
+IR  - Surbeck U
+FIR - van Duinen, Jannie
+IR  - van Duinen J
+FIR - Veerbeek, Janne
+IR  - Veerbeek J
+FIR - Wegener, Susanne
+IR  - Wegener S
+FIR - Sturzenegger, Rolf
+IR  - Sturzenegger R
+FIR - Albert, Sylvan
+IR  - Albert S
+FIR - Caflisch, Christa
+IR  - Caflisch C
+FIR - Baumgaertner, Markus
+IR  - Baumgaertner M
+FIR - Politz, Svetlana
+IR  - Politz S
+FIR - Schelosky, Ludwig
+IR  - Schelosky L
+FIR - Iljazi, Vjosa
+IR  - Iljazi V
+FIR - Kägi, Georg
+IR  - Kägi G
+FIR - Müller, Anna
+IR  - Müller A
+FIR - Vehoff, Jochen
+IR  - Vehoff J
+FIR - Engelter, Fabian
+IR  - Engelter F
+FIR - Frank, Matthias
+IR  - Frank M
+FIR - Liniger, Claire
+IR  - Liniger C
+FIR - Paltzer, Vera
+IR  - Paltzer V
+FIR - Voeste, Annick
+IR  - Voeste A
+FIR - Behrendt, Frank
+IR  - Behrendt F
+FIR - Bonati, Leo
+IR  - Bonati L
+FIR - Brunnschweiler, Heiner
+IR  - Brunnschweiler H
+FIR - Ettlin, Thierry
+IR  - Ettlin T
+FIR - Gäumann, Szabina
+IR  - Gäumann S
+FIR - Hermann, Sarah
+IR  - Hermann S
+FIR - Schuster-Amft, Corina
+IR  - Schuster-Amft C
+FIR - Suica, Zorica
+IR  - Suica Z
+FIR - Urscheler, Niklaus
+IR  - Urscheler N
+FIR - Eugster, Marco
+IR  - Eugster M
+FIR - Lienert, Carmen
+IR  - Lienert C
+FIR - Gonzenbach, Roman
+IR  - Gonzenbach R
+FIR - Hasegawa, Yuka
+IR  - Hasegawa Y
+FIR - Marugg, Manuela
+IR  - Marugg M
+FIR - Meier Khan, Christine
+IR  - Meier Khan C
+FIR - Mylius, Veit
+IR  - Mylius V
+FIR - Rosemeyer, Heike
+IR  - Rosemeyer H
+EDAT- 2025/09/22 12:45
+MHDA- 2025/09/22 12:45
+PMCR- 2026/03/22
+CRDT- 2025/09/22 11:34
+PHST- 2025/09/22 12:45 [medline]
+PHST- 2025/09/22 12:45 [pubmed]
+PHST- 2025/09/22 11:34 [entrez]
+PHST- 2026/03/22 00:00 [pmc-release]
+AID - 2839112 [pii]
+AID - joi250066 [pii]
+AID - 10.1001/jama.2025.15185 [doi]
+PST - aheadofprint
+SO  - JAMA. 2025 Sep 22:e2515185. doi: 10.1001/jama.2025.15185.

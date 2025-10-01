@@ -1,0 +1,128 @@
+PMID- 40983631
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1476-5403 (Electronic)
+IS  - 1350-9047 (Linking)
+DP  - 2025 Sep 22
+TI  - Induction of ferroptosis in prostate cancer by CCDC7(19-13) via TRIM21-mediated 
+      ubiquitination of SLC7A11.
+LID - 10.1038/s41418-025-01580-x [doi]
+AB  - Prostate cancer is one of the most prevalent malignancies in men, with increasing 
+      incidence and mortality largely attributed to treatment resistance and 
+      metastasis. The effectiveness of current therapies for advanced cases is hindered 
+      by intricate genetic and microenvironmental factors, emphasizing the urgent need 
+      for novel therapeutic targets. Chimeric RNAs have emerged as promising biomarkers 
+      in cancer research, among which CCDC7(19-13), a circular chimeric RNA, is 
+      frequently identified in prostate cancer. Our study reveals that CCDC7(19-13) 
+      expression is markedly reduced in advanced and recurrent prostate cancer, where 
+      its low levels serve as an independent predictor of poor prognosis. Functional 
+      experiments demonstrate that CCDC7(19-13) overexpression inhibits cell 
+      proliferation, induces apoptosis, and suppresses tumor growth in vivo, whereas 
+      its knockdown reverses these effects. Mechanistically, CCDC7(19-13) encodes a 
+      novel protein, CCDC7(241aa), which triggers ferroptosis by interacting with 
+      SLC7A11 and facilitating its TRIM21-mediated ubiquitination and degradation. 
+      Notably, treatment with recombinant CCDC7(241aa) effectively suppresses tumor 
+      growth in patient-derived xenograft models without toxicity and enhances the 
+      efficacy of docetaxel and enzalutamide in vitro. These findings establish 
+      CCDC7(19-13) as a significant prognostic marker and potential therapeutic target 
+      in prostate cancer, with the recombinant CCDC7(241aa) protein offering promise 
+      for combination therapies in advanced cases.
+CI  - © 2025. The Author(s).
+FAU - Cheng, Bisheng
+AU  - Cheng B
+AD  - Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, 
+      China. chengbsh@alumni.sysu.edu.cn.
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China. chengbsh@alumni.sysu.edu.cn.
+AD  - Department of Surgery, Division of Urology, Beth Israel Deaconess Medical Center, 
+      Harvard Medical School Boston, Boston, MA, USA. chengbsh@alumni.sysu.edu.cn.
+FAU - Wang, Qiong
+AU  - Wang Q
+AUID- ORCID: 0000-0003-2564-7778
+AD  - Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, 
+      China.
+FAU - Li, Zean
+AU  - Li Z
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China.
+FAU - Luo, Tianlong
+AU  - Luo T
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China.
+FAU - Xie, JunJia
+AU  - Xie J
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China.
+FAU - Singh, Sandeep
+AU  - Singh S
+AD  - Department of Pathology, School of Medicine, University of Virginia, 
+      Charlottesville, VA, USA.
+FAU - Luo, Yong
+AU  - Luo Y
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China.
+FAU - Gao, Xu
+AU  - Gao X
+AD  - Department of Urology, Changhai Hospital, Second Military Medical University, 
+      Shanghai, China.
+FAU - Li, Hui
+AU  - Li H
+AUID- ORCID: 0000-0002-7879-1792
+AD  - Department of Pathology, School of Medicine, University of Virginia, 
+      Charlottesville, VA, USA. hui.li@virginia.edu.
+FAU - Wang, Zongwei
+AU  - Wang Z
+AD  - Department of Surgery, Division of Urology, Beth Israel Deaconess Medical Center, 
+      Harvard Medical School Boston, Boston, MA, USA. zwang12@bidmc.harvard.edu.
+FAU - Wu, Peng
+AU  - Wu P
+AD  - Department of Urology, Nanfang Hospital, Southern Medical University, Guangzhou, 
+      China. doctorwupeng@gmail.com.
+FAU - Huang, Hai
+AU  - Huang H
+AUID- ORCID: 0000-0002-2013-073X
+AD  - Department of Urology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, 
+      Guangzhou, China. huangh9@mail.sysu.edu.cn.
+AD  - Guangdong Provincial Clinical Research Center for Urological Diseases, Sun 
+      Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China. 
+      huangh9@mail.sysu.edu.cn.
+AD  - Department of Urology, The Sixth Affiliated Hospital of Guangzhou Medical 
+      University, Qingyuan People's Hospital, Qingyuan, Guangdong, China. 
+      huangh9@mail.sysu.edu.cn.
+AD  - Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+      Regulation, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, 
+      China. huangh9@mail.sysu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Cell Death Differ
+JT  - Cell death and differentiation
+JID - 9437445
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethics approval 
+      and consent to participant: This study was approved by the Ethical Review 
+      Committee of Sun Yat–sen University for research involving human subjects. All 
+      human tissue samples were collected from patients who provided written informed 
+      consent. All animal experiments were conducted with approval from the 
+      Institutional Animal Care and Use Committee (IACUC) of Sun Yat–sen University and 
+      were carried out in strict accordance with established ethical guidelines 
+      (SYSU-IACUC-2023-000989). Consent for publication: All participants involved in 
+      this study have given their informed consent for the publication of the data 
+      presented in this manuscript. This research adheres to ethical standards, and 
+      appropriate consent for publication has been obtained from all subjects. No 
+      personal identifying information is included in this article.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:16
+PHST- 2025/05/25 00:00 [received]
+PHST- 2025/09/04 00:00 [accepted]
+PHST- 2025/08/08 00:00 [revised]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:16 [entrez]
+AID - 10.1038/s41418-025-01580-x [pii]
+AID - 10.1038/s41418-025-01580-x [doi]
+PST - aheadofprint
+SO  - Cell Death Differ. 2025 Sep 22. doi: 10.1038/s41418-025-01580-x.

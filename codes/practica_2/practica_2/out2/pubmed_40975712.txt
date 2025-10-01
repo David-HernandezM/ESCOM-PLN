@@ -1,0 +1,93 @@
+PMID- 40975712
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1476-5500 (Electronic)
+IS  - 0929-1903 (Linking)
+DP  - 2025 Sep 20
+TI  - Bacillus Calmette-Guerin induces CD8+ T cell infiltration and suppresses tumor 
+      progression in microsatellite stable colorectal cancer by downregulating ARID1A.
+LID - 10.1038/s41417-025-00964-y [doi]
+AB  - Neoadjuvant immunotherapy demonstrates limited efficacy in microsatellite-stable 
+      (MSS) colorectal cancer (CRC). In vivo observations reveal that Bacillus 
+      Calmette-Guérin (BCG) can inhibit the progression of MSS-CRC and downregulate 
+      ARID1A in both in vivo and in vitro settings. Through the analysis of clinical 
+      samples, in vivo and in vitro models, and bioinformatics, we found that the low 
+      expression of ARID1A promotes tumor growth in vitro; however, in vivo, it 
+      enhances CD8+ T cell infiltration in MSS-CRC tissues while inhibiting tumor 
+      growth. Further investigation revealed that BCG downregulates ARID1A via the 
+      TLR4/NF-κB pathway, leading to the downregulation of MLH1 and PMS2 and subsequent 
+      alterations in MMR function in MSS-CRC. This cascade enhances antigen 
+      presentation, promotes CD8+ T cell infiltration, and contributes to tumor 
+      suppression.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Xie, Zhiyue
+AU  - Xie Z
+AD  - Department of Pathology, The Eighth Affiliated Hospital, Southern Medical 
+      University (The First People's Hospital of Shunde), Foshan, China.
+AD  - Department of Pathology, Guangdong Province Key Laboratory of Molecular Tumor 
+      Pathology, School of Basic Medical Sciences, Southern Medical University, 
+      Guangzhou, China.
+FAU - Peng, Nan
+AU  - Peng N
+AUID- ORCID: 0009-0004-2284-2265
+AD  - Department of Pathology, Guangdong Province Key Laboratory of Molecular Tumor 
+      Pathology, School of Basic Medical Sciences, Southern Medical University, 
+      Guangzhou, China.
+FAU - Pan, Zhihua
+AU  - Pan Z
+AD  - Department of Gastroenterology, The Second People's Hospital of Foshan, Foshan, 
+      China.
+FAU - Feng, Yun
+AU  - Feng Y
+AD  - Department of Pathology, Guangdong Province Key Laboratory of Molecular Tumor 
+      Pathology, School of Basic Medical Sciences, Southern Medical University, 
+      Guangzhou, China.
+FAU - Wu, Yihan
+AU  - Wu Y
+AD  - Department of Pathology, Guangdong Province Key Laboratory of Molecular Tumor 
+      Pathology, School of Basic Medical Sciences, Southern Medical University, 
+      Guangzhou, China.
+FAU - Yang, Yansheng
+AU  - Yang Y
+AD  - Department of Pathology, Raoping County Traditional Chinese Medicine Hospital, 
+      Chaozhou, China.
+FAU - Li, Rui
+AU  - Li R
+AD  - Department of Pathology, The Eighth Affiliated Hospital, Southern Medical 
+      University (The First People's Hospital of Shunde), Foshan, China.
+FAU - Zhao, Liang
+AU  - Zhao L
+AUID- ORCID: 0000-0002-1429-0884
+AD  - Department of Pathology, The Eighth Affiliated Hospital, Southern Medical 
+      University (The First People's Hospital of Shunde), Foshan, China. 
+      liangsmu@foxmail.com.
+AD  - Department of Pathology, Guangdong Province Key Laboratory of Molecular Tumor 
+      Pathology, School of Basic Medical Sciences, Southern Medical University, 
+      Guangzhou, China. liangsmu@foxmail.com.
+LA  - eng
+GR  - 82472895/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 2024A04J6605/Guangzhou Municipal Science and Technology Project/
+GR  - SL2023A04J02310/Guangzhou Municipal Science and Technology Project/
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Cancer Gene Ther
+JT  - Cancer gene therapy
+JID - 9432230
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 23:13
+PHST- 2025/04/29 00:00 [received]
+PHST- 2025/09/12 00:00 [accepted]
+PHST- 2025/09/04 00:00 [revised]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 23:13 [entrez]
+AID - 10.1038/s41417-025-00964-y [pii]
+AID - 10.1038/s41417-025-00964-y [doi]
+PST - aheadofprint
+SO  - Cancer Gene Ther. 2025 Sep 20. doi: 10.1038/s41417-025-00964-y.

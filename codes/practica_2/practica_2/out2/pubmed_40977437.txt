@@ -1,0 +1,131 @@
+PMID- 40977437
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1544-0591 (Electronic)
+IS  - 0022-0345 (Linking)
+DP  - 2025 Sep 22
+TI  - GCN2-Mediated Integrated Stress Response Attenuates Periodontitis.
+PG  - 220345251363525
+LID - 10.1177/00220345251363525 [doi]
+AB  - The integrated stress response (ISR), regulated by general control 
+      nonderepressible 2 (GCN2), is essential for maintaining tissue homeostasis, yet 
+      its role in periodontitis remains poorly understood. Here, through transcriptomic 
+      analysis and immunohistochemistry of gingival biopsies from patients and a 
+      ligature-induced mouse periodontitis model, we demonstrate that GCN2-mediated ISR 
+      is activated in both human and mouse periodontitis and mainly functioned in 
+      macrophages. Using Gcn2(-/-) mice, we show that Gcn2 deletion exacerbates 
+      gingival inflammation and bone loss in experimental periodontitis. 
+      Mechanistically, bulk RNA-seq and in vitro assays revealed that the loss of GCN2 
+      impairs autophagy and leads to overactivation of the NLRP3/CASPASE1 inflammasome 
+      pathway. Notably, local administration of halofuginone, a GCN2 activator, 
+      mitigates oral inflammation and tissue destruction in a GCN2-dependent manner. In 
+      summary, our work highlights the protective role of the GCN2-mediated ISR in oral 
+      mucosa and indicates GCN2 as a promising therapeutic target for periodontitis.
+FAU - Huang, D
+AU  - Huang D
+AUID- ORCID: 0000-0002-5111-2067
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Li, Q
+AU  - Li Q
+AUID- ORCID: 0000-0002-5493-1850
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+AD  - Department of Oral Implantology, West China Hospital of Stomatology, Sichuan 
+      University, Chengdu, Sichuan, China.
+FAU - Peng, S
+AU  - Peng S
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Li, Y
+AU  - Li Y
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Yin, Q
+AU  - Yin Q
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Yang, X
+AU  - Yang X
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Gan, X
+AU  - Gan X
+AUID- ORCID: 0009-0008-5215-3910
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Wang, Y
+AU  - Wang Y
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Li, X
+AU  - Li X
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Zhao, Y
+AU  - Zhao Y
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Guo, Y
+AU  - Guo Y
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Lin, W
+AU  - Lin W
+AUID- ORCID: 0000-0002-8023-213X
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Li, Y
+AU  - Li Y
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+FAU - Feng, N
+AU  - Feng N
+AD  - Biologic and Materials Sciences & Prosthodontics, School of Dentistry, University 
+      of Michigan, Ann Arbor, USA.
+FAU - Yuan, Q
+AU  - Yuan Q
+AUID- ORCID: 0000-0002-2836-1081
+AD  - State Key Laboratory of Oral Diseases & National Center for Stomatology & 
+      National Clinical Research Center for Oral Diseases, West China Hospital of 
+      Stomatology, Sichuan University, Chengdu, Sichuan, China.
+AD  - Department of Oral Implantology, West China Hospital of Stomatology, Sichuan 
+      University, Chengdu, Sichuan, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - J Dent Res
+JT  - Journal of dental research
+JID - 0354343
+SB  - IM
+OTO - NOTNLM
+OT  - immunomodulation
+OT  - inflammasomes
+OT  - inflammation
+OT  - macrophages
+OT  - periodontal diseases
+OT  - protein kinases
+EDAT- 2025/09/22 06:31
+MHDA- 2025/09/22 06:31
+CRDT- 2025/09/22 05:23
+PHST- 2025/09/22 06:31 [medline]
+PHST- 2025/09/22 06:31 [pubmed]
+PHST- 2025/09/22 05:23 [entrez]
+AID - 10.1177/00220345251363525 [doi]
+PST - aheadofprint
+SO  - J Dent Res. 2025 Sep 22:220345251363525. doi: 10.1177/00220345251363525.

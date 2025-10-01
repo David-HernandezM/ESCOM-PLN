@@ -1,0 +1,92 @@
+PMID- 39274486
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240916
+IS  - 2077-0383 (Print)
+IS  - 2077-0383 (Electronic)
+IS  - 2077-0383 (Linking)
+VI  - 13
+IP  - 17
+DP  - 2024 Sep 5
+TI  - A Pilot Study on the Relationship between Obstructive Sleep Apnoea-Hypopnea 
+      Syndrome, Neurodevelopment, and Ricketts' Cephalometry.
+LID - 10.3390/jcm13175274 [doi]
+LID - 5274
+AB  - Background: The aim of this research is to achieve the early detection of facial 
+      characteristics in patients diagnosed with neurodevelopmental deficits and 
+      obstructive sleep apnoea-hypopnea syndrome (OSAHS) through the analysis of the 
+      VERT index and Ricketts' cephalometry to minimise the neurocognitive morbidity 
+      associated with these disorders. Methods: This clinical study was conducted on 44 
+      patients aged 4 to 15 years. Participants completed an initial questionnaire 
+      about sleep disturbances, followed by a polysomnography, a radiographic study, 
+      and an oral examination. Results: The maximum variability in the data was 
+      obtained in the mandibular plane angle, where we observed that the measurement 
+      was higher in patients diagnosed with OSAHS. The relative and normalised indices 
+      of facial depth and the mandibular plane showed variations between patients with 
+      a clinical picture compatible with OSAHS and the control group without pathology. 
+      Conclusions: Our findings indicate that Ricketts' VERT index by itself is unable 
+      to provide evidence of a diagnosis compatible with OSAHS in patients with early 
+      neurodevelopmental deficits, but, after analysing the results obtained, we 
+      observed that for the cephalometric measurements of the mandibular plane angle 
+      and facial depth relative to the patient's age, there are sufficiently strong 
+      variations for creating a solid method of differential diagnosis, thus preventing 
+      complications at the neurocognitive level.
+FAU - Robayna, Teresa I González
+AU  - Robayna TIG
+AUID- ORCID: 0009-0007-6971-3980
+AD  - UCAM Faculty of Dentistry, University Campus Los Jerónimos, Catholic University 
+      of Murcia, 135 Guadalupe, 30107 Murcia, Spain.
+FAU - Martínez, Carlos Pérez-Albacete
+AU  - Martínez CP
+AUID- ORCID: 0000-0002-1246-5185
+AD  - UCAM Faculty of Dentistry, University Campus Los Jerónimos, Catholic University 
+      of Murcia, 135 Guadalupe, 30107 Murcia, Spain.
+FAU - Gandía, Jesús M
+AU  - Gandía JM
+AD  - Department of Mathematics, Physics and Technological Sciences, CEU University 
+      Cardenal Herrera, 03202 Elche, Spain.
+AD  - Statistic, Mathematics and IT Department, University Miguel Hernández, 03202 
+      Elche, Spain.
+FAU - Martínez, Mª Dolores Austro
+AU  - Martínez MDA
+AD  - Dentistry Department, CEU University Cardenal Herrera, 03202 Elche, Spain.
+FAU - Pérez, Ángela Sempere
+AU  - Pérez ÁS
+AD  - HLA Vistahermosa Clinic Avenida de Dénia, 103, 03015 Alicante, Spain.
+FAU - Cascales, Raúl Ferrando
+AU  - Cascales RF
+AUID- ORCID: 0000-0002-1031-456X
+AD  - UCAM Faculty of Dentistry, University Campus Los Jerónimos, Catholic University 
+      of Murcia, 135 Guadalupe, 30107 Murcia, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20240905
+PL  - Switzerland
+TA  - J Clin Med
+JT  - Journal of clinical medicine
+JID - 101606588
+PMC - PMC11396744
+OTO - NOTNLM
+OT  - OSAHS
+OT  - VERT index
+OT  - cephalometry
+OT  - facial growth
+OT  - neurodevelopment
+OT  - sleep disorders
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/09/14 10:46
+MHDA- 2024/09/14 10:47
+PMCR- 2024/09/05
+CRDT- 2024/09/14 01:14
+PHST- 2024/07/23 00:00 [received]
+PHST- 2024/08/27 00:00 [revised]
+PHST- 2024/09/03 00:00 [accepted]
+PHST- 2024/09/14 10:47 [medline]
+PHST- 2024/09/14 10:46 [pubmed]
+PHST- 2024/09/14 01:14 [entrez]
+PHST- 2024/09/05 00:00 [pmc-release]
+AID - jcm13175274 [pii]
+AID - jcm-13-05274 [pii]
+AID - 10.3390/jcm13175274 [doi]
+PST - epublish
+SO  - J Clin Med. 2024 Sep 5;13(17):5274. doi: 10.3390/jcm13175274.

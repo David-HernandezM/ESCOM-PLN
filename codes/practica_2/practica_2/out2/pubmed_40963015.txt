@@ -1,0 +1,154 @@
+PMID- 40963015
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Sep 17
+TI  - Peroxisomal metabolism of branched fatty acids regulates energy homeostasis.
+LID - 10.1038/s41586-025-09517-7 [doi]
+AB  - Brown and beige adipocytes express uncoupling protein 1 (UCP1), a mitochondrial 
+      protein that dissociates respiration from ATP synthesis and promotes heat 
+      production and energy expenditure. However, UCP1(-/-) mice are not obese(1-5), 
+      consistent with the existence of alternative mechanisms of thermogenesis(6-8). 
+      Here we describe a UCP1-independent mechanism of thermogenesis involving 
+      ATP-consuming metabolism of monomethyl branched-chain fatty acids (mmBCFA) in 
+      peroxisomes. These fatty acids are synthesized by fatty acid synthase using 
+      precursors derived from catabolism of branched-chain amino acids(9) and our 
+      results indicate that β-oxidation of mmBCFAs is mediated by the peroxisomal 
+      protein acyl-CoA oxidase 2 (ACOX2). Notably, cold exposure upregulated proteins 
+      involved in both biosynthesis and β-oxidation of mmBCFA in thermogenic fat. Acute 
+      thermogenic stimuli promoted translocation of fatty acid synthase to peroxisomes. 
+      Brown-adipose-tissue-specific fatty acid synthase knockout decreased cold 
+      tolerance. Adipose-specific ACOX2 knockout also impaired cold tolerance and 
+      promoted diet-induced obesity and insulin resistance. Conversely, ACOX2 
+      overexpression in adipose tissue enhanced thermogenesis independently of UCP1 and 
+      improved metabolic homeostasis. Using a peroxisome-localized temperature sensor 
+      named Pexo-TEMP, we found that ACOX2-mediated fatty acid β-oxidation raised 
+      intracellular temperature in brown adipocytes. These results identify a 
+      previously unrecognized role for peroxisomes in adipose tissue thermogenesis 
+      characterized by an mmBCFA synthesis and catabolism cycle.
+CI  - © 2025. The Author(s).
+FAU - Liu, Xuejing
+AU  - Liu X
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - He, Anyuan
+AU  - He A
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+AD  - School of Life Sciences, Anhui Medical University, Hefei, China.
+FAU - Lu, Dongliang
+AU  - Lu D
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+AD  - Tianjian Laboratory of Advanced Biomedical Sciences, Academy of Medical Sciences 
+      Zhengzhou University, Zhengzhou, China.
+FAU - Hu, Donghua
+AU  - Hu D
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Tan, Min
+AU  - Tan M
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Abere, Abenezer
+AU  - Abere A
+AD  - Department of Mechanical Engineering and Materials Science, Washington University 
+      in St. Louis, St. Louis, MO, USA.
+FAU - Goodarzi, Parniyan
+AU  - Goodarzi P
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Ahmad, Bilal
+AU  - Ahmad B
+AUID- ORCID: 0000-0002-5848-4349
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Kleiboeker, Brian
+AU  - Kleiboeker B
+AUID- ORCID: 0000-0002-3196-1803
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Finck, Brian N
+AU  - Finck BN
+AUID- ORCID: 0000-0001-5411-3674
+AD  - Division of Geriatrics and Nutritional Science, Washington University School of 
+      Medicine, St. Louis, MO, USA.
+FAU - Zayed, Mohamed
+AU  - Zayed M
+AUID- ORCID: 0000-0001-6443-4527
+AD  - Department of Surgery, Section of Vascular Surgery, Washington University School 
+      of Medicine, St. Louis, MO, USA.
+FAU - Funai, Katsuhiko
+AU  - Funai K
+AD  - Diabetes and Metabolism Research Center, University of Utah, Salt Lake City, UT, 
+      USA.
+FAU - Brestoff, Jonathan R
+AU  - Brestoff JR
+AUID- ORCID: 0000-0002-7018-7400
+AD  - Department of Pathology and Immunology, Washington University School of Medicine, 
+      St. Louis, MO, USA.
+FAU - Javaheri, Ali
+AU  - Javaheri A
+AD  - Cardiovascular Division, Department of Medicine, Washington University School of 
+      Medicine, St. Louis, MO, USA.
+FAU - Weisensee, Patricia
+AU  - Weisensee P
+AUID- ORCID: 0000-0003-0283-9347
+AD  - Department of Mechanical Engineering and Materials Science, Washington University 
+      in St. Louis, St. Louis, MO, USA.
+FAU - Mittendorfer, Bettina
+AU  - Mittendorfer B
+AD  - Department of Medicine, University of Missouri School of Medicine, Columbia, MO, 
+      USA.
+AD  - Department of Nutrition and Exercise Physiology, University of Missouri School of 
+      Medicine, Columbia, MO, USA.
+FAU - Hsu, Fong-Fu
+AU  - Hsu FF
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+FAU - Van Veldhoven, Paul P
+AU  - Van Veldhoven PP
+AD  - Laboratory of Peroxisome Biology and Intracellular Communication, Department of 
+      Cellular and Molecular Medicine, KU Leuven, Leuven, Belgium.
+FAU - Razani, Babak
+AU  - Razani B
+AUID- ORCID: 0000-0002-7172-9240
+AD  - University of Pittsburgh School of Medicine and UPMC, Pittsburgh, PA, USA.
+FAU - Semenkovich, Clay F
+AU  - Semenkovich CF
+AUID- ORCID: 0000-0003-1163-1871
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA.
+AD  - Department of Cell Biology and Physiology, Washington University School of 
+      Medicine, St. Louis, MO, USA.
+FAU - Lodhi, Irfan J
+AU  - Lodhi IJ
+AUID- ORCID: 0000-0002-6246-9862
+AD  - Division of Endocrinology, Metabolism and Lipid Research, Department of Medicine, 
+      Washington University School of Medicine, St. Louis, MO, USA. ilodhi@wustl.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+COIS- Competing interests: I.J.L. and X.L. are named on a provisional patent 
+      application (serial no. 63/872,889) filed by Washington University related to 
+      targeting ACOX2 activation as a treatment for obesity and related metabolic 
+      diseases. The other authors declare no competing interests.
+EDAT- 2025/09/18 00:30
+MHDA- 2025/09/18 00:30
+CRDT- 2025/09/17 23:22
+PHST- 2024/02/12 00:00 [received]
+PHST- 2025/08/12 00:00 [accepted]
+PHST- 2025/09/18 00:30 [medline]
+PHST- 2025/09/18 00:30 [pubmed]
+PHST- 2025/09/17 23:22 [entrez]
+AID - 10.1038/s41586-025-09517-7 [pii]
+AID - 10.1038/s41586-025-09517-7 [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Sep 17. doi: 10.1038/s41586-025-09517-7.

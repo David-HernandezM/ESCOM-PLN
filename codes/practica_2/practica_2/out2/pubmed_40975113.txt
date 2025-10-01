@@ -1,0 +1,270 @@
+PMID- 40975113
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+DP  - 2025 Sep 17
+TI  - Risk markers for sudden unexpected death in epilepsy: an observational, 
+      prospective, multicentre cohort study.
+LID - S0140-6736(25)01636-8 [pii]
+LID - 10.1016/S0140-6736(25)01636-8 [doi]
+AB  - BACKGROUND: Sudden unexpected death in epilepsy (SUDEP) is the leading cause of 
+      epilepsy-related mortality. Generalised-particularly nocturnal-convulsive 
+      seizures, longstanding epilepsy, and solitary living have been identified 
+      retrospectively as risk factors. No definitive electroclinical biomarkers have 
+      been prospectively ascertained. This study aimed to identify SUDEP risk markers 
+      using multimodality data with long-term follow-up. METHODS: This prospective, 
+      multicentre, observational cohort study, conducted at nine centres (eight in the 
+      USA and one in the UK), recruited children and adults with epilepsy who were 
+      undergoing prolonged video-electroencephalographic (EEG) monitoring. Inclusion 
+      criteria were diagnosis of epilepsy by an epilepsy specialist, with or without 
+      drug resistance; age older than 2 months; admission to the epilepsy monitoring 
+      unit of a participating centre, with video-EEG monitoring; and completion of at 
+      least one 6-month follow-up. Demographic, electroclinical, and cardiorespiratory 
+      data were collected at baseline. Participants were followed up long term through 
+      routine clinic visits, review of electronic health records, and telephone 
+      interviews to collect information about seizure frequency, medication status, and 
+      mortality. The primary endpoint was time to SUDEP. Cox proportional hazards 
+      models were used to assess significant risk factors. FINDINGS: Between Sept 17, 
+      2011, and Dec, 30, 2021, 2632 children and adults with epilepsy were enrolled in 
+      this study; 164 were lost to follow-up. 38 (1·54%) of 2468 participants died from 
+      SUDEP (12 definite, 18 probable, and eight possible SUDEP cases) and two had 
+      near-SUDEP events. Incident SUDEP mortality rate was 4·76 (95% CI 3·37-6·53) 
+      cases per 1000 person-years, from a cohort of 7982 person-years. Living alone 
+      (hazard ratio 7·62, 95% CI 3·94-14·71), three or more generalised convulsive 
+      seizures in the previous year (3·1, 1·64-5·87]), longer ictal central apnoea 
+      (1·11, 1·05-1·18), and longer postictal central apnoea (1·32, 1·14-1·54]) were 
+      significant predictors of increased SUDEP risk. In a subanalysis excluding 
+      possible and near-SUDEP cases, longer ictal central apnoea was not significant. 
+      INTERPRETATION: This study shows an association between premortem peri-ictal 
+      apnoea and increased SUDEP risk. Cardiorespiratory monitoring during seizures 
+      might benefit assessments of epilepsy mortality risk. Together with solitary 
+      living and convulsive seizure frequency, peri-ictal apnoea (>14 s for postictal 
+      central apnoea and >17 s for ictal central apnoea) could inform the development 
+      of a validatable SUDEP risk index. FUNDING: US National Institutes of Health.
+CI  - © 2025 Elsevier Ltd. All rights reserved, including those for text and data 
+      mining, AI training, and similar technologies.
+FAU - Ochoa-Urrea, Manuela
+AU  - Ochoa-Urrea M
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Luo, Xi
+AU  - Luo X
+AD  - Department of Biostatistics and Data Science, School of Public Health, The 
+      University of Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Vilella, Laura
+AU  - Vilella L
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Lacuey, Nuria
+AU  - Lacuey N
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Omidi, Shirin Jamal
+AU  - Omidi SJ
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Hupp, Norma J
+AU  - Hupp NJ
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Talavera, Blanca
+AU  - Talavera B
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Hampson, Johnson P
+AU  - Hampson JP
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Rani, M R Sandhya
+AU  - Rani MRS
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Tao, Shiqiang
+AU  - Tao S
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Li, Xiaojin
+AU  - Li X
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Miyake, Christina Y
+AU  - Miyake CY
+AD  - Division of Cardiology, Department of Pediatrics, Texas Children's Hospital, and 
+      Department of Molecular Physiology and Biophysics, Houston, TX, USA.
+FAU - Cui, Licong
+AU  - Cui L
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Hampson, Jaison S
+AU  - Hampson JS
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Chaitanya, Ganne
+AU  - Chaitanya G
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA.
+FAU - Vakilna, Yash Shashank
+AU  - Vakilna YS
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA.
+FAU - Sainju, Rup K
+AU  - Sainju RK
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Internal Medicine, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA, USA.
+FAU - Friedman, Daniel
+AU  - Friedman D
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurology, NYU Grossman School of 
+      Medicine, New York, NY, USA.
+FAU - Nei, Maromi
+AU  - Nei M
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurology, Sidney Kimmel Medical 
+      College, Thomas Jefferson University, Philadelphia, PA, USA.
+FAU - Allen, Luke
+AU  - Allen L
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; University College London Queen Square Institute of 
+      Neurology, University College London, London, UK.
+FAU - Scott, Catherine A
+AU  - Scott CA
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; University College London Queen Square Institute of 
+      Neurology, University College London, London, UK.
+FAU - Oliveira, Joana
+AU  - Oliveira J
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; University College London Queen Square Institute of 
+      Neurology, University College London, London, UK.
+FAU - Gehlbach, Brian
+AU  - Gehlbach B
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Internal Medicine, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA, USA.
+FAU - Schuele, Stephan U
+AU  - Schuele SU
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Feinberg School of Medicine, Northwestern University, 
+      Chicago, IL, USA.
+FAU - Ogren, Jennifer A
+AU  - Ogren JA
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurobiology and the Brain Research 
+      Institute, University of California, Los Angeles, Los Angeles, CA, USA.
+FAU - Harper, Ronald M
+AU  - Harper RM
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurobiology and the Brain Research 
+      Institute, University of California, Los Angeles, Los Angeles, CA, USA.
+FAU - Diehl, Beate
+AU  - Diehl B
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; University College London Queen Square Institute of 
+      Neurology, University College London, London, UK.
+FAU - Bateman, Lisa M
+AU  - Bateman LM
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurology, Columbia University, New 
+      York, NY, USA; Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, 
+      CA, USA.
+FAU - Richerson, George B
+AU  - Richerson GB
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Internal Medicine, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA, USA.
+FAU - Yamal, Jose-Miguel
+AU  - Yamal JM
+AD  - Department of Biostatistics and Data Science, School of Public Health, The 
+      University of Texas Health Science Center at Houston, Houston, TX, USA.
+FAU - Zhang, Guo-Qiang
+AU  - Zhang GQ
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA.
+FAU - Devinsky, Orrin
+AU  - Devinsky O
+AD  - National Institute for Neurological Disorders and Stroke Center for SUDEP 
+      Research, Houston, TX, USA; Department of Neurology, NYU Grossman School of 
+      Medicine, New York, NY, USA.
+FAU - Lhatoo, Samden D
+AU  - Lhatoo SD
+AD  - Department of Neurology, McGovern Medical School, The University of Texas Health 
+      Science Center at Houston, Houston, TX, USA; National Institute for Neurological 
+      Disorders and Stroke Center for SUDEP Research, Houston, TX, USA. Electronic 
+      address: samden.d.lhatoo@uth.tmc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+COIS- Declaration of interests LV received payment for lectures and 
+      presentations/educational events from Eisai, UCB, Jazz Pharmaceuticals, and 
+      Angellini. NL reports funding from the US National Institutes of Health (NIH). GC 
+      reports grant NIH R-25 (NS113757). MN reports grant NIH R-25 (NS113757). LMB 
+      reports payments to their institution from NIH/National Institute of Neurological 
+      Disorders and Stroke (NINDS) U01NS090407, NIH/NINDS R01NS130838, NIH/NINDS 
+      R56NS1277891, New York University (re NIH R01NS123928), and Dartmouth Health; 
+      payment for educational activities from Stanford University, Darthmouth Hitchcock 
+      Medical Center, and American Epilepsy Society; support for travel from the 
+      American Board of Psychiatry and Neurology, Stanford University, and Darthmouth 
+      Hitchcock Medical Center. SUS discloses royalties with Springer Publishing; 
+      receives consulting fees from UCB Pharma; payment or honoraria from SKLife 
+      Science, Neurelis and Jazz Pharmaceuticals; payment for expert testimony from 
+      Marcus Mays vs. Wellpath and Will County; and is Editor in Chief, of Journal of 
+      Clinical Neurophysiology. BG and RKS report grants from NINDS NIH grant 
+      R01NS113764 for SUDEP research and Neurava. BKG received travel expenses to 
+      participate in the 2024 SUDEP Risk Assessment and Prevention Workshop sponsored 
+      by CURE Epilepsy and reports use of transcutaneous CO2 monitors provided by 
+      Sentec. DF reports payments to their institution from NINDS, the US Centers for 
+      Disease Control and Prevention, Rapport Therapeutics, Epitel (via NIH), and 
+      Neuropace (via NIH); receives royalties or licenses from Oxford University Press 
+      and Neuroview Technoloyg; and salary support for consulting and clinical 
+      trial-related activities on behalf of The Epilepsy Study Consortium, a non-profit 
+      organization for which he is an Executive Vice President; DF does not receive 
+      personal income for these activities. NYU receives a fixed amount from the 
+      Epilepsy Study Consortium towards DF's salary and over the past 2 years, the 
+      Consortium received payments for research services performed by DF from Biogen, 
+      Biohaven, Cerberal Therapeutics, Cerevel, Encoded, Epalex, Equilibre, Jazz 
+      Pharmaceuticals, Janssen, Longboard, Ludbeck, Marinus, Modulite, Neurocrine, Ono, 
+      Praxis, PureTech, Rapport Therapeutics, SK Lifescience, Supernus, UCB, and Xenon. 
+      DF also received payment to self from the American Academy of Neurology and 
+      support for attending meetings from the Epilepsy Foundation; has a patent US 
+      20180117331 issued for Minimally Invasive Subgaleal Extra-Cranial 
+      Electroencephalography EEG Monitoring Device and a pending patent 
+      electroencephalography electrode arrays and related methods of use; reports 
+      leadership as Executive Vice President for Epilepsy Study Consortium; and has 
+      equity interest in Neuroview Technology. SDL reports funding from the National 
+      Institutes of Health; receives consulting fees from UCB, LivaNova, and Neuropace; 
+      payment or honoraria from UCB; and participates on an Advisory Board for 
+      LivaNova. All other authors declare no competing interests.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/05/04 00:00 [received]
+PHST- 2025/07/28 00:00 [revised]
+PHST- 2025/08/07 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S0140-6736(25)01636-8 [pii]
+AID - 10.1016/S0140-6736(25)01636-8 [doi]
+PST - aheadofprint
+SO  - Lancet. 2025 Sep 17:S0140-6736(25)01636-8. doi: 10.1016/S0140-6736(25)01636-8.

@@ -1,0 +1,180 @@
+PMID- 40974335
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1474-9726 (Electronic)
+IS  - 1474-9718 (Linking)
+DP  - 2025 Sep 20
+TI  - Telomerase modRNA Offers a Novel RNA-Based Approach to Treat Human Pulmonary 
+      Fibrosis.
+PG  - e70240
+LID - 10.1111/acel.70240 [doi]
+AB  - Pulmonary Fibrosis (PF) is a life-threatening illness that is characterized by 
+      progressive scarring in the lung interstitium. There is an urgent need for new PF 
+      therapies because current treatments only slow down the progression of fibrosis, 
+      and the median life expectancy post-diagnosis is only 4-6 years. Since PF 
+      patients frequently exhibit telomere attrition, overexpressing telomerase, the 
+      enzyme responsible for synthesizing telomeres, represents a compelling 
+      therapeutic option. In this study, we in vitro transcribed human telomerase 
+      reverse transcriptase (hTERT) mRNA using modified nucleosides (modRNA). ModRNA 
+      hTERT treatment led to transient activation of telomerase activity in a 
+      dose-dependent manner in MRC-5 cells and, importantly, in primary human alveolar 
+      type II pneumocytes. Consequently, the proliferative capacity was increased, 
+      concomitant with reduced DNA damage and elongated telomere length. Notably, the 
+      induction of cellular immune response was only detectable at the highest modRNA 
+      concentration and returned to normal levels within 48 h. Next, we demonstrated 
+      that circularized, exonuclease-resistant modRNA hTERT extended the transient 
+      expression profile, which may be clinically advantageous. Finally, we provided 
+      therapeutic proof of concept in organotypic 3D ex vivo human precision-cut lung 
+      slices derived from end-stage PF patients. Intriguingly, a single modRNA hTERT 
+      treatment inhibited senescence, as indicated by significantly lower levels of 
+      senescence-associated β-galactosidase. Pro-inflammatory markers (IL6 and IL8) 
+      and, concurrently, the key fibrosis mediators TGFβ and COL1A1 were markedly 
+      reduced after modRNA and circular RNA hTERT treatment. In conclusion, the data 
+      presented herein provide initial evidence for the potential of RNA-based hTERT 
+      therapy for treating human lung fibrosis.
+CI  - © 2025 The Author(s). Aging Cell published by Anatomical Society and John Wiley & 
+      Sons Ltd.
+FAU - Ye, Jia Li
+AU  - Ye JL
+AUID- ORCID: 0009-0009-7658-4173
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Center of Translational Regenerative Medicine, Hannover Medical School, Hannover, 
+      Germany.
+FAU - Grieger, Klaudia
+AU  - Grieger K
+AUID- ORCID: 0009-0005-7181-3150
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Biomedical Research in Endstage and Obstructive Lung Disease Hannover, (BREATH), 
+      Member of the German Center for Lung Research (DZL), Hannover, Germany.
+FAU - Lu, Dongchao
+AU  - Lu D
+AUID- ORCID: 0000-0002-8578-3790
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - School of Integrative Medicine, Shanghai University of Traditional Chinese 
+      Medicine, Shanghai, China.
+FAU - Brandenberger, Christina
+AU  - Brandenberger C
+AUID- ORCID: 0000-0001-9848-432X
+AD  - Institute of Functional Anatomy, Charité - Universitätsmedizin Berlin, Berlin, 
+      Germany.
+AD  - Institute of Functional and Applied Anatomy, Hannover Medical School, Hannover, 
+      Germany.
+FAU - Juchem, Malte
+AU  - Juchem M
+AUID- ORCID: 0000-0002-0491-9749
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+FAU - Jordan, Maria
+AU  - Jordan M
+AUID- ORCID: 0009-0003-0736-1933
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+FAU - Oehlsen, Lea
+AU  - Oehlsen L
+AUID- ORCID: 0009-0000-6496-5360
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+FAU - Zardo, Patrick
+AU  - Zardo P
+AUID- ORCID: 0000-0003-4003-4945
+AD  - Biomedical Research in Endstage and Obstructive Lung Disease Hannover, (BREATH), 
+      Member of the German Center for Lung Research (DZL), Hannover, Germany.
+AD  - Department of Cardiothoracic Transplantation and Vascular Surgery, Hannover 
+      Medical School, Hannover, Germany.
+FAU - Werlein, Christopher
+AU  - Werlein C
+AUID- ORCID: 0000-0002-7694-4257
+AD  - Biomedical Research in Endstage and Obstructive Lung Disease Hannover, (BREATH), 
+      Member of the German Center for Lung Research (DZL), Hannover, Germany.
+AD  - Institute of Pathology, Hannover Medical School, Hannover, Germany.
+FAU - Hesse, Christina
+AU  - Hesse C
+AUID- ORCID: 0000-0003-2889-7027
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Biomedical Research in Endstage and Obstructive Lung Disease Hannover, (BREATH), 
+      Member of the German Center for Lung Research (DZL), Hannover, Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+FAU - Sewald, Katherina
+AU  - Sewald K
+AUID- ORCID: 0000-0002-7804-4527
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Biomedical Research in Endstage and Obstructive Lung Disease Hannover, (BREATH), 
+      Member of the German Center for Lung Research (DZL), Hannover, Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+FAU - Tretbar, Sandy
+AU  - Tretbar S
+AUID- ORCID: 0000-0003-3616-8414
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+AD  - Fraunhofer Institute for Cell Therapy and Immunology (IZI), Leipzig, Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Leipzig, Germany.
+FAU - Thum, Thomas
+AU  - Thum T
+AUID- ORCID: 0000-0003-4360-1511
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Center of Translational Regenerative Medicine, Hannover Medical School, Hannover, 
+      Germany.
+FAU - Chatterjee, Shambhabi
+AU  - Chatterjee S
+AUID- ORCID: 0000-0001-5978-3562
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+FAU - Bär, Christian
+AU  - Bär C
+AUID- ORCID: 0000-0001-9276-9383
+AD  - Institute of Molecular and Translational Therapeutic Strategies (IMTTS), Hannover 
+      Medical School, Germany.
+AD  - Center of Translational Regenerative Medicine, Hannover Medical School, Hannover, 
+      Germany.
+AD  - Fraunhofer Institute for Toxicology and Experimental Medicine (ITEM), Hannover, 
+      Germany.
+AD  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases, Hannover, Germany.
+LA  - eng
+GR  - BR 5347/4-1/Deutsche Forschungsgemeinschaft/
+GR  - CH 3292/1-4/Deutsche Forschungsgemeinschaft/
+GR  - BA 5631/2-4/Deutsche Forschungsgemeinschaft/
+GR  - BA 5631/5-1/Deutsche Forschungsgemeinschaft/
+GR  - Institute of Biomedical Translation Lower Saxony/
+GR  - Fraunhofer Cluster of Excellence Immune-Mediated Diseases/
+GR  - Fraunhofer Flagship project «RNAuto»/Fraunhofer-Gesellschaft/
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Aging Cell
+JT  - Aging cell
+JID - 101130839
+SB  - IM
+OTO - NOTNLM
+OT  - TERT therapy
+OT  - lung ATII cell proliferation
+OT  - modRNA
+OT  - pulmonary fibrosis
+OT  - senescence
+OT  - telomerase reverse transcriptase (TERT)
+OT  - telomere elongation
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:32
+CRDT- 2025/09/20 10:27
+PHST- 2025/07/29 00:00 [revised]
+PHST- 2025/02/22 00:00 [received]
+PHST- 2025/09/02 00:00 [accepted]
+PHST- 2025/09/20 12:32 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 10:27 [entrez]
+AID - 10.1111/acel.70240 [doi]
+PST - aheadofprint
+SO  - Aging Cell. 2025 Sep 20:e70240. doi: 10.1111/acel.70240.

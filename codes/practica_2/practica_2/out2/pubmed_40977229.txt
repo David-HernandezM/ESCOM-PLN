@@ -1,0 +1,223 @@
+PMID- 40977229
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1879-0844 (Electronic)
+IS  - 1388-9842 (Linking)
+DP  - 2025 Sep 22
+TI  - Deep phenotyping of heart failure with preserved ejection fraction through 
+      multi-omics integration.
+LID - 10.1002/ejhf.70041 [doi]
+AB  - AIMS: Heart failure with preserved ejection fraction (HFpEF) has become the 
+      predominant form of heart failure and a leading cause of global cardiovascular 
+      morbidity and mortality. Due to its heterogeneous nature, HFpEF presents 
+      substantial challenges in diagnosis and management. Given the limited treatment 
+      options and lifestyle-associated comorbidities, early identification is crucial 
+      for establishing effective preventive strategies. Here, we introduce and validate 
+      a machine learning-based multi-omics approach that integrates clinical and 
+      molecular data to detect and characterize HFpEF. METHODS AND RESULTS: A 
+      supervised classifier was trained on a stratified subset of UK Biobank 
+      participants (n = 401 917) to identify phenotypic profiles associated with 
+      subsequent symptom-defined HFpEF during longitudinal follow-up. Model performance 
+      was validated in a non-overlapping hold-out subset from all 22 UK Biobank 
+      assessment centres (n = 100 446; 6726 HFpEF cases; 7394 with multi-omics data). 
+      The classifier demonstrated robust discriminatory performance, with a receiver 
+      operating characteristic area under the curve (ROC AUC) of 0.931 (95% confidence 
+      interval [CI] 0.930-0.931), a sensitivity of 0.857 (95% CI 0.855-0.860) and a 
+      specificity of 0.847 (95% CI 0.846-0.847). It identified individuals who 
+      subsequently developed HFpEF an average of 6.3 ± 3.9 years before symptom onset 
+      in asymptomatic individuals. Similarity network fusion (SNF) identified distinct 
+      subgroups, including a high-risk cluster characterized by elevated mortality and 
+      dysregulated inflammatory pathways, which was distinguishable with high accuracy 
+      (ROC AUC 0.988; 95% CI 0.985-0.990). CONCLUSIONS: We identified HFpEF phenotypes 
+      at an early stage, often several years before the onset of clinical symptoms, 
+      when the disease trajectory may still be amenable to modification. The molecular 
+      characterization provides novel insights into the underlying disease complexity 
+      and enables more refined risk stratification.
+CI  - © 2025 The Author(s). European Journal of Heart Failure published by John Wiley & 
+      Sons Ltd on behalf of European Society of Cardiology.
+FAU - Versnjak, Jakob
+AU  - Versnjak J
+AUID- ORCID: 0009-0009-6179-1014
+AD  - Institute of Computer-assisted Cardiovascular Medicine, Deutsches Herzzentrum der 
+      Charité, Berlin, Germany.
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+FAU - Kuehne, Titus
+AU  - Kuehne T
+AUID- ORCID: 0000-0003-1631-4824
+AD  - Institute of Computer-assisted Cardiovascular Medicine, Deutsches Herzzentrum der 
+      Charité, Berlin, Germany.
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Department of Congenital Heart Disease - Pediatric Cardiology, Deutsches 
+      Herzzentrum der Charité, Berlin, Germany.
+FAU - Fahjen, Pauline
+AU  - Fahjen P
+AUID- ORCID: 0000-0002-5015-0643
+AD  - Proteomics Platform, Max-Delbrück-Center for Molecular Medicine, Berlin, Germany.
+FAU - Jovanovic, Nina
+AU  - Jovanovic N
+AUID- ORCID: 0000-0001-6300-9705
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+AD  - Experimental and Clinical Research Center, a cooperation of 
+      Charité-Universitätsmedizin Berlin and Max Delbrück Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Löber, Ulrike
+AU  - Löber U
+AUID- ORCID: 0000-0001-7468-9531
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+AD  - Experimental and Clinical Research Center, a cooperation of 
+      Charité-Universitätsmedizin Berlin and Max Delbrück Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Schiattarella, Gabriele G
+AU  - Schiattarella GG
+AUID- ORCID: 0000-0002-7582-7171
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Department of Cardiology, Angiology and Intensive Care Medicine, Deutsches 
+      Herzzentrum der Charité (DHZC), Berlin, Germany.
+AD  - Translational Approaches in Heart Failure and Cardiometabolic Disease, Max 
+      Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC), 
+      Berlin, Germany.
+FAU - Wilck, Nicola
+AU  - Wilck N
+AUID- ORCID: 0000-0003-3189-5364
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+AD  - Experimental and Clinical Research Center, a cooperation of 
+      Charité-Universitätsmedizin Berlin and Max Delbrück Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Gerhardt, Holger
+AU  - Gerhardt H
+AUID- ORCID: 0000-0002-3030-0384
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+FAU - Müller, Dominik N
+AU  - Müller DN
+AUID- ORCID: 0000-0003-3650-5644
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+AD  - Experimental and Clinical Research Center, a cooperation of 
+      Charité-Universitätsmedizin Berlin and Max Delbrück Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Edelmann, Frank
+AU  - Edelmann F
+AUID- ORCID: 0000-0003-4401-5936
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Department of Cardiology, Angiology and Intensive Care Medicine, Deutsches 
+      Herzzentrum der Charité (DHZC), Berlin, Germany.
+FAU - Mertins, Philipp
+AU  - Mertins P
+AUID- ORCID: 0000-0002-2245-528X
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Proteomics Platform, Max-Delbrück-Center for Molecular Medicine, Berlin, Germany.
+FAU - Eils, Roland
+AU  - Eils R
+AUID- ORCID: 0000-0002-0034-4036
+AD  - Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Berlin, 
+      Germany.
+AD  - Health Data Science Unit, Heidelberg University Hospital and BioQuant, 
+      Heidelberg, Germany.
+FAU - Gotthardt, Michael
+AU  - Gotthardt M
+AUID- ORCID: 0000-0003-1788-3172
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Department of Cardiology, Angiology and Intensive Care Medicine, Deutsches 
+      Herzzentrum der Charité (DHZC), Berlin, Germany.
+AD  - Translational Cardiology and Functional Genomics, Max Delbrück Center for 
+      Molecular Medicine in the Helmholtz Association, Berlin, Germany.
+FAU - Forslund, Sofia K
+AU  - Forslund SK
+AUID- ORCID: 0000-0003-4285-6993
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, 
+      Germany.
+AD  - Experimental and Clinical Research Center, a cooperation of 
+      Charité-Universitätsmedizin Berlin and Max Delbrück Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Wild, Benjamin
+AU  - Wild B
+AUID- ORCID: 0000-0002-7492-8448
+AD  - Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Berlin, 
+      Germany.
+AD  - Institute of Cardiovascular Sciences, University College London, London, UK.
+FAU - Kelm, Marcus
+AU  - Kelm M
+AUID- ORCID: 0000-0003-4971-0452
+AD  - Institute of Computer-assisted Cardiovascular Medicine, Deutsches Herzzentrum der 
+      Charité, Berlin, Germany.
+AD  - Charité-Universitätsmedizin Berlin, corporate member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), partner site Berlin, Berlin, 
+      Germany.
+AD  - Department of Congenital Heart Disease - Pediatric Cardiology, Deutsches 
+      Herzzentrum der Charité, Berlin, Germany.
+LA  - eng
+GR  - Deutsche Forschungsgemeinschaft: SFB-1470- A02,A03,A05,A06,A10,B04,B05,Z02,Z03/
+GR  - 81X3100210,81X2100282,81Z0100106/Deutsches Zentrum für Herz-Kreislaufforschung/
+GR  - 101078307/H2020 European Research Council/
+GR  - 21CVD02/Foundation Leducq/
+GR  - 01EJ2406A/Bundesministerium für Bildung und Forschung/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Eur J Heart Fail
+JT  - European journal of heart failure
+JID - 100887595
+SB  - IM
+OTO - NOTNLM
+OT  - AI, artificial intelligence
+OT  - Explainable artificial intelligence
+OT  - HFpEF, Heart failure with preserved ejection fraction
+OT  - Heart Failure Stage A: At Risk for Heart Failure
+OT  - Heart Failure Stage B: Pre‐Heart Failure
+OT  - Machine learning
+OT  - Multi‐omics
+OT  - Pre‐symptomatic heart failure
+EDAT- 2025/09/22 06:31
+MHDA- 2025/09/22 06:31
+CRDT- 2025/09/22 03:15
+PHST- 2025/07/25 00:00 [revised]
+PHST- 2025/05/06 00:00 [received]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/22 06:31 [medline]
+PHST- 2025/09/22 06:31 [pubmed]
+PHST- 2025/09/22 03:15 [entrez]
+AID - 10.1002/ejhf.70041 [doi]
+PST - aheadofprint
+SO  - Eur J Heart Fail. 2025 Sep 22. doi: 10.1002/ejhf.70041.

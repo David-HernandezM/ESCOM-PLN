@@ -1,0 +1,93 @@
+PMID- 40983975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250923
+LR  - 20250922
+IS  - 2054-9369 (Electronic)
+IS  - 2095-7467 (Print)
+IS  - 2054-9369 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2025 Sep 23
+TI  - Are metformin-based combination approaches beneficial for non-small cell lung 
+      cancer: evidence from experimental and clinical studies.
+PG  - 61
+LID - 10.1186/s40779-025-00649-5 [doi]
+LID - 61
+AB  - Despite having multiple treatment options, the overall outcomes, including the 
+      survival rates of non-small cell lung cancer (NSCLC) patients, remain relatively 
+      low, indicating the need to explore new approaches to achieve improved 
+      therapeutic responses. To that end, repurposed drugs such as metformin have been 
+      evaluated against many cancer types, including NSCLC. Metformin, a widely used 
+      oral hypoglycemic drug for type 2 diabetes, exhibits anticancer properties and 
+      synergy with several standards of care agents. In this review, we provide a 
+      comprehensive overview of the role and anticancer mechanisms of metformin-based 
+      combination approaches for the treatment of NSCLC. We logically discussed the 
+      experimental evidence from the in vitro and in vivo studies utilizing metformin 
+      alone, and then its combination with chemotherapeutic agents, targeted therapy, 
+      and immunotherapy. We also present clinical trials that underscore the beneficial 
+      and adverse outcomes of metformin use in combination with targeted therapy and 
+      chemotherapeutic agents, and emphasize the limitations and challenges for the 
+      treatment of diabetic and non-diabetic NSCLC patients. It appears that, 
+      regardless of the diverse anticancer mechanisms of this biguanide, the benefits 
+      may be confined to a specific patient subgroup, which opens new avenues to be 
+      explored for NSCLC treatment.
+CI  - © 2025. The Author(s).
+FAU - Thyagarajan, Anita
+AU  - Thyagarajan A
+AD  - Department of Pharmacology and Toxicology, Boonshoft School of Medicine Wright 
+      State University, Dayton, OH, 45435, USA. anita.thyagarajan@wright.edu.
+FAU - Gajjar, Vaibhav
+AU  - Gajjar V
+AD  - Department of Pharmacology and Toxicology, Boonshoft School of Medicine Wright 
+      State University, Dayton, OH, 45435, USA.
+FAU - Sahu, Ravi P
+AU  - Sahu RP
+AUID- ORCID: 0000-0003-3857-9073
+AD  - Department of Pharmacology and Toxicology, Boonshoft School of Medicine Wright 
+      State University, Dayton, OH, 45435, USA. ravi.sahu@wright.edu.
+LA  - eng
+GR  - ES033806/NIHES/
+PT  - Journal Article
+PT  - Review
+DEP - 20250923
+PL  - England
+TA  - Mil Med Res
+JT  - Military Medical Research
+JID - 101643181
+RN  - 9100L32L2N (Metformin)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Antineoplastic Agents)
+SB  - IM
+MH  - Humans
+MH  - *Metformin/therapeutic use/pharmacology
+MH  - *Carcinoma, Non-Small-Cell Lung/drug therapy
+MH  - *Lung Neoplasms/drug therapy
+MH  - Hypoglycemic Agents/therapeutic use/pharmacology
+MH  - Drug Therapy, Combination/methods/standards
+MH  - Antineoplastic Agents/therapeutic use/pharmacology
+PMC - PMC12455790
+OTO - NOTNLM
+OT  - Cell signaling pathways
+OT  - Chemotherapy and targeted therapy
+OT  - Drug repurposing
+OT  - Lung cancer
+OT  - Metformin
+COIS- Declarations. Conflict of interest: The authors declare no competing interests. 
+      Ethical approval and consent to participate: Not applicable. Consent for 
+      publication: Not applicable.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+PMCR- 2025/09/23
+CRDT- 2025/09/22 23:36
+PHST- 2025/02/28 00:00 [received]
+PHST- 2025/09/08 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:36 [entrez]
+PHST- 2025/09/23 00:00 [pmc-release]
+AID - 10.1186/s40779-025-00649-5 [pii]
+AID - 649 [pii]
+AID - 10.1186/s40779-025-00649-5 [doi]
+PST - epublish
+SO  - Mil Med Res. 2025 Sep 23;12(1):61. doi: 10.1186/s40779-025-00649-5.

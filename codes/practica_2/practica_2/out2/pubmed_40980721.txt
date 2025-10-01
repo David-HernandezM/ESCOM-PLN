@@ -1,0 +1,112 @@
+PMID- 40980721
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2752-4191 (Electronic)
+IS  - 2752-4191 (Linking)
+VI  - 5
+IP  - 5
+DP  - 2025 Sep
+TI  - Tirzepatide compared with semaglutide and 10-year cardiovascular disease risk 
+      reduction in obesity: post-hoc analysis of the SURMOUNT-5 trial.
+PG  - oeaf117
+LID - 10.1093/ehjopen/oeaf117 [doi]
+LID - oeaf117
+AB  - AIMS: Approximately two-thirds of obesity-related mortality is attributable to 
+      cardiovascular disease (CVD). The aim of this analysis is to examine predicted 
+      CVD risk reduction following weight loss in persons with obesity for primary 
+      prevention between tirzepatide and semaglutide, and projected CVD events that 
+      could be potentially prevented in the USA. METHODS AND RESULTS: SURMOUNT-5 was a 
+      Phase 3b, open-label, randomized trial conducted in participants with obesity and 
+      without Type-2 diabetes, comparing tirzepatide (10 or 15 mg) with semaglutide 
+      (1.7 or 2.4 mg) and administered via weekly subcutaneous injection. Predicted 
+      10-year CVD risks were compared between treatments at baseline and up to 72 weeks 
+      post-treatment among participants without prior CVD. The impact of cardiovascular 
+      risk reduction was estimated as the projected preventable CVD events over 10 
+      years for tirzepatide and semaglutide in the USA. The average predicted 10-year 
+      CVD risk score before treatment was 9.3%. Treatment with tirzepatide was 
+      associated with significantly greater reduction in predicted 10-year CVD risk 
+      compared with semaglutide (absolute reduction from baseline of 2.4% and 1.4%, 
+      respectively, P < 0.001). Translating risk reduction to the US population who met 
+      treatment eligibility criteria and without prior CVD (∼85 million), an estimated 
+      2 million CVD events could be potentially prevented over 10 years after 72 weeks 
+      of tirzepatide treatment, vs. 1.15 million with semaglutide. CONCLUSION: In 
+      SURMOUNT-5, treatment with tirzepatide was associated with greater predicted 
+      10-year CVD risk reduction compared with semaglutide. This post hoc analysis 
+      suggests tirzepatide treatment may provide greater benefit in primary prevention 
+      of CVD than semaglutide in people with obesity and overweight. REGISTRATION: 
+      ClinicalTrials.gov: NCT05822830.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      European Society of Cardiology.
+FAU - Mamas, Mamas A
+AU  - Mamas MA
+AD  - Keele Cardiovascular Research Group, School of Medicine, Keele University, 
+      Staffordshire ST5 5BG, UK.
+FAU - Bays, Harold
+AU  - Bays H
+AD  - Louisville Metabolic and Atherosclerosis Research Center, 3288 Illinois Avenue, 
+      Louisville, KY 40213, USA.
+FAU - Li, Runjia
+AU  - Li R
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+FAU - Upadhyay, Navneet
+AU  - Upadhyay N
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+FAU - Irani, Tanya
+AU  - Irani T
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+FAU - Senyucel, Cagri
+AU  - Senyucel C
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+FAU - Dunn, Julia P
+AU  - Dunn JP
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+FAU - Liu-Seifert, Hong
+AU  - Liu-Seifert H
+AD  - Eli Lilly and Company, 307 E Merrill, Indianapolis, IN 46285, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT05822830
+PT  - Journal Article
+DEP - 20250902
+PL  - England
+TA  - Eur Heart J Open
+JT  - European heart journal open
+JID - 9918282081406676
+PMC - PMC12448458
+OTO - NOTNLM
+OT  - Cardiovascular disease
+OT  - Semaglutide
+OT  - Tirzepatide
+COIS- Conflict of interest: M.A.M.: Professor Mamas’ institution has received research 
+      grants from Terumo, Boston Scientific, and Abbott vascular. Professor Mamas is on 
+      the speakers bureau for Amgen, Terumo, and Biosensors and has consulting 
+      agreements with Eli Lilly, Boehringer Ingelheim, and Novo Nordisk. H.B.: Dr 
+      Harold Bays’ research site institution has received research grants from 89Bio, 
+      Allergan, Alon Medtech/Epitomee, Aligos, Altimmune, Amgen, Anji Pharma, Abbvie, 
+      AstraZeneca, Bioage, Biohaven, Bionime, Boehringer Ingelheim, Carmot, 
+      Chorus/Bioage, Eli Lilly, Esperion, Evidera, Fractyl, GlaxoSmithKline, HighTide, 
+      Home Access, Horizon, Ionis, Kallyope, LG-Chem, Madrigal, Merck, Mineralys, New 
+      Amsterdam, Novartis, Novo Nordisk, Pfizer, Regeneron, Satsuma, Selecta, Shionogi, 
+      Skye/Birdrock, TIMI, Veru, Viking, Vivus, Zomagen. H.B. has served as a 
+      consultant (e.g. executive/national committee member and/or protocol/drug 
+      development advisor) for 89Bio, Altimmune, Amgen, Boehringer Ingelheim, Eva 
+      Pharma, Kiniksa, HighTide, Lilly, Novo Nordisk, Regeneron, Rivus, Veru, Zomagen, 
+      ZyVersa. R.L., N.U., T.I., C.S., J.P.D., and H.L.-S. are current employees and 
+      shareholders of Eli Lilly and Company.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:47
+PMCR- 2025/09/02
+CRDT- 2025/09/22 08:28
+PHST- 2025/07/22 00:00 [received]
+PHST- 2025/08/25 00:00 [revised]
+PHST- 2025/08/28 00:00 [accepted]
+PHST- 2025/09/22 12:47 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 08:28 [entrez]
+PHST- 2025/09/02 00:00 [pmc-release]
+AID - oeaf117 [pii]
+AID - 10.1093/ehjopen/oeaf117 [doi]
+PST - epublish
+SO  - Eur Heart J Open. 2025 Sep 2;5(5):oeaf117. doi: 10.1093/ehjopen/oeaf117. 
+      eCollection 2025 Sep.

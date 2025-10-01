@@ -1,0 +1,133 @@
+PMID- 40975578
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250922
+IS  - 0019-5707 (Print)
+IS  - 0019-5707 (Linking)
+VI  - 72
+IP  - 4
+DP  - 2025 Oct
+TI  - Composite Radiological Score (CRS)-A novel imaging biomarker: Correlation with 
+      clinical outcomes in patients with COVID-19 pneumonia.
+PG  - 483-488
+LID - S0019-5707(25)00084-8 [pii]
+LID - 10.1016/j.ijtb.2025.03.007 [doi]
+AB  - BACKGROUND: Computed Tomography (CT) was widely used for COVID-19 patients to 
+      assess extent of lung abnormalities and disease severity. Most CT scoring systems 
+      have relied on the extent of lung involvement. OBJECTIVES: We developed a novel 
+      CT scoring system- Composite Radiological Score (CRS) incorporating both extent 
+      and density of lung lesions to assess the trends in CRS at admission, 4-8 weeks 
+      and 10-12 weeks post-admission, estimate inter-reader agreement and correlate CRS 
+      with clinical severity. METHODS: A prospective, observational study of 
+      consecutive adult patients admitted with RT-PCR confirmed COVID-19 pneumonia 
+      (June to September 2020) in a tertiary hospital in North India. Clinical data, CT 
+      images and CRS were recorded sequentially at admission (CT1) and 4-8 weeks (CT2) 
+      in all patients, and at 10-12 weeks (CT3) in a subgroup of patients. RESULTS: CRS 
+      was significantly associated with clinical severity (p-value = 0.003), d-dimer 
+      (p-value = 0.004), serum ferritin (p-value = 0.03) and median length of stay 
+      (p-value = 0.02). At 4-8 weeks, proportion of patients with CRS>3 (15 %) was 
+      significantly lower than those with the extent of lung involvement>25 % (30 %). 
+      Kappa agreement with regards to density of lesions and CRS score was moderate to 
+      substantial except for one pair of radiologist where fair agreement was recorded. 
+      Higher kappa agreement was seen in CT2 and CT3 compared to CT1. CONCLUSION: CRS 
+      correlated well with clinical severity and other laboratory parameters of disease 
+      severity. CRS provides a new method to non-invasively assess the severity of 
+      diffuse lung abnormalities of COVID-19 pneumonia that incorporates both the 
+      extent and density of lung lesions. CLINICAL RELEVANCE: CRS will be useful to 
+      assess severity and longitudinally monitor clinical course of patients with 
+      airspace predominant lung abnormalities.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Pipavath, Sudhakar
+AU  - Pipavath S
+AD  - University of Washington, USA. Electronic address: snjp@uw.edu.
+FAU - Datta, Bornali
+AU  - Datta B
+AD  - Medanta the Medicity, India. Electronic address: bornalidatta@gmail.com.
+FAU - Kavitha, Yaddanapudi
+AU  - Kavitha Y
+AD  - University of Arizona, USA. Electronic address: yaddank@gmail.com.
+FAU - Ahlawat, Kulbir
+AU  - Ahlawat K
+AD  - Medanta the Medicity, India. Electronic address: Kulbirahlawat2020@gmail.com.
+FAU - Prakash, Ashish Kumar
+AU  - Prakash AK
+AD  - Medanta the Medicity, India. Electronic address: akp_vpci@yahoo.com.
+FAU - Tripathy, Jaya Prasad
+AU  - Tripathy JP
+AD  - All India Institute of Medical Sciences, Nagpur, India. Electronic address: 
+      jtripathy@aiimsnagpur.edu.in.
+FAU - Singh, Manish Kumar
+AU  - Singh MK
+AD  - Medanta Institute of Education and Research, India. Electronic address: 
+      manish.singh1@medanta.org.
+FAU - Goyal, Pinky
+AU  - Goyal P
+AD  - Medanta the Medicity, India. Electronic address: drpinky9s@gmail.com.
+FAU - Mittal, Sandeep
+AU  - Mittal S
+AD  - Medanta the Medicity, India. Electronic address: skmittal25@yahoo.co.in.
+FAU - Gupta, Nishant
+AU  - Gupta N
+AD  - Medanta the Medicity, India. Electronic address: docnishant@yahoo.in.
+FAU - Parvathi, S
+AU  - Parvathi S
+AD  - Medanta Institute of Education and Research, India. Electronic address: 
+      parvathi1598@gmail.com.
+FAU - Jaiswal, Anand
+AU  - Jaiswal A
+AD  - Medanta the Medicity, India. Electronic address: anand_jaiswal43@hotmail.com.
+FAU - Singh, Padam
+AU  - Singh P
+AD  - Medanta Institute of Education and Research, India. Electronic address: 
+      dr.padamsingh2013@gmail.com.
+FAU - Raghu, Ganesh
+AU  - Raghu G
+AD  - University of Washington, USA. Electronic address: graghu@uw.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20250312
+PL  - India
+TA  - Indian J Tuberc
+JT  - The Indian journal of tuberculosis
+JID - 0373027
+RN  - 0 (Biomarkers)
+RN  - 9007-73-2 (Ferritins)
+SB  - IM
+MH  - Humans
+MH  - *COVID-19/diagnostic imaging
+MH  - Male
+MH  - Female
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - *Tomography, X-Ray Computed/methods
+MH  - Severity of Illness Index
+MH  - *Lung/diagnostic imaging
+MH  - India
+MH  - Adult
+MH  - SARS-CoV-2
+MH  - Biomarkers/blood
+MH  - Aged
+MH  - Ferritins/blood
+OTO - NOTNLM
+OT  - COVID-19
+OT  - CT imaging
+OT  - Composite radiological score
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 20:57
+PHST- 2024/07/31 00:00 [received]
+PHST- 2025/03/06 00:00 [revised]
+PHST- 2025/03/10 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 20:57 [entrez]
+AID - S0019-5707(25)00084-8 [pii]
+AID - 10.1016/j.ijtb.2025.03.007 [doi]
+PST - ppublish
+SO  - Indian J Tuberc. 2025 Oct;72(4):483-488. doi: 10.1016/j.ijtb.2025.03.007. Epub 
+      2025 Mar 12.

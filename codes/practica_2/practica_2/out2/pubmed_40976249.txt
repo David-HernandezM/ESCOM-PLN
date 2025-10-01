@@ -1,0 +1,264 @@
+PMID- 40976249
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+DP  - 2025 Sep 18
+TI  - Once-daily oral icotrokinra versus placebo and once-daily oral deucravacitinib in 
+      participants with moderate-to-severe plaque psoriasis (ICONIC-ADVANCE 1 & 2): two 
+      phase 3, randomised, placebo-controlled and active-comparator-controlled trials.
+LID - S0140-6736(25)01576-4 [pii]
+LID - 10.1016/S0140-6736(25)01576-4 [doi]
+AB  - BACKGROUND: Monoclonal antibodies targeting interleukin-23 and interleukin-12 are 
+      efficacious in treating plaque psoriasis but must be delivered via intravenous or 
+      subcutaneous injection. Here, we aimed to evaluate the efficacy and safety of 
+      icotrokinra (JNJ-77242113), a targeted oral peptide that selectively binds the 
+      interleukin-23 receptor, compared with both placebo and deucravacitinib in adults 
+      with moderate-to-severe plaque psoriasis. METHODS: The phase 3, randomised, 
+      double-blind, placebo-controlled and active-comparator-controlled ICONIC-ADVANCE 
+      1 and ICONIC-ADVANCE 2 trials, which are being done at 149 sites across 13 
+      countries and 114 sites across 11 countries, respectively, randomly assigned 
+      (2:1:2 and 4:1:4, respectively) adults with moderate-to-severe plaque psoriasis 
+      diagnosed for at least 26 weeks (body-surface-area involvement ≤10%, Psoriasis 
+      Area and Severity Index [PASI] ≤12, and Investigator's Global Assessment [IGA] 
+      ≤3) to once-daily oral icotrokinra 200 mg, placebo, or deucravacitinib 6 mg; 
+      participants randomly assigned to placebo or deucravacitinib transitioned to 
+      icotrokinra at week 16 or week 24, respectively. Coprimary endpoints were 
+      proportions of participants achieving IGA 0 or 1 (clear or almost clear skin) 
+      with at least a two-grade improvement and at least 90% improvement in PASI (PASI 
+      90) at week 16 with icotrokinra versus placebo. These studies are registered with 
+      ClinicalTrials.gov, NCT06143878 (ADVANCE 1) and NCT06220604 (ADVANCE 2), and are 
+      ongoing. FINDINGS: ICONIC-ADVANCE 1 enrolled participants from Jan 17, 2024, to 
+      May 24, 2024, and ICONIC-ADVANCE 2 enrolled participants from March 9, 2024, to 
+      June 13, 2024. Participants (ADVANCE 1: 774 of 988 patients screened; ADVANCE 2: 
+      731 of 917 patients screened) were randomly assigned to icotrokinra (n=311 and 
+      322), placebo (n=156 and 82), or deucravacitinib (n=307 and 327). All coprimary 
+      endpoints were met in both trials. Higher proportions of icotrokinra-treated 
+      versus placebo-treated participants achieved IGA 0 or 1 (ADVANCE 1: 213 [68%] of 
+      311 vs 17 [11%] of 156, treatment difference 95% CI 58% [50-64]; ADVANCE 2: 227 
+      [70%] of 322 vs seven [9%] of 82, 62% [53-69]; both p<0·0001) and PASI 90 
+      (ADVANCE 1: 171 [55%] of 311 vs six [4%] of 156, treatment difference 95% CI 51% 
+      [44-57]; ADVANCE 2: 184 [57%] of 322 vs one [1%] of 82, 56% [48-62]; both 
+      p<0·0001) at week 16. Across studies, adverse event rates to week 16 were 303 
+      (48%) of 632 and 136 (57%) of 237 with icotrokinra and placebo, respectively; the 
+      most common adverse events were nasopharyngitis (37 [6%] of 632 and 13 [5%] of 
+      237) and upper respiratory tract infection (23 [4%] of 632 and eight [3%] of 
+      237). To week 24, adverse event rates were lower than with icotrokinra (359 [57%] 
+      of 632) than deucravacitinib (411 [65%] of 634). INTERPRETATION: Icotrokinra 
+      showed superior clinical response rates versus placebo and deucravacitinib in 
+      phase 3 moderate-to-severe plaque psoriasis trials, with similar adverse event 
+      rates to placebo. These findings suggest the potential of once-daily oral 
+      icotrokinra to provide robust efficacy and a favourable safety profile. FUNDING: 
+      Johnson & Johnson.
+CI  - © 2025 Elsevier Ltd. All rights reserved, including those for text and data 
+      mining, AI training, and similar technologies.
+FAU - Gold, Linda Stein
+AU  - Gold LS
+AD  - Henry Ford Health System, West Bloomfield, MI, USA. Electronic address: 
+      lstein1@hfhs.org.
+FAU - Armstrong, April W
+AU  - Armstrong AW
+AD  - Department of Dermatology, University of California Los Angeles, Los Angeles, CA, 
+      USA.
+FAU - Bissonnette, Robert
+AU  - Bissonnette R
+AD  - Innovaderm Research, Montreal, QC, Canada.
+FAU - Magnolo, Nina
+AU  - Magnolo N
+AD  - University Hospital Muenster, Muenster, Germany.
+FAU - Vender, Ronald B
+AU  - Vender RB
+AD  - McMaster University, Hamilton, ON, Canada; Dermatrials Research, Hamilton, ON, 
+      Canada.
+FAU - Sebastian, Michael
+AU  - Sebastian M
+AD  - Dermatologie Mahlow, Mahlow, Germany.
+FAU - Galimberti, Maria Laura
+AU  - Galimberti ML
+AD  - Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.
+FAU - Tsianakas, Athanasios
+AU  - Tsianakas A
+AD  - Fachklinik Bad Bentheim, Bad Bentheim, Germany.
+FAU - Arnone, Marcelo
+AU  - Arnone M
+AD  - Department of Dermatology, University of São Paulo, São Paulo, Brazil.
+FAU - Wallace, Paul
+AU  - Wallace P
+AD  - Wallace Skin & Body Institute, Los Angeles, CA, USA; Wallace Skin Research 
+      Center, Los Angeles, CA, USA.
+FAU - Simon, Margrit
+AU  - Simon M
+AD  - Berlin, Germany.
+FAU - Riera-Monroig, Josep
+AU  - Riera-Monroig J
+AD  - Dermatology Department, Hospital-Clinic de Barcelona, Universitat de Barcelona, 
+      Barcelona, Spain.
+FAU - Gerdes, Sascha
+AU  - Gerdes S
+AD  - Center for Inflammatory Skin Diseases, University Medical Center 
+      Schleswig-Holstein Campus Kiel, Kiel, Germany.
+FAU - Waibel, Jill
+AU  - Waibel J
+AD  - Miami Dermatology & Laser Research Institute, Miami, FL, USA.
+FAU - Gonzalez-Cantero, Alvaro
+AU  - Gonzalez-Cantero A
+AD  - Department of Dermatology, Hospital Universitario Ramón y Cajal, IRYCIS, Madrid, 
+      Spain; Facultad de Medicina, Universidad Francisco de Vitoria, Ctra, Pozuelo de 
+      Alarcón, Spain.
+FAU - Schwarz, Beate
+AU  - Schwarz B
+AD  - Langenau, Germany.
+FAU - Tada, Yayoi
+AU  - Tada Y
+AD  - Department of Dermatology, Teikyo University School of Medicine, Tokyo, Japan.
+FAU - Cecchini, Michael
+AU  - Cecchini M
+AD  - York Dermatology Clinic & Research Center and University of Toronto, Richmond 
+      Hill, Toronto, ON, Canada.
+FAU - Ehst, Benjamin
+AU  - Ehst B
+AD  - Oregon Medical Research Center, Portland, OR, USA.
+FAU - Kircik, Leon
+AU  - Kircik L
+AD  - Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, 
+      USA.
+FAU - Kephart, Lea
+AU  - Kephart L
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Reyes-Servin, Ofelia
+AU  - Reyes-Servin O
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Edem, Bassey Effiom
+AU  - Edem BE
+AD  - Johnson & Johnson, Leiden, Netherlands.
+FAU - Campbell, Jennifer H
+AU  - Campbell JH
+AD  - Johnson & Johnson, Cambridge, MA, USA.
+FAU - Shen, Yaung-Kaung
+AU  - Shen YK
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Cresswell, Kellen
+AU  - Cresswell K
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Li, Shu
+AU  - Li S
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - DeKlotz, Cynthia M C
+AU  - DeKlotz CMC
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Nunes, Fabio
+AU  - Nunes F
+AD  - Johnson & Johnson, Spring House, PA, USA.
+FAU - Papp, Kim A
+AU  - Papp KA
+AD  - Alliance Clinical Trials and Probity Medical Research, Waterloo, ON, Canada; 
+      Division of Dermatology, Temerty Faculty of Medicine, University of Toronto, 
+      Toronto, ON, Canada.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT06143878
+SI  - ClinicalTrials.gov/NCT06220604
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+SB  - IM
+COIS- Declaration of interests LSG is an investigator–advisor or speaker for AbbVie, 
+      Amgen, Arctis, Bristol Myers Squibb, Dermavant, Eli Lilly, Johnson & Johnson, 
+      Novartis, Pfizer, and UCB. AWA has served as a research investigator, scientific 
+      advisor, or speaker to AbbVie, Amgen, Arcutis, BMS, Boehringer Ingelheim, 
+      Dermavant Sciences, Eli Lilly, Galderma, Incyte, Johnson & Johnson, Leo Pharma, 
+      Novartis, Parexel, Pfizer, Regeneron, Sanofi, Takeda, and UCB. RB is an advisory 
+      board member, consultant, speaker, investigator for, or received honoraria or 
+      grants from AbbVie, Alumis, Amgen, AnaptysBio, Arcutis, BMS/Celgene, Eli Lilly, 
+      Johnson & Johnson, LEO Pharma, Organon, Nimbus, Takeda, UCB, VentyxBio, Vyne, 
+      Xencor, and Zurabio and is also an employee and shareholder of Innovaderm 
+      Research. NM has received honoraria for participation on advisory boards, as a 
+      speaker or for consultancy for AbbVie, Almirall, Amgen, Boehringer Ingelheim, 
+      Bristol Myers Squibb, Celltrion, Dr. Wolff, Eli Lilly, Johnson & Johnson, La 
+      Roche-Posay, LEO Pharma, Novartis, Pfizer, Sanofi, and UCB. RBV has received 
+      grants or research support, or speakers bureau–honoraria from AbbVie, Alumis, 
+      Amgen, Arcutis, Bausch, Boehringer Ingelheim, Bristol Myers Squibb, Celltrion, 
+      Dermavant, Dermira, DICE, Galderma, Incyte, JAMP, Johnson & Johnson, Leo, Lilly, 
+      Meiji, Nimbus, Novartis, Organon, Orka, Pfizer, Sanofi, Sandoz, Sun, Takeda, UCB, 
+      and Zai. MS has received consulting fees or payment–honoraria for lectures, 
+      presentations, speakers bureaus, manuscript writing, or educational events from 
+      AbbVie, Almirall, Amgen, BMS, Leo Pharma, Sanofi, Galderma, UCB, Incyte, Johnson 
+      & Johnson, Lilly, Novartis, and Pfizer; has received payment for expert testimony 
+      from Apogee; and has received support for attending meetings or travel from 
+      AbbVie and Johnson & Johnson. MLG has served as an investigator for Amgen, BI, 
+      GSK, Johnson & Johnson, Lilly, Novartis, and Pfizer. AT has served as an 
+      investigator and received honoraria as advisor and speaker for Johnson & Johnson. 
+      MA has been a consultant or has received honoraria from AbbVie, Boehringer 
+      Ingelheim, Glenmark, Johnson & Johnson, Leo Pharma, Lilly, Novartis, Pfizer, and 
+      UCB Biopharma; has participated as an investigator in clinical studies; and has 
+      no other potential conflict of interest to declare. PW and MSi report no 
+      competing interests. JR-M has acted as consultant or speaker, or has received 
+      research funding from or participated in clinical trials for AbbVie, Almirall, 
+      Amgen, Boheringer Ingelheim, Bristol Myers Squibb, Johnson & Johnson, Leo Pharma, 
+      Lilly, Novartis, and UCB. SG served as an advisor, received speaker's honoraria 
+      or grants, or participated in clinical trials for AbbVie, Aceleryin, Adimune, 
+      Affibody, Akari Therapeutics, Almirall-Hermal, Alumis, Amgen, Apogee 
+      Therapeutics, Argenx, Aristea Therapeutics, AstraZeneca, Biogen Idec, Bioskin, 
+      Bristol Myers Squibb, Boehringer Ingelheim, Celgene, Dermira, Eli Lilly, 
+      Galderma, Hexal, Incyte, Johnson & Johnson, Klinge Pharma, Kymab, LEO Pharma, 
+      Medac, MoonLake Immunotherapeutics, MSD, Neubourg Skin Care GmbH, Novartis, 
+      Pfizer, Pierre Fabre, Principia Biopharma, Regeneron Pharmaceuticals, Sandoz 
+      Biopharmaceuticals, Sanofi-Aventis, and UCB Pharma. JW is an advisory board 
+      member, consultant, speaker or investigator and has received honoraria from 
+      Allergan, Amgen, Bellamia, BMS, Candela, Cytrellis, Eli Lilly, Galderma, Johnson 
+      & Johnson, Lumenis, Pfizer, Proctor and Gambel, ReGenX, Sanofi, SkinCeuticals, 
+      Shanghai Biopharma, Solta, and VA. AG-C has served as a consultant for AbbVie, 
+      Almirall, Amgen, Apogee, BMS, Boehringer Ingelheim, Celgene, Cerave, Innovaderm, 
+      Johnson & Johnson, Leo Pharma, Lilly, L’Oréal, Novartis, and Organon, receiving 
+      grants or other payments. BS has served as a speaker, consultant, or clinical 
+      study investigator for AbbVie, Almirall, BMS, Celgene, Biogen, Dermapharm, 
+      Ferrer, Galderma, Johnson & Johnson, Leo Pharma, Lilly Pharma, Moon Lake, 
+      Novartis, Regeneron, Sanofi, Pfizer, and UCB. YT received research grants from 
+      AbbVie, Amgen, Boehringer Ingelheim, Bristol Myers Squibb, Eisai, Eli Lilly, 
+      Jimro, Kaken, Kyowa Kirin, LEO Pharma, Maruho, Meiji Seika Pharma, Sun Pharma, 
+      Taiho, Tanabe-Mitsubishi, Torii, and UCB and honoraria from AbbVie, Amgen, 
+      Boehringer Ingelheim, Bristol Myers Squibb, Eisai, Eli Lilly, Jimro, Johnson & 
+      Johnson, Kyowa Kirin, LEO Pharma, Maruho, Novartis Pharma, Sun Pharma, Taiho, 
+      Tanabe-Mitsubishi, Torii, and UCB. MC reports no competing interests. BE has 
+      served as a consultant or clinical study investigator for AbbVie, Acelyrin, 
+      Aclaris, Allakos, Almirall, Alumis, Amgen, AnaptysBio, Apogee, Arcutis, Athenex, 
+      Boehringer Ingelheim, Bristol Myers Squibb, Celldex, Concert Pharma, Dermavant 
+      Sciences, Dermira, Eli Lilly, Evelo Biosciences, Evommune, Incyte, Johnson & 
+      Johnson, Kymab, LEO Pharma, Navigator Medicines, Novartis, Ortho Dermatologics, 
+      Pfizer, Priovant, Regeneron, Sanofi Genzyme, Sun Pharma, Takeda, UCB Pharma, and 
+      Ventyx, and as a paid speaker for AbbVie, Dermavant, Incyte, LEO Pharma, Eli 
+      Lilly, Novartis, Ortho Dermatologics, Regeneron, and Sanofi Genzyme. LKi has 
+      served as a speaker, consultant, advisory board member, or clinical study 
+      investigator for AbbVie, Abbott Laboratories, Allergan, Almirall, Amgen, Arcutis, 
+      Biogen-Idec, BMS, Celgene, Cipher, Combinatrix, Connetics Corporation, Dermavant, 
+      Dermira, Dr Reddy's Lab, Eli Lilly, Galderma, Genentech, GlaxoSmithKline, Johnson 
+      & Johnson, Leo, Merck, Novartis, Promius, PharmaDerm, Pfizer, Serono (Merck 
+      Serono International SA), Stiefel Laboratories, Sun Pharma, Taro, UCB, and 
+      Valeant Pharmaceuticals International. LKe, OR-S, BEE, JHC, Y-KS, KC, SL, CMCD, 
+      and FN are employees of Johnson & Johnson; employees can hold stock or stock 
+      options in Johnson & Johnson. KAP has received clinical research grants, 
+      honoraria, or consultancy, scientific advisor, investigator, speaker, or medical 
+      officer fees from AbbVie, Acelyrin, Akros, Alumis, Amgen, Arcutis, Bausch 
+      Health–Valeant, Boehringer Ingelheim, Bristol Myers Squibb, Can-Fite Biopharma, 
+      Celltrion, Concert Pharmaceuticals, Dermavant, Dermira, Dice Pharmaceuticals, 
+      Dice Therapeutics, Eli Lilly, Evelo Biosciences, Forbion, Galderma, Horizon 
+      Therapeutics, Incyte, Johnson & Johnson, Kymab, Kyowa Hakko Kirin, Leo, Meiji 
+      Seika Pharma, Mitsubishi Pharma, Nimbus Therapeutics, Novartis, Pfizer, Reistone, 
+      Sanofi-Aventis–Genzyme, Sandoz, Sun Pharma, Takeda, Tarsus Pharmaceuticals, UCB, 
+      and Zai Lab.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:56
+PHST- 2025/07/08 00:00 [received]
+PHST- 2025/07/28 00:00 [revised]
+PHST- 2025/07/29 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:56 [entrez]
+AID - S0140-6736(25)01576-4 [pii]
+AID - 10.1016/S0140-6736(25)01576-4 [doi]
+PST - aheadofprint
+SO  - Lancet. 2025 Sep 18:S0140-6736(25)01576-4. doi: 10.1016/S0140-6736(25)01576-4.

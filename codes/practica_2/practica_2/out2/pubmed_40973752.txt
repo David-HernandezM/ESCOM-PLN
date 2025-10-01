@@ -1,0 +1,32 @@
+PMID- 40973752
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Sep 19
+TI  - World's first AI-designed viruses a step towards AI-generated life.
+LID - 10.1038/d41586-025-03055-y [doi]
+FAU - Kavanagh, Katie
+AU  - Kavanagh K
+LA  - eng
+PT  - News
+DEP - 20250919
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+OTO - NOTNLM
+OT  - Molecular biology
+OT  - Synthetic biology
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 23:37
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/19 23:37 [entrez]
+AID - 10.1038/d41586-025-03055-y [pii]
+AID - 10.1038/d41586-025-03055-y [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Sep 19. doi: 10.1038/d41586-025-03055-y.

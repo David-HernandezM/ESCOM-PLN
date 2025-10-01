@@ -1,0 +1,174 @@
+PMID- 40983502
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1468-3288 (Electronic)
+IS  - 0017-5749 (Linking)
+DP  - 2025 Sep 22
+TI  - Alleviated T cell exhaustion and SLC1A3-mediated stroma-remodelling dictate 
+      chemoimmunotherapy efficacy in oesophageal squamous cell carcinoma.
+LID - gutjnl-2025-335642 [pii]
+LID - 10.1136/gutjnl-2025-335642 [doi]
+AB  - BACKGROUND: Combining chemotherapy with anti-programmed cell death protein-1 
+      (PD-1) improves clinical outcomes in oesophageal squamous cell carcinoma (ESCC), 
+      yet the underlying synergistic mechanism remains obscured. Moreover, 30-50% of 
+      patients still derive no therapeutic benefit from the combination strategy, 
+      highlighting the need to decipher and overcome resistance. OBJECTIVE: We sought 
+      to investigate the mechanisms by which chemotherapy augments the responses to 
+      immune checkpoint blockade and elucidate the factors contributing to persistent 
+      resistance in non-responding patients. DESIGN: We designed a systematic 
+      investigation involving longitudinal sampling of ESCC tissues both from patients 
+      treated with chemotherapy plus anti-PD-1 and anti-PD-1 monotherapy. The tumour 
+      microenvironment (TME) was then comprehensively characterised using single-cell 
+      transcriptomics, T cell receptor repertoire analysis, multiplex 
+      immunohistochemistry and murine models. RESULTS: We demonstrated that combination 
+      therapy exerted superior antitumour efficacy by mitigating immune checkpoint 
+      engagements (TIGIT-NECTIN2 and NECTIN1-CD96) between epithelial-stress tumour 
+      cells and CD8(+) T cells, thereby preventing T cells from exhaustion and boosting 
+      vitality. In non-responders, we identified a subset of tumour cells with high 
+      SLC1A3 expression, which localised at the tumour boundary and interacted with 
+      COL1A1(+) myofibroblastic cancer-associated fibroblasts, inducing an 
+      extracellular matrix-enriched TME that hindered the infiltration of CD8(+) T 
+      cells. Inhibiting SLC1A3 significantly enhanced the efficacy of chemotherapy plus 
+      anti-PD-1, underscoring its potential as a therapeutic target. CONCLUSION: This 
+      study elucidates the synergistic mechanisms and identifies key resistance 
+      pathways underlying chemo-immunotherapy combinations in patients with ESCC, 
+      providing a scientific basis for refining future combination therapeutic 
+      regimens.
+CI  - © Author(s) (or their employer(s)) 2025. No commercial re-use. See rights and 
+      permissions. Published by BMJ Group.
+FAU - Xiang, Shujing
+AU  - Xiang S
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - Chen, Yanxing
+AU  - Chen Y
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - Wang, Chaoye
+AU  - Wang C
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+AD  - Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School 
+      of Basic Medicine Peking Union Medical College, Chinese Academy of Medical 
+      Sciences, Peking Union Medical College, Beijing, People's Republic of China.
+FAU - Wang, Min
+AU  - Wang M
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - He, Ye
+AU  - He Y
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - Liu, Zhichao
+AU  - Liu Z
+AUID- ORCID: 0000-0003-3542-0905
+AD  - Department of Thoracic Surgery, Department of Thoracic Surgery, Shanghai Chest 
+      Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, Shanghai, 
+      China.
+FAU - Zhang, Jin-Ling
+AU  - Zhang JL
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+AD  - Department of Experimental Research, Sun Yat-sen University Cancer Center, 
+      Guangzhou, Guangdong, China.
+FAU - Yang, Lu-Ping
+AU  - Yang LP
+AUID- ORCID: 0000-0003-4697-6853
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+FAU - Wei, Yun-Fu
+AU  - Wei YF
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+AD  - Department of Experimental Research, Sun Yat-sen University Cancer Center, 
+      Guangzhou, Guangdong, China.
+FAU - Wu, Qi-Nian
+AU  - Wu QN
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+FAU - Wang, Zi-Xian
+AU  - Wang ZX
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - Xi, Shao-Yan
+AU  - Xi SY
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China.
+FAU - Li, Zhigang
+AU  - Li Z
+AUID- ORCID: 0000-0001-5086-5334
+AD  - Department of Thoracic Surgery, Department of Thoracic Surgery, Shanghai Chest 
+      Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, Shanghai, 
+      China.
+FAU - Zhao, Qi
+AU  - Zhao Q
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China 
+      wangfeng@sysucc.org.cn xurh@sysucc.org.cn zhaoqi@sysucc.org.cn.
+AD  - Department of Experimental Research, Sun Yat-sen University Cancer Center, 
+      Guangzhou, Guangdong, China.
+FAU - Xu, Rui-Hua
+AU  - Xu RH
+AUID- ORCID: 0000-0001-9657-4380
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China 
+      wangfeng@sysucc.org.cn xurh@sysucc.org.cn zhaoqi@sysucc.org.cn.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+FAU - Wang, Feng
+AU  - Wang F
+AUID- ORCID: 0000-0001-7668-9674
+AD  - Department of Medical Oncology, Sun Yat-sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Guangdong Provincial Clinical Research 
+      Center for Cancer, Sun Yat-sen University, Guangzhou, Guangdong, China 
+      wangfeng@sysucc.org.cn xurh@sysucc.org.cn zhaoqi@sysucc.org.cn.
+AD  - Research Unit of Precision Diagnosis and Treatment for Gastrointestinal Cancer, 
+      Chinese Academy of Medical Sciences, Guangzhou, Guangdong, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Gut
+JT  - Gut
+JID - 2985108R
+SB  - IM
+OTO - NOTNLM
+OT  - EPITHELIAL CELLS
+OT  - IMMUNOTHERAPY
+OT  - OESOPHAGEAL CANCER
+OT  - SINGLE-CELL ANALYSIS
+COIS- Competing interests: FW and R-HX reported participating on advisory boards for 
+      Astellas, MSD, AstraZeneca, Hengrui, BeiGene, Innovent, Hutchison, Junshi, Qilu, 
+      CPPC and Keymed. All other authors have no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 21:22
+PHST- 2025/04/22 00:00 [received]
+PHST- 2025/09/01 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 21:22 [entrez]
+AID - gutjnl-2025-335642 [pii]
+AID - 10.1136/gutjnl-2025-335642 [doi]
+PST - aheadofprint
+SO  - Gut. 2025 Sep 22:gutjnl-2025-335642. doi: 10.1136/gutjnl-2025-335642.

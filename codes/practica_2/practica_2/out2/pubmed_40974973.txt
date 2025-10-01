@@ -1,0 +1,98 @@
+PMID- 40974973
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1532-2955 (Electronic)
+IS  - 1087-0792 (Linking)
+VI  - 84
+DP  - 2025 Sep 12
+TI  - Pharmacotherapy for obstructive sleep apnea: a critical review of randomized 
+      placebo-controlled trials.
+PG  - 102169
+LID - S1087-0792(25)00122-4 [pii]
+LID - 10.1016/j.smrv.2025.102169 [doi]
+AB  - Positive airway pressure therapy remains the gold standard treatment for 
+      obstructive sleep apnea (OSA), but challenges with adherence, acceptability, and 
+      side effects persist. Interest in pharmacological therapies has grown, 
+      culminating in the recent U.S. Food and Drug Administration approval of 
+      tirzepatide as the first pharmacotherapy for OSA. Our review critically examines 
+      the efficacy of pharmacologic treatments for OSA and highlights current 
+      limitations and future research directions. We conducted a search of Medline and 
+      Embase for randomized controlled trials published from January 2005 to February 
+      2025, identifying 41 studies investigating 37 different drugs or drug 
+      combinations. Weight-loss therapies showed the most consistent and substantial 
+      improvements in OSA severity. Tirzepatide produced the largest reduction in 
+      apnea-hypopnea index and improved patient-reported outcomes and cardiometabolic 
+      risk factors. Other pharmacotherapies demonstrated modest and inconsistent 
+      effects on OSA severity, sometimes with side-effects that contradict the 
+      treatment goal to reduce daytime sleepiness. Weight-loss agents, particularly 
+      tirzepatide, represent a promising and now clinically viable treatment option. 
+      While endotype-targeted approaches are conceptually attractive, many agents were 
+      too early in their testing/re-purposing phase to demonstrate improvements in 
+      sleepiness, quality of life or sustained reductions of OSA severity; or were 
+      insufficiently targeted at the endotype they might best treat.
+CI  - Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Luu, Steven
+AU  - Luu S
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia. Electronic address: steven.luu@woolcock.org.au.
+FAU - Chan, Daryl Emery Chee Yeow
+AU  - Chan DECY
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia.
+FAU - Marshall, Nathaniel S
+AU  - Marshall NS
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia.
+FAU - Phillips, Craig L
+AU  - Phillips CL
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia; Macquarie Medical School, Faculty of Medicine, 
+      Health and Human Sciences, Macquarie University, Sydney, Australia.
+FAU - Grunstein, Ronald R
+AU  - Grunstein RR
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia; Macquarie Medical School, Faculty of Medicine, 
+      Health and Human Sciences, Macquarie University, Sydney, Australia; Royal Prince 
+      Alfred Hospital, Camperdown, NSW, Australia; Sydney Medical School, Faculty of 
+      Medicine and Health University of Sydney, Sydney, Australia.
+FAU - Yee, Brendon J
+AU  - Yee BJ
+AD  - Sleep & Circadian Research Group, Woolcock Institute of Medical Research, 
+      Macquarie University, Australia; Macquarie Medical School, Faculty of Medicine, 
+      Health and Human Sciences, Macquarie University, Sydney, Australia; Royal Prince 
+      Alfred Hospital, Camperdown, NSW, Australia; Sydney Medical School, Faculty of 
+      Medicine and Health University of Sydney, Sydney, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250912
+PL  - England
+TA  - Sleep Med Rev
+JT  - Sleep medicine reviews
+JID - 9804678
+SB  - IM
+OTO - NOTNLM
+OT  - Atomoxetine-oxybutynin
+OT  - Atomoxetine-trazodone
+OT  - Eszopiclone
+OT  - Liraglutide
+OT  - Obstructive sleep apnea
+OT  - Placebo
+OT  - Randomized controlled trials
+OT  - Sulthiame
+OT  - Zolpidem
+OT  - Zopiclone
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:11
+PHST- 2025/06/10 00:00 [received]
+PHST- 2025/08/05 00:00 [revised]
+PHST- 2025/08/28 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:11 [entrez]
+AID - S1087-0792(25)00122-4 [pii]
+AID - 10.1016/j.smrv.2025.102169 [doi]
+PST - aheadofprint
+SO  - Sleep Med Rev. 2025 Sep 12;84:102169. doi: 10.1016/j.smrv.2025.102169.

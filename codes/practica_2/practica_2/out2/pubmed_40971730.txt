@@ -1,0 +1,138 @@
+PMID- 40971730
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+DP  - 2025 Sep 19
+TI  - Skullcapflavone II Inhibits SLC1A4-Mediated L-Serine Uptake and Promotes 
+      Mitochondrial Damage in Gastric Cancer.
+PG  - e17225
+LID - 10.1002/advs.202417225 [doi]
+AB  - Gastric cancer (GC) is one of the most lethal human malignancies worldwide. 
+      Serine metabolism is essential for meeting biosynthetic demands and regulating 
+      the redox state of GC cells. This study demonstrates that Skullcapflavone II 
+      (SkII) selectively inhibits the proliferation and metastasis of GC cells. 
+      Transcriptomic and metabolomic analyses reveal that SkII treatment significantly 
+      affects serine metabolism in GC cells, and isotope tracing experiments confirmed 
+      that SkII reduces intracellular L-serine levels by inhibiting uptake rather than 
+      de novo synthesis. Furthermore, IHC analysis reveal significant upregulation of 
+      the L-serine transporter SLC1A4 in GC tissues. Binding studies using PELSA, SPR, 
+      DARTS, CETSA, and MD suggest that SLC1A4 is a potential direct target of SkII. 
+      SkII-induced disruption of serine metabolism resulted in an imbalance in 
+      GSSG/GSH, leading to increased accumulation of intracellular ROS and oxidative 
+      stress. This metabolic disruption causes mitochondrial damage, impaired energy 
+      production, and increased apoptosis in GC cells. Additionally, in vivo studies 
+      reveal that a serine and glycine deficient diet significantly enhanced the 
+      antitumor efficacy of SkII, highlighting its potential as a combinatorial 
+      therapeutic strategy. These findings provide compelling evidence that SkII is a 
+      novel candidate for targeting serine metabolism, suggesting a promising 
+      therapeutic approach for treating GC.
+CI  - © 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+FAU - Zhao, Jing
+AU  - Zhao J
+AUID- ORCID: 0000-0001-7700-5908
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - School of Life Sciences, Tianjin University, Tianjin, 300072, China.
+FAU - Ma, Yu-Bo
+AU  - Ma YB
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Gastric Surgery, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Xia, Rui-Hong
+AU  - Xia RH
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Gastric Surgery, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Jiang, Zheng-Chen
+AU  - Jiang ZC
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Gastric Surgery, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Zhou, Ying
+AU  - Zhou Y
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Pharmacy, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Wang, Ya-Nan
+AU  - Wang YN
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Gastric Surgery, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Yang, Meng-Yan
+AU  - Yang MY
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Dai, Jing-Jie
+AU  - Dai JJ
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Zhu, Tao
+AU  - Zhu T
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Pan, Li-Bin
+AU  - Pan LB
+AD  - Zhejiang Provincial Research Center for Upper Gastrointestinal Tract Cancer, 
+      Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Zhejiang Key Lab of Prevention, Diagnosis and Therapy of Upper Gastrointestinal 
+      Cancer, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+AD  - Department of Pharmacy, Zhejiang Cancer Hospital, Hangzhou, 310022, China.
+FAU - Yuan, Li
+AU  - Yuan L
+AD  - Postgraduate training base Alliance of Wenzhou Medical University, (Zhejiang 
+      Cancer Hospital), Hangzhou, 310022, China.
+LA  - eng
+GR  - 82422078/National Natural Science Foundation of China/
+GR  - 82374544/National Natural Science Foundation of China/
+GR  - 82204828/National Natural Science Foundation of China/
+GR  - LR24H290001/Natural Science Foundation of Zhejiang Province/
+GR  - LHDMY22H160008/Natural Science Foundation of Zhejiang Province/
+GR  - LQ23H310002/Natural Science Foundation of Zhejiang Province/
+GR  - K-20230085/Healthy Zhejiang One Million People Cohort/
+GR  - ZYYCXTD-C-202208/Innovation Team and Talents Cultivation Program of National 
+      Administration of Traditional Chinese Medicine/
+GR  - 2024KY798/Zhejiang Provincial Medical and Health Science and Technology Program/
+GR  - 2021ZZ007/Project of Chinese Medical Science and Technology Foundation of 
+      Zhejiang Province/
+PT  - Journal Article
+DEP - 20250919
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+SB  - IM
+OTO - NOTNLM
+OT  - L‐serine uptake
+OT  - SLC1A4
+OT  - gastric cancer
+OT  - serine metabolism
+OT  - skullcapflavone II
+EDAT- 2025/09/19 18:30
+MHDA- 2025/09/19 18:30
+CRDT- 2025/09/19 15:54
+PHST- 2025/08/30 00:00 [revised]
+PHST- 2024/12/19 00:00 [received]
+PHST- 2025/09/19 18:30 [medline]
+PHST- 2025/09/19 18:30 [pubmed]
+PHST- 2025/09/19 15:54 [entrez]
+AID - 10.1002/advs.202417225 [doi]
+PST - aheadofprint
+SO  - Adv Sci (Weinh). 2025 Sep 19:e17225. doi: 10.1002/advs.202417225.

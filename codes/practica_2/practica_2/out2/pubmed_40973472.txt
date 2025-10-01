@@ -1,0 +1,199 @@
+PMID- 40973472
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1876-4479 (Electronic)
+IS  - 1873-9946 (Linking)
+DP  - 2025 Sep 18
+TI  - International consensus on the use of intestinal ultrasound in inflammatory bowel 
+      disease trials.
+LID - jjaf170 [pii]
+LID - 10.1093/ecco-jcc/jjaf170 [doi]
+AB  - BACKGROUND AND AIMS: Intestinal ultrasound (IUS) is increasingly used to monitor 
+      treatment efficacy in inflammatory bowel disease (IBD) trials. However, 
+      standardized definitions for response, remission, and optimal assessment timing 
+      remain undefined.An international expert consensus meeting was held to establish 
+      IUS endpoints for clinical trials. METHODS : A panel of 35 international 
+      gastroenterologists and radiologists participated in a modified Delphi process, 
+      reviewing the literature and developing consensus statements. Agreement was 
+      defined as at least 75% consensus. RESULTS: Consensus was reached on 150 
+      statements across four domains: general IBD (30 statements), luminal Crohn's 
+      disease (CD) (43), perianal CD (51), and ulcerative colitis (UC) (26). For 
+      luminal CD and UC, ultrasound response was defined by: (1) a ≥ 25% reduction in 
+      bowel wall thickness (BWT) from baseline, or (2) multifactorial improvement, 
+      combining BWT reduction with ≥1 grade decrease in colour Doppler signal (CDS) or 
+      another IUS parameter. Assessments were set at weeks 4-8 for the colon and week 
+      12 for the terminal ileum. Ultrasound remission in luminal CD was defined as: (1) 
+      BWT normalization (≤3 mm), or (2) normalization of multiple parameters, including 
+      BWT, CDS and all other IUS parameters. Similar remission criteria were proposed 
+      for UC, but the sigmoid BWT normal range (3-4 mm) remained uncertain. The bowel 
+      ultrasound score (BUSS) for CD and the Milan ultrasound criteria (MUC) for UC 
+      were supported as standardized scoring system for trials. CONCLUSION: This 
+      consensus provides standardized IUS definitions to enhance consistency in IBD 
+      trials, supporting the integration of IUS in future research.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of European 
+      Crohn’s and Colitis Organisation. All rights reserved. For commercial re-use, 
+      please contact reprints@oup.com for reprints and translation rights for reprints. 
+      All other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Allocca, Mariangela
+AU  - Allocca M
+AD  - Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+      Institute Hospital, Tokyo, Japan.
+FAU - Jairath, Vipul
+AU  - Jairath V
+AD  - Division of Gastroenterology, Department of Medicine, Western University, London, 
+      ON, Canada.
+FAU - Sands, Bruce E
+AU  - Sands BE
+AD  - Dr Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+FAU - Rubin, David T
+AU  - Rubin DT
+AD  - University of Chicago Medicine Inflammatory Bowel Disease Center.
+FAU - Caron, Bénédicte
+AU  - Caron B
+AD  - University of Lorraine, Nancy University Hospital, Inserm, INFINY Institute, 
+      NGERE, Nancy, F-54000, France.
+FAU - Laurent, Valérie
+AU  - Laurent V
+AD  - Department of Radiology, Nancy University Hospital, Université de Lorraine, 
+      Nancy, France.
+FAU - Novak, Kerri
+AU  - Novak K
+AD  - Cumming School of Medicine, University of Calgary, AB, Canada.
+FAU - Panaccione, Remo
+AU  - Panaccione R
+AD  - Inflammatory Bowel Disease Unit, Division of Gastroenterology and Hepatology, 
+      University of Calgary, Calgary, Canada.
+FAU - Bossuyt, Peter
+AU  - Bossuyt P
+AD  - Imelda GI clinical research center, Imelda General Hospital, Bonheiden, Belgium.
+FAU - Bruining, David H
+AU  - Bruining DH
+AD  - Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN.
+FAU - Dignass, Axel
+AU  - Dignass A
+AD  - Department of Medicine I, Agaplesion Markus Hospital, Goethe-University, 
+      Frankfurt am Main, Germany.
+FAU - Dotan, Iris
+AU  - Dotan I
+AD  - Division of Gastroenterology, Rabin Medical Center, Petah Tikva, Israel and the 
+      Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+FAU - Fletcher, Joel
+AU  - Fletcher J
+AD  - Department of Radiology, Mayo Clinic, Rochester, Minnesota, United States of 
+      America.
+FAU - Fumery, Mathurin
+AU  - Fumery M
+AD  - Department of Gastroenterology, CHU Amiens and PériTox, UMR-I 01 INERIS, Picardie 
+      Jules Verne University, Amiens, France.
+FAU - Furfaro, Federica
+AU  - Furfaro F
+AD  - Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+      Institute Hospital, Tokyo, Japan.
+FAU - Halfvarson, Jonas
+AU  - Halfvarson J
+AD  - Department of Gastroenterology, Faculty of Medicine and Health, Örebro 
+      University, Örebro, Sweden.
+FAU - Hart, Ailsa
+AU  - Hart A
+AD  - Inflammatory Bowel Diseases Unit, St Mark's Hospital, Harrow, UK.
+FAU - Kobayashi, Taku
+AU  - Kobayashi T
+AD  - Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+      Institute Hospital, Tokyo, Japan.
+AD  - Cumming School of Medicine, University of Calgary, AB, Canada.
+FAU - Krugliak Cleveland, Noa
+AU  - Krugliak Cleveland N
+AD  - University of Chicago Medicine Inflammatory Bowel Disease Center.
+FAU - Kucharzik, Torsten
+AU  - Kucharzik T
+AD  - Department of Gastroenterology, Westfälische Wilhelms Universität Münster, 
+      Klinikum Lüneburg, Germany, Münster, Germany.
+FAU - Laghi, Andrea
+AU  - Laghi A
+AD  - Department of Medical Surgical Sciences and Translational Medicine, Sapienza 
+      University of Rome, Rome, Italy.
+FAU - Lakatos, Peter L
+AU  - Lakatos PL
+AD  - Division of Gastroenterology and Hepatology, McGill University Health Center, 
+      Montreal, Quebec, Canada, and Department of Oncology and Medicine, Semmelweis 
+      University, Budapest, Hungary.
+FAU - Leong, Rupert W
+AU  - Leong RW
+AD  - Department of Gastroenterology, Concord Repatriation General Hospital, Sydney, 
+      Australia.
+FAU - Loftus, Edward V Jr
+AU  - Loftus EV Jr
+AD  - Division of Gastroenterology and Hepatology, Mayo Clinic College of Medicine and 
+      Science, Rochester, Minnesota, USA.
+FAU - Louis, Edouard
+AU  - Louis E
+AD  - Department of Hepato-Gastroenterology and Digestive Oncology, University Hospital 
+      CHU of Liège, Liège, Belgium.
+FAU - Magro, Fernando
+AU  - Magro F
+AD  - Unit of Pharmacology and Therapeutics, Department of Biomedicine, Faculty of 
+      Medicine, University of Porto, Porto, Portugal.
+FAU - Olivera, Pablo A
+AU  - Olivera PA
+AD  - Zane Cohen Centre for Digestive Diseases, Lunenfeld Tanenbaum Research Institute, 
+      Mount Sinai Hospital, Toronto, Ontario, Canada, Gastroenterology Section, 
+      Department of Internal Medicine, Centro de Educación Médica e Investigaciones 
+      Clínicas Norberto Quirno (CEMIC), Buenos Aires, Argentina.
+FAU - Sebastian, Shaji
+AU  - Sebastian S
+AD  - Hull York Medical School, Hull University Teaching Hospitals, Hull, United 
+      Kingdom.
+FAU - Siegmund, Britta
+AU  - Siegmund B
+AD  - Department of Gastroenterology, Infectiology and Rheumatology, 
+      Charité-Universitaetsmedizin Berlin, Corporate Member of Freie Universität Berlin 
+      and Humboldt-Universität zu Berlin, Berlin, Germany.
+FAU - Vavricka, Stephan R
+AU  - Vavricka SR
+AD  - Department of Gastroenterology and Hepatology, University Hospital Zurich and 
+      University of Zurich, Zurich, Switzerland.
+FAU - Wilson, Stephanie R
+AU  - Wilson SR
+AD  - Department of Radiology, University of Calgary, AB, Canada SRW.
+FAU - Stoker, Jaap
+AU  - Stoker J
+AD  - Department of Radiology and Nuclear Medicine, Amsterdam UMC, University of 
+      Amsterdam, The Netherlands.
+FAU - Rimola, Jordi
+AU  - Rimola J
+AD  - IBD unit, Department of Radiology, Hospital Clínic Barcelona, CIBER-EHD, IDIBAPS, 
+      Barcelona, Spain JR.
+FAU - Peyrin-Biroulet, Laurent
+AU  - Peyrin-Biroulet L
+AD  - University of Lorraine, Nancy University Hospital, Inserm, INFINY Institute, 
+      NGERE, Nancy, F-54000, France.
+FAU - Danese, Silvio
+AU  - Danese S
+AD  - Center for Advanced IBD Research and Treatment, Kitasato University Kitasato 
+      Institute Hospital, Tokyo, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - J Crohns Colitis
+JT  - Journal of Crohn's & colitis
+JID - 101318676
+SB  - IM
+OTO - NOTNLM
+OT  - endpoints
+OT  - inflammatory bowel disease
+OT  - intestinal ultrasound
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 21:24
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 21:24 [entrez]
+AID - 8257826 [pii]
+AID - 10.1093/ecco-jcc/jjaf170 [doi]
+PST - aheadofprint
+SO  - J Crohns Colitis. 2025 Sep 18:jjaf170. doi: 10.1093/ecco-jcc/jjaf170.

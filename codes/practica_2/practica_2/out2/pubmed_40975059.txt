@@ -1,0 +1,83 @@
+PMID- 40975059
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+DP  - 2025 Sep 19
+TI  - Matrin-3 forms spherical and wormlike assemblies that are modulated by RNA 
+      binding and ALS/FTD-associated mutations.
+LID - S1097-2765(25)00740-3 [pii]
+LID - 10.1016/j.molcel.2025.08.034 [doi]
+AB  - Matrin-3 (MATR3) is an RNA-binding protein (RBP) that is associated with familial 
+      amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). MATR3 
+      features two RNA recognition motifs, two zinc-finger motifs, and four 
+      intrinsically disordered regions. Here, we report that human MATR3 associates 
+      with itself to form nanoscale spherical assemblies at ultralow protein 
+      concentrations. Through concentration-dependent associations, the spheres, which 
+      are 20-30 nm in diameter, transition into wormlike assemblies. These observations 
+      are reminiscent of sphere-to-worm transitions and micellization of amphiphilic 
+      molecules. Using computations and experiments, we discovered that the pattern of 
+      inter-domain attractions and repulsions gives MATR3 an inverse 
+      bolaamphiphile-like architecture that explains the concentration-dependent 
+      assembly characteristics. RNA binding causes shortening of wormlike assemblies of 
+      MATR3, whereas ALS/FTD-associated mutations render MATR3 assemblies less 
+      responsive to modulation by RNA. Overall, our findings highlight the unique 
+      assemblies formed by MATR3 while also showing how RNA-dependent interactions and 
+      ALS/FTD-associated mutations modulate the assemblies.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Sprunger, Macy L
+AU  - Sprunger ML
+AD  - Department of Chemistry, Washington University, St. Louis, MO 63130, USA.
+FAU - Shinn, Min Kyung
+AU  - Shinn MK
+AD  - Department of Biomedical Engineering, Washington University, St. Louis, MO 63130, 
+      USA; Center for Biomolecular Condensates, James McKelvey School of Engineering, 
+      St. Louis, MO 63130, USA.
+FAU - Talir, Sabrina K
+AU  - Talir SK
+AD  - Department of Chemistry, Washington University, St. Louis, MO 63130, USA.
+FAU - Lee, Ken
+AU  - Lee K
+AD  - Department of Chemistry, Washington University, St. Louis, MO 63130, USA.
+FAU - Pappu, Rohit V
+AU  - Pappu RV
+AD  - Department of Biomedical Engineering, Washington University, St. Louis, MO 63130, 
+      USA; Center for Biomolecular Condensates, James McKelvey School of Engineering, 
+      St. Louis, MO 63130, USA. Electronic address: pappu@wustl.edu.
+FAU - Jackrel, Meredith E
+AU  - Jackrel ME
+AD  - Department of Chemistry, Washington University, St. Louis, MO 63130, USA; Center 
+      for Biomolecular Condensates, James McKelvey School of Engineering, St. Louis, MO 
+      63130, USA. Electronic address: mjackrel@wustl.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+SB  - IM
+OTO - NOTNLM
+OT  - Matrin-3
+OT  - RNA-binding protein
+OT  - TDP-43
+OT  - amyotrophic lateral sclerosis (ALS)
+OT  - biomolecular condensates
+OT  - intrinsically disordered proteins
+OT  - phase separation
+COIS- Declaration of interests R.V.P. is a member of the scientific advisory board for 
+      and shareholder in Dewpoint Therapeutics Inc.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:41
+PHST- 2024/10/21 00:00 [received]
+PHST- 2025/06/02 00:00 [revised]
+PHST- 2025/08/27 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:41 [entrez]
+AID - S1097-2765(25)00740-3 [pii]
+AID - 10.1016/j.molcel.2025.08.034 [doi]
+PST - aheadofprint
+SO  - Mol Cell. 2025 Sep 19:S1097-2765(25)00740-3. doi: 10.1016/j.molcel.2025.08.034.

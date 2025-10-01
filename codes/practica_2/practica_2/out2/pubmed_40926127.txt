@@ -1,0 +1,1812 @@
+PMID- 40926127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250917
+LR  - 20250918
+IS  - 2662-8465 (Electronic)
+IS  - 2662-8465 (Linking)
+VI  - 5
+IP  - 9
+DP  - 2025 Sep
+TI  - The X-Age Project to construct a Chinese aging clock.
+PG  - 1669-1685
+LID - 10.1038/s43587-025-00935-w [doi]
+AB  - The global surge in the population of people 60 years and older, including that 
+      in China, challenges healthcare systems with rising age-related diseases. To 
+      address this demographic change, the Aging Biomarker Consortium (ABC) has 
+      launched the X-Age Project to develop a comprehensive aging evaluation system 
+      tailored to the Chinese population. Our goal is to identify robust biomarkers and 
+      construct composite aging clocks that capture biological age, defined as an 
+      individual's physiological and molecular state, across diverse Chinese cohorts. 
+      This Perspective outlines the core objectives, methodological framework and key 
+      deliverables of the X-Age Project, including cohort recruitment, standardized 
+      sample collection, multimodal data acquisition and clock model development. By 
+      integrating interdisciplinary expertise, we aim to provide a practical and 
+      scalable platform for understanding aging complexity and heterogeneity, early 
+      detection of accelerated aging and evaluation of aging interventions.
+CI  - © 2025. Springer Nature America, Inc.
+FAU - Li, Jiaming
+AU  - Li J
+AUID- ORCID: 0000-0003-2712-0064
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Jiang, Mengmeng
+AU  - Jiang M
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Wang, Qiaoran
+AU  - Wang Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Zheng, Zikai
+AU  - Zheng Z
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Shen, Jianghua
+AU  - Shen J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Li, Jingyi
+AU  - Li J
+AUID- ORCID: 0000-0002-3126-7889
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Xiong, Muzhao
+AU  - Xiong M
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Zheng, Yandong
+AU  - Zheng Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Advanced Innovation Center for Human Brain Protection, National Clinical Research 
+      Center for Geriatric Disorders, Xuanwu Hospital Capital Medical University, 
+      Beijing, China.
+FAU - Lu, Xiaoyong
+AU  - Lu X
+AUID- ORCID: 0009-0007-6084-7376
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Cai, Yusheng
+AU  - Cai Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Fan, Yanling
+AU  - Fan Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China.
+FAU - Geng, Lingling
+AU  - Geng L
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Advanced Innovation Center for Human Brain Protection, National Clinical Research 
+      Center for Geriatric Disorders, Xuanwu Hospital Capital Medical University, 
+      Beijing, China.
+FAU - Ji, Qianzhao
+AU  - Ji Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Beijing Institute for Stem Cell and Regenerative Medicine, Beijing, China.
+FAU - Peng, Qianqian
+AU  - Peng Q
+AUID- ORCID: 0000-0002-2018-5706
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - CAS Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and 
+      Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, 
+      Shanghai, China.
+FAU - Sun, Shuhui
+AU  - Sun S
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Beijing Anzhen Hospital, Capital Medical University, Beijing Institute of Heart, 
+      Lung and Blood Vessel Diseases, Beijing, China.
+FAU - Wang, Yuanyuan
+AU  - Wang Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Female Fertility Promotion, Center for Reproductive 
+      Medicine, Department of Obstetrics and Gynecology, Peking University Third 
+      Hospital, Beijing, China.
+FAU - Xin, Zijuan
+AU  - Xin Z
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Yan, Kaowen
+AU  - Yan K
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Yang, Yuanhan
+AU  - Yang Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China.
+FAU - Yu, Jun
+AU  - Yu J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Pancreas Center, Tianjin Medical University Cancer Institute and Hospital, 
+      National Clinical Research Center for Cancer, State Key Laboratory of 
+      Druggability Evaluation and Systematic Translational Medicine, Tianjin Key 
+      Laboratory of Digestive Cancer, Tianjin's Clinical Research Center for Cancer, 
+      Tianjin, China.
+FAU - Yan, Haoteng
+AU  - Yan H
+AD  - Aging Biomarker Consortium (ABC), Beijing, China.
+AD  - Advanced Innovation Center for Human Brain Protection, National Clinical Research 
+      Center for Geriatric Disorders, Xuanwu Hospital Capital Medical University, 
+      Beijing, China.
+FAU - Ai, Ding
+AU  - Ai D
+AUID- ORCID: 0000-0001-5992-9904
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. edin2000cn@163.com.
+AD  - State Key Laboratory of Experimental Hematology, Key Laboratory of Immune 
+      Microenvironment and Disease (Ministry of Education), Tianjin Medical University, 
+      Tianjin, China. edin2000cn@163.com.
+FAU - Bai, Yongping
+AU  - Bai Y
+AUID- ORCID: 0000-0002-6355-5842
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. baiyongping@csu.edu.cn.
+AD  - Department of Cardiovascular Medicine, Coronary Circulation Center, Xiangya 
+      Hospital, Central South University National Clinical Research Center for 
+      Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, China. 
+      baiyongping@csu.edu.cn.
+FAU - Bi, Yan
+AU  - Bi Y
+AUID- ORCID: 0000-0003-3914-7854
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. biyan@nju.edu.cn.
+AD  - Department of Endocrinology, Endocrine and Metabolic Disease Medical Center, 
+      Nanjing Drum Tower Hospital, Affiliated Hospital of Medical School, Nanjing 
+      University, Nanjing, China. biyan@nju.edu.cn.
+FAU - Bian, Xiu-Wu
+AU  - Bian XW
+AUID- ORCID: 0000-0003-4383-0197
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. bianxiuwu@263.net.
+AD  - Institute of Pathology and Southwest Cancer Center, and Key Laboratory of Tumor 
+      Immunopathology of the Ministry of Education of China, Southwest Hospital, Third 
+      Military Medical University (Army Medical University), Chongqing, China. 
+      bianxiuwu@263.net.
+FAU - Bu, Pengcheng
+AU  - Bu P
+AUID- ORCID: 0000-0002-3208-0354
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. bupc@ibp.ac.cn.
+AD  - Key Laboratory of Epigenetic Regulation and Intervention, Institute of 
+      Biophysics, Chinese Academy of Sciences, Beijing, China. bupc@ibp.ac.cn.
+FAU - Cai, Jian-Ping
+AU  - Cai JP
+AUID- ORCID: 0000-0003-2793-9221
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. caijp61@vip.sina.com.
+AD  - The Key Laboratory of Geriatrics, Beijing Institute of Geriatrics, Institute of 
+      Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 
+      Hospital/National Center of Gerontology of National Health Commission, Beijing, 
+      China. caijp61@vip.sina.com.
+FAU - Cao, Chun-Mei
+AU  - Cao CM
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. caochunmei@pku.edu.cn.
+AD  - Laboratory of Cardiovascular Science, Beijing Clinical Research Institute, 
+      Beijing Friendship Hospital, Capital Medical University, Beijing, China. 
+      caochunmei@pku.edu.cn.
+FAU - Cao, Feng
+AU  - Cao F
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fengcao8828@163.com.
+AD  - National Research Center for Geriatic Diseases and Institute of Geriatic 
+      Medicine, 2nd Medical Center, Chinese PLA General Hospital, Beijing, China. 
+      fengcao8828@163.com.
+FAU - Cao, Zhongwei
+AU  - Cao Z
+AUID- ORCID: 0000-0001-8778-4327
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhongweicao@scu.edu.cn.
+AD  - State Key Laboratory of Biotherapy, West China Second University Hospital, 
+      Sichuan University, Chengdu, China. zhongweicao@scu.edu.cn.
+FAU - Chai, Renjie
+AU  - Chai R
+AUID- ORCID: 0000-0002-3885-543X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. renjiec@seu.edu.cn.
+AD  - State Key Laboratory of Digital Medical Engineering, Department of Otolaryngology 
+      Head and Neck Surgery, Zhongda Hospital, School of Life Sciences and Technology, 
+      Advanced Institute for Life and Health, Jiangsu Province High-Tech Key Laboratory 
+      for Bio-Medical Research, Southeast University, Nanjing, China. 
+      renjiec@seu.edu.cn.
+FAU - Chan, Piu
+AU  - Chan P
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. pbchan@hotmail.com.
+AD  - Department of Neurology and Neurobiology, National Clinical Research Center for 
+      Geriatric Disorders, Xuanwu Hospital of Capital Medical University, Beijing, 
+      China. pbchan@hotmail.com.
+FAU - Chen, Chang
+AU  - Chen C
+AUID- ORCID: 0000-0003-1008-1062
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. changchen@ibp.ac.cn.
+AD  - National Laboratory of Biomacromolecules, CAS Center for Excellence in 
+      Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, 
+      China. changchen@ibp.ac.cn.
+FAU - Chen, Cheng-Shui
+AU  - Chen CS
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenchengshui@wmu.edu.cn.
+AD  - Department of Respiratory and Critical Care, Quzhou Affiliated Hospital of 
+      Wenzhou Medical University, Quzhou People's Hospital, Quzhou, China. 
+      chenchengshui@wmu.edu.cn.
+FAU - Chen, Chunying
+AU  - Chen C
+AUID- ORCID: 0000-0002-6027-0315
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenchy@nanoctr.cn.
+AD  - New Cornerstone Science Laboratory, CAS Key Lab for Biomedical Effects of 
+      Nanomaterials and Nanosafety, CAS Center for Excellence in Nanoscience, National 
+      Center for Nanoscience and Technology, Beijing, China. chenchy@nanoctr.cn.
+FAU - Chen, Di
+AU  - Chen D
+AUID- ORCID: 0000-0002-4258-3457
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. di.chen@siat.ac.cn.
+AD  - Faculty of Pharmaceutical Sciences, Shenzhen University of Advanced Technology, 
+      Shenzhen, China. di.chen@siat.ac.cn.
+FAU - Chen, Hou-Zao
+AU  - Chen HZ
+AUID- ORCID: 0000-0001-6805-3182
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenhouzao@ibms.cams.cn.
+AD  - State Key Laboratory of Common Mechanism Research for Major Diseases, Department 
+      of Biochemistry and Molecular Biology, Institute of Basic Medical Sciences, 
+      Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 
+      China. chenhouzao@ibms.cams.cn.
+FAU - Chen, Lin
+AU  - Chen L
+AUID- ORCID: 0000-0001-7764-9412
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. linchen70@163.com.
+AD  - Department of Wound Repair and Rehabilitation Medicine, State Key Laboratory of 
+      Trauma and Chemical Poisoning, Trauma Center, Research Institute of Surgery, 
+      Daping Hospital, Army Medical University, Chongqing, China. linchen70@163.com.
+FAU - Chen, Quan
+AU  - Chen Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenq@nankai.edu.cn.
+AD  - School of Medicine, Nankai University, Tianjin, China. chenq@nankai.edu.cn.
+FAU - Chen, Xiao
+AU  - Chen X
+AUID- ORCID: 0000-0003-4517-0508
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sirchenxiao@126.com.
+AD  - Department of Orthopedic, Xinhua Hospital Affiliated to Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China. sirchenxiao@126.com.
+FAU - Chen, Xiaochun
+AU  - Chen X
+AUID- ORCID: 0000-0002-2665-4155
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenxc998@fjmu.edu.cn.
+AD  - Department of Neurology, Fujian Medical University Union Hospital, Fujian Key 
+      Laboratory of Molecular Neurology and Institute of Neuroscience, Fujian Medical 
+      University, Fuzhou, China. chenxc998@fjmu.edu.cn.
+FAU - Chen, Yu
+AU  - Chen Y
+AUID- ORCID: 0000-0002-7569-9472
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yu.chen@siat.ac.cn.
+AD  - The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced 
+      Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain 
+      Science, Shenzhen, China. yu.chen@siat.ac.cn.
+FAU - Chen, Zi-Jiang
+AU  - Chen ZJ
+AUID- ORCID: 0000-0001-6637-6631
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chenzijiang@hotmail.com.
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Center for 
+      Reproductive Medicine, Institute of Women, Children and Reproductive Health, 
+      Shandong University, Shandong, China. chenzijiang@hotmail.com.
+FAU - Ci, Weimin
+AU  - Ci W
+AUID- ORCID: 0000-0002-4111-5360
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ciwm@foxmail.com.
+AD  - Department of Urology, Chinese PLA General Hospital, Beijing, China. 
+      ciwm@foxmail.com.
+FAU - Dai, Zhe
+AU  - Dai Z
+AUID- ORCID: 0000-0003-0321-0225
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. daizhe@znhospital.cn.
+AD  - Department of Endocrinology, Zhongnan Hospital of Wuhan University, Wuhan, China. 
+      daizhe@znhospital.cn.
+FAU - Ding, Qiurong
+AU  - Ding Q
+AUID- ORCID: 0000-0001-9906-6787
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qrding@sinh.ac.cn.
+AD  - CAS Key Laboratory of Nutrition, Metabolism and Food Safety, Shanghai Institute 
+      of Nutrition and Health, Chinese Academy of Sciences, Shanghai, China. 
+      qrding@sinh.ac.cn.
+FAU - Dong, Birong
+AU  - Dong B
+AUID- ORCID: 0000-0002-2601-5855
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. birongdong123@outlook.com.
+AD  - West China Hospital of Sichuan University, the Center of Gerontology and 
+      Geriatrics and National Clinical Research Center for Geriatrics, Chengdu, China. 
+      birongdong123@outlook.com.
+FAU - Dong, Jiahong
+AU  - Dong J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. dongjiahong@tsinghua.edu.cn.
+AD  - Hepato-Pancreato-Biliary Center, Beijing Tsinghua Changgung Hospital, School of 
+      Clinical Medicine, Tsinghua University, Beijing, China. 
+      dongjiahong@tsinghua.edu.cn.
+FAU - Fan, Jian-Gao
+AU  - Fan JG
+AUID- ORCID: 0000-0001-7443-5056
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fanjiangao@xinhuamed.com.cn.
+AD  - Department of Gastroenterology, Xinhua Hospital Affiliated to Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China. fanjiangao@xinhuamed.com.cn.
+FAU - Feng, Shiqing
+AU  - Feng S
+AUID- ORCID: 0000-0002-5939-138X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. shiqingfeng@sdu.edu.cn.
+AD  - Department of Orthopaedics, Qilu Hospital of Shandong University, Shandong 
+      University Centre for Orthopaedics, Advanced Medical Research Institute, Cheeloo 
+      College of Medicine, Shandong University, Jinan, China. shiqingfeng@sdu.edu.cn.
+FAU - Feng, Xin
+AU  - Feng X
+AUID- ORCID: 0000-0001-9506-8486
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xin.feng@ia.ac.cn.
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy 
+      of Sciences, Beijing, China. xin.feng@ia.ac.cn.
+FAU - Feng, Yun
+AU  - Feng Y
+AUID- ORCID: 0000-0002-9453-3259
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fengyun@bjmu.edu.cn.
+AD  - Department of Ophthalmology, Peking University First Hospital, Beijing, China. 
+      fengyun@bjmu.edu.cn.
+FAU - Fu, Xiaobing
+AU  - Fu X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fuxiaobing@vip.sina.com.
+AD  - Tissue Repair and Regeneration Research Center, Medical Innovation Department, 
+      PLA General Hospital and Medical College, Beijing, China. 
+      fuxiaobing@vip.sina.com.
+FAU - Fu, Xiaolong
+AU  - Fu X
+AUID- ORCID: 0000-0002-3884-0916
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fuxiaolongshifan@163.com.
+AD  - Shandong Provincial Hospital, Medical Science and Technology Innovation Center, 
+      School of Clinical and Basic Medical Sciences, Shandong First Medical University 
+      and Shandong Academy of Medical Sciences, Jinan, China. fuxiaolongshifan@163.com.
+FAU - Gao, Feng
+AU  - Gao F
+AUID- ORCID: 0000-0001-6555-1717
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fgao@fmmu.edu.cn.
+AD  - Key Laboratory of Aerospace Medicine, Ministry of Education, School of Aerospace 
+      Medicine, Air Force Medical University, Xi'an, China. fgao@fmmu.edu.cn.
+FAU - Gao, Jiangang
+AU  - Gao J
+AUID- ORCID: 0000-0001-6619-7107
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jggao@sdu.edu.cn.
+AD  - School of Life Science, Shandong University, Jinan, China. jggao@sdu.edu.cn.
+FAU - Gao, Qiang
+AU  - Gao Q
+AUID- ORCID: 0000-0002-6695-9906
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. gaoqiang@fudan.edu.cn.
+AD  - Department of Hepatobiliary Surgery and Transplantation, Liver Cancer Institute 
+      and Key Laboratory of Carcinogenesis and Cancer Invasion (Ministry of Education), 
+      Zhongshan Hospital, Fudan University, Shanghai, China. gaoqiang@fudan.edu.cn.
+FAU - Gao, Shaorong
+AU  - Gao S
+AUID- ORCID: 0000-0003-1041-3928
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. gaoshaorong@tongji.edu.cn.
+AD  - Clinical and Translational Research Center of Shanghai First Maternity and Infant 
+      Hospital, Frontier Science Center for Stem Cells, School of Life Sciences and 
+      Technology, Tongji University, Shanghai, China. gaoshaorong@tongji.edu.cn.
+FAU - Gu, Yonghao
+AU  - Gu Y
+AUID- ORCID: 0000-0003-2682-2099
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. guyh@ustc.edu.cn.
+AD  - Department of Ophthalmology, First Affiliated Hospital of University of Science 
+      and Technology of China, Hefei, China. guyh@ustc.edu.cn.
+FAU - Guan, Youfei
+AU  - Guan Y
+AUID- ORCID: 0000-0002-5231-0209
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. guanyf@dmu.edu.cn.
+AD  - Advanced Institute for Medical Sciences, Dalian Medical University, Dalian, 
+      China. guanyf@dmu.edu.cn.
+FAU - Guo, Feifan
+AU  - Guo F
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ffguo@fudan.edu.cn.
+AD  - Zhongshan Hospital, State Key Laboratory of Brain Function and Disorders, 
+      Institute for Translational Brain Research, Ministry of Education Frontiers 
+      Center for Brain Science, Fudan University, Shanghai, China. ffguo@fudan.edu.cn.
+FAU - Han, Jing-Dong J
+AU  - Han JJ
+AUID- ORCID: 0000-0002-9270-7139
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jackie.han@pku.edu.cn.
+AD  - Peking-Tsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary 
+      Studies, Center for Quantitative Biology, Peking University, Beijing, China. 
+      jackie.han@pku.edu.cn.
+FAU - Hao, Haiping
+AU  - Hao H
+AUID- ORCID: 0000-0003-2522-7546
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. Haipinghao@cpu.edu.cn.
+AD  - State Key Laboratory of Natural Medicines, China Pharmaceutical University, 
+      Nanjing, China. Haipinghao@cpu.edu.cn.
+FAU - Hao, Jihui
+AU  - Hao J
+AUID- ORCID: 0000-0002-1607-1730
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. haojihui@tjmuch.com.
+AD  - Pancreas Center, Tianjin Medical University Cancer Institute and Hospital, 
+      National Clinical Research Center for Cancer, State Key Laboratory of 
+      Druggability Evaluation and Systematic Translational Medicine, Tianjin Key 
+      Laboratory of Digestive Cancer, Tianjin's Clinical Research Center for Cancer, 
+      Tianjin, China. haojihui@tjmuch.com.
+FAU - He, Fuchu
+AU  - He F
+AUID- ORCID: 0000-0002-8571-2351
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hefc@bmi.ac.cn.
+AD  - State Key Laboratory of Medical Proteomics, Beijing Proteome Research Center, 
+      National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, 
+      Beijing, China. hefc@bmi.ac.cn.
+AD  - The π-HuB Consortium, Beijing, China. hefc@bmi.ac.cn.
+FAU - He, Jinhan
+AU  - He J
+AUID- ORCID: 0000-0001-6487-4696
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jinhanhe@scu.edu.cn.
+AD  - Department of Pharmacy, West China Hospital, Sichuan University, Chengdu, China. 
+      jinhanhe@scu.edu.cn.
+FAU - He, Ming
+AU  - He M
+AUID- ORCID: 0000-0002-2086-8312
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. heming@shsmu.edu.cn.
+AD  - Institute for Translational Medicine on Cell Fate and Disease, Shanghai Ninth 
+      People's Hospital, Key Laboratory of Cell Differentiation and Apoptosis of the 
+      National Ministry of Education, Department of Pathophysiology, Department of 
+      Orthopedic, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, 
+      Shanghai, China. heming@shsmu.edu.cn.
+FAU - He, Mingguang
+AU  - He M
+AUID- ORCID: 0000-0002-6912-2810
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. mingguang_he@yahoo.com.
+AD  - The Hong Kong Polytechnic University, Hong Kong, China. mingguang_he@yahoo.com.
+FAU - He, Qiyang
+AU  - He Q
+AUID- ORCID: 0000-0003-3694-6036
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qiyang_he@vip.163.com.
+AD  - Institute of Medicinal Biotechnology, Peking Union Medical College and Chinese 
+      Academy of Medical Sciences, Beijing, China. qiyang_he@vip.163.com.
+FAU - He, Zhiying
+AU  - He Z
+AUID- ORCID: 0000-0002-0087-2277
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zyhe@tongji.edu.cn.
+AD  - Institute for Regenerative Medicine, Medical Innovation Center and State Key 
+      Laboratory of Cardiovascular Diseases, Shanghai East Hospital, School of Life 
+      Sciences and Technology, Tongji University, Shanghai, China. zyhe@tongji.edu.cn.
+FAU - He, Zuhong
+AU  - He Z
+AUID- ORCID: 0000-0001-6409-4366
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hezuhong@163.com.
+AD  - Department of Otorhinolaryngology-Head and Neck Surgery, Zhongnan Hospital of 
+      Wuhan University, Wuhan, China. hezuhong@163.com.
+FAU - Hong, Huashan
+AU  - Hong H
+AUID- ORCID: 0000-0001-8332-0066
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. 15959159898@163.com.
+AD  - Fujian Key Laboratory of Vascular Aging, Fujian Medical University Union 
+      Hospital, Fujian, China. 15959159898@163.com.
+FAU - Hong, Jiaxu
+AU  - Hong J
+AUID- ORCID: 0000-0001-9912-633X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jiaxu.hong@fdeent.org.
+AD  - Department of Ophthalmology, Eye and ENT Hospital, Shanghai Key Lab of Rare 
+      Disease Gene Editing and Cell Therapy, State Key Laboratory of Brain Function and 
+      Disorders, Fudan University, Shanghai, China. jiaxu.hong@fdeent.org.
+FAU - Hou, Shengping
+AU  - Hou S
+AUID- ORCID: 0000-0002-7796-8891
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sphou828@163.com.
+AD  - Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing Tongren 
+      Hospital, Capital Medical University, Beijing, China. sphou828@163.com.
+FAU - Hu, Cheng
+AU  - Hu C
+AUID- ORCID: 0000-0003-4314-2386
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. alfredhc@sjtu.edu.cn.
+AD  - Shanghai Diabetes Institute, Shanghai Key Laboratory of Diabetes Mellitus, 
+      Shanghai Clinical Centre for Diabetes, Shanghai Sixth People's Hospital 
+      Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. 
+      alfredhc@sjtu.edu.cn.
+FAU - Hu, Ping
+AU  - Hu P
+AUID- ORCID: 0000-0001-8832-1391
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hup@sibcb.ac.cn.
+AD  - Guangzhou Laboratory, Guangzhou, China. hup@sibcb.ac.cn.
+FAU - Hu, Zhibin
+AU  - Hu Z
+AUID- ORCID: 0000-0002-8277-5234
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhibin_hu@njmu.edu.cn.
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Department of 
+      Epidemiology, Center for Global Health, School of Public Health, Nanjing Medical 
+      University, Nanjing, China. zhibin_hu@njmu.edu.cn.
+FAU - Huang, Canhua
+AU  - Huang C
+AUID- ORCID: 0000-0003-2247-7750
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hcanhua@scu.edu.cn.
+AD  - Department of Biotherapy, Oxidative Stress Research Center, Cancer Center and 
+      State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, 
+      Chengdu, China. hcanhua@scu.edu.cn.
+FAU - Huang, Jun
+AU  - Huang J
+AUID- ORCID: 0000-0002-7837-653X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jhuang@zju.edu.cn.
+AD  - Zhejiang Key Laboratory of Geriatrics and Geriatrics Institute of Zhejiang 
+      Province, Affiliated Zhejiang Hospital, Zhejiang University School of Medicine, 
+      Hangzhou, China. jhuang@zju.edu.cn.
+FAU - Huang, Kai
+AU  - Huang K
+AUID- ORCID: 0000-0002-7121-0318
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huangkai1@hust.edu.cn.
+AD  - Clinic Center of Human Gene Research, Union Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, China. 
+      huangkai1@hust.edu.cn.
+FAU - Huang, Pengyu
+AU  - Huang P
+AUID- ORCID: 0000-0001-8394-7280
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huangpengyu@yeah.net.
+AD  - State Key Laboratory of Advanced Medical Materials and Devices, Engineering 
+      Research Center of Pulmonary and Critical Care Medicine Technology and Device 
+      (Ministry of Education), Institute of Biomedical Engineering, Tianjin Institutes 
+      of Health Science, Chinese Academy of Medical Science and Peking Union Medical 
+      College, Tianjin, China. huangpengyu@yeah.net.
+FAU - Ji, Xunming
+AU  - Ji X
+AUID- ORCID: 0000-0002-0527-2852
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jixm@ccmu.edu.cn.
+AD  - Beijing Institute of Brain Disorders, Department of Neurology and Neurosurgery, 
+      Xuanwu Hospital, Capital Medical University, Beijing, China. jixm@ccmu.edu.cn.
+FAU - Ji, Yong
+AU  - Ji Y
+AUID- ORCID: 0000-0003-2650-5747
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yongji@hrbmu.edu.cn.
+AD  - State Key Laboratory of Frigid Zone Cardiovascular Diseases, Harbin Medical 
+      University, Harbin, China. yongji@hrbmu.edu.cn.
+FAU - Jia, Shunji
+AU  - Jia S
+AUID- ORCID: 0000-0001-8678-1714
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jiasj@genetics.ac.cn.
+AD  - Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 
+      Beijing, China. jiasj@genetics.ac.cn.
+FAU - Jiang, Hong
+AU  - Jiang H
+AUID- ORCID: 0000-0003-1524-7519
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jianghong@uhrs.edu.cn.
+AD  - University of Health and Rehabilitation Sciences, Qingdao, China. 
+      jianghong@uhrs.edu.cn.
+FAU - Jiang, Wenjian
+AU  - Jiang W
+AUID- ORCID: 0000-0003-3868-6573
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jiangwenjian@ccmu.edu.cn.
+AD  - Beijing Anzhen Hospital, Capital Medical University, Beijing, China. 
+      jiangwenjian@ccmu.edu.cn.
+FAU - Jin, Lingjing
+AU  - Jin L
+AUID- ORCID: 0000-0001-7199-2578
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lingjingjin@163.com.
+AD  - Department of Neurology and Neurological Rehabilitation, Shanghai Yangzhi 
+      Rehabilitation Hospital (Shanghai Sunshine Rehabilitation Center), School of 
+      Medicine, Tongji University, Shanghai, China. lingjingjin@163.com.
+FAU - Jin, Zi-Bing
+AU  - Jin ZB
+AUID- ORCID: 0000-0003-0515-698X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jinzb502@ccmu.edu.cn.
+AD  - Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing Tongren 
+      Hospital, Capital Medical University, Beijing, China. jinzb502@ccmu.edu.cn.
+FAU - Ju, Shenghong
+AU  - Ju S
+AUID- ORCID: 0000-0001-5041-7865
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jsh@seu.edu.cn.
+AD  - Nurturing Center of Jiangsu Province for State Laboratory of AI Imaging and 
+      Interventional Radiology (Southeast University), Department of Radiology, Zhongda 
+      Hospital, Medical School of Southeast University, Nanjing, China. jsh@seu.edu.cn.
+FAU - Ju, Zhenyu
+AU  - Ju Z
+AUID- ORCID: 0009-0007-4550-4543
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhenyuju2016@jnu.edu.cn.
+AD  - Key Laboratory of Regenerative Medicine of the Ministry of Education, Institute 
+      of Aging and Regenerative Medicine, Department of Developmental and Regenerative 
+      Medicine, College of Life Science and Technology, Jinan University, Guangzhou, 
+      China. zhenyuju2016@jnu.edu.cn.
+FAU - Kong, Qing-Peng
+AU  - Kong QP
+AUID- ORCID: 0000-0002-6046-4494
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. kongqp@mail.kiz.ac.cn.
+AD  - State Key Laboratory of Genetic Evolution and Animal Models, Key Laboratory of 
+      Healthy Aging Research of Yunnan Province, Kunming Institute of Zoology, Chinese 
+      Academy of Sciences, Kunming, China. kongqp@mail.kiz.ac.cn.
+FAU - Kong, Wei
+AU  - Kong W
+AUID- ORCID: 0000-0001-6720-6810
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. kongw@bjmu.edu.cn.
+AD  - Department of Physiology and Pathophysiology, School of Basic Medical Sciences, 
+      State Key Laboratory of Vascular Homeostasis and Remodeling, Peking University, 
+      Beijing, China. kongw@bjmu.edu.cn.
+FAU - Kong, Wei-Jia
+AU  - Kong WJ
+AUID- ORCID: 0000-0001-5410-2297
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. entwjkong@hust.edu.cn.
+AD  - Department of Otorhinolaryngology, Union Hospital, Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan, China. 
+      entwjkong@hust.edu.cn.
+FAU - Kong, Xiangqing
+AU  - Kong X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. kongxq@njmu.edu.cn.
+AD  - Department of Cardiology, the First Affiliated Hospital with Nanjing Medical 
+      University, Nanjing, China. kongxq@njmu.edu.cn.
+FAU - Lei, Guanghua
+AU  - Lei G
+AUID- ORCID: 0000-0003-2987-138X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lei_guanghua@csu.edu.cn.
+AD  - Department of Orthopaedics, Xiangya Hospital, Central South University, Changsha, 
+      China. lei_guanghua@csu.edu.cn.
+FAU - Li, Geng-Lin
+AU  - Li GL
+AUID- ORCID: 0000-0001-7053-4284
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. genglin.li@fdeent.org.
+AD  - Department of Otorhinolaryngology, Eye and ENT Hospital, Fudan University, 
+      Shanghai, China. genglin.li@fdeent.org.
+FAU - Li, Ji
+AU  - Li J
+AUID- ORCID: 0000-0003-0931-5562
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liji_xy@csu.edu.cn.
+AD  - Department of Dermatology, Xiangya Hospital, Central South University, Changsha, 
+      China. liji_xy@csu.edu.cn.
+FAU - Li, Jian
+AU  - Li J
+AUID- ORCID: 0000-0003-3320-7924
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lijian@bjhmoh.cn.
+AD  - The Key Laboratory of Geriatrics, Beijing Institute of Geriatrics, Institute of 
+      Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 
+      Hospital/National Center of Gerontology of National Health Commission, Beijing, 
+      China. lijian@bjhmoh.cn.
+FAU - Li, Mengfeng
+AU  - Li M
+AUID- ORCID: 0000-0002-5103-6367
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. limf@mail.sysu.edu.cn.
+AD  - Cancer Institute, Southern Medical University, Guangzhou, China. 
+      limf@mail.sysu.edu.cn.
+FAU - Li, Rong
+AU  - Li R
+AUID- ORCID: 0000-0003-0305-5579
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. roseli001@sina.com.
+AD  - State Key Laboratory of Female Fertility Promotion, Center for Reproductive 
+      Medicine, Department of Obstetrics and Gynecology, Peking University Third 
+      Hospital, Beijing, China. roseli001@sina.com.
+FAU - Li, Wei
+AU  - Li W
+AUID- ORCID: 0000-0002-6235-0749
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. leways@gwcmc.org.
+AD  - Guangzhou Women and Children's Medical Center, Guangzhou Medical University, 
+      Guangzhou, China. leways@gwcmc.org.
+FAU - Li, Wei
+AU  - Li W
+AUID- ORCID: 0000-0001-7864-404X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liwei@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. liwei@ioz.ac.cn.
+FAU - Li, Xiao-Jun
+AU  - Li XJ
+AUID- ORCID: 0000-0001-7345-2364
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lixiaojun4183@xjtu.edu.cn.
+AD  - Frontier Institute of Science and Technology, Xi'an Jiaotong University, Xi'an, 
+      China. lixiaojun4183@xjtu.edu.cn.
+FAU - Li, Xin
+AU  - Li X
+AUID- ORCID: 0009-0003-2751-1169
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xinli@ioz.ac.cn.
+AD  - Institute of Zoology, Chinese Academy of Sciences, Beijing, China. 
+      xinli@ioz.ac.cn.
+FAU - Liang, Qingfeng
+AU  - Liang Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liangqingfeng@ccmu.edu.cn.
+AD  - Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing Tongren 
+      Hospital, Capital Medical University, Beijing, China. liangqingfeng@ccmu.edu.cn.
+FAU - Liang, Zhen
+AU  - Liang Z
+AUID- ORCID: 0000-0003-4700-0203
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liangzhen@pkuszh.com.
+AD  - Department of Geriatrics, Peking University Shenzhen Hospital, Shenzhen, China. 
+      liangzhen@pkuszh.com.
+FAU - Lin, Haotian
+AU  - Lin H
+AUID- ORCID: 0000-0003-4672-9721
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. linht5@mail.sysu.edu.cn.
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen 
+      University, Guangdong Provincial Key Laboratory of Ophthalmology and Vision 
+      Science, Guangdong Provincial Clinical Research Center for Ocular Diseases, 
+      Guangzhou, China. linht5@mail.sysu.edu.cn.
+FAU - Liu, Baohua
+AU  - Liu B
+AUID- ORCID: 0000-0002-1599-8059
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ppliew@szu.edu.cn.
+AD  - Shenzhen Key Laboratory for Systemic Aging and Intervention, School of Basic 
+      Medical Sciences, Shenzhen University, Shenzhen, China. ppliew@szu.edu.cn.
+FAU - Liu, Cai-Yue
+AU  - Liu CY
+AUID- ORCID: 0000-0002-8141-0380
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yueyue1888@hotmail.com.
+AD  - Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai 
+      Jiao Tong University School of Medicine, Shanghai, China. yueyue1888@hotmail.com.
+FAU - Liu, Changsheng
+AU  - Liu C
+AUID- ORCID: 0000-0003-0509-7334
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liucs@ecust.edu.cn.
+AD  - Engineering Research Center for Biomaterials of the Ministry of Education, East 
+      China University of Science and Technology, Shanghai, China. liucs@ecust.edu.cn.
+FAU - Liu, Feng
+AU  - Liu F
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuf001@csu.edu.cn.
+AD  - Metabolic Syndrome Research Center, the Second Xiangya Hospital of Central South 
+      University, Changsha, China. liuf001@csu.edu.cn.
+FAU - Liu, Jianfeng
+AU  - Liu J
+AUID- ORCID: 0000-0002-0284-8377
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jfliu@mail.hust.edu.cn.
+AD  - College of Life Science and Technology, Huazhong University of Science and 
+      Technology, Wuhan, China. jfliu@mail.hust.edu.cn.
+FAU - Liu, Jun-Ping
+AU  - Liu JP
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jun-ping.liu@monash.edu.
+AD  - Institute of Ageing Research, School of Basic Medical Sciences, Hangzhou Normal 
+      University, Hangzhou, China. jun-ping.liu@monash.edu.
+FAU - Liu, Ke
+AU  - Liu K
+AUID- ORCID: 0000-0002-0505-920X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuke@ccmu.edu.cn.
+AD  - Department of Otolaryngology, Head and Neck Surgery, Beijing Friendship Hospital, 
+      Capital Medical University, Beijing, China. liuke@ccmu.edu.cn.
+FAU - Liu, Lin
+AU  - Liu L
+AUID- ORCID: 0000-0001-9881-6830
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liulin@nankai.edu.cn.
+AD  - College of Life Sciences, Nankai University, Tianjin, China. 
+      liulin@nankai.edu.cn.
+FAU - Liu, Pingsheng
+AU  - Liu P
+AUID- ORCID: 0000-0002-2599-9004
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. pliu@ibp.ac.cn.
+AD  - Institute of Biophysics, Chinese Academy of Sciences, Beijing, China. 
+      pliu@ibp.ac.cn.
+FAU - Liu, Qiang
+AU  - Liu Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qliu@tmu.edu.cn.
+AD  - Department of Neurology, Tianjin Neurological Institute, Tianjin Medical 
+      University General Hospital, Tianjin, China. qliu@tmu.edu.cn.
+FAU - Liu, Qiang
+AU  - Liu Q
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuq2012@ustc.edu.cn.
+AD  - Hefei National Research Center for Physical Sciences at the Microscale, Division 
+      of Life Sciences and Medicine, University of Science and Technology of China, 
+      Hefei, China. liuq2012@ustc.edu.cn.
+FAU - Liu, Tiemin
+AU  - Liu T
+AUID- ORCID: 0000-0003-2077-7653
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tiemin_liu@fudan.edu.cn.
+AD  - State Key Laboratory of Genetic Engineering, Department of Endocrinology and 
+      Metabolism, Institute of Metabolism and Integrative Biology, Human Phenome 
+      Institute and School of Life Sciences, Zhongshan Hospital, Fudan University, 
+      Shanghai, China. tiemin_liu@fudan.edu.cn.
+FAU - Liu, Wenwen
+AU  - Liu W
+AUID- ORCID: 0000-0001-6031-7972
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wenwenliu@email.sdu.edu.cn.
+AD  - Department of Otolaryngology-Head and Neck Surgery, Shandong Provincial ENT 
+      Hospital, Shandong University, Jinan, China. wenwenliu@email.sdu.edu.cn.
+FAU - Liu, Xingguo
+AU  - Liu X
+AUID- ORCID: 0000-0001-7060-8204
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liu_xingguo@gibh.ac.cn.
+AD  - Institute of Development and Regeneration, Guangdong Provincial Key Laboratory of 
+      Stem Cell and Regenerative Medicine, Guangdong-Hong Kong Joint Laboratory for 
+      Stem Cell and Regenerative Medicine, GIBH-CUHK Joint Research Laboratory on Stem 
+      Cell and Regenerative Medicine, GIBH-HKU Guangdong-Hong Kong Stem Cell and 
+      Regenerative Medicine Research Centre, China-New Zealand Joint Laboratory on 
+      Biomedicine and Health, Guangzhou Institutes of Biomedicine and Health, Chinese 
+      Academy of Sciences, Guangzhou, China. liu_xingguo@gibh.ac.cn.
+FAU - Liu, Yajun
+AU  - Liu Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. drliuyajun@mail.ccmu.edu.cn.
+AD  - Department of Spine Surgery, Beijing Jishuitan Hospital, National Centre for 
+      Orthopaedics, Capital Medical University, Beijing, China. 
+      drliuyajun@mail.ccmu.edu.cn.
+FAU - Liu, Yong
+AU  - Liu Y
+AUID- ORCID: 0000-0001-7771-4181
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuyong31279@whu.edu.cn.
+AD  - Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Taikang 
+      Center for Life and Medical Sciences, Frontier Science Center for Immunology and 
+      Metabolism, Wuhan University, Wuhan, China. liuyong31279@whu.edu.cn.
+FAU - Liu, Youhua
+AU  - Liu Y
+AUID- ORCID: 0000-0002-4740-805X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuyh@smu.edu.cn.
+AD  - State Key Laboratory of Multi-organ Injury Prevention and Treatment, National 
+      Clinical Research Center for Kidney Disease, Division of Nephrology, Nanfang 
+      Hospital, Southern Medical University, Guangzhou, China. liuyh@smu.edu.cn.
+FAU - Liu, Youshuo
+AU  - Liu Y
+AUID- ORCID: 0000-0001-9835-4074
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. liuyoushuo@csu.edu.cn.
+AD  - Department of Geriatrics, the Second Xiangya Hospital and the Institute of Aging 
+      and Geriatrics, Central South University, Changsha, China. liuyoushuo@csu.edu.cn.
+FAU - Liu, Zhili
+AU  - Liu Z
+AUID- ORCID: 0009-0008-5835-2769
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhili-liu@ncu.edu.cn.
+AD  - Department of Geriatrics, the Third Affiliated Hospital, Department of 
+      Orthopedics, the First Affiliated Hospital, Jiangxi Medical College, Nanchang 
+      University, Nanchang, China. zhili-liu@ncu.edu.cn.
+FAU - Long, Xiao
+AU  - Long X
+AUID- ORCID: 0000-0003-0136-2508
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. pumclongxiao@126.com.
+AD  - Peking Union Medical College Hospital, Beijing, China. pumclongxiao@126.com.
+FAU - Lu, Yao
+AU  - Lu Y
+AUID- ORCID: 0000-0001-6743-7870
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. luyao0719@163.com.
+AD  - Clinical Research Center, the Third Xiangya Hospital, Central South University, 
+      Changsha, China. luyao0719@163.com.
+FAU - Luo, Jian
+AU  - Luo J
+AUID- ORCID: 0000-0003-3583-0154
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jluo@tongji.edu.cn.
+AD  - Shanghai Yangzhi Rehabilitation Hospital (Shanghai Sunshine Rehabilitation 
+      Center), Tongji University School of Medicine, Shanghai, China. 
+      jluo@tongji.edu.cn.
+FAU - Luo, Xianghang
+AU  - Luo X
+AUID- ORCID: 0000-0001-6413-572X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xianghangluo@csu.edu.cn.
+AD  - Department of Endocrinology, Endocrinology Research Center, Xiangya Hospital of 
+      Central South University, Changsha, China. xianghangluo@csu.edu.cn.
+FAU - Ma, Chunhong
+AU  - Ma C
+AUID- ORCID: 0000-0002-8121-4718
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. machunhong@sdu.edu.cn.
+AD  - Key Laboratory for Experimental Teratology of the Ministry of Education, 
+      Department of Immunology, School of Basic Medical Sciences, Cheeloo College of 
+      Medicine, Shandong University, Shandong, China. machunhong@sdu.edu.cn.
+FAU - Ma, Shuai
+AU  - Ma S
+AUID- ORCID: 0000-0002-8858-4383
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. mashuai@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. mashuai@ioz.ac.cn.
+FAU - Ma, Xinran
+AU  - Ma X
+AUID- ORCID: 0000-0003-4968-6536
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xrma@bio.ecnu.edu.cn.
+AD  - Institute for Aging, East China Normal University, Shanghai, China. 
+      xrma@bio.ecnu.edu.cn.
+FAU - Mao, Jianhua
+AU  - Mao J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. maojh88@zju.edu.cn.
+AD  - Department of Nephrology, Children Hospital of Zhejiang University School of 
+      Medicine, Zhejiang, China. maojh88@zju.edu.cn.
+FAU - Mao, Zhiyong
+AU  - Mao Z
+AUID- ORCID: 0000-0002-5298-1918
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhiyong_mao@tongji.edu.cn.
+AD  - Shanghai Key Laboratory of Maternal Fetal Medicine, Clinical and Translational 
+      Research Center of Shanghai First Maternity and Infant Hospital, Frontier Science 
+      Center for Stem Cell Research, School of Life Sciences and Technology, Tongji 
+      University, Shanghai, China. zhiyong_mao@tongji.edu.cn.
+FAU - Ng, Shyh-Chang
+AU  - Ng SC
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huangsq@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. huangsq@ioz.ac.cn.
+FAU - Nie, Guangjun
+AU  - Nie G
+AUID- ORCID: 0000-0001-5040-9793
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. niegj@nanoctr.cn.
+AD  - CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS 
+      Center for Excellence in Nanoscience, National Center for Nanoscience and 
+      Technology, Beijing, China. niegj@nanoctr.cn.
+FAU - Niu, Yuyu
+AU  - Niu Y
+AUID- ORCID: 0000-0002-8797-4152
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. niuyy@lpbr.cn.
+AD  - State Key Laboratory of Primate Biomedical Research, Institute of Primate 
+      Translational Medicine, Kunming University of Science and Technology, Kunming, 
+      China. niuyy@lpbr.cn.
+FAU - Peng, Yaojin
+AU  - Peng Y
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yaojin.peng@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. yaojin.peng@ioz.ac.cn.
+FAU - Pu, Jun
+AU  - Pu J
+AUID- ORCID: 0000-0003-2240-5108
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. pujun310@hotmail.com.
+AD  - Division of Cardiology, State Key Laboratory of Systems Medicine for Cancer, 
+      Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China. pujun310@hotmail.com.
+FAU - Qi, Jieyu
+AU  - Qi J
+AUID- ORCID: 0000-0001-8780-0710
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qijieyu@bit.edu.cn.
+AD  - Department of Radiology, Zhuhai People's Hospital, the Affiliated Hospital of 
+      Beijing Institute of Technology, Advanced Technology Research Institute, School 
+      of Life Science, State Key Laboratory of Hearing and Balance Science, Beijing 
+      Institute of Technology, Beijing, China. qijieyu@bit.edu.cn.
+FAU - Qiang, Li
+AU  - Qiang L
+AUID- ORCID: 0000-0001-8322-1797
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qiang@pku.edu.cn.
+AD  - Department of Pharmacology, School of Basic Medical Sciences, State Key 
+      Laboratory of Vascular Homeostasis and Remodeling, Peking University, Beijing, 
+      China. qiang@pku.edu.cn.
+FAU - Qiao, Jie
+AU  - Qiao J
+AUID- ORCID: 0000-0003-2126-1376
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jie.qiao@263.net.
+AD  - State Key Laboratory of Female Fertility Promotion, Center for Reproductive 
+      Medicine, Department of Obstetrics and Gynecology, Peking University Third 
+      Hospital, Beijing, China. jie.qiao@263.net.
+FAU - Qin, Yingying
+AU  - Qin Y
+AUID- ORCID: 0000-0002-0319-7799
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qinyingying@sdu.edu.cn.
+AD  - State Key Laboratory of Reproductive Medicine and Offspring Health, Center for 
+      Reproductive Medicine, Institute of Women, Children and Reproductive Health, 
+      Shandong University, Jinan, China. qinyingying@sdu.edu.cn.
+FAU - Qu, Aijuan
+AU  - Qu A
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. aijuanqu@ccmu.edu.cn.
+AD  - Department of Physiology and Pathophysiology, School of Basic Medical Sciences, 
+      Capital Medical University, Beijing, China. aijuanqu@ccmu.edu.cn.
+FAU - Qu, Jing
+AU  - Qu J
+AUID- ORCID: 0000-0002-3988-5067
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qujing@ioz.ac.cn.
+AD  - Key Laboratory of Organ Regeneration and Reconstruction, State Key Laboratory of 
+      Stem Cell and Reproductive Biology, Institute of Zoology, Chinese Academy of 
+      Sciences, Beijing, China. qujing@ioz.ac.cn.
+FAU - Ren, Jie
+AU  - Ren J
+AUID- ORCID: 0000-0002-6450-3163
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. renjie@big.ac.cn.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China. renjie@big.ac.cn.
+FAU - Ren, Ruibao
+AU  - Ren R
+AUID- ORCID: 0000-0002-9783-0064
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. rbren@sjtu.edu.cn.
+AD  - International Center for Aging and Cancer, Hainan Medical University, Haikou, 
+      China. rbren@sjtu.edu.cn.
+FAU - Ruan, Xiong Z
+AU  - Ruan XZ
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiongzruan@foxmail.com.
+AD  - Centre for Lipid Research and Chongqing Key Laboratory of Metabolism on Lipid and 
+      Glucose, the Second Affiliated Hospital, Chongqing Medical University, Chongqing, 
+      China. xiongzruan@foxmail.com.
+FAU - Shi, Anbing
+AU  - Shi A
+AUID- ORCID: 0000-0003-1128-2026
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ashi@hust.edu.cn.
+AD  - Department of Biochemistry and Molecular Biology, School of Basic Medicine, 
+      Tongji Medical College and State Key Laboratory for Diagnosis and Treatment of 
+      Severe Zoonotic Infectious Disease, Huazhong University of Science and 
+      Technology, Wuhan, China. ashi@hust.edu.cn.
+FAU - Shi, Haibo
+AU  - Shi H
+AUID- ORCID: 0000-0002-2920-0183
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hbshi@sjtu.edu.cn.
+AD  - Department of Otorhinolaryngology Head and Neck Surgery, Shanghai Sixth People's 
+      Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, 
+      Shanghai, China. hbshi@sjtu.edu.cn.
+FAU - Shi, Jie
+AU  - Shi J
+AUID- ORCID: 0000-0001-6567-8160
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. shijie@bjmu.edu.cn.
+AD  - National Institute on Drug Dependence, Peking University, Beijing, China. 
+      shijie@bjmu.edu.cn.
+FAU - So, Kwok-Fai
+AU  - So KF
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hrmaskf@hku.hk.
+AD  - Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hong 
+      Kong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou, China. 
+      hrmaskf@hku.hk.
+FAU - Song, Moshi
+AU  - Song M
+AUID- ORCID: 0000-0001-9929-8975
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. songmoshi@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. songmoshi@ioz.ac.cn.
+FAU - Song, Weihong
+AU  - Song W
+AUID- ORCID: 0000-0001-9928-889X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. weihong@wmu.edu.cn.
+AD  - Center for Geriatric Medicine, the First Affiliated Hospital and Oujiang 
+      Laboratory, Institute of Aging, Wenzhou Medical University, Wenzhou, China. 
+      weihong@wmu.edu.cn.
+FAU - Songyang, Zhou
+AU  - Songyang Z
+AUID- ORCID: 0000-0002-7824-3761
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. songyanz@mail.sysu.edu.cn.
+AD  - MOE Key Laboratory of Gene Function and Regulation, Guangzhou Key Laboratory of 
+      Healthy Aging Research, School of Life Sciences, Institute of Healthy Aging 
+      Research, Sun Yat-sen University, Guangzhou, China. songyanz@mail.sysu.edu.cn.
+FAU - Su, Jiacan
+AU  - Su J
+AUID- ORCID: 0000-0001-7080-263X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. drsujiacan@163.com.
+AD  - Department of Orthopedic, Xinhua Hospital Affiliated to Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China. drsujiacan@163.com.
+FAU - Sun, Aijun
+AU  - Sun A
+AUID- ORCID: 0000-0003-0109-6967
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sun.aijun@zs-hospital.sh.cn.
+AD  - Department of Cardiology, Zhongshan Hospital, Fudan University, Shanghai 
+      Institute of Cardiovascular Diseases, Shanghai, China. 
+      sun.aijun@zs-hospital.sh.cn.
+FAU - Sun, Liang
+AU  - Sun L
+AUID- ORCID: 0000-0003-1634-4716
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sunbmu@foxmail.com.
+AD  - The Key Laboratory of Geriatrics, Beijing Institute of Geriatrics, Institute of 
+      Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 
+      Hospital/National Center of Gerontology of National Health Commission, Beijing, 
+      China. sunbmu@foxmail.com.
+FAU - Sun, Qiang
+AU  - Sun Q
+AUID- ORCID: 0000-0002-5342-0637
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sunq@bmi.ac.cn.
+AD  - Laboratory of Advanced Biotechnology, Institute of Biotechnology, Academy of 
+      Military Medical Science, Research Unit of Cell Death Mechanism, 2021RU008, 
+      Chinese Academy of Medical Science, Beijing, China. sunq@bmi.ac.cn.
+FAU - Sun, Yi Eve
+AU  - Sun YE
+AUID- ORCID: 0000-0002-1272-3295
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yi.eve.sun@gmail.com.
+AD  - Stem Cell Translational Research Center, Tongji Hospital, School of Medicine, 
+      Tongji University, Shanghai, China. yi.eve.sun@gmail.com.
+FAU - Sun, Yu
+AU  - Sun Y
+AUID- ORCID: 0000-0001-7121-9112
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. sunyu@sinh.ac.cn.
+AD  - Center for Single-Cell Omics, School of Public Health, Shanghai Jiao Tong 
+      University School of Medicine, Shanghai, China. sunyu@sinh.ac.cn.
+FAU - Tang, Peifu
+AU  - Tang P
+AUID- ORCID: 0000-0003-4279-1704
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. pftang301@126.com.
+AD  - Department of Orthopedics, the Fourth Medical Center of Chinese PLA General 
+      Hospital and National Clinical Research Center for Orthopedics, Sports Medicine 
+      and Rehabilitation, Beijing, China. pftang301@126.com.
+FAU - Tang, Qi-Qun
+AU  - Tang QQ
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qqtang@shmu.edu.cn.
+AD  - Key Lab of Metabolism and Molecular Medicine (MOE), Department of Biochemistry 
+      and Molecular Biology, Fudan University School of Basic Medical Sciences, 
+      Shanghai, China. qqtang@shmu.edu.cn.
+FAU - Tang, Yi
+AU  - Tang Y
+AUID- ORCID: 0000-0001-7235-0227
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tangyi@xwhosp.org.
+AD  - Department of Neurology and Innovation Center for Neurological Disorders, Xuanwu 
+      Hospital, Capital Medical University, National Center for Neurological Disorders, 
+      Beijing, China. tangyi@xwhosp.org.
+FAU - Tao, Jun
+AU  - Tao J
+AUID- ORCID: 0000-0002-2226-765X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. taojungz123@163.com.
+AD  - Department of Hypertension and Vascular Disease, the First Affiliated Hospital of 
+      Sun Yat-sen University, Guangzhou, China. taojungz123@163.com.
+FAU - Tao, Ling
+AU  - Tao L
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lingtaofmmu@qq.com.
+AD  - Department of Cardiology, Xijing Hospital, Fourth Military Medical University, 
+      Xi'an, China. lingtaofmmu@qq.com.
+FAU - Tian, Mei
+AU  - Tian M
+AUID- ORCID: 0000-0002-1587-2114
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tianmei@fudan.edu.cn.
+AD  - Human Phenome Institute, Fudan University, Shanghai, China. tianmei@fudan.edu.cn.
+FAU - Tian, Xiao-Li
+AU  - Tian XL
+AUID- ORCID: 0000-0002-0868-7025
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tianxiaoli@ncu.edu.cn.
+AD  - Human Aging Research Institute and School of Life Science, Nanchang University 
+      and Jiangxi Province Key Laboratory of Aging and Disease, Nanchang, China. 
+      tianxiaoli@ncu.edu.cn.
+FAU - Tian, Ye
+AU  - Tian Y
+AUID- ORCID: 0000-0002-7675-9270
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ytian@genetics.ac.cn.
+AD  - Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 
+      Beijing, China. ytian@genetics.ac.cn.
+FAU - Tong, Xiaolin
+AU  - Tong X
+AUID- ORCID: 0000-0002-9873-4154
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tongxiaolin@vip.163.com.
+AD  - Institute of Metabolic Diseases, Guang'anmen Hospital, China Academy of Chinese 
+      Medical Sciences, Beijing, China. tongxiaolin@vip.163.com.
+FAU - Wang, Cong-Yi
+AU  - Wang CY
+AUID- ORCID: 0000-0001-7914-168X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangcy@tjh.tjmu.edu.cn.
+AD  - Shanxi Bethune Hospital, Shanxi Academy of Medical Science, Tongji Shanxi 
+      Hospital, Third Hospital of Shanxi Medical University, the Key Laboratory of 
+      Endocrine and Metabolic Diseases of Shanxi Province, Shanxi, China. 
+      wangcy@tjh.tjmu.edu.cn.
+FAU - Wang, Haibo
+AU  - Wang H
+AUID- ORCID: 0000-0003-0955-9532
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. whboto11@email.sdu.edu.cn.
+AD  - Department of Otolaryngology-Head and Neck Surgery, Shandong Provincial ENT 
+      Hospital, Shandong University, Jinan, China. whboto11@email.sdu.edu.cn.
+FAU - Wang, Hongmei
+AU  - Wang H
+AUID- ORCID: 0000-0003-1603-4785
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wanghm@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. wanghm@ioz.ac.cn.
+FAU - Wang, Huating
+AU  - Wang H
+AUID- ORCID: 0000-0001-5474-2905
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huating.wang@cuhk.edu.hk.
+AD  - Department of Orthopaedics and Traumatology, Li Ka Shing Institute of Health 
+      Sciences, InnoHK Center for Neuromusculoskeletal Restorative Medicine, the 
+      Chinese University of Hong Kong, Hong Kong, China. huating.wang@cuhk.edu.hk.
+FAU - Wang, Jianan
+AU  - Wang J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangjianan111@zju.edu.cn.
+AD  - Department of Cardiology, the Second Affiliated Hospital, Zhejiang University 
+      School of Medicine, Hangzhou, China. wangjianan111@zju.edu.cn.
+FAU - Wang, Jianwei
+AU  - Wang J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangjw28@163.com.
+AD  - Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, 
+      China. wangjw28@163.com.
+FAU - Wang, Jianwei
+AU  - Wang J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangjianwei@ihcams.ac.cn.
+AD  - State Key Laboratory of Experimental Hematology, National Clinical Research 
+      Center for Blood Diseases, Haihe Laboratory of Cell Ecosystem, Institute of 
+      Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Tianjin, China. wangjianwei@ihcams.ac.cn.
+FAU - Wang, Jiqiu
+AU  - Wang J
+AUID- ORCID: 0000-0002-9383-7656
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangjq@shsmu.edu.cn.
+AD  - Department of Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine 
+      and Metabolic Diseases, Ruijin Hospital, Shanghai Jiao Tong University School of 
+      Medicine, Shanghai, China. wangjq@shsmu.edu.cn.
+FAU - Wang, Liheng
+AU  - Wang L
+AUID- ORCID: 0000-0003-0920-8222
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lihengwang@hsc.pku.edu.cn.
+AD  - Institute of Cardiovascular Sciences, Department of Physiology and 
+      Pathophysiology, School of Basic Medical Sciences, State Key Laboratory of 
+      Vascular Homeostasis and Remodeling, Peking University, Beijing, China. 
+      lihengwang@hsc.pku.edu.cn.
+FAU - Wang, Lin
+AU  - Wang L
+AUID- ORCID: 0000-0001-5586-3012
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fierywang@163.com.
+AD  - Department of Hepatobiliary Surgery, Xijing Hospital, Fourth Military Medical 
+      University, Xi'an, China. fierywang@163.com.
+FAU - Wang, Miao
+AU  - Wang M
+AUID- ORCID: 0000-0002-0532-6312
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. miao.wang@pumc.edu.cn.
+AD  - State Key Laboratory of Cardiovascular Disease, NHC Key Laboratory of Clinical 
+      Research for Cardiovascular Medications, Fuwai Hospital, National Center for 
+      Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union 
+      Medical College, Beijing, China. miao.wang@pumc.edu.cn.
+FAU - Wang, Qiang
+AU  - Wang Q
+AUID- ORCID: 0000-0002-8735-8771
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. qiangwang@scut.edu.cn.
+AD  - Innovation Centre of the Ministry of Education for Development and Diseases, 
+      School of Medicine, South China University of Technology, Guangzhou, China. 
+      qiangwang@scut.edu.cn.
+FAU - Wang, Si
+AU  - Wang S
+AUID- ORCID: 0000-0003-2431-0612
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangsi@xwh.ccmu.edu.cn.
+AD  - Advanced Innovation Center for Human Brain Protection, National Clinical Research 
+      Center for Geriatric Disorders, Xuanwu Hospital Capital Medical University, 
+      Beijing, China. wangsi@xwh.ccmu.edu.cn.
+FAU - Wang, Sijia
+AU  - Wang S
+AUID- ORCID: 0000-0001-6961-7867
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangsijia@sinh.ac.cn.
+AD  - CAS Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and 
+      Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, 
+      Shanghai, China. wangsijia@sinh.ac.cn.
+FAU - Wang, Songlin
+AU  - Wang S
+AUID- ORCID: 0000-0002-7066-2654
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. slwang@ccmu.edu.cn.
+AD  - Laboratory of Oral Homeostatic Medicine School of Medicine and SHMl, Southern 
+      University of Science and Technology, Shenzhen, China. slwang@ccmu.edu.cn.
+FAU - Wang, Wengong
+AU  - Wang W
+AUID- ORCID: 0000-0002-1720-809X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wwg@bjmu.edu.cn.
+AD  - Department of Biochemistry and Molecular Biology, Peking University Health 
+      Science Center, Beijing, China. wwg@bjmu.edu.cn.
+FAU - Wang, Xiaoming
+AU  - Wang X
+AUID- ORCID: 0000-0002-9671-6358
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xmwang@fmmu.edu.cn.
+AD  - Airforce Military Medical University, Xi'an, China. xmwang@fmmu.edu.cn.
+FAU - Wang, Xiaoning
+AU  - Wang X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xnwang88@163.com.
+AD  - School of Life Sciences, Fudan University, Shanghai, China. xnwang88@163.com.
+FAU - Wang, Yan
+AU  - Wang Y
+AUID- ORCID: 0000-0002-3561-3021
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. Wang.y@whu.edu.cn.
+AD  - State Key Laboratory of Metabolism and Regulation in Complex Organisms, Hubei Key 
+      Laboratory of Cell Homeostasis, College of Life Sciences, Taikang Center for Life 
+      and Medical Sciences, Wuhan University, Wuhan, China. Wang.y@whu.edu.cn.
+FAU - Wang, Yan-Jiang
+AU  - Wang YJ
+AUID- ORCID: 0000-0002-6227-6112
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yanjiang_wang@tmmu.edu.cn.
+AD  - Department of Neurology and Center for Clinical Neuroscience, Daping Hospital, 
+      Third Military Medical University, Chongqing, China. yanjiang_wang@tmmu.edu.cn.
+FAU - Wang, Yuan
+AU  - Wang Y
+AUID- ORCID: 0000-0001-9189-3630
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangyuan980510@163.com.
+AD  - Key Laboratory of Remodeling-related Cardiovascular Diseases, Ministry of 
+      Education, Beijing Collaborative Innovation Centre for Cardiovascular Disorders, 
+      Beijing Anzhen Hospital, Capital Medical University, Beijing, China. 
+      wangyuan980510@163.com.
+FAU - Wang, Yunfang
+AU  - Wang Y
+AUID- ORCID: 0009-0004-9692-1679
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wangyf008@mail.tsinghua.edu.cn.
+AD  - Hepato-Pancreato-Biliary Center, Beijing Tsinghua Changgung Hospital, School of 
+      Clinical Medicine, Tsinghua University, Beijing, China. 
+      wangyf008@mail.tsinghua.edu.cn.
+FAU - Wang, Zhenning
+AU  - Wang Z
+AUID- ORCID: 0000-0003-0557-3097
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. znwang@cmu.edu.cn.
+AD  - Department of Surgical Oncology and General Surgery, the First Hospital of China 
+      Medical University, Key Laboratory of Precision Diagnosis and Treatment of 
+      Gastrointestinal Tumors (China Medical University), Ministry of Education, 
+      Shenyang, China. znwang@cmu.edu.cn.
+FAU - Wei, Xiawei
+AU  - Wei X
+AUID- ORCID: 0000-0002-6513-6422
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiaweiwei@scu.edu.cn.
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy, National Clinical Research Center for Geriatrics, West China 
+      Hospital, Sichuan University, Chengdu, China. xiaweiwei@scu.edu.cn.
+FAU - Weng, Jianping
+AU  - Weng J
+AUID- ORCID: 0000-0002-7889-1697
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wengjp@ustc.edu.cn.
+AD  - Division of Life Sciences and Medicine, University of Science and Technology of 
+      China, the First Affiliated Hospital of Anhui Medical University, Hefei, China. 
+      wengjp@ustc.edu.cn.
+FAU - Wu, Haitao
+AU  - Wu H
+AUID- ORCID: 0000-0001-8437-3194
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wuht@bmi.ac.cn.
+AD  - Beijing Institute of Basic Medical Sciences, Beijing, China. wuht@bmi.ac.cn.
+FAU - Wu, Jihong
+AU  - Wu J
+AUID- ORCID: 0000-0003-3892-5757
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jihongwu@fudan.edu.cn.
+AD  - Department of Opthalmology, Eye and ENT Hospital, Fudan University, Shanghai, 
+      China. jihongwu@fudan.edu.cn.
+FAU - Xia, Xiaohuan
+AU  - Xia X
+AUID- ORCID: 0000-0002-0287-6319
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiaohuan_xia1@163.com.
+AD  - Department of Histology and Embryology, Tongji University School of Medicine, 
+      Shanghai, China. xiaohuan_xia1@163.com.
+FAU - Xia, Yang
+AU  - Xia Y
+AUID- ORCID: 0000-0002-8059-6179
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. Yang.Xia1106@CSU.EDU.CN.
+AD  - National Medical Metabolomics International Collaborative Research Center, 
+      Xiangya Hospital, Central South University, Changsha, China. 
+      Yang.Xia1106@CSU.EDU.CN.
+FAU - Xiang, Andy Peng
+AU  - Xiang AP
+AUID- ORCID: 0000-0003-3409-5012
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiangp@mail.sysu.edu.cn.
+AD  - Center for Stem Cell Biology and Tissue Engineering, Key Laboratory for Stem 
+      Cells and Tissue Engineering, Ministry of Education, Zhongshan School of 
+      Medicine, Sun Yat-sen University, Guangzhou, China. xiangp@mail.sysu.edu.cn.
+FAU - Xiao, Guozhi
+AU  - Xiao G
+AUID- ORCID: 0000-0002-4269-2450
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiaogz@sustech.edu.cn.
+AD  - Department of Biochemistry, Homeostatic Medicine Institute, School of Medicine, 
+      Shenzhen Key Laboratory of Cell Microenvironment, Guangdong Provincial Key 
+      Laboratory of Cell Microenvironment and Disease Research, Southern University of 
+      Science and Technology, Shenzhen, China. xiaogz@sustech.edu.cn.
+FAU - Xiao, Junjie
+AU  - Xiao J
+AUID- ORCID: 0000-0002-9202-0003
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. junjiexiao@shu.edu.cn.
+AD  - Institute of Cardiovascular Sciences, Shanghai Engineering Research Center of 
+      Organ Repair, Joint International Research Laboratory of Biomaterials and 
+      Biotechnology in Organ Repair (Ministry of Education), School of Life Science, 
+      Shanghai University, Shanghai, China. junjiexiao@shu.edu.cn.
+FAU - Xiao, Yichuan
+AU  - Xiao Y
+AUID- ORCID: 0000-0001-7804-6971
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ycxiao@sibs.ac.cn.
+AD  - CAS Key Laboratory of Tissue Microenvironment and Tumor, Shanghai Institute of 
+      Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy 
+      of Sciences, Shanghai, China. ycxiao@sibs.ac.cn.
+FAU - Xiao, Zhi-Xiong Jim
+AU  - Xiao ZJ
+AUID- ORCID: 0000-0003-2504-5742
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jimzx@scu.edu.cn.
+AD  - Center of Growth, Metabolism and Aging, College of Life Sciences, Sichuan 
+      University, Chengdu, China. jimzx@scu.edu.cn.
+FAU - Xie, Zhengwei
+AU  - Xie Z
+AUID- ORCID: 0000-0001-9572-878X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xiezhengwei@hsc.pku.edu.cn.
+AD  - Peking University International Cancer Institute, PKU Yunnan Baiyao International 
+      Medical Research Center, State Key Laboratory of Natural and Biomimetic Drugs, 
+      Peking University Health Science Center, Peking University, Beijing, China. 
+      xiezhengwei@hsc.pku.edu.cn.
+FAU - Xiong, Wei
+AU  - Xiong W
+AUID- ORCID: 0000-0002-1585-3749
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wxiong@ustc.edu.cn.
+AD  - Hefei National Research Center for Physical Sciences at the Microscale, Division 
+      of Life Sciences and Medicine, University of Science and Technology of China, 
+      Hefei, China. wxiong@ustc.edu.cn.
+FAU - Xu, Aimin
+AU  - Xu A
+AUID- ORCID: 0000-0002-0668-033X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. amxu@hku.hk.
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, the University of Hong 
+      Kong, Hong Kong, China. amxu@hku.hk.
+FAU - Xu, Hua
+AU  - Xu H
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xuhuawhu@163.com.
+AD  - Cancer Precision Diagnosis and Treatment and Translational Medicine Hubei 
+      Engineering Research Center, Zhongnan Hospital, Wuhan University, Wuhan, China. 
+      xuhuawhu@163.com.
+FAU - Xu, Lingyan
+AU  - Xu L
+AUID- ORCID: 0000-0002-8666-5219
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. lyxu@bio.ecnu.edu.cn.
+AD  - School of Life Sciences, East China Normal University, Shanghai, China. 
+      lyxu@bio.ecnu.edu.cn.
+FAU - Xu, Ming
+AU  - Xu M
+AUID- ORCID: 0000-0003-1680-3628
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xuminghi@bjmu.edu.cn.
+AD  - Department of Cardiology and Institute of Vascular Medicine, Peking University 
+      Third Hospital, State Key Laboratory of Vascular Homeostasis and Remodeling, NHC 
+      Key Laboratory of Cardiovascular Molecular Biology and Regulatory Peptides, 
+      Peking University, Beijing, China. xuminghi@bjmu.edu.cn.
+FAU - Yan, Liying
+AU  - Yan L
+AUID- ORCID: 0000-0001-9572-9440
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yanliyingkind@aliyun.com.
+AD  - State Key Laboratory of Female Fertility Promotion, Center for Reproductive 
+      Medicine, Department of Obstetrics and Gynecology, Peking University Third 
+      Hospital, Beijing, China. yanliyingkind@aliyun.com.
+FAU - Yang, Jiayin
+AU  - Yang J
+AUID- ORCID: 0000-0003-1623-551X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. doctoryjy@scu.edu.cn.
+AD  - Liver Transplant Center, Institute of Organ Transplantation, Key Laboratory of 
+      Transplant Engineering and Immunology, NHC, West China Hospital, Sichuan 
+      University, Chengdu, China. doctoryjy@scu.edu.cn.
+FAU - Yang, Jichun
+AU  - Yang J
+AUID- ORCID: 0000-0001-8150-2923
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yangj@bjmu.edu.cn.
+AD  - Department of Physiology and Pathophysiology, School of Basic Medical Sciences, 
+      State Key Laboratory of Vascular Homeostasis and Remodeling, Center for 
+      Non-coding RNA Medicine, Peking University Health Science Center, Beijing, China. 
+      yangj@bjmu.edu.cn.
+FAU - Yang, Liu
+AU  - Yang L
+AUID- ORCID: 0000-0002-6498-4702
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yangliu@fmmu.edu.cn.
+AD  - Department of Orthopaedics Institute, Xijing Hospital, the Fourth Military 
+      Medical University, Xi'an, China. yangliu@fmmu.edu.cn.
+FAU - Yang, Yun-Gui
+AU  - Yang YG
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ygyang@cncb.ac.cn.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China. ygyang@cncb.ac.cn.
+FAU - Yang, Ze
+AU  - Yang Z
+AUID- ORCID: 0000-0001-8280-523X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yang_ze@sina.com.
+AD  - The Key Laboratory of Geriatrics, Beijing Institute of Geriatrics, Institute of 
+      Geriatric Medicine, Chinese Academy of Medical Sciences, Beijing 
+      Hospital/National Center of Gerontology of National Health Commission, Beijing, 
+      China. yang_ze@sina.com.
+FAU - Yang, Zhenglin
+AU  - Yang Z
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yangzhenglin@cashq.ac.cn.
+AD  - The Sichuan Provincial Key Laboratory for Human Disease Gene Study, the 
+      Department of Medical Genetics, the Department of Laboratory Medicine, Sichuan 
+      Academy of Medical Sciences and Sichuan Provincial People's Hospital, School of 
+      Medicine, University of Electronic Science and Technology of China, Chengdu, 
+      China. yangzhenglin@cashq.ac.cn.
+FAU - Yao, Hongjie
+AU  - Yao H
+AUID- ORCID: 0000-0003-2144-0147
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yao_hongjie@gzlab.ac.cn.
+AD  - Department of Basic Research, Guangzhou National Laboratory, Guangzhou, China. 
+      yao_hongjie@gzlab.ac.cn.
+FAU - Ye, Jing
+AU  - Ye J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yj11254@rjh.com.cn.
+AD  - International Laboratory in Hematology, Cancer, Aging and Hematology, Pôle 
+      Sino-Français de Recherches en Sciences du Vivant et Génomique, Department of 
+      Geriatrics, Medical Center on Aging of Shanghai Ruijin Hospital, Shanghai 
+      Jiaotong University School of Medicine, Shanghai, China. yj11254@rjh.com.cn.
+FAU - Yi, Chengqi
+AU  - Yi C
+AUID- ORCID: 0000-0003-2540-9729
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. chengqi.yi@pku.edu.cn.
+AD  - State Key Laboratory of Gene Function and Modulation Research, School of Life 
+      Sciences, Peking University, Beijing, China. chengqi.yi@pku.edu.cn.
+FAU - Yi, Fan
+AU  - Yi F
+AUID- ORCID: 0000-0001-8634-9788
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fanyi@sdu.edu.cn.
+AD  - Department of Pharmacology, School of Basic Medical Sciences, Shandong 
+      University, Jinan, China. fanyi@sdu.edu.cn.
+FAU - Yu, Honghua
+AU  - Yu H
+AUID- ORCID: 0000-0002-0782-346X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yuhonghua@gdph.org.cn.
+AD  - Guangdong Eye Institute, Department of Ophthalmology, Guangdong Provincial 
+      People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical 
+      University, Guangzhou, China. yuhonghua@gdph.org.cn.
+FAU - Yu, Yang
+AU  - Yu Y
+AUID- ORCID: 0000-0002-4310-1966
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yuyang5012@hotmail.com.
+AD  - Clinical Stem Cell Research Center, Reproductive Medical Center, Peking 
+      University Third Hospital, Beijing, China. yuyang5012@hotmail.com.
+FAU - Yu, Zhengrong
+AU  - Yu Z
+AUID- ORCID: 0009-0005-6979-9935
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. dryzr@pku.edu.cn.
+AD  - Department of Orthopedics, Peking University First Hospital, Beijing, China. 
+      dryzr@pku.edu.cn.
+FAU - Yuan, Ti-Fei
+AU  - Yuan TF
+AUID- ORCID: 0000-0003-0510-715X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ytf0707@126.com.
+AD  - Shanghai Key Laboratory of Psychotic Disorders, Brain Health Institute, National 
+      Center for Mental Disorders, Shanghai Mental Health Center, Shanghai Jiaotong 
+      University School of Medicine and School of Psychology, Shanghai, China. 
+      ytf0707@126.com.
+FAU - Yue, Jirong
+AU  - Yue J
+AUID- ORCID: 0000-0002-3730-779X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yuejirong11@hotmail.com.
+AD  - Department of Geriatrics and National Clinical Research Center for Geriatrics, 
+      West China Hospital of Sichuan University, Chengdu, China. 
+      yuejirong11@hotmail.com.
+FAU - Yue, Rui
+AU  - Yue R
+AUID- ORCID: 0000-0002-3401-369X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ryue@tongji.edu.cn.
+AD  - State Key Laboratory of Cardiovascular Diseases and Medical Innovation Center, 
+      Shanghai East Hospital, Frontier Science Center for Stem Cell Research, Shanghai 
+      Key Laboratory of Signaling and Disease Research, School of Life Sciences and 
+      Technology, Tongji University, Shanghai, China. ryue@tongji.edu.cn.
+FAU - Zhang, Chen
+AU  - Zhang C
+AUID- ORCID: 0000-0002-7940-8054
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. czhang@188.com.
+AD  - College of Basic Medicine, Inner Mongolia Medical University, Hohhot, China. 
+      czhang@188.com.
+FAU - Zhang, Chunxiang
+AU  - Zhang C
+AUID- ORCID: 0000-0003-3308-0265
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangchx999@163.com.
+AD  - Department of Cardiology, the Affiliated Hospital of Southwest Medical 
+      University, Institute of Cardiovascular Research, Southwest Medical University, 
+      Luzhou, China. zhangchx999@163.com.
+FAU - Zhang, Cuntai
+AU  - Zhang C
+AUID- ORCID: 0000-0002-2365-5646
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ctzhang0425@163.com.
+AD  - Department of Geriatrics, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan, China. ctzhang0425@163.com.
+FAU - Zhang, Feng
+AU  - Zhang F
+AUID- ORCID: 0000-0002-6751-0377
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. fengzhang@wmu.edu.cn.
+AD  - Department of Respiratory and Critical Care, Quzhou Affiliated Hospital of 
+      Wenzhou Medical University, Quzhou People's Hospital, Quzhou, China. 
+      fengzhang@wmu.edu.cn.
+FAU - Zhang, Hongbo
+AU  - Zhang H
+AUID- ORCID: 0000-0002-4081-5752
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhanghongbo@mail.sysu.edu.cn.
+AD  - The Key Laboratory for Stem Cells and Tissue Engineering, Ministry of Education, 
+      Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. 
+      zhanghongbo@mail.sysu.edu.cn.
+FAU - Zhang, Hongjia
+AU  - Zhang H
+AUID- ORCID: 0000-0002-5737-4084
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhanghongjia722@ccmu.edu.cn.
+AD  - Beijing Anzhen Hospital, Capital Medical University, Beijing, China. 
+      zhanghongjia722@ccmu.edu.cn.
+FAU - Zhang, Huijie
+AU  - Zhang H
+AUID- ORCID: 0000-0003-0640-0315
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huijiezhang2005@126.com.
+AD  - Department of Endocrinology and Metabolism, Nanfang Hospital, Southern Medical 
+      University, Guangzhou, China. huijiezhang2005@126.com.
+FAU - Zhang, Jie
+AU  - Zhang J
+AUID- ORCID: 0000-0003-1040-5848
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jiezhang@xmu.edu.cn.
+AD  - Institute of Neuroscience, School of Medicine, Xiamen University, Xiamen, China. 
+      jiezhang@xmu.edu.cn.
+FAU - Zhang, Jingjing
+AU  - Zhang J
+AUID- ORCID: 0000-0002-9155-8979
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. doctorzhangjj@csu.edu.cn.
+AD  - National Clinical Research Center for Metabolic Diseases, Metabolic Syndrome 
+      Research Center, Department of Endocrinology, the Second Xiangya Hospital of 
+      Central South University, Changsha, China. doctorzhangjj@csu.edu.cn.
+FAU - Zhang, Licheng
+AU  - Zhang L
+AUID- ORCID: 0000-0002-6782-1749
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhanglcheng218@126.com.
+AD  - Department of Orthopedics, the Fourth Medical Center of Chinese PLA General 
+      Hospital and National Clinical Research Center for Orthopedics, Sports Medicine 
+      and Rehabilitation, Beijing, China. zhanglcheng218@126.com.
+FAU - Zhang, Lingqiang
+AU  - Zhang L
+AUID- ORCID: 0000-0002-9795-2141
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhanglq@nic.bmi.ac.cn.
+AD  - The π-HuB Consortium, Beijing, China. zhanglq@nic.bmi.ac.cn.
+AD  - State Key Laboratory of Medical Proteomics, National Center for Protein Sciences 
+      (Beijing), Beijing Institute of Lifeomics, Beijing, China. zhanglq@nic.bmi.ac.cn.
+FAU - Zhang, Luoying
+AU  - Zhang L
+AUID- ORCID: 0000-0001-5996-6975
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangluoying@hust.edu.cn.
+AD  - Key Laboratory of Molecular Biophysics of the Ministry of Education, College of 
+      Life Science and Technology, Huazhong University of Science and Technology, 
+      Wuhan, China. zhangluoying@hust.edu.cn.
+FAU - Zhang, Qingjiong
+AU  - Zhang Q
+AUID- ORCID: 0000-0001-7508-848X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangqji@mail.sysu.edu.cn.
+AD  - State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Guangdong 
+      Provincial Key Laboratory of Ophthalmology and Visual Science, Sun Yat-Sen 
+      University, Guangzhou, China. zhangqji@mail.sysu.edu.cn.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ndyfy00266@ncu.edu.cn.
+AD  - Department of Respiratory and Critical Care Medicine, the First Affiliated 
+      Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China. 
+      ndyfy00266@ncu.edu.cn.
+FAU - Zhang, Weiping J
+AU  - Zhang WJ
+AUID- ORCID: 0000-0003-4727-2380
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. wzhang@smmu.edu.cn.
+AD  - National Key Laboratory of Immunity and Inflammation, Department of 
+      Pathophysiology, Naval Medical University, Shanghai, China. wzhang@smmu.edu.cn.
+FAU - Zhang, Xin
+AU  - Zhang X
+AUID- ORCID: 0009-0000-6975-4730
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. xinzhang0805@bjmu.edu.cn.
+AD  - Department of Sports Medicine, Peking University Third Hospital, Institute of 
+      Sports Medicine of Peking University, Beijing, China. xinzhang0805@bjmu.edu.cn.
+FAU - Zhang, Xuan
+AU  - Zhang X
+AUID- ORCID: 0000-0001-8775-1699
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangx@bjhmoh.cn.
+AD  - Department of Rheumatology, Beijing Hospital, National Centre of Gerontology, 
+      Institute of Geriatric Medicine, Clinical Immunology Centre, Chinese Academy of 
+      Medical Sciences, Beijing, China. zhangx@bjhmoh.cn.
+FAU - Zhang, Yong
+AU  - Zhang Y
+AUID- ORCID: 0000-0002-2443-5143
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yongzhang@ibms.pumc.edu.cn.
+AD  - State Key Laboratory of Complex, Severe and Rare Diseases, Institute of Basic 
+      Medical Sciences, Chinese Academy of Medical Sciences and School of Basic 
+      Medicine, Peking Union Medical College, Beijing, China. 
+      yongzhang@ibms.pumc.edu.cn.
+FAU - Zhang, Yun-Wu
+AU  - Zhang YW
+AUID- ORCID: 0000-0002-7152-7630
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yunzhang@xmu.edu.cn.
+AD  - Fujian Provincial Key Laboratory of Neurodegenerative Disease and Aging Research, 
+      Institute of Neuroscience, School of Medicine, Xiamen University, Xiamen, China. 
+      yunzhang@xmu.edu.cn.
+FAU - Zhang, Zhanjun
+AU  - Zhang Z
+AUID- ORCID: 0000-0001-7266-4218
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhang_rzs@bnu.edu.cn.
+AD  - State Key Laboratory of Cognitive Neuroscience and Learning, Faculty of 
+      Psychology, Beijing Normal University, Beijing, China. zhang_rzs@bnu.edu.cn.
+FAU - Zhang, Zhuohua
+AU  - Zhang Z
+AUID- ORCID: 0000-0002-1394-0697
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangzhuohua@sklmg.edu.cn.
+AD  - Institute of Molecular Precision Medicine, Xiangya Hospital, Central South 
+      University, Changsha, China. zhangzhuohua@sklmg.edu.cn.
+FAU - Zhao, Bing
+AU  - Zhao B
+AUID- ORCID: 0000-0001-9891-3569
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. bingzhao@ncu.edu.cn.
+AD  - School of Basic Medical Sciences, the First Affiliated Hospital of Nanchang 
+      University, Jiangxi Medical College, Nanchang University, Nanchang, China. 
+      bingzhao@ncu.edu.cn.
+FAU - Zhao, Guoguang
+AU  - Zhao G
+AUID- ORCID: 0000-0002-7569-5252
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ggzhao@vip.sina.com.
+AD  - Beijing Municipal Geriatric Medical Research Center, National Medical Center for 
+      Neurological Diseases, Department of Neurosurgery, Xuanwu Hospital Capital 
+      Medical University, Beijing, China. ggzhao@vip.sina.com.
+FAU - Zhao, Jiajun
+AU  - Zhao J
+AUID- ORCID: 0000-0003-3267-9292
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jjzhao@sdu.edu.cn.
+AD  - Shandong Provincial Hospital Affiliated to Shandong First Medical University, 
+      Shandong, China. jjzhao@sdu.edu.cn.
+FAU - Zhao, Meng
+AU  - Zhao M
+AUID- ORCID: 0000-0001-7909-7594
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhaom38@mail.sysu.edu.cn.
+AD  - Key Laboratory of Stem Cells and Tissue Engineering (Ministry of Education), 
+      Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China. 
+      zhaom38@mail.sysu.edu.cn.
+FAU - Zhao, Tongbiao
+AU  - Zhao T
+AUID- ORCID: 0000-0003-1429-5818
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. tbzhao@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. tbzhao@ioz.ac.cn.
+FAU - Zheng, Jialin C
+AU  - Zheng JC
+AUID- ORCID: 0000-0003-2286-0151
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jialinzheng@tongji.edu.cn.
+AD  - Center for Translational Neurodegeneration and Regenerative Therapy, Tongji 
+      Hospital Affiliated to Tongji University School of Medicine, Shanghai, China. 
+      jialinzheng@tongji.edu.cn.
+FAU - Zheng, Junke
+AU  - Zheng J
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhengjunke@shsmu.edu.cn.
+AD  - Hongqiao International Institute of Medicine, Shanghai Tongren Hospital, Key 
+      Laboratory of Cell Differentiation and Apoptosis of the Chinese Ministry of 
+      Education, Faculty of Basic Medicine, Shanghai Jiao Tong University School of 
+      Medicine, Shanghai, China. zhengjunke@shsmu.edu.cn.
+FAU - Zheng, Zhuozhao
+AU  - Zheng Z
+AUID- ORCID: 0000-0001-8547-6670
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zzza00509@btch.edu.cn.
+AD  - Department of Radiology, Beijing Tsinghua Changgung Hospital, School of Clinical 
+      Medicine, Tsinghua University, Beijing, China. zzza00509@btch.edu.cn.
+FAU - Zhou, Huixia
+AU  - Zhou H
+AUID- ORCID: 0000-0002-9911-9495
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. huixia99999@163.com.
+AD  - Department of Pediatric Urology, the Seventh Medical Center of Chinese PLA 
+      General Hospital, Beijing, China. huixia99999@163.com.
+FAU - Zhou, Lili
+AU  - Zhou L
+AUID- ORCID: 0000-0001-5044-6965
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. jinli730@smu.edu.cn.
+AD  - National Key Laboratory for Prevention and Treatment of Multi-organ Injury, 
+      Division of Nephrology, Nanfang Hospital, Southern Medical University, Guangzhou, 
+      China. jinli730@smu.edu.cn.
+FAU - Zhou, Xiangtian
+AU  - Zhou X
+AUID- ORCID: 0000-0002-1115-561X
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhouxt@shsmu.edu.cn.
+AD  - State Key Laboratory of Eye Health, Department of Ophthalmology, Ninth People's 
+      Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. 
+      zhouxt@shsmu.edu.cn.
+FAU - Zhou, Yongsheng
+AU  - Zhou Y
+AUID- ORCID: 0000-0002-4332-0878
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. kqzhouysh@hsc.pku.edu.cn.
+AD  - Department of Prosthodontics, Peking University School and Hospital of 
+      Stomatology, National Center for Stomatology, National Clinical Research Center 
+      for Oral Diseases, National Engineering Research Center of Oral Biomaterials and 
+      Digital Medical Devices, Beijing Key Laboratory of Digital Stomatology and 
+      National Health Commission Key Laboratory of Digital Technology of Stomatology, 
+      Beijing, China. kqzhouysh@hsc.pku.edu.cn.
+FAU - Zhou, Zhongjun
+AU  - Zhou Z
+AUID- ORCID: 0000-0001-7092-8128
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhongjun@hku.hk.
+AD  - School of Biomedical Sciences, LKS Faculty of Medicine, the University of Hong 
+      Kong, Hong Kong, China. zhongjun@hku.hk.
+FAU - Zhu, Lan
+AU  - Zhu L
+AUID- ORCID: 0000-0001-5753-5426
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhu_julie@vip.sina.com.
+AD  - Department of Obstetrics and Gynecology, National Clinical Research Center for 
+      Obstetric and Gynecologic Diseases, State Key Laboratory of Common Mechanism 
+      Research for Major Diseases, Peking Union Medical College Hospital, Chinese 
+      Academy of Medical Sciences and Peking Union Medical College, Beijing, China. 
+      zhu_julie@vip.sina.com.
+FAU - Zhu, Yizhun
+AU  - Zhu Y
+AUID- ORCID: 0000-0001-7700-8041
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. yzzhu@must.edu.mo.
+AD  - School of Pharmacy and R&D Centre for Drug Discovery from Natural Resources, 
+      Macau University of Science and Technology, Macau, China. yzzhu@must.edu.mo.
+FAU - Zhu, Zhiming
+AU  - Zhu Z
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. hbpcms@sina.com.
+AD  - Department of Hypertension and Endocrinology, Daping Hospital, Army Medical 
+      University, Chongqing, China. hbpcms@sina.com.
+FAU - Zhuang, Wenjuan
+AU  - Zhuang W
+AUID- ORCID: 0000-0002-8046-3085
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zh_wenj@163.com.
+AD  - Ningxia Eye Hospital, People's Hospital of Ningxia Hui Autonomous Region, the 
+      Third Affiliated Clinical College of Ningxia Medical University, Yinchuan, China. 
+      zh_wenj@163.com.
+FAU - Zou, Weiguo
+AU  - Zou W
+AUID- ORCID: 0000-0003-2516-0302
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zouwg94@sibcb.ac.cn.
+AD  - Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, 
+      Beijing, China. zouwg94@sibcb.ac.cn.
+FAU - Zhang, Weiqi
+AU  - Zhang W
+AUID- ORCID: 0000-0002-8885-5104
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. zhangwq@big.ac.cn.
+AD  - China National Center for Bioinformation, Beijing Institute of Genomics, Chinese 
+      Academy of Sciences, Beijing, China. zhangwq@big.ac.cn.
+FAU - Pei, Gang
+AU  - Pei G
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. peigang@tongji.edu.cn.
+AD  - The Collaborative Innovation Center for Brain Science, School of Life Sciences 
+      and Technology, Tongji University, Shanghai, China. peigang@tongji.edu.cn.
+FAU - Liu, Guang-Hui
+AU  - Liu GH
+AUID- ORCID: 0000-0001-9289-8177
+AD  - Aging Biomarker Consortium (ABC), Beijing, China. ghliu@ioz.ac.cn.
+AD  - State Key Laboratory of Organ Regeneration and Reconstruction, Institute of 
+      Zoology, Chinese Academy of Sciences, Beijing, China. ghliu@ioz.ac.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250909
+PL  - United States
+TA  - Nat Aging
+JT  - Nature aging
+JID - 101773306
+RN  - 0 (Biomarkers)
+RN  - Chinese people
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Aging/physiology/genetics
+MH  - Biomarkers
+MH  - China/epidemiology
+MH  - East Asian People
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/10 00:28
+MHDA- 2025/09/18 00:31
+CRDT- 2025/09/09 23:22
+PHST- 2025/01/13 00:00 [received]
+PHST- 2025/07/02 00:00 [accepted]
+PHST- 2025/09/18 00:31 [medline]
+PHST- 2025/09/10 00:28 [pubmed]
+PHST- 2025/09/09 23:22 [entrez]
+AID - 10.1038/s43587-025-00935-w [pii]
+AID - 10.1038/s43587-025-00935-w [doi]
+PST - ppublish
+SO  - Nat Aging. 2025 Sep;5(9):1669-1685. doi: 10.1038/s43587-025-00935-w. Epub 2025 
+      Sep 9.

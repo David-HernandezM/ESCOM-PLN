@@ -1,0 +1,282 @@
+PMID- 28794054
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171019
+LR  - 20250911
+IS  - 1524-4571 (Electronic)
+IS  - 0009-7330 (Print)
+IS  - 0009-7330 (Linking)
+VI  - 121
+IP  - 9
+DP  - 2017 Oct 13
+TI  - Cardiovascular Event Prediction by Machine Learning: The Multi-Ethnic Study of 
+      Atherosclerosis.
+PG  - 1092-1101
+LID - 10.1161/CIRCRESAHA.117.311312 [doi]
+AB  - RATIONALE: Machine learning may be useful to characterize cardiovascular risk, 
+      predict outcomes, and identify biomarkers in population studies. OBJECTIVE: To 
+      test the ability of random survival forests, a machine learning technique, to 
+      predict 6 cardiovascular outcomes in comparison to standard cardiovascular risk 
+      scores. METHODS AND RESULTS: We included participants from the MESA (Multi-Ethnic 
+      Study of Atherosclerosis). Baseline measurements were used to predict 
+      cardiovascular outcomes over 12 years of follow-up. MESA was designed to study 
+      progression of subclinical disease to cardiovascular events where participants 
+      were initially free of cardiovascular disease. All 6814 participants from MESA, 
+      aged 45 to 84 years, from 4 ethnicities, and 6 centers across the United States 
+      were included. Seven-hundred thirty-five variables from imaging and noninvasive 
+      tests, questionnaires, and biomarker panels were obtained. We used the random 
+      survival forests technique to identify the top-20 predictors of each outcome. 
+      Imaging, electrocardiography, and serum biomarkers featured heavily on the top-20 
+      lists as opposed to traditional cardiovascular risk factors. Age was the most 
+      important predictor for all-cause mortality. Fasting glucose levels and carotid 
+      ultrasonography measures were important predictors of stroke. Coronary Artery 
+      Calcium score was the most important predictor of coronary heart disease and all 
+      atherosclerotic cardiovascular disease combined outcomes. Left ventricular 
+      structure and function and cardiac troponin-T were among the top predictors for 
+      incident heart failure. Creatinine, age, and ankle-brachial index were among the 
+      top predictors of atrial fibrillation. TNF-α (tissue necrosis factor-α) and IL 
+      (interleukin)-2 soluble receptors and NT-proBNP (N-Terminal Pro-B-Type 
+      Natriuretic Peptide) levels were important across all outcomes. The random 
+      survival forests technique performed better than established risk scores with 
+      increased prediction accuracy (decreased Brier score by 10%-25%). CONCLUSIONS: 
+      Machine learning in conjunction with deep phenotyping improves prediction 
+      accuracy in cardiovascular event prediction in an initially asymptomatic 
+      population. These methods may lead to greater insights on subclinical disease 
+      markers without apriori assumptions of causality. CLINICAL TRIAL REGISTRATION: 
+      URL: http://www.clinicaltrials.gov. Unique identifier: NCT00005487.
+CI  - © 2017 American Heart Association, Inc.
+FAU - Ambale-Venkatesh, Bharath
+AU  - Ambale-Venkatesh B
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Yang, Xiaoying
+AU  - Yang X
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Wu, Colin O
+AU  - Wu CO
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Liu, Kiang
+AU  - Liu K
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Hundley, W Gregory
+AU  - Hundley WG
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - McClelland, Robyn
+AU  - McClelland R
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Gomes, Antoinette S
+AU  - Gomes AS
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Folsom, Aaron R
+AU  - Folsom AR
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Shea, Steven
+AU  - Shea S
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Guallar, Eliseo
+AU  - Guallar E
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Bluemke, David A
+AU  - Bluemke DA
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.).
+FAU - Lima, João A C
+AU  - Lima JAC
+AD  - From the Department of Radiology (B.A.-V.), Bloomberg School of Public Health 
+      (E.G.), and Department of Medicine, Cardiology and Radiology (J.A.C.L.), Johns 
+      Hopkins University, Baltimore, MD; George Washington University, DC (X.Y.); 
+      Office of Biostatistics, NHLBI, NIH, Bethesda, MD (C.O.W.); Department of 
+      Preventive Medicine, Northwestern University Medical School, Chicago, IL (K.L.); 
+      Department of Cardiology, Wake Forest University Health Sciences, Winston-Salem, 
+      NC (W.G.H.); Department of Biostatistics, University of Washington, Seattle 
+      (R.M.); Department of Radiology, UCLA School of Medicine, Los Angeles, CA 
+      (A.S.G.); Division of Epidemiology and Community Health, University of Minnesota, 
+      Minneapolis (A.R.F.); Departments of Medicine and Epidemiology, Columbia 
+      University, New York, NY (S.S.); and Radiology and Imaging Sciences, NIH Clinical 
+      Center, Bethesda, MD (D.A.B.). jlima@jhmi.edu.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00005487
+GR  - R01 HL066075/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095161/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095168/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095167/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095159/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095163/HL/NHLBI NIH HHS/United States
+GR  - UL1 TR000040/TR/NCATS NIH HHS/United States
+GR  - N01 HC095166/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095162/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095160/HL/NHLBI NIH HHS/United States
+GR  - UL1 TR001079/TR/NCATS NIH HHS/United States
+GR  - N01 HC095169/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095165/HL/NHLBI NIH HHS/United States
+GR  - N01 HC095164/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+DEP - 20170809
+PL  - United States
+TA  - Circ Res
+JT  - Circulation research
+JID - 0047103
+SB  - IM
+CIN - Circ Res. 2017 Oct 13;121(9):1032-1033. doi: 10.1161/CIRCRESAHA.117.311868. PMID: 
+      29025755
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Atherosclerosis/diagnostic imaging/ethnology/mortality
+MH  - *Cardiovascular Diseases/diagnostic imaging/ethnology/mortality
+MH  - Cohort Studies
+MH  - *Ethnicity
+MH  - Follow-Up Studies
+MH  - *Machine Learning/trends
+MH  - Predictive Value of Tests
+MH  - Survival Rate/trends
+PMC - PMC5640485
+MID - NIHMS899335
+OTO - NOTNLM
+OT  - atrial fibrillation
+OT  - cardiovascular disease
+OT  - coronary heart disease
+OT  - heart failure
+OT  - machine learning
+OT  - mortality
+OT  - stroke
+EDAT- 2017/08/11 06:00
+MHDA- 2017/10/20 06:00
+PMCR- 2018/10/13
+CRDT- 2017/08/11 06:00
+PHST- 2017/05/09 00:00 [received]
+PHST- 2017/07/28 00:00 [revised]
+PHST- 2017/08/09 00:00 [accepted]
+PHST- 2017/08/11 06:00 [pubmed]
+PHST- 2017/10/20 06:00 [medline]
+PHST- 2017/08/11 06:00 [entrez]
+PHST- 2018/10/13 00:00 [pmc-release]
+AID - CIRCRESAHA.117.311312 [pii]
+AID - 10.1161/CIRCRESAHA.117.311312 [doi]
+PST - ppublish
+SO  - Circ Res. 2017 Oct 13;121(9):1092-1101. doi: 10.1161/CIRCRESAHA.117.311312. Epub 
+      2017 Aug 9.

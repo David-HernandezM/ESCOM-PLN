@@ -1,0 +1,108 @@
+PMID- 40976658
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2025 Sep 21
+TI  - Protocol for a prospective cohort study in Southwest China assessing the 
+      effectiveness and safety of lacosamide monotherapy in paediatric epilepsy 
+      patients aged ≤16 years.
+PG  - e097493
+LID - 10.1136/bmjopen-2024-097493 [doi]
+AB  - INTRODUCTION: Epilepsy ranks as one of the most prevalent neurological disorders, 
+      with poorly controlled seizures imposing a significant disease burden. 
+      Subclinical epileptiform discharges (SEDs) have been linked to cognitive and 
+      behavioural impairments in children. There is a growing trend in clinical 
+      practices towards increased use of antiseizure medications (ASMs), as they have 
+      the potential to alleviate the impact of SEDs in children. Nonetheless, 25-30% of 
+      epilepsy patients do not respond to current antiepileptic treatments. Lacosamide 
+      (LCM), a third-generation ASM, has demonstrated established efficacy and 
+      tolerability in both adults and children with epilepsy. However, there is a 
+      scarcity of studies on LCM as a monotherapy for paediatric patients with epilepsy 
+      and SEDs. This study aims to assess the efficacy and safety of LCM monotherapy in 
+      epilepsy patients, as well as to examine the impact of LCM on patients with SED. 
+      METHODS: This prospective cohort study, conducted at a single centre and 
+      employing an open-label approach, aims to administer LCM antiepileptic treatment 
+      to children while taking into account their seizure profiles, 
+      electroencephalogram results, cognitive development and other relevant factors. 
+      The index date, marking the administration of the first LCM dose, defines the 
+      beginning of the study. The baseline period encompasses the 3 months leading up 
+      to the index date, and each child will be monitored until the addition, switch or 
+      discontinuation of study drugs, death, completion of a full 1-year follow-up or 
+      the conclusion of the study period. Assessments will be conducted every 3 months 
+      throughout the follow-up period. ETHICS AND DISSEMINATION: This study received 
+      approval from the Ethics Committee of the Children's Hospital Affiliated with 
+      Chongqing Medical University (file number: 2024-210), and all participating sites 
+      have obtained the necessary approvals. This study has been registered with the 
+      Chinese Clinical Trial Registry. Written informed consent will be sought from the 
+      parents or guardians of potential participants under 16 years of age at the 
+      outpatient clinic. Additionally, older children with normal cognitive function 
+      will be asked to provide their own version of written informed consent. 
+      Participation in the study is voluntary, and individuals or their 
+      parents/guardians who choose not to provide consent will not be included in the 
+      study. TRIAL REGISTRATION NUMBER: ChiCTR2400092710.
+CI  - © Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ Group.
+FAU - Wang, Jiayi
+AU  - Wang J
+AUID- ORCID: 0009-0007-2931-5224
+AD  - Department of Rehabilitation, Children's Hospital of Chongqing Medical 
+      University, Chongqing, China.
+FAU - Liu, Tailin
+AU  - Liu T
+AD  - Department of Rehabilitation, Children's Hospital of Chongqing Medical 
+      University, Chongqing, China.
+FAU - Liu, Jing
+AU  - Liu J
+AD  - Department of Rehabilitation, Children's Hospital of Chongqing Medical 
+      University, Chongqing, China.
+FAU - Xiao, Nong
+AU  - Xiao N
+AUID- ORCID: 0000-0002-5770-4135
+AD  - Department of Rehabilitation, Children's Hospital of Chongqing Medical 
+      University, Chongqing, China xiaonongwl@163.com.
+LA  - eng
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+RN  - 563KS2PQY5 (Lacosamide)
+RN  - 0 (Anticonvulsants)
+SB  - IM
+MH  - Humans
+MH  - *Lacosamide/therapeutic use/adverse effects/administration & dosage
+MH  - *Anticonvulsants/therapeutic use/adverse effects/administration & dosage
+MH  - Child
+MH  - *Epilepsy/drug therapy
+MH  - Prospective Studies
+MH  - China
+MH  - Adolescent
+MH  - Child, Preschool
+MH  - Male
+MH  - Female
+MH  - Electroencephalography
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Electroencephalography
+OT  - Epilepsy
+OT  - Paediatric neurology
+OT  - Quality of Life
+OT  - Research Design
+COIS- Competing interests: None declared.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:31
+CRDT- 2025/09/21 21:53
+PHST- 2025/09/22 00:31 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 21:53 [entrez]
+AID - bmjopen-2024-097493 [pii]
+AID - 10.1136/bmjopen-2024-097493 [doi]
+PST - epublish
+SO  - BMJ Open. 2025 Sep 21;15(9):e097493. doi: 10.1136/bmjopen-2024-097493.

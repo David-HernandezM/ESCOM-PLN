@@ -1,0 +1,176 @@
+PMID- 40976838
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 1552-5279 (Electronic)
+IS  - 1552-5260 (Print)
+IS  - 1552-5260 (Linking)
+VI  - 21
+IP  - 9
+DP  - 2025 Sep
+TI  - Combining Lumipulse p-tau217 and Aβ42/40 as confirmatory tests for Aβ positivity 
+      prior to disease-modifying therapy.
+PG  - e70707
+LID - 10.1002/alz.70707 [doi]
+LID - e70707
+AB  - INTRODUCTION: For a blood-based biomarker to be considered a confirmatory test 
+      for the detection of abnormal amyloid beta (Aβ) levels, the sensitivity and 
+      specificity must be equivalent to that of current cerebrospinal fluid tests. 
+      METHODS: In the current study we assessed the ability of phosphorylated tau 
+      (p-tau)217 and Aβ42/40 from the Lumipulse G p-tau217 and β-amyloid ratio 
+      (1-42/1-40) tests, individually and combined, to predict Aβ positron emission 
+      tomography status in two sub-cohorts from the Australian Imaging, Biomarkers, and 
+      Lifestyle Study of Ageing. RESULTS: Testing an Alzheimer's disease continuum 
+      cohort, the area under the curve (AUC), sensitivity, specificity, and accuracy 
+      for the p-tau217/Aβ42 ratio reached 0.961, 93%, 92%, and 93%, respectively. 
+      Validation in an intention-to-treat cohort demonstrated similar AUC (0.959), with 
+      increased sensitivity (99%), decreased specificity (87%), and increased accuracy 
+      (95%). Dual cut-offs generating balanced 95% sensitivity/specificity result in 
+      93% accuracy. DISCUSSION: Combinations of plasma p-tau217 and Aβ42 demonstrate 
+      recommended performance, confirming the presence of Aβ positivity prior to 
+      selection for disease-modifying therapies. HIGHLIGHTS: The phosphorylated tau 
+      (p-tau)217/amyloid beta (Aβ)42 ratio had high performance to detect Aβ positron 
+      emission tomography (PET) status, with > 90% sensitivity, specificity, and 
+      accuracy. p-tau217/Aβ42 ratio dual cut-offs set at 95% sensitivity and 
+      specificity found 10% to 15% of participants in the intermediate zone. Cut-offs 
+      derived for the intention-to-treat cohort meet confirmatory assay criteria for a 
+      disease-modifying therapy and can be used in clinical settings.
+CI  - © 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+      on behalf of Alzheimer's Association.
+FAU - Doecke, James D
+AU  - Doecke JD
+AD  - Australian E-Health Research Centre, CSIRO, Brisbane, Australia.
+AD  - School of Medical and Health Sciences, Edith Cowan University, Joondalup, Western 
+      Australia, Australia.
+FAU - Chenna, Ahmed
+AU  - Chenna A
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+FAU - Lo, Mintzu
+AU  - Lo M
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+FAU - Badal, Youssouf
+AU  - Badal Y
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+FAU - Yee, Brandon
+AU  - Yee B
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+FAU - Martone, Robert
+AU  - Martone R
+AD  - Labcorp Drug Development, Indianapolis, Indiana, USA.
+FAU - Petropoulos, Christos
+AU  - Petropoulos C
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+FAU - Fowler, Christopher J
+AU  - Fowler CJ
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+FAU - Laws, Simon
+AU  - Laws S
+AD  - Centre for Precision Health, Edith Cowan University, Joondalup, Western 
+      Australia, Australia.
+FAU - Rainey-Smith, Stephanie R
+AU  - Rainey-Smith SR
+AD  - School of Medical and Health Sciences, Edith Cowan University, Joondalup, Western 
+      Australia, Australia.
+AD  - Centre for Healthy Ageing, Health Futures Institute, Murdoch University, Murdoch, 
+      Western Australia, Australia.
+AD  - Alzheimer's Research Australia, Sarich Neuroscience Research Institute, Nedlands, 
+      Western Australia, Australia.
+AD  - School of Psychological Science, University of Western Australia, Crawley, 
+      Western Australia, Australia.
+FAU - Martins, Ralph N
+AU  - Martins RN
+AD  - Centre for Healthy Ageing, Health Futures Institute, Murdoch University, Murdoch, 
+      Western Australia, Australia.
+AD  - Department of Biomedical Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Rowe, Christopher C
+AU  - Rowe CC
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+AD  - Department of Molecular Imaging & Therapy and Centre for PET, Austin Health, 
+      Heidelberg, Victoria, Australia.
+FAU - Masters, Colin L
+AU  - Masters CL
+AD  - The Florey Institute of Neuroscience and Mental Health, Parkville, Victoria, 
+      Australia.
+FAU - Winslow, John
+AU  - Winslow J
+AUID- ORCID: 0000-0003-2701-2493
+AD  - Labcorp-Monogram Biosciences, South San Francisco, California, USA.
+LA  - eng
+GR  - Commonwealth Scientific and Industrial Research Organisation (CSIRO)/
+GR  - National Health and Medical Research Council (NHMRC)/
+GR  - AIBL researchers/
+GR  - Labcorp/
+PT  - Journal Article
+PL  - United States
+TA  - Alzheimers Dement
+JT  - Alzheimer's & dementia : the journal of the Alzheimer's Association
+JID - 101231978
+RN  - 0 (Amyloid beta-Peptides)
+RN  - 0 (tau Proteins)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (Biomarkers)
+RN  - 0 (amyloid beta-protein (1-42))
+RN  - 0 (amyloid beta-protein (1-40))
+RN  - 0 (MAPT protein, human)
+SB  - IM
+MH  - Humans
+MH  - *Amyloid beta-Peptides/blood
+MH  - *tau Proteins/blood
+MH  - Male
+MH  - *Alzheimer Disease/blood/diagnostic imaging/diagnosis
+MH  - Positron-Emission Tomography
+MH  - Female
+MH  - *Peptide Fragments/blood
+MH  - Aged
+MH  - Biomarkers/blood
+MH  - Phosphorylation
+MH  - Sensitivity and Specificity
+MH  - Cohort Studies
+MH  - Middle Aged
+MH  - Aged, 80 and over
+PMC - PMC12450607
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - Centiloid
+OT  - amyloid beta
+OT  - cognitively unimpaired
+OT  - plasma biomarker
+OT  - prediction
+COIS- Christopher J. Fowler has no conflicts of interest. Ahmed Chenna, Mintzu Lo, 
+      Youssouf Badal, Brandon Yee, Robert Martone, John Winslow, and Christos 
+      Petropoulos are employees of Labcorp. Ahmed Chenna, Mintzu Lo, Robert Martone, 
+      John Winslow, and Christos Petropoulos have stock options in Labcorp. Ahmed 
+      Chenna, Robert Martone and John Winslow have received travel support for 
+      attending meetings from Labcorp. John Winslow has issued patents but not related 
+      to this work. James D. Doecke has received funding from Roche. Christopher C. 
+      Rowe has received funding/support from Eisai Australia, Lilly Australia, Novo 
+      Nordisk, Cerveau, Australian Dementia Network, and Prothena. Stephanie R. 
+      Rainey‐Smith has received funding/support from Mature Adults Learning 
+      Association, CogSleep, Alzheimer's Association, Australian Imaging, Lifestyle 
+      study of aging. Simon Laws participates on the External Research Advisory board 
+      for the Centre for Precision Health, the Scientific Advisory Board for Cytox 
+      Ltd., and the External Advisory Board for the Perron Institute. Simon Laws sits 
+      on the Steering Management Committee for the Centre for Precision Health, and the 
+      Scientific Management Committee for AIBL. Colin L. Masters reports ad hoc 
+      consultancy engagements and scientific advice with Actinogen, Acumen, Alterity, 
+      Biogen, Eisai, Eli ‐Lilly, Roche, and Beckman Coulter. Ralph N. Martins reports 
+      grants from CAA Consortium, Biogen, and Alnylam.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:31
+PMCR- 2025/09/21
+CRDT- 2025/09/21 23:15
+PHST- 2025/08/19 00:00 [revised]
+PHST- 2025/04/02 00:00 [received]
+PHST- 2025/08/21 00:00 [accepted]
+PHST- 2025/09/22 00:31 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 23:15 [entrez]
+PHST- 2025/09/21 00:00 [pmc-release]
+AID - ALZ70707 [pii]
+AID - 10.1002/alz.70707 [doi]
+PST - ppublish
+SO  - Alzheimers Dement. 2025 Sep;21(9):e70707. doi: 10.1002/alz.70707.

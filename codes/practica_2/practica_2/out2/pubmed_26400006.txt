@@ -1,0 +1,87 @@
+PMID- 26400006
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160224
+LR  - 20220408
+IS  - 1542-6270 (Electronic)
+IS  - 1060-0280 (Linking)
+VI  - 49
+IP  - 12
+DP  - 2015 Dec
+TI  - Association Between Prenatal Acetaminophen Exposure and Future Risk of Attention 
+      Deficit/Hyperactivity Disorder in Children.
+PG  - 1357-61
+LID - 10.1177/1060028015606469 [doi]
+AB  - OBJECTIVE: To evaluate the effect of prenatal acetaminophen exposure on the 
+      future development of attention deficit/hyperactivity disorder (ADHD) in 
+      children. DATA SOURCES: Literature searches of MEDLINE (1975 to June 2015), 
+      International Pharmaceutical Abstracts (1975 to June 2015), and Cochrane Database 
+      (publications through June 2015) for prospective clinical trials assessing the 
+      relationship of prenatal acetaminophen exposure and the development of attention 
+      deficit disorders or hyperactivity. STUDY SELECTION AND DATA EXTRACTION: Studies 
+      comparing self-reported maternal acetaminophen use during pregnancy to 
+      development of ADHD or ADHD-like behaviors in offspring between the ages of 3 and 
+      12 years. DATA SYNTHESIS: Four studies examining the effects of prenatal 
+      acetaminophen exposure on subsequent ADHD behaviors were identified. Of these, 
+      one early study found no link to ADHD behaviors while the other studies found 
+      statistically significant correlations with the most prominent being a study 
+      finding a higher risk for using ADHD medications (hazard ratio = 1.29; 95% CI, 
+      1.15-1.44) or having ADHD-like behaviors at age 7 years as determined by the 
+      Strengths and Difficulties Questionnaire (risk ratio = 1.13; 95% CI, 1.01-1.27) 
+      in children whose mothers used acetaminophen during pregnancy. CONCLUSION: While 
+      there does appear to be a mild correlation between prenatal acetaminophen use and 
+      the development of ADHD symptoms in children, current data do not provide 
+      sufficient evidence that prenatal acetaminophen exposure leads to development of 
+      ADHD symptoms late in life. Acetaminophen is a preferred option for pain 
+      management during pregnancy when compared with other medications such as 
+      nonsteroidal anti-inflammatory drugs or opioids for pyretic or pain relief.
+CI  - © The Author(s) 2015.
+FAU - Hoover, Rebecca M
+AU  - Hoover RM
+AD  - College of Pharmacy, Idaho State University, Pocatello, ID, USA 
+      rhoover@pharmacy.isu.edu.
+FAU - Hayes, V Autumn Gombert
+AU  - Hayes VA
+AD  - College of Pharmacy, Idaho State University, Pocatello, ID, USA.
+FAU - Erramouspe, John
+AU  - Erramouspe J
+AD  - College of Pharmacy, Idaho State University, Pocatello, ID, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20150923
+PL  - United States
+TA  - Ann Pharmacother
+JT  - The Annals of pharmacotherapy
+JID - 9203131
+RN  - 0 (Analgesics)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Acetaminophen/*adverse effects
+MH  - Analgesics/*adverse effects
+MH  - Attention
+MH  - Attention Deficit Disorder with Hyperactivity/*etiology/psychology
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Humans
+MH  - *Maternal Exposure
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*etiology/psychology
+MH  - Risk
+MH  - Surveys and Questionnaires
+OTO - NOTNLM
+OT  - acetaminophen
+OT  - attention deficit/hyperactivity disorder
+OT  - pregnancy
+EDAT- 2015/09/25 06:00
+MHDA- 2016/02/26 06:00
+CRDT- 2015/09/25 06:00
+PHST- 2015/09/25 06:00 [entrez]
+PHST- 2015/09/25 06:00 [pubmed]
+PHST- 2016/02/26 06:00 [medline]
+AID - 1060028015606469 [pii]
+AID - 10.1177/1060028015606469 [doi]
+PST - ppublish
+SO  - Ann Pharmacother. 2015 Dec;49(12):1357-61. doi: 10.1177/1060028015606469. Epub 
+      2015 Sep 23.

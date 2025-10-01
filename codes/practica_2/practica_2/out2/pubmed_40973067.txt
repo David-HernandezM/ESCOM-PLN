@@ -1,0 +1,144 @@
+PMID- 40973067
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250922
+IS  - 1526-2359 (Electronic)
+IS  - 1073-2748 (Print)
+IS  - 1073-2748 (Linking)
+VI  - 32
+DP  - 2025 Jan-Dec
+TI  - Adverse Events of Immune Checkpoint Inhibitors in Cancer Patients with Comorbid 
+      Diabetes: A Real-World Pharmacovigilance Analysis of the FDA Adverse Event 
+      Reporting System Database (2011-2025).
+PG  - 10732748251381428
+LID - 10.1177/10732748251381428 [doi]
+LID - 10732748251381428
+AB  - IntroductionImmune checkpoint inhibitors (ICIs) have redefined cancer 
+      therapeutics. However, they may provoke immune-related adverse events (irAEs), 
+      with diabetes potentially altering their patterns. We aimed to investigate 
+      whether diabetic cancer patients exhibit a distinctive or intensified irAE 
+      pattern.MethodsWe performed a real-world, retrospective pharmacovigilance study 
+      of ICIs using the FDA Adverse Event Reporting System from 2011 to 2025. Reports 
+      listing anti-PD-1 (Nivolumab, Pembrolizumab, Cemiplimab), anti-PD-L1 
+      (Atezolizumab, Avelumab, Durvalumab), and anti-CTLA-4 (Ipilimumab, Tremelimumab) 
+      agents as suspected drugs were extracted. Disproportionality signals were 
+      identified with 4 algorithms: Bayesian Confidence Propagation Neural Network, 
+      Reporting Odds Ratio, Proportional Reporting Ratio, and Multi-item Gamma Poisson 
+      Shrinker. Time-to-onset was calculated from therapy start to event date, modelled 
+      with Weibull distributions, and compared across subgroups with non-parametric 
+      tests.ResultsOf 22,775,812 FAERS reports, 1886 involved ICIs used in cancer 
+      patients with comorbid diabetes. 423 (22.4 %) were fatal and 1463 (77.6 %) 
+      non-fatal. Men predominated (71.5 %), and 63.0 % of patients were aged 
+      65-85 years. Combination therapy (anti-CTLA-4 plus PD-1 or PD-L1) accounted for 
+      the highest death proportion (29.6 %). Disproportionality analysis revealed the 
+      strongest preferred-term signals for pneumonitis/interstitial lung disease, 
+      hypothyroidism, and colitis among all diabetic cancer patients receiving ICI 
+      therapy. At the system-organ-class level, endocrine, hepatobiliary, and 
+      blood/lymphatic disorders showed the most consistent risk across agents. Weibull 
+      modelling demonstrated an early-failure pattern (shape β < 1) with a median 
+      time-to-onset of 126.6 days overall, shortening to 90.9 days with combination 
+      therapy. Fatal subgroup occurred sooner than non-fatal subgroup (median 106.7 vs 
+      132.5 days; P = 0.004).ConclusionDiabetic cancer patients experienced the full 
+      spectrum of ICI-associated toxicities, with combination treatments linked to 
+      greater lethality. Multidisciplinary surveillance during the first 3-4 months of 
+      therapy, glycemic control, and long-term follow-up may be essential to optimize 
+      benefit and minimize harm in this expanding population.
+FAU - Yang, Minxia
+AU  - Yang M
+AD  - Department of Radiology, Shaoxing People's Hospital, Key Laboratory of Functional 
+      Molecular Imaging of Tumor and Interventional Diagnosis and Treatment of Shaoxing 
+      City, Shaoxing, China.
+FAU - Qiu, Di
+AU  - Qiu D
+AD  - Department of Hematology, Zhuji Affiliated Hospital of Wenzhou Medical 
+      University, Shaoxing, China. RINGGOLD: 74784
+FAU - Huang, Minguang
+AU  - Huang M
+AD  - Department of Radiation Oncology, Zhuji Affiliated Hospital of Wenzhou Medical 
+      University, Shaoxing, China. RINGGOLD: 74784
+FAU - Yu, Shengjian
+AU  - Yu S
+AD  - Department of Radiation Oncology, Zhuji Affiliated Hospital of Wenzhou Medical 
+      University, Shaoxing, China. RINGGOLD: 74784
+FAU - Xuan, Feng
+AU  - Xuan F
+AUID- ORCID: 0009-0001-5079-4385
+AD  - Department of Radiation Oncology, Zhuji Affiliated Hospital of Wenzhou Medical 
+      University, Shaoxing, China. RINGGOLD: 74784
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cancer Control
+JT  - Cancer control : journal of the Moffitt Cancer Center
+JID - 9438457
+RN  - 0 (Immune Checkpoint Inhibitors)
+SB  - IM
+MH  - Humans
+MH  - Pharmacovigilance
+MH  - *Neoplasms/drug therapy/epidemiology/immunology
+MH  - *Immune Checkpoint Inhibitors/adverse effects
+MH  - Male
+MH  - United States/epidemiology
+MH  - Retrospective Studies
+MH  - Female
+MH  - *Adverse Drug Reaction Reporting Systems/statistics & numerical data
+MH  - Aged
+MH  - United States Food and Drug Administration/statistics & numerical data
+MH  - Middle Aged
+MH  - *Diabetes Mellitus/epidemiology
+MH  - Comorbidity
+MH  - Databases, Factual
+MH  - Aged, 80 and over
+MH  - Adult
+MH  - *Drug-Related Side Effects and Adverse Reactions/epidemiology
+PMC - PMC12449653
+OAB - Why was the study done?Immune checkpoint inhibitors (ICIs) are effective cancer 
+      treatments but can trigger serious immune-related side effects. Diabetes is very 
+      common among cancer patients and may increase vulnerability to these side 
+      effects, but little is known about how ICIs affect this group. We wanted to 
+      understand whether patients with both cancer and diabetes experience different or 
+      more severe side effects when treated with ICIs.What did the researchers do?We 
+      analyzed more than 22 million reports of drug side effects in the U.S. Food and 
+      Drug Administration’s database between 2011 and 2025. From these, we identified 
+      nearly 1900 reports involving cancer patients with diabetes who were treated with 
+      ICIs. We studied the types of side effects, how quickly they occurred, and how 
+      they differed between patients receiving single drugs vs combination 
+      treatments.What did the researchers find?The most common serious side effects in 
+      diabetic patients included lung inflammation (pneumonitis), thyroid problems, and 
+      bowel inflammation (colitis). Patients receiving 2 ICIs in combination developed 
+      side effects earlier and were more likely to die from them than those receiving 
+      single drugs. More than half of patients needed hospitalization, and about 1 in 5 
+      cases reported in the database were fatal. Overall, diabetic patients experienced 
+      the same range of side effects as other patients, but serious events occurred 
+      sooner.What do the findings mean?These results suggest that cancer patients with 
+      diabetes need especially close monitoring when treated with ICIs, particularly in 
+      the first 3-4 months of therapy and when receiving combination immunotherapy. 
+      Regular checks of blood sugar, thyroid and liver function, and attention to lung 
+      and digestive symptoms are essential. Involving diabetes specialists early may 
+      help prevent complications. As more people worldwide are living with both cancer 
+      and diabetes, our findings highlight the importance of tailored care strategies 
+      to ensure patients benefit from immunotherapy while staying safe.
+OABL- eng
+OTO - NOTNLM
+OT  - diabetes
+OT  - disproportionality analysis
+OT  - food and drug administration adverse event reporting system
+OT  - immune checkpoint inhibitors
+OT  - immune-related adverse events
+COIS- Declaration of Conflicting InterestsThe authors confirm the absence of any 
+      competing interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:32
+PMCR- 2025/09/19
+CRDT- 2025/09/19 19:46
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:46 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1177_10732748251381428 [pii]
+AID - 10.1177/10732748251381428 [doi]
+PST - ppublish
+SO  - Cancer Control. 2025 Jan-Dec;32:10732748251381428. doi: 
+      10.1177/10732748251381428. Epub 2025 Sep 19.

@@ -1,0 +1,135 @@
+PMID- 40975037
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 15
+TI  - Nordihydroguaiaretic acid (NDGA) exhibits potent anti-biofilm and antimicrobial 
+      activity against methicillin-resistant Staphylococcus aureus and Candida 
+      albicans.
+PG  - 157265
+LID - S0944-7113(25)00904-3 [pii]
+LID - 10.1016/j.phymed.2025.157265 [doi]
+AB  - INTRODUCTION: The global rise of antimicrobial resistance (AMR), particularly 
+      among biofilm-forming bacteria and fungi, has created an urgent need for novel 
+      therapeutics. Nordihydroguaiaretic acid (NDGA), a plant-derived polyphenolic 
+      lignan, has demonstrated promising biological activities, yet its potential as a 
+      dual-action antimicrobial agent remains underexplored. OBJECTIVES: This study 
+      aimed to evaluate the antimicrobial and anti-biofilm activities of NDGA against 
+      methicillin-resistant Staphylococcus aureus (MRSA) and Candida albicans, 
+      elucidate its mechanism of action, and assess its in vivo efficacy and biosafety. 
+      MATERIALS AND METHODS: NDGA's antimicrobial activities were assessed through MIC, 
+      time-kill, and biofilm disruption assays against standard and clinical isolates. 
+      Transcriptomic profiling and deep-learning-guided molecular docking were used to 
+      identify key microbial targets and regulatory pathways. In vivo efficacy was 
+      validated in Galleria mellonella and murine systemic infection models. 
+      Cytotoxicity, hemolysis, and acute toxicity assays were conducted to evaluate 
+      biosafety. RESULTS: NDGA exhibited potent antimicrobial activity, with MIC values 
+      of 32 μg/ml for S. aureus USA300 and 64 μg/ml for C. albicans SC5314. It 
+      effectively eradicated persister cells and disrupting mature biofilms of both 
+      MRSA and C. albicans. Transcriptomic analysis revealed that NDGA modulated 
+      multiple microbial virulence and biofilm-regulating pathways, including arginine 
+      biosynthesis in MRSA and ergosterol metabolism in C. albicans. Docking studies 
+      confirmed strong binding affinity of NDGA to critical microbial targets. In vivo, 
+      NDGA significantly improved survival rates, reduced pathogen burden, and 
+      alleviated tissue damage, showing comparable efficacy to vancomycin and 
+      fluconazole. NDGA demonstrated favorable biosafety with low cytotoxicity, minimal 
+      hemolysis, and no observable acute toxicity in mammalian models. CONCLUSION: NDGA 
+      is a promising antimicrobial candidate capable of disrupting biofilms and 
+      overcoming drug resistance in both bacterial and fungal infections. Its 
+      multitargeted mode of action, coupled with in vivo efficacy and biosafety, 
+      supports further development as a next-generation anti-infective agent.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Fan, Xiangcheng
+AU  - Fan X
+AD  - Department of Pharmacy, Center for Membrane Receptor and Brain Medicine, The 
+      Fourth Affiliated Hospital of School of Medicine, and International School of 
+      Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China; Center for Innovative Traditional Chinese Medicine Target and New 
+      Drug Research, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China.
+FAU - Dai, Chunyan
+AU  - Dai C
+AD  - Department of Pathology, The Fourth Affiliated Hospital of School of Medicine, 
+      and International School of Medicine, International Institutes of Medicine, 
+      Zhejiang University, Yiwu, 322000, China.
+FAU - Han, Jichun
+AU  - Han J
+AD  - College of Traditional Chinese Medicine, Binzhou Medical University, Yantai, 
+      264003, China.
+FAU - Lou, Shengying
+AU  - Lou S
+AD  - Department of Pharmacy, Center for Membrane Receptor and Brain Medicine, The 
+      Fourth Affiliated Hospital of School of Medicine, and International School of 
+      Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China.
+FAU - Zhang, Ningjun
+AU  - Zhang N
+AD  - Department of Pharmacy, Center for Membrane Receptor and Brain Medicine, The 
+      Fourth Affiliated Hospital of School of Medicine, and International School of 
+      Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China; Center for Innovative Traditional Chinese Medicine Target and New 
+      Drug Research, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China.
+FAU - He, Minyang
+AU  - He M
+AD  - Department of Gastroenterology, The Fourth Affiliated Hospital of School of 
+      Medicine, and International School of Medicine, International Institutes of 
+      Medicine, Zhejiang University, Yiwu, 322000, China.
+FAU - Zhu, Zhiqiang
+AU  - Zhu Z
+AD  - Department of Clinical Laboratory, The Fourth Affiliated Hospital, Zhejiang 
+      University School of Medicine, Zhejiang University, Yiwu, 322000, China.
+FAU - Li, Peng
+AU  - Li P
+AD  - College of Basic Sciences, Shanxi Agricultural University, 1 Mingxian South Road, 
+      Taigu District, Jinzhong, 030801, China. Electronic address: lip@sxau.edu.cn.
+FAU - Chen, Xingru
+AU  - Chen X
+AD  - Department of Pharmacy, Center for Membrane Receptor and Brain Medicine, The 
+      Fourth Affiliated Hospital of School of Medicine, and International School of 
+      Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China; Center for Innovative Traditional Chinese Medicine Target and New 
+      Drug Research, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China. Electronic address: chenxingru256@zju.edu.cn.
+FAU - Xu, Xiaojun
+AU  - Xu X
+AD  - Department of Pharmacy, Center for Membrane Receptor and Brain Medicine, The 
+      Fourth Affiliated Hospital of School of Medicine, and International School of 
+      Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China; Center for Innovative Traditional Chinese Medicine Target and New 
+      Drug Research, International Institutes of Medicine, Zhejiang University, Yiwu, 
+      322000, China. Electronic address: xiaojunxu@zju.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250915
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Antimicrobial
+OT  - Biofilms
+OT  - Candida albicans
+OT  - Methicillin-resistant strains (MRSA)
+OT  - NDGA
+OT  - Staphylococcus aureus
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:13
+PHST- 2025/06/18 00:00 [received]
+PHST- 2025/09/04 00:00 [revised]
+PHST- 2025/09/14 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00904-3 [pii]
+AID - 10.1016/j.phymed.2025.157265 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 15;148:157265. doi: 10.1016/j.phymed.2025.157265.

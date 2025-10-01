@@ -1,0 +1,118 @@
+PMID- 40983050
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1878-1705 (Electronic)
+IS  - 1567-5769 (Linking)
+VI  - 166
+DP  - 2025 Sep 21
+TI  - Identification of ferroptosis-related genes as diagnostic biomarkers and 
+      therapeutic targets in sorafenib-resistant HCC via machine learning and 
+      experimental validation.
+PG  - 115557
+LID - S1567-5769(25)01548-6 [pii]
+LID - 10.1016/j.intimp.2025.115557 [doi]
+AB  - Liver cancer, particularly hepatocellular carcinoma (HCC), remains a significant 
+      health burden with poor survival rates due to late diagnosis and limited 
+      treatment options. Sorafenib, a multi-kinase inhibitor, is the standard 
+      first-line therapy for advanced HCC, but long-term use often leads to drug 
+      resistance. Ferroptosis, an iron-dependent form of regulated cell death, has 
+      emerged as a crucial target in cancer therapy, showing potential to enhance 
+      treatment efficacy and overcome drug resistance. Previous studies have 
+      demonstrated that sorafenib triggers ferroptosis in HCC cells and that 
+      ferroptosis plays a significant role in the development of sorafenib resistance. 
+      However, the intricate interplay between ferroptosis and sorafenib resistance 
+      remains poorly understood, hampering the development of effective therapeutic 
+      strategies. Our study focuses on the intricate interplay between ferroptosis and 
+      sorafenib resistance in HCC. Using the GSE109211 dataset, we identified 
+      differentially expressed ferroptosis-related genes associated with sorafenib 
+      resistance. Notably, these genes stratified sorafenib-resistant HCC patients into 
+      distinct subgroups with different drug sensitivities, immune cell infiltrations, 
+      and responses to chemotherapy and immunotherapy. Through machine learning 
+      algorithms, three hub genes (ECH1, SLC25A28 and ULK1) were identified to be 
+      closely associated with sorafenib resistance. A novel ferroptosis-related 
+      signature comprising these genes emerged as a robust diagnostic model, validated 
+      by ROC curve analysis, for predicting sorafenib resistance in HCC patients. 
+      Furthermore, experimental validation confirmed the upregulation of ECH1, SLC25A28 
+      and ULK1 expressions in sorafenib-resistant HCC cells, with sorafenib treatment 
+      altering their expression profiles. Knockdown of ULK1 in sorafenib-resistant HCC 
+      cells potently enhanced sorafenib-induced ferroptosis, thereby alleviating 
+      sorafenib resistance. Our findings not only identify pivotal ferroptosis-related 
+      genes as diagnostic biomarkers for sorafenib resistance but also provide insights 
+      into the role of ferroptosis in modulating sorafenib responsiveness. This study 
+      offers a promising strategy to overcome sorafenib resistance and improve patient 
+      outcomes in HCC treatment, highlighting the potential of ferroptosis-targeted 
+      therapies in cancer management.
+CI  - Copyright © 2025 Elsevier B.V. All rights reserved.
+FAU - Zhang, Jinrui
+AU  - Zhang J
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China.
+FAU - Geng, Wenhan
+AU  - Geng W
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China.
+FAU - Sun, Haojin
+AU  - Sun H
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China.
+FAU - Chen, Jian
+AU  - Chen J
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China.
+FAU - Fan, Yumei
+AU  - Fan Y
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China. Electronic address: 
+      fanyumei@hebtu.edu.cn.
+FAU - Tan, Ke
+AU  - Tan K
+AD  - Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei 
+      Research Center of the Basic Discipline of Cell Biology, Hebei Collaborative 
+      Innovation Center for Eco-Environment, Hebei Province Key Laboratory of Animal 
+      Physiology, Biochemistry and Molecular Biology, College of Life Sciences, Hebei 
+      Normal University, Shijiazhuang, China. Electronic address: tanke@hebtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250921
+PL  - Netherlands
+TA  - Int Immunopharmacol
+JT  - International immunopharmacology
+JID - 100965259
+SB  - IM
+OTO - NOTNLM
+OT  - diagnosis
+OT  - ferroptosis
+OT  - machine learning algorithms
+OT  - sorafenib resistant
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/22 18:36
+MHDA- 2025/09/22 18:36
+CRDT- 2025/09/22 18:03
+PHST- 2025/01/02 00:00 [received]
+PHST- 2025/09/07 00:00 [revised]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/22 18:36 [medline]
+PHST- 2025/09/22 18:36 [pubmed]
+PHST- 2025/09/22 18:03 [entrez]
+AID - S1567-5769(25)01548-6 [pii]
+AID - 10.1016/j.intimp.2025.115557 [doi]
+PST - aheadofprint
+SO  - Int Immunopharmacol. 2025 Sep 21;166:115557. doi: 10.1016/j.intimp.2025.115557.

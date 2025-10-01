@@ -1,0 +1,94 @@
+PMID- 29084823
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180720
+LR  - 20250530
+IS  - 1477-9137 (Electronic)
+IS  - 0021-9533 (Print)
+IS  - 0021-9533 (Linking)
+VI  - 130
+IP  - 24
+DP  - 2017 Dec 15
+TI  - Phosphorylation of the RNA-binding protein Zfs1 modulates sexual differentiation 
+      in fission yeast.
+PG  - 4144-4154
+LID - 10.1242/jcs.208066 [doi]
+AB  - Sexual differentiation in the fission yeast Schizosaccharomyces pombe promotes 
+      cell cycle arrest and extensive changes in gene expression, resulting in 
+      cell-to-cell fusion, the exchange of hereditary material and specialized cell 
+      division. These events are detrimental to the cell if they are triggered in 
+      inappropriate conditions, and therefore the decision to differentiate must be 
+      precisely controlled. Here, we investigated the role of the RNA-binding protein 
+      Zfs1 in this process by identifying its targets and characterizing novel 
+      post-translational regulatory mechanisms. We found that Zfs1 negatively regulates 
+      the G1 cyclin Puc1, and deregulated Puc1 levels inhibit differentiation in the 
+      zfs1Δ mutant. We also found that Zfs1 undergoes phosphorylation, which is 
+      stimulated upon nitrogen depletion or inhibition of the TOR pathway. 
+      Phosphorylation of Zfs1 modulates accumulation of Puc1 and plays an important 
+      role in the response of the cell to sexual differentiation signals. We propose 
+      that Zfs1 functions as an integrator of nutrient information to modulate sexual 
+      differentiation, contributing to the establishment of the 
+      differentiation-activating threshold.
+CI  - © 2017. Published by The Company of Biologists Ltd.
+FAU - Navarro, Francisco J
+AU  - Navarro FJ
+AUID- ORCID: 0000-0002-9332-0737
+AD  - Cell Cycle Laboratory, The Francis Crick Institute, London NW1 1AT, UK 
+      fjn27@cam.ac.uk.
+FAU - Chakravarty, Probir
+AU  - Chakravarty P
+AD  - Bioinformatics, The Francis Crick Institute, 1 Midland Road, London NW1 1AT, UK.
+FAU - Nurse, Paul
+AU  - Nurse P
+AD  - Cell Cycle Laboratory, The Francis Crick Institute, London NW1 1AT, UK.
+LA  - eng
+GR  - 093917/WT_/Wellcome Trust/United Kingdom
+GR  - FC001121/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+DEP - 20171030
+PL  - England
+TA  - J Cell Sci
+JT  - Journal of cell science
+JID - 0052457
+RN  - 0 (Cell Cycle Proteins)
+RN  - 0 (Cyclins)
+RN  - 0 (Nuclear Proteins)
+RN  - 0 (RNA-Binding Proteins)
+RN  - 0 (Schizosaccharomyces pombe Proteins)
+RN  - 0 (Zfs1 protein, S pombe)
+RN  - 0 (puc1 protein, S pombe)
+SB  - IM
+MH  - Cell Cycle Proteins/genetics
+MH  - Cell Division/genetics
+MH  - Cyclins/*genetics
+MH  - Gene Expression Regulation, Fungal
+MH  - Nuclear Proteins/*genetics
+MH  - Phosphorylation
+MH  - RNA-Binding Proteins
+MH  - Schizosaccharomyces/*genetics/growth & development
+MH  - Schizosaccharomyces pombe Proteins/*genetics
+MH  - Sex Differentiation/*genetics
+PMC - PMC5769579
+OTO - NOTNLM
+OT  - G1 cyclin
+OT  - Puc1
+OT  - RNA-binding proteins
+OT  - Sexual differentiation
+OT  - Zfs1
+COIS- Competing interestsThe authors declare no competing or financial interests.
+EDAT- 2017/11/01 06:00
+MHDA- 2018/07/22 06:00
+PMCR- 2017/12/15
+CRDT- 2017/11/01 06:00
+PHST- 2017/07/03 00:00 [received]
+PHST- 2017/10/24 00:00 [accepted]
+PHST- 2017/11/01 06:00 [pubmed]
+PHST- 2018/07/22 06:00 [medline]
+PHST- 2017/11/01 06:00 [entrez]
+PHST- 2017/12/15 00:00 [pmc-release]
+AID - jcs.208066 [pii]
+AID - JCS208066 [pii]
+AID - 10.1242/jcs.208066 [doi]
+PST - ppublish
+SO  - J Cell Sci. 2017 Dec 15;130(24):4144-4154. doi: 10.1242/jcs.208066. Epub 2017 Oct 
+      30.

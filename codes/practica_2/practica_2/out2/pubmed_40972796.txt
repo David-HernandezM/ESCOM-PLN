@@ -1,0 +1,228 @@
+PMID- 40972796
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1879-3304 (Electronic)
+IS  - 0039-6257 (Linking)
+DP  - 2025 Sep 17
+TI  - Work-up in patients with retinal vasculitis: A systematic review and 
+      meta-analysis: International Uveitis Study Group (IUSG) Retinal Vasculitis Study 
+      (ReViSe) Report 2.
+LID - S0039-6257(25)00175-4 [pii]
+LID - 10.1016/j.survophthal.2025.09.011 [doi]
+AB  - This systematic review and meta-analysis investigate global diagnostic approaches 
+      for retinal vasculitis (RV), with a focus on infectious and non-infectious 
+      causes. As in our prior report, systematic searches were conducted in five 
+      databased and registered in PROSPERO (CRD42023489232). Studies included articles 
+      on at least 10 patients with RV without publication date or language 
+      restrictions. RV was categorized as secondary RV if they were associated with 
+      systemic disease, syndromic if they were associated with a syndromic ocular 
+      disease, involvement without systemic disease, idiopathic RV without association 
+      to systemic or syndromic ocular diseases. This included 84 studies analyzing 
+      3,480 patients with RV. Among infectious causes, tuberculosis tests were 
+      frequently reported, with TST/IGRA positivity observed in 31.4% (95% CI: 
+      17.2-50.2%) of de novo RV cases, increasing to 64.7% (95% CI: 47.8-78.9%) in 
+      confirmed tubercular RV and 65.7% (95% CI: 39.0-85.1%) in Eales disease. Chest 
+      radiograph abnormalities were present in 21.8% (95% CI: 12.9-33.8%) of tubercular 
+      RV cases. Non-infectious causes showed notable regional variability. HLA-B51 
+      positivity was 1% (95% CI: 0.03-3.1%) in de novo RV but rose to 61.4% (95% CI: 
+      23.1-89.4%) in Behçet RV. Sarcoidosis RV revealed noncaseating granulomas in 
+      80.5% (95% CI: 9.7-99.4%), with ACE elevation in 4.6% (95% CI: 2.3-9.1%). This 
+      study highlights significant geographic variability in RV etiologies. 
+      Tuberculosis remains a key infectious cause, while non-infectious causes vary 
+      regionally. Region-specific diagnostics and Bayesian testing protocols are 
+      critical to improving diagnostic accuracy and patient outcomes.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Cifuentes-González, Cifuentes-GonzalezCarlos
+AU  - Cifuentes-González CG
+AD  - National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore; 
+      Programme for Ocular Inflammation & Infection Translational Research, Department 
+      of Ophthalmology, National Healthcare Group Eye Institute, Tan Tock Seng 
+      Hospital, Singapore.
+FAU - Putera, Ikhwanuliman
+AU  - Putera I
+AD  - Department of Ophthalmology, Faculty of Medicine, Universitas Indonesia - Cipto 
+      Mangunkusumo Kirana Eye Hospital, Jakarta, Indonesia; Department of 
+      Ophthalmology, Erasmus University Medical Center, Rotterdam, the Netherlands.
+FAU - Walter, Cheong Fu Yuan
+AU  - Walter CFY
+AD  - Yong Loo Lin School of Medicine, National University of Singapore, Singapore.
+FAU - Mejía-Salgado, Mejia-SalgadoGermán
+AU  - Mejía-Salgado MS
+AD  - Neuroscience (NEUROS) Research Group, Neurovitae Research Center, Institute of 
+      Translational Medicine (IMT). Escuela de Medicina y Ciencias de la Salud, 
+      Universidad del Rosario, Bogotá, Colombia.
+FAU - Le Tong, Yong
+AU  - Le Tong Y
+AD  - Department of Ophthalmology, Faculty of Medicine, Universitas Indonesia - Cipto 
+      Mangunkusumo Kirana Eye Hospital, Jakarta, Indonesia.
+FAU - Chan, Reo
+AU  - Chan R
+AD  - Department of Ophthalmology, Faculty of Medicine, Universitas Indonesia - Cipto 
+      Mangunkusumo Kirana Eye Hospital, Jakarta, Indonesia.
+FAU - Rojas-Carabali, William
+AU  - Rojas-Carabali W
+AD  - National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore; 
+      Programme for Ocular Inflammation & Infection Translational Research, Department 
+      of Ophthalmology, National Healthcare Group Eye Institute, Tan Tock Seng 
+      Hospital, Singapore; Lee Kong Chian School of Medicine, Nanyang Technological 
+      University, Singapore.
+FAU - Song, Xin Ying Rachel
+AU  - Song XYR
+AD  - National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore.
+FAU - Mobasserian, Azadeh
+AU  - Mobasserian A
+AD  - Spencer Center for Vision Research, Byers Eye Institute, Stanford University, 
+      Palo Alto, CA, USA.
+FAU - Nora, Rina La Distia
+AU  - Nora RD
+AD  - Department of Ophthalmology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+FAU - Biswas, Jyotirmay
+AU  - Biswas J
+AD  - Department of Uvea and Ocular Pathology, Sankara Nethralaya, Chennai, Tamil Nadu, 
+      India.
+FAU - Gangaputra, Sapna
+AU  - Gangaputra S
+AD  - Vanderbilt Eye Institute, Vanderbilt University Medical Center, Nashville, TN, 
+      USA.
+FAU - Pulido, Jose S
+AU  - Pulido JS
+AD  - Ocular Oncology Service, Wills Eye Hospital, Sidney Kimmel Medical College of 
+      Thomas Jefferson University, Philadelphia, PA, USA; Bower Laboratory for 
+      Translational Medicine, Vickie and Jack Farber Vision Research Center at Wills 
+      Eye Hospital, Wills Eye Hospital, Philadelphia, PA, USA.
+FAU - Kempen, John H
+AU  - Kempen JH
+AD  - Department of Ophthalmology and Schepens Eye Research Institute, Massachusetts 
+      Eye and Ear Infirmary; and Department of Ophthalmology, Harvard Medical School, 
+      Boston, Massachusetts, USA; Sight for Souls, Bellevue, Washington, USA; MCM Eye 
+      Unit; MyungSung Christian Medical Center (MCM) Comprehensive Specialized Hospital 
+      and MyungSung Medical College, Addis Ababa, Ethiopia; Department of 
+      Ophthalmology, Addis Ababa University School of Medicine, Addis Ababa, Ethiopia.
+FAU - Nguyen, Quan Dong
+AU  - Nguyen QD
+AD  - Spencer Center for Vision Research, Byers Eye Institute, Stanford University, 
+      Palo Alto, CA, USA.
+FAU - de la Torre, Alejandra
+AU  - de la Torre A
+AD  - Neuroscience (NEUROS) Research Group, Neurovitae Research Center, Institute of 
+      Translational Medicine (IMT). Escuela de Medicina y Ciencias de la Salud, 
+      Universidad del Rosario, Bogotá, Colombia.
+FAU - Gupta, Vishali
+AU  - Gupta V
+AD  - Advanced Eye Centre, Post, graduate Institute of Medical Education and Research 
+      (PGIMER), Chandigarh, India.
+FAU - Rosenbaum, James T
+AU  - Rosenbaum JT
+AD  - Legacy Devers Eye Institute, Portland, OR, USA. Electronic address: 
+      Rosenbaumjames04@gmail.com.
+FAU - Agrawal, Rupesh
+AU  - Agrawal R
+AD  - National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore; 
+      Programme for Ocular Inflammation & Infection Translational Research, Department 
+      of Ophthalmology, National Healthcare Group Eye Institute, Tan Tock Seng 
+      Hospital, Singapore; Yong Loo Lin School of Medicine, National University of 
+      Singapore, Singapore; Lee Kong Chian School of Medicine, Nanyang Technological 
+      University, Singapore; Singapore Eye Research Institute, Singapore; Duke NUS 
+      Medical School, Singapore. Electronic address: rupeshttsh@gmail.com.
+CN  - REVISE-IUSG study group
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250917
+PL  - United States
+TA  - Surv Ophthalmol
+JT  - Survey of ophthalmology
+JID - 0404551
+SB  - IM
+OTO - NOTNLM
+OT  - Retina
+OT  - Retinal vasculitis
+OT  - Uveitis
+OT  - diagnosis
+OT  - work up
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+FIR - Tsui, Edmund
+IR  - Tsui E
+IRAD- UCLA University of California, Los Angeles, USA.
+FIR - Phaik, Chee Soon
+IR  - Phaik CS
+IRAD- Singapore Eye Research Institute, Singapore.
+FIR - Sen, Alok
+IR  - Sen A
+IRAD- Sadguru Netra Chikatsalaya, Chitrakoot, India.
+FIR - Schlaen, Ariel
+IR  - Schlaen A
+IRAD- Hospital de Clinicas Jose de San Martín Universidad de Buenos Aires, Argentina.
+FIR - Mishra, Chitaranjan
+IR  - Mishra C
+IRAD- Trilochan Netralaya, India.
+FIR - Nilüfer Yalçındağ, F
+IR  - Nilüfer Yalçındağ F
+IRAD- Ankara University, Turkey.
+FIR - Guex-Crosier, Yan
+IR  - Guex-Crosier Y
+IRAD- Hôpital ophtalmique Jules-Gonin, Switzerland.
+FIR - Kharel, Ranju
+IR  - Kharel R
+IRAD- B.P. Koirala Lions Center For Ophthalmic Studies (BPKLCOS), Kathmandu, Nepal.
+FIR - Aggarwal, Manisha
+IR  - Aggarwal M
+IRAD- Dr Shroff's Charity Eye Hospital, India.
+FIR - Mahendradas, Padmamalini
+IR  - Mahendradas P
+IRAD- Narayana Netralaya, India.
+FIR - Khairallah, Moncef
+IR  - Khairallah M
+IRAD- University of Monastir, Monastir, Tuniz.
+FIR - Goldstein, Debra A
+IR  - Goldstein DA
+IRAD- Northwestern University Feinberg School of Medicine, USA.
+FIR - Miserocchi, Elisabetta
+IR  - Miserocchi E
+IRAD- University Vita-Salute, Milan, Italy.
+FIR - Shawki, Samir
+IR  - Shawki S
+IRAD- Kafr Elsheikh Ophthalmology Hospital, Switzerland.
+FIR - Munk, Marion
+IR  - Munk M
+IRAD- Augenarzt-Praxisgemeinschaft Gutblick AG Pfäffikon.
+FIR - Urzua, Cristhian A
+IR  - Urzua CA
+IRAD- Laboratory of Ocular & Systemic Autoimmune Diseases. Faculty of Medicine. 
+      University of Chile, Chile.
+FIR - Babu, Kalpana
+IR  - Babu K
+IRAD- Prabha Eye Clinic and Research Centre, India.
+FIR - Finger, Robert
+IR  - Finger R
+IRAD- Universitätsmedizin Mannheim, Mannheim, Germany.
+FIR - Ozdal, Pinar
+IR  - Ozdal P
+IRAD- Ulucanlar Göz Eğitim ve Araştırma Hastanesi, Turkey.
+FIR - Willermain, François
+IR  - Willermain F
+IRAD- CHU Saint-Pierre est un hôpital, Belgum.
+FIR - Valerio, Tate
+IR  - Valerio T
+IRAD- Massachusetts Eye Research and Surgery Institution, USA.
+FIR - Pleyer, Uwe
+IR  - Pleyer U
+IRAD- Universitätsmedizin, Germany.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:18
+PHST- 2025/01/13 00:00 [received]
+PHST- 2025/09/13 00:00 [revised]
+PHST- 2025/09/15 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:18 [entrez]
+AID - S0039-6257(25)00175-4 [pii]
+AID - 10.1016/j.survophthal.2025.09.011 [doi]
+PST - aheadofprint
+SO  - Surv Ophthalmol. 2025 Sep 17:S0039-6257(25)00175-4. doi: 
+      10.1016/j.survophthal.2025.09.011.

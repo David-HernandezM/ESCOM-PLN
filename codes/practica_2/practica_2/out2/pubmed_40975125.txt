@@ -1,0 +1,83 @@
+PMID- 40975125
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2090-1224 (Electronic)
+IS  - 2090-1224 (Linking)
+DP  - 2025 Sep 18
+TI  - Vascular mechanical forces and vascular diseases.
+LID - S2090-1232(25)00696-4 [pii]
+LID - 10.1016/j.jare.2025.09.013 [doi]
+AB  - BACKGROUND: Blood vessels are continuously exposed to mechanical forces, mainly 
+      including shear stress, cyclic stretch, and hydrostatic pressure. These forces 
+      regulate the functions of endothelial cells (ECs) and vascular smooth muscle 
+      cells (VSMCs) through complex mechanosensing and signal transduction pathways, 
+      which are essential for maintaining vascular homeostasis. However, under 
+      pathological conditions, they can contribute to the development of vascular 
+      diseases, such as atherosclerosis, hypertension, and aortic aneurysm. AIM OF 
+      REVIEW: This review aims to synthesize the mechanosensors and downstream 
+      signaling pathways of vascular mechanical forces in ECs and VSMCs, emphasizing 
+      their effects on cell behaviors and their involvement in the onset and 
+      progression of atherosclerosis, hypertension and aortic aneurysms. KEY SCIENTIFIC 
+      CONCEPTS OF REVIEW: Multiple molecules and structures - including ion channels, 
+      G-protein coupled receptors, cellular junction molecules, and other membrane 
+      structures - act as mechanosensors of vascular mechanical forces and trigger 
+      multiple downstream signal transduction pathways. The pathological alterations in 
+      shear stress, cyclic stretch, and hydrostatic pressure regulate the functions and 
+      behaviors of ECs and VSMCs, including cellular proliferation, migration, 
+      apoptosis, oxidative stress, endothelial permeability, etc. These responses 
+      induce vascular inflammation, dysfunction and remodeling, which eventually 
+      contributes to the onset and progression of atherosclerosis, hypertension, and 
+      aortic aneurysms. This review also highlights the underestimated role of 
+      hydrostatic pressure in atherosclerosis and hypertension, as well as other 
+      research gaps and future directions for vascular mechanical forces research. 
+      Understanding and therapeutically modulating these biomechanical pathways may 
+      ultimately facilitate more effective prevention and treatment of vascular 
+      diseases.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Liu, Shiwen
+AU  - Liu S
+AD  - Hypertension Center, Fuwai Hospital, National Center for Cardiovascular Diseases 
+      of China, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing 100037, China.
+FAU - Cai, Jun
+AU  - Cai J
+AD  - Beijing Anzhen Hospital of Capital Medical University and Beijing Institute of 
+      Heart Lung and Blood Vessel Diseases, Beijing 100029, China. Electronic address: 
+      caijun7879@126.com.
+FAU - Chen, Zhenzhen
+AU  - Chen Z
+AD  - Beijing Anzhen Hospital of Capital Medical University and Beijing Institute of 
+      Heart Lung and Blood Vessel Diseases, Beijing 100029, China. Electronic address: 
+      chenzhenzhen@bjmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250918
+PL  - Egypt
+TA  - J Adv Res
+JT  - Journal of advanced research
+JID - 101546952
+SB  - IM
+OTO - NOTNLM
+OT  - Cyclic stretch
+OT  - Hydrostatic pressure
+OT  - Shear stress
+OT  - Vascular diseases
+OT  - Vascular mechanical forces
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 19:36
+PHST- 2025/03/25 00:00 [received]
+PHST- 2025/09/04 00:00 [revised]
+PHST- 2025/09/08 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 19:36 [entrez]
+AID - S2090-1232(25)00696-4 [pii]
+AID - 10.1016/j.jare.2025.09.013 [doi]
+PST - aheadofprint
+SO  - J Adv Res. 2025 Sep 18:S2090-1232(25)00696-4. doi: 10.1016/j.jare.2025.09.013.

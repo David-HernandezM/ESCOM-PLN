@@ -1,0 +1,1136 @@
+PMID- 40972625
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2665-9913 (Electronic)
+IS  - 2665-9913 (Linking)
+DP  - 2025 Sep 16
+TI  - The global, regional, and national burden attributable to low bone mineral 
+      density, 1990-2020: an analysis of a modifiable risk factor from the Global 
+      Burden of Disease Study 2021.
+LID - S2665-9913(25)00105-5 [pii]
+LID - 10.1016/S2665-9913(25)00105-5 [doi]
+AB  - BACKGROUND: Fractures related to osteoporosis and low bone mineral density lead 
+      to substantial morbidity, mortality, and cost to individuals and health systems. 
+      Here we present the most up-to-date global, regional, and national estimates of 
+      the contribution of low bone mineral density to the burden of fractures from 
+      falls and additional categories of injuries from the Global Burden of Diseases, 
+      Injuries, and Risk Factors Study (GBD) 2021. METHODS: The burden of low bone 
+      mineral density was estimated from 1990 to 2020 in terms of years lived with 
+      disability (YLDs), disability-adjusted life years (DALYs), and deaths, for 
+      individuals aged 40 years and older, using data from population-based studies 
+      from 48 countries or territories (169 unique sources). Mean standardised femoral 
+      neck bone mineral density values were estimated by GBD location, age, and sex by 
+      meta-regression. Based on a separate meta-analysis of population-based studies 
+      from nine countries (12 unique sources), we also estimated the pooled relative 
+      risk of fractures per unit decrease in bone mineral density (g/cm(2)). The 
+      population-attributable fraction for low bone mineral density was calculated by 
+      comparing the observed distributions of standardised femoral neck bone mineral 
+      density to an age-specific and sex-specific counterfactual distribution, defined 
+      as the 99th percentile of five rounds of the National Health and Nutrition 
+      Examination Survey in the USA, by 5-year age group and sex. Hospital and 
+      emergency department data were used to derive the incidence of fractures for six 
+      categories of injury (road injuries, other transport injuries, falls, 
+      non-venomous animal contact, exposure to mechanical forces, and physical 
+      interpersonal violence) using ICD codes. Deaths due to fractures were estimated 
+      as the proportion of in-hospital deaths due to the specified injury causes for 
+      which a fracture (nature of injury code) was more severe than the cause of injury 
+      code. YLDs and DALYs attributable to low bone mineral density by cause of injury 
+      were also determined according to previous GBD methods. FINDINGS: In 2020, 8·32 
+      million (95% UI 5·58-10·84) YLDs, 17·2 million (14·1-20·2) DALYs, and 477 000 
+      (411 000-536 000) deaths were attributable to low bone mineral density globally 
+      in individuals aged 40 years and older. Between 1990 and 2020, global YLDs, 
+      DALYs, and deaths attributable to low bone mineral density increased by 91·8% 
+      (88·5-95·1), 89·8% (81·5-99·0), and 127·1% (108·5-144·5), respectively. Over this 
+      period, the age-standardised global rates of YLDs, DALYs, and deaths attributable 
+      to low bone mineral density showed modest decreases. In 2020, falls accounted for 
+      76·2% (95% UI 74·2-78·3) of YLDs, 65·2% (62·9-67·6) of DALYs, and 71·0% 
+      (67·4-72·8) of deaths attributable to low bone mineral density, and road injuries 
+      largely accounted for the remaining amount: 12·4% (11·1-13·6) of YLDs, 24·6% 
+      (22·5-27·1) of DALYs, and 23·1% (21·6-26·2) of deaths. As a proportion of all 
+      fall-related burden, low bone mineral density accounted for 26·6% (23·2-28·7) of 
+      YLDs, 25·6% (22·1-27·4) of DALYs, and 40·6% (35·4-44·0) of deaths in 2020. Of all 
+      road injury-related burden, 12·6% (10·8-13·5) of YLDs, 6·3% (5·4-6·9) of DALYs, 
+      and 8·9% (7·6-9·6) of deaths were attributable to low bone mineral density. In 
+      men, road injuries accounted for the largest proportion of DALYs attributable to 
+      low bone mineral density in those aged 40-59 years and the largest proportion of 
+      deaths in those aged 40-64 years. In women, road injuries were the leading cause 
+      of DALYs attributable to low bone mineral density in those aged 40-44 years and 
+      the leading cause of deaths attributable to low bone mineral density in those 
+      aged 40-54 years. In older age groups among both men and women, falls were the 
+      leading cause of the burden attributable to low bone mineral density. 
+      INTERPRETATION: Low bone mineral density is a crucial modifiable risk factor for 
+      fractures, which are an important cause of morbidity and mortality particularly 
+      in ageing populations. This analysis highlights low bone mineral density as a 
+      cause of health loss not just from falls, but also from road injuries. FUNDING: 
+      Gates Foundation.
+CI  - Copyright © Published by Elsevier Ltd. This is an Open Access article under the 
+      CC BY 4.0 license.
+CN  - GBD 2021 Low Bone Mineral Density Collaborators
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - England
+TA  - Lancet Rheumatol
+JT  - The Lancet. Rheumatology
+JID - 101765308
+SB  - IM
+COIS- Declaration of interests S Bhaskar reports grants or contracts from the Japan 
+      Society for the Promotion of Science (JSPS), Japanese Ministry of Education, 
+      Culture, Sports, Science and Technology (for a Grant-in-Aid for Scientific 
+      Research, grant ID: 23KF0126) and from JSPS and the Australian Academy of Science 
+      for a JSPS International Fellowship (grant ID: P23712); and leadership or 
+      fiduciary roles in board, society, committee, or advocacy groups, paid or unpaid, 
+      with Rotary District 9675, Sydney, Australia, as the District Chair (Diversity, 
+      Equity & Inclusion), with the Global Health & Migration Hub Community, Global 
+      Health Hub Germany, Berlin, Germany (Chair, Founding Member and Manager), with 
+      PLOS One, BMC Neurology, Frontiers in Neurology, Frontiers in Stroke, Frontiers 
+      in Public Health, Journal of Aging Research, Neurology International, 
+      Diagnostics, and BMC Medical Research Methodology (Editorial Board Member), with 
+      the College of Reviewers, Canadian Institutes of Health Research, Government of 
+      Canada (Member), with the World Headache Society, Bengaluru, India (Director of 
+      Research), with the Cariplo Foundation, Milan, Italy (Expert Adviser/Reviewer), 
+      with the National Cerebral and Cardiovascular Center, Department of Neurology, 
+      Division of Cerebrovascular Medicine and Neurology, Suita, Osaka, Japan (Visiting 
+      Director), with Cardiff University Biobank, Cardiff, UK (Member, Scientific 
+      Review Committee), and with the Rotary Reconciliation Action Plan (Chair); all 
+      outside the submitted work. N E Ismail reports unpaid leadership or fiduciary 
+      roles in board, society, committee, or advocacy groups with the Malaysian Academy 
+      of Pharmacy (Bursar and Council Member) and the Malaysian Pharmacists Society 
+      (Committee Member of the Education Chapter), outside the submitted work. K 
+      Krishan reports non-financial support from the University Grants Commission 
+      Centre of Advanced Study—Phase II, awarded to the Department of Anthropology, 
+      Panjab University, Chandigarh, India, outside the submitted work. M Lee reports 
+      support for the present manuscript from the Ministry of Education of the Republic 
+      of Korea and the National Research Foundation of Korea (NRF-2023S1A3A2A05095298). 
+      L M March reports grants or contracts paid to their institution from the 
+      Australian National Health and Medical Research Council and the Australian 
+      Medical Research Future Fund; royalties from UpToDate for co-authorship of a 
+      review titled Epidemiology and Risk Factors for Osteoarthritis; and unpaid 
+      leadership or fiduciary roles in board, society, committee, or advocacy groups 
+      with the Global Alliance for Musculoskeletal Health as Executive; all outside the 
+      submitted work. L Monasta reports support for the present manuscript from the 
+      Italian Ministry of Health (Ricerca Corrente 34/2017) via payments made to the 
+      Institute for Maternal and Child Health IRCCS Burlo Garofolo. D Prieto-Alhambra 
+      reports support paid to their institution from the European Medicines Agency and 
+      the Innovative Medicines Initiative; grants or contracts from Amgen, 
+      Chiesi-Taylor, Gilead, Lilly, Janssen, Novartis, and UCB; consulting fees paid to 
+      their institution from UCB Biopharma; other support from Janssen for training 
+      programme's organised by the author's affiliated department; and a position on 
+      the Board of the European Health Data & Evidence Network Foundation; all outside 
+      the submitted work. Y L Samodra and J H V Ticoalu report leadership or fiduciary 
+      roles in board, society, committee, or advocacy groups, paid or unpaid, with 
+      Benang Merah Research Center, Indonesia, as Co-founders, outside the submitted 
+      work. L M L R Silva reports research contracts with the Sport Physical Activity 
+      and Health Research & Innovation Center–Instituto Politécnico da Guarda, 
+      Portugal, and RISE-Health, Universidade da Beira Interior, Portugal, outside the 
+      submitted work. J A Singh reports consulting fees from ROMTech, Atheneum, 
+      Clearview Healthcare Partners, the American College of Rheumatology, Yale 
+      University, Hulio, Horizon Pharmaceuticals, DINORA, ANI/Exeltis USA, Frictionless 
+      Solutions, Schipher, Crealta/Horizon, Medisys, Fidia, PK Med, Two Labs, Adept 
+      Field Solutions, Clinical Care Options, Putnam Associates, Focus Forward, 
+      Navigant Consulting, Spherix, MedIQ, Jupiter Life Science, UBM, Trio Health, 
+      Medscape, WebMD, Practice Point Communications, and the National Institutes of 
+      Health; payment or honoraria for lectures, presentations, speakers bureaus, 
+      manuscript writing, or educational events as a member of the speaker's bureau of 
+      Simply Speaking; leadership or fiduciary roles in other board, society, 
+      committee, or advocacy groups, paid or unpaid, and support for attending meetings 
+      or travel, as a past steering committee member of OMERACT; participation on a 
+      data safety monitoring board or advisory board from the US Food and Drug 
+      Administration Arthritis Advisory Committee; stock or stock options in Atai Life 
+      Sciences, Kintara Therapeutics, Intelligent Biosolutions, Acumen Pharmaceutical, 
+      TPT Global Tech, Vaxart Pharmaceuticals, Atyu Biopharma, Adaptimmune 
+      Therapeutics, GeoVax Labs, Pieris Pharmaceuticals, Enzolytics, Seres 
+      Therapeutics, Tonix Pharmaceuticals, Aebona Pharmaceuticals, and Charlotte's Web 
+      Holdings; and previous stock options in Amarin, Viking, and Moderna; all outside 
+      the submitted work. M Zielińska reports other financial or non-financial 
+      interests from Alexion, AstraZeneca Rare Disease as an employee outside the 
+      submitted work. All other authors declare no competing interests.
+FIR - Hsieh, Evelyn
+IR  - Hsieh E
+IRAD- Section of Rheumatology, Allergy and Immunology, Yale University, New Haven, CT, 
+      USA; Rheumatology Department, VA Connecticut Healthcare System, West Haven, CT, 
+      USA. Electronic address: evelyn.hsieh@yale.edu.
+FIR - Bryazka, Dana
+IR  - Bryazka D
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Ong, Kanyin Liane
+IR  - Ong KL
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Rhinehart, Phoebe-Anne
+IR  - Rhinehart PA
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Cousin, Ewerton
+IR  - Cousin E
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Hagins, Hailey
+IR  - Hagins H
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Cooper, Cyrus
+IR  - Cooper C
+IRAD- MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, UK; 
+      Institute of Musculoskeletal Sciences, University of Oxford, Oxford, UK.
+FIR - Cross, Marita
+IR  - Cross M
+IRAD- Faculty of Medicine and Health, University of Sydney, Sydney, NSW, Australia; 
+      Global Alliance for Musculoskeletal Health, Sydney, NSW, Australia.
+FIR - Culbreth, Garland T
+IR  - Culbreth GT
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Dreinhoefer, Karsten E
+IR  - Dreinhoefer KE
+IRAD- Global Alliance for Musculoskeletal Health, Sydney, NSW, Australia; Center of 
+      Musculoskeletal Surgery, Charité Universitätsmedizin Berlin (Charité University 
+      Medical Center Berlin), Berlin, Germany.
+FIR - Halbout, Philippe
+IR  - Halbout P
+IRAD- IOF International Osteoporosis Foundation, Nyon, Switzerland.
+FIR - Kopec, Jacek A
+IR  - Kopec JA
+IRAD- School of Population and Public Health, University of British Columbia, 
+      Vancouver, BC, Canada; Arthritis Research Canada, Richmond, BC, Canada.
+FIR - Nicholson, Sneha Ingle
+IR  - Nicholson SI
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Prieto Alhambra, Daniel
+IR  - Prieto Alhambra D
+IRAD- Nuffield Department of Orthopaedics, Rheumatology, and Musculoskeletal Sciences, 
+      Oxford University, Oxford, UK; Department of Medical Informatics, Erasmus 
+      University Medical Center, Rotterdam, Netherlands.
+FIR - Woolf, Anthony D
+IR  - Woolf AD
+IRAD- Osteoporosis Research Group, Lund University, Malmo, Sweden; Global Alliance for 
+      Musculoskeletal Health, Truro, UK.
+FIR - Vos, Theo
+IR  - Vos T
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Abate, Yohannes Habtegiorgis
+IR  - Abate YH
+IRAD- Department of Clinical Governance and Quality Improvement, Aleta Wondo General 
+      Hospital, Aleta Wondo, Ethiopia.
+FIR - Abd-Elsalam, Sherief
+IR  - Abd-Elsalam S
+IRAD- Department of Tropical Medicine and Infectious Diseases, Tanta University, Tanta, 
+      Egypt.
+FIR - Abdoun, Meriem
+IR  - Abdoun M
+IRAD- Department of Medicine, University of Setif Algeria, Sétif, Algeria; Department 
+      of Health, Sétif, Algeria.
+FIR - Abouzid, Mohamed
+IR  - Abouzid M
+IRAD- Department of Physical Pharmacy and Pharmacokinetics, Poznan University of 
+      Medical Sciences, Poznan, Poland.
+FIR - Abu-Gharbieh, Eman
+IR  - Abu-Gharbieh E
+IRAD- Department of Clinical Sciences, University of Sharjah, Sharjah, United Arab 
+      Emirates; Department of Biopharmaceutics and Clinical Pharmacy, University of 
+      Jordan, Amman, Jordan.
+FIR - Aburuz, Salahdein
+IR  - Aburuz S
+IRAD- Department of Pharmacology and Therapeutics, United Arab Emirates University, Al 
+      Ain, United Arab Emirates; College of Pharmacy, University of Jordan, Amman, 
+      Jordan.
+FIR - Adepoju, Abiola Victor
+IR  - Adepoju AV
+IRAD- Department of Adolescent Research and Care, Adolescent Friendly Research 
+      Initiative and Care, Ado Ekiti, Nigeria; Department of HIV and Infectious 
+      Diseases, Jhpiego, Abuja, Nigeria.
+FIR - Adnani, Qorinah Estiningtyas Sakilah
+IR  - Adnani QES
+IRAD- Department of Public Health, Universitas Padjadjaran (Padjadjaran University), 
+      Bandung, Indonesia.
+FIR - Ahmad, Aqeel
+IR  - Ahmad A
+IRAD- College of Medicine, Shaqra University, Shaqra, Saudi Arabia.
+FIR - Ahmed, Haroon
+IR  - Ahmed H
+IRAD- Department of Biosciences, COMSATS Institute of Information Technology, 
+      Islamabad, Pakistan.
+FIR - Ahmed, Luai A
+IR  - Ahmed LA
+IRAD- Institute of Public Health, United Arab Emirates University, Al Ain, United Arab 
+      Emirates.
+FIR - Al Hasan, Syed Mahfuz
+IR  - Al Hasan SM
+IRAD- Division of Public Health Sciences, Department of Surgery, Washington University 
+      in St. Louis, St. Louis, MO, USA.
+FIR - Alalwan, Tariq A
+IR  - Alalwan TA
+IRAD- Department of Biology, University of Bahrain, Zallaq, Bahrain.
+FIR - Al-Amer, Rasmieh Mustafa
+IR  - Al-Amer RM
+IRAD- School of Nursing, Yarmouk University, Irbid, Jordan; School of Nursing and 
+      Midwifery, Western Sydney University, Sydney, NSW, Australia.
+FIR - Alemi, Hediyeh
+IR  - Alemi H
+IRAD- Hematology, Oncology and Stem Cell Transplantation Research Center, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FIR - Ali, Abid
+IR  - Ali A
+IRAD- Department of Zoology, Abdul Wali Khan University Mardan, Mardan, Pakistan.
+FIR - Al-Worafi, Yaser Mohammed
+IR  - Al-Worafi YM
+IRAD- Department of Medical Sciences, Azal University for Human Development, Sana'a, 
+      Yemen; Department of Clinical Sciences, University of Science and Technology of 
+      Fujairah, Fujairah, United Arab Emirates.
+FIR - Amani, Reza
+IR  - Amani R
+IRAD- Interdisciplinary Graduate Program in Human Toxicology, University of Iowa, Iowa 
+      City, IA, USA; Holden Comprehensive Cancer Center, University of Iowa Hospitals 
+      and Clinics, Iowa City, IA, USA.
+FIR - Anil, Abhishek
+IR  - Anil A
+IRAD- Department of Pharmacology, All India Institute of Medical Sciences, Jodhpur, 
+      India; All India Institute of Medical Sciences, Bhubaneswar, India.
+FIR - Arabloo, Jalal
+IR  - Arabloo J
+IRAD- Health Management and Economics Research Center, Iran University of Medical 
+      Sciences, Tehran, Iran.
+FIR - Aravkin, Aleksandr Y
+IR  - Aravkin AY
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA; Department of Applied Mathematics, University of 
+      Washington, Seattle, WA, USA.
+FIR - Areda, Demelash
+IR  - Areda D
+IRAD- College of Art and Science, Ottawa University, Surprise, AZ, USA; School of Life 
+      Sciences, Arizona State University, Tempe, AZ, USA.
+FIR - Aregawi, Brhane Berhe
+IR  - Aregawi BB
+IRAD- College of Medicine and Health Sciences, Adigrat University, Adigrat, Ethiopia.
+FIR - Asghari-Jafarabadi, Mohammad
+IR  - Asghari-Jafarabadi M
+IRAD- Cabrini Research, Cabrini Health, Malvern, VIC, Australia; School of Public 
+      Health and Preventive Medicine, Monash University, Melbourne, VIC, Australia.
+FIR - Athari, Seyyed Shamsadin
+IR  - Athari SS
+IRAD- Department of Immunology, Zanjan University of Medical Sciences, Zanjan, Iran.
+FIR - Azadnajafabad, Sina
+IR  - Azadnajafabad S
+IRAD- Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds, 
+      Leeds, UK; Department of Surgery, Washington University in St. Louis, St. Louis, 
+      MO, USA.
+FIR - Azzam, Ahmed Y
+IR  - Azzam AY
+IRAD- ASIDE Healthcare, Lewes, DE, USA; Faculty of Medicine, October 6 University, 6th 
+      of October City, Egypt.
+FIR - Badiye, Ashish D
+IR  - Badiye AD
+IRAD- Department of Forensic Science, Government Institute of Forensic Science Nagpur, 
+      Nagpur, India; Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur, India.
+FIR - Bagheri, Nasser
+IR  - Bagheri N
+IRAD- Health Research Institute, University of Canberra, Canberra, ACT, Australia.
+FIR - Bagherieh, Sara
+IR  - Bagherieh S
+IRAD- School of Medicine, Isfahan University of Medical Sciences, Isfahan, Iran.
+FIR - Balogun, Saliu A
+IR  - Balogun SA
+IRAD- Goldfields University Department of Rural Health, Curtin University, Kalgoorlie, 
+      WA, Australia.
+FIR - Banach, Maciej
+IR  - Banach M
+IRAD- Department of Hypertension, Medical University of Lodz, Lodz, Poland; Polish 
+      Mothers' Memorial Hospital Research Institute, Lodz, Poland.
+FIR - Barati, Shirin
+IR  - Barati S
+IRAD- Department of Anatomy, Saveh University of Medical Sciences, Saveh, Iran.
+FIR - Bhardwaj, Pankaj
+IR  - Bhardwaj P
+IRAD- Department of Community Medicine and Family Medicine, All India Institute of 
+      Medical Sciences, Jodhpur, India; School of Public Health, All India Institute of 
+      Medical Sciences, Jodhpur, India.
+FIR - Bhaskar, Sonu
+IR  - Bhaskar S
+IRAD- Global Health Neurology Lab, NSW Brain Clot Bank, Sydney, NSW, Australia; 
+      Division of Cerebrovascular Medicine and Neurology, National Cerebral and 
+      Cardiovascular Center, Suita, Japan.
+FIR - Bhatti, Gurjit Kaur
+IR  - Bhatti GK
+IRAD- Department of Medical Lab Technology, Chandigarh University, Mohali, India.
+FIR - Bustanji, Yasser
+IR  - Bustanji Y
+IRAD- School of Pharmacy, The University of Jordan, Amman, Jordan; Department of Basic 
+      Biomedical Sciences, University of Sharjah, Sharjah, United Arab Emirates.
+FIR - Calina, Daniela
+IR  - Calina D
+IRAD- Department of Clinical Pharmacy, University of Medicine and Pharmacy of Craiova, 
+      Romania, Craiova, Romania.
+FIR - Chattu, Vijay Kumar
+IR  - Chattu VK
+IRAD- Temerty Faculty of Medicine, University of Toronto, Toronto, ON, Canada; 
+      Department of Community Medicine, Datta Meghe Institute of Medical Sciences, 
+      Sawangi, India.
+FIR - Chekol Abebe, Endeshaw
+IR  - Chekol Abebe E
+IRAD- Department of Medical Biochemistry, Debre Tabor University, Debre Tabor, 
+      Ethiopia.
+FIR - Chu, Dinh-Toi
+IR  - Chu DT
+IRAD- The Interdisciplinary Research Group on Biomedicine and Health, VNU International 
+      School (VNUIS), Hanoi, Viet Nam; Faculty of Applied Sciences, VNU International 
+      School (VNUIS), Hanoi, Viet Nam.
+FIR - Criqui, Michael H
+IR  - Criqui MH
+IRAD- Department of Family Medicine and Public Health, University of California San 
+      Diego, La Jolla, CA, USA.
+FIR - Cruz-Martins, Natalia
+IR  - Cruz-Martins N
+IRAD- Institute for Research and Innovation in Health (i3S), University of Porto, 
+      Porto, Portugal; Life and Health Sciences Research Institute (ICVS), University 
+      of Minho, Braga, Portugal.
+FIR - Dadras, Omid
+IR  - Dadras O
+IRAD- Research Center for Child Psychiatry, University of Turku, Turku, Finland; 
+      Iranian Research Center for HIV/AIDS (IRCHA), Tehran University of Medical 
+      Sciences, Tehran, Iran.
+FIR - Dai, Xiaochen
+IR  - Dai X
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Dai, Zhaoli
+IR  - Dai Z
+IRAD- School of Population Health, University of New South Wales, Sydney, NSW, 
+      Australia; School of Pharmacy and Charles Perkins Centre, University of Sydney, 
+      Sydney, NSW, Australia.
+FIR - Darvishi Cheshmeh Soltani, Reza
+IR  - Darvishi Cheshmeh Soltani R
+IRAD- Department of Environmental Health, Arak University of Medical Sciences, Arak, 
+      Iran.
+FIR - Dashti, Mohsen
+IR  - Dashti M
+IRAD- Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.
+FIR - Dejenie, Tadesse Asmamaw
+IR  - Dejenie TA
+IRAD- Department of Medical Biochemistry, University of Gondar, Gondar, Ethiopia.
+FIR - Del Bo', Cristian
+IR  - Del Bo' C
+IRAD- Department of Food, Environmental and Nutritional Sciences, Università degli 
+      Studi di Milano (University of Milan), Milan, Italy.
+FIR - Denova-Gutiérrez, Edgar
+IR  - Denova-Gutiérrez E
+IRAD- Center for Nutrition and Health Research, National Institute of Public Health, 
+      Cuernavaca, Mexico.
+FIR - Devanbu, Vinoth Gnana Chellaiyan
+IR  - Devanbu VGC
+IRAD- Chettinad Hospital & Research Institute, Chettinad Academy of Research and 
+      Education, Chennai, India.
+FIR - Dewan, Syed Masudur Rahman
+IR  - Dewan SMR
+IRAD- Department of Pharmacy, United International University, Dhaka, Bangladesh; 
+      Pharmacology Division, Center for Life Sciences Research Bangladesh, Dhaka, 
+      Bangladesh.
+FIR - Dhulipala, Vishal R
+IR  - Dhulipala VR
+IRAD- University of South Carolina, Columbia, SC, USA.
+FIR - Ekholuenetale, Michael
+IR  - Ekholuenetale M
+IRAD- Faculty of Science and Health, University of Portsmouth, Hampshire, UK.
+FIR - Elmonem, Mohamed A
+IR  - Elmonem MA
+IRAD- Department of Clinical and Chemical Pathology, Cairo University, Cairo, Egypt.
+FIR - Etaee, Farshid
+IR  - Etaee F
+IRAD- Department of Internal Medicine, Yale University, New Haven, CT, USA.
+FIR - Fagbamigbe, Adeniyi Francis
+IR  - Fagbamigbe AF
+IRAD- Department of Epidemiology and Medical Statistics, University of Ibadan, Ibadan, 
+      Nigeria; Research Centre for Healthcare and Community, Coventry University, 
+      Coventry, UK.
+FIR - Fakhradiyev, Ildar Ravisovich
+IR  - Fakhradiyev IR
+IRAD- Director of the Scientific and Technological Park, Kazakh National Medical 
+      University, Almaty, Kazakhstan; Department of Medicine, Korea University, Seoul, 
+      South Korea.
+FIR - Fatehizadeh, Ali
+IR  - Fatehizadeh A
+IRAD- School of Engineering, Edith Cowan University, Joondalup, WA, Australia.
+FIR - Feizkhah, Alireza
+IR  - Feizkhah A
+IRAD- Department of Social Medicine and Epidemiology, Guilan University of Medical 
+      Sciences, Rasht, Iran.
+FIR - Fekadu, Ginenus
+IR  - Fekadu G
+IRAD- Department of Infectious Diseases and Public Health, City University of Hong 
+      Kong, Hong Kong, China; Department of Pharmacy, Wollega University, Nekemte, 
+      Ethiopia.
+FIR - Feyisa, Bikila Regassa
+IR  - Feyisa BR
+IRAD- Jimma University, Jimma, Ethiopia; Institute of Health Sciences, Wollega 
+      University, Nekemte, Ethiopia.
+FIR - Fischer, Florian
+IR  - Fischer F
+IRAD- Institute of Public Health, Charité Universitätsmedizin Berlin (Charité Medical 
+      University Berlin), Berlin, Germany.
+FIR - Gaipov, Abduzhappar
+IR  - Gaipov A
+IRAD- Department of Medicine, Nazarbayev University, Astana, Kazakhstan.
+FIR - Galluzzo, Lucia
+IR  - Galluzzo L
+IRAD- Department of Cardiovascular, Endocrine-metabolic Diseases, and Aging, ISS - 
+      Italian National Institute of Health, Rome, Italy.
+FIR - Gebrehiwot, Mesfin
+IR  - Gebrehiwot M
+IRAD- Department of Environmental Health, Wollo University, Dessie, Ethiopia.
+FIR - Ghadirian, Fataneh
+IR  - Ghadirian F
+IRAD- School of Nursing and Midwifery, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Gill, Tiffany K
+IR  - Gill TK
+IRAD- Adelaide Medical School, University of Adelaide, Adelaide, SA, Australia.
+FIR - Gohari, Kimiya
+IR  - Gohari K
+IRAD- Department of Biostatistics, Tarbiat Modares University, Tehran, Iran; 
+      Quantitative Department, Non-Communicable Diseases Research Center (NCDRC), 
+      Tehran, Iran.
+FIR - Golchin, Ali
+IR  - Golchin A
+IRAD- Department of Applied Cell Sciences, Urmia University of Medical Sciences, Urmia, 
+      Iran; Cellular and Molecular Medicine Institute, Urmia University of Medical 
+      Sciences, Urmia, Iran.
+FIR - Gupta, Bhawna
+IR  - Gupta B
+IRAD- Department of Public Health, Torrens University Australia, Melbourne, VIC, 
+      Australia.
+FIR - Gupta, Sapna
+IR  - Gupta S
+IRAD- Department of Toxicology, Shriram Institute for Industrial Research, Delhi, 
+      India.
+FIR - Hadi, Najah R
+IR  - Hadi NR
+IRAD- Department of Clinical Pharmacology and Medicine, University of Kufa, Najaf, 
+      Iraq.
+FIR - Haj-Mirzaian, Arvin
+IR  - Haj-Mirzaian A
+IRAD- Department of Radiology, Massachusetts General Hospital, Boston, MA, USA; Obesity 
+      Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FIR - Hanif, Asif
+IR  - Hanif A
+IRAD- Sakarya University, Turkey, Sakarya, Türkiye.
+FIR - Harlianto, Netanja I
+IR  - Harlianto NI
+IRAD- Faculty of Medicine, Utrecht University, Utrecht, Netherlands; Department of 
+      Radiology, University Medical Center Utrecht, Utrecht, Netherlands.
+FIR - Hasan, Ikramul
+IR  - Hasan I
+IRAD- Department of Pharmaceutical Technology, University of Dhaka, Dhaka, Bangladesh.
+FIR - Hasnain, Md Saquib
+IR  - Hasnain MS
+IRAD- Department of Pharmacy, Marwadi University, Rajkot, India.
+FIR - Hassan, Amr
+IR  - Hassan A
+IRAD- Department of Neurology, Cairo University, Cairo, Egypt.
+FIR - Hay, Simon I
+IR  - Hay SI
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - He, Jiawei
+IR  - He J
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA.
+FIR - Heidari, Golnaz
+IR  - Heidari G
+IRAD- Independent Consultant, Santa Clara, CA, USA.
+FIR - Hezam, Kamal
+IR  - Hezam K
+IRAD- Department of Microbiology, Taiz University, Taiz, Yemen; School of Medicine, 
+      Nankai University, Tianjin, China.
+FIR - Hiraike, Yuta
+IR  - Hiraike Y
+IRAD- Graduate School of Medicine, University of Tokyo, Tokyo, Japan.
+FIR - Hoogar, Praveen
+IR  - Hoogar P
+IRAD- School of Social Sciences, The Apollo University, Chittoor, India.
+FIR - Hu, Chengxi
+IR  - Hu C
+IRAD- Department of Psychology, Tsinghua University, Beijing, China.
+FIR - Ibitoye, Segun Emmanuel
+IR  - Ibitoye SE
+IRAD- Department of Health Promotion and Education, University of Ibadan, Ibadan, 
+      Nigeria.
+FIR - Iranmehr, Arad
+IR  - Iranmehr A
+IRAD- Department of Neurosurgery, Tehran University of Medical Sciences, Tehran, Iran.
+FIR - Ismail, Nahlah Elkudssiah
+IR  - Ismail NE
+IRAD- Department of Clinical Pharmacy & Pharmacy Practice, Asian Institute of Medicine, 
+      Science and Technology, Bedong, Malaysia; Malaysian Academy of Pharmacy, Puchong, 
+      Malaysia.
+FIR - Iwagami, Masao
+IR  - Iwagami M
+IRAD- Department of Health Services Research, University of Tsukuba, Tsukuba, Japan; 
+      Department of Non-Communicable Disease Epidemiology, London School of Hygiene & 
+      Tropical Medicine, London, UK.
+FIR - Jafari-Khounigh, Ali
+IR  - Jafari-Khounigh A
+IRAD- Road Traffic Injury Research Center, Tabriz University of Medical Sciences, 
+      Tabriz, Iran.
+FIR - Jakovljevic, Mihajlo
+IR  - Jakovljevic M
+IRAD- The World Academy of Sciences UNESCO, Trieste, Italy; Shaanxi University of 
+      Technology, Hanzhong, China.
+FIR - Jamshidi, Elham
+IR  - Jamshidi E
+IRAD- Johns Hopkins University, Baltimore, MD, USA.
+FIR - Jayapal, Sathish Kumar
+IR  - Jayapal SK
+IRAD- Centre of Studies and Research, Ministry of Health, Muscat, Oman.
+FIR - Jayaram, Shubha
+IR  - Jayaram S
+IRAD- Department of Biochemistry, Government Medical College, Mysuru, India.
+FIR - Jemere, Digisie Mequanint
+IR  - Jemere DM
+IRAD- Caring Futures Institute, Flinders University, Adelaide, SA, Australia.
+FIR - Jeong, Gwang Hun
+IR  - Jeong GH
+IRAD- Geumsan Public Health Center, Geumsan-gun, South Korea; College of Medicine, 
+      Gyeongsang National University, Jinju, South Korea.
+FIR - Joseph, Nitin
+IR  - Joseph N
+IRAD- Department of Community Medicine, Manipal Academy of Higher Education, Mangalore, 
+      India.
+FIR - Joshua, Charity Ehimwenma
+IR  - Joshua CE
+IRAD- Department of Economics, National Open University, Benin City, Nigeria.
+FIR - Jürisson, Mikk
+IR  - Jürisson M
+IRAD- Institute of Family Medicine and Public Health, University of Tartu, Tartu, 
+      Estonia.
+FIR - Kadashetti, Vidya
+IR  - Kadashetti V
+IRAD- Department of Oral and Maxillofacial Pathology, Krishna Vishwa Vidyapeeth (Deemed 
+      to be University), Karad, India.
+FIR - Kalra, Sanjay
+IR  - Kalra S
+IRAD- Department of Endocrinology, Bharti Hospital Karnal, Karnal, India; University 
+      Centre for Research and Development, Chandigarh University, Mohali, India.
+FIR - Khafaie, Morteza Abdullatif
+IR  - Khafaie MA
+IRAD- Department of Public Health, Ahvaz Jundishapur University of Medical Sciences, 
+      Ahvaz, Iran; Environmental Technologies Research Center, Medical Basic Sciences 
+      Research Institute, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, 
+      Iran.
+FIR - Khajuria, Himanshu
+IR  - Khajuria H
+IRAD- Amity Institute of Forensic Sciences, Amity University, Noida, India.
+FIR - Khan, Moien Ab
+IR  - Khan MA
+IRAD- Family Medicine Department, United Arab Emirates University, Al Ain, United Arab 
+      Emirates; Primary Care Department, NHS North West London, London, UK.
+FIR - Khanali, Javad
+IR  - Khanali J
+IRAD- Social Determinants of Health Research Center, Shahid Beheshti University of 
+      Medical Sciences, Tehran, Iran; Non-communicable Diseases Research Center, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FIR - Khanmohammadi, Shaghayegh
+IR  - Khanmohammadi S
+IRAD- Department of Epidemiology, Non-Communicable Diseases Research Center (NCDRC), 
+      Tehran, Iran; School of Medicine, Tehran University of Medical Sciences, Tehran, 
+      Iran.
+FIR - Khatatbeh, Moawiah Mohammad
+IR  - Khatatbeh MM
+IRAD- Department of Basic Medical Sciences, Yarmouk University, Irbid, Jordan.
+FIR - Khateri, Sorour
+IR  - Khateri S
+IRAD- School of Medicine, Kurdistan University of Medical Sciences, Sanandaj, Iran.
+FIR - Kim, Min Seo
+IR  - Kim MS
+IRAD- Broad Institute of MIT and Harvard, Cambridge, MA, USA; Massachusetts General 
+      Hospital, Boston, MA, USA.
+FIR - Korzh, Oleksii
+IR  - Korzh O
+IRAD- Department of General Practice and Family Medicine, Kharkiv National Medical 
+      University, Kharkiv, Ukraine.
+FIR - Krishan, Kewal
+IR  - Krishan K
+IRAD- Department of Anthropology, Panjab University, Chandigarh, India.
+FIR - Kulimbet, Mukhtar
+IR  - Kulimbet M
+IRAD- Research and Publication Activity Division, Kazakh National Medical University, 
+      Almaty, Kazakhstan; Center of Medicine and Public Health, Asfendiyarov Kazakh 
+      National Medical University, Almaty, Kazakhstan.
+FIR - Kulkarni, Vishnutheertha
+IR  - Kulkarni V
+IRAD- Department of Medicine, Queensland Health, Brisbane, QLD, Australia.
+FIR - Kurniasari, Maria Dyah
+IR  - Kurniasari MD
+IRAD- Faculty of Medicine and Health Science, Universitas Kristen Satya Wacana, 
+      Salatiga, Indonesia; School of Nursing, Taipei Medical University, Taipei, 
+      Taiwan.
+FIR - Lahariya, Chandrakant
+IR  - Lahariya C
+IRAD- Division of Evidence Synthesis, Foundation for People-centric Health Systems, New 
+      Delhi, India; Division of Lifestyle Medicine, Centre for Health: The Specialty 
+      Practice, New Delhi, India.
+FIR - Laksono, Tri
+IR  - Laksono T
+IRAD- Department of Physiotherapy, Universitas Aisyiyah Yogyakarta, Yogyakarta, 
+      Indonesia; Institute of Allied Health Sciences, National Cheng Kung University, 
+      Tainan, Taiwan.
+FIR - Landires, Iván
+IR  - Landires I
+IRAD- Unidad de Genética y Salud Pública, Instituto de Ciencias Médicas, Las Tablas, 
+      Panama; Ministry of Health, Hospital Joaquín Pablo Franco Sayas, Las Tablas, 
+      Panama.
+FIR - Latief, Kamaluddin
+IR  - Latief K
+IRAD- Centre for Family Welfare, University of Indonesia, Depok, Indonesia; Department 
+      of Global Health and Health Security, Taipei Medical University, Taipei, Taiwan.
+FIR - Le, Thao Thi Thu
+IR  - Le TTT
+IRAD- University of Medicine and Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Viet 
+      Nam.
+FIR - Lee, Munjae
+IR  - Lee M
+IRAD- Department of Medical Science, Ajou University School of Medicine, Suwon, South 
+      Korea.
+FIR - Lee, Wei-Chen
+IR  - Lee WC
+IRAD- Department of Family Medicine, University of Texas Medical Branch, Galveston, TX, 
+      USA.
+FIR - Llanaj, Erand
+IR  - Llanaj E
+IRAD- Department of Molecular Epidemiology, German Institute of Human Nutrition 
+      Potsdam-Rehbrücke, Potsdam, Germany; German Center for Diabetes Research (DZD), 
+      München-Neuherberg, Germany.
+FIR - Malhotra, Kashish
+IR  - Malhotra K
+IRAD- Rama Medical College Hospital and Research Centre, Uttar Pradesh, India; 
+      Institute of Applied Health Research, University of Birmingham, Birmingham, UK.
+FIR - Malik, Ahmad Azam
+IR  - Malik AA
+IRAD- Rabigh Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia.
+FIR - Martorell, Miquel
+IR  - Martorell M
+IRAD- Department of Nutrition and Dietetics, University of Concepción, Concepción, 
+      Chile; Centre for Healthy Living, University of Concepción, Concepción, Chile.
+FIR - Maugeri, Andrea
+IR  - Maugeri A
+IRAD- Department of Medical and Surgical Sciences and Advanced Technologies ""GF 
+      Ingrassia"", University of Catania, Catania, Italy.
+FIR - Meles, Hadush Negash
+IR  - Meles HN
+IRAD- Department of Medical Laboratory Sciences, Adigrat University, Adigrat, Ethiopia.
+FIR - Merati, Mohsen
+IR  - Merati M
+IRAD- School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.
+FIR - Meretoja, Tuomo J
+IR  - Meretoja TJ
+IRAD- Comprehensive Cancer Center, Helsinki University Hospital, Helsinki, Finland; 
+      University of Helsinki, Helsinki, Finland.
+FIR - Mestrovic, Tomislav
+IR  - Mestrovic T
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; University Centre Varazdin, University North, Varazdin, Croatia.
+FIR - Mirahmadi, Alireza
+IR  - Mirahmadi A
+IRAD- Department of Orthopedics, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Mohamed, Nouh Saad
+IR  - Mohamed NS
+IRAD- Molecular Biology Unit, Sirius Training and Research Centre, Khartoum, Sudan; 
+      Bio-Statistical and Molecular Biology Department, Sirius Training and Research 
+      Centre, Khartoum, Sudan.
+FIR - Mohammadian-Hafshejani, Abdollah
+IR  - Mohammadian-Hafshejani A
+IRAD- Modeling in Health Research Center, Shahrekord University of Medical Sciences, 
+      Shahrekord, Iran.
+FIR - Mokdad, Ali H
+IR  - Mokdad AH
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Monasta, Lorenzo
+IR  - Monasta L
+IRAD- Clinical Epidemiology and Public Health Research Unit, Burlo Garofolo Institute 
+      for Maternal and Child Health, Trieste, Italy.
+FIR - Moradi, Yousef
+IR  - Moradi Y
+IRAD- Department of Epidemiology and Biostatistics, Kurdistan University of Medical 
+      Sciences, Sanandaj, Iran.
+FIR - Morovatdar, Negar
+IR  - Morovatdar N
+IRAD- Clinical Research Development Unit, Mashhad University of Medical Sciences, 
+      Mashhad, Iran.
+FIR - Morrison, Shane Douglas
+IR  - Morrison SD
+IRAD- Division of Plastic and Reconstructive Surgery, University of Washington Medical 
+      Center, Seattle, WA, USA.
+FIR - Mostafavi, Ebrahim
+IR  - Mostafavi E
+IRAD- Department of Medicine, Stanford University, Palo Alto, CA, USA; Stanford 
+      Cardiovascular Institute, Stanford University, Palo Alto, CA, USA.
+FIR - Mousavi, Parsa
+IR  - Mousavi P
+IRAD- Non-communicable Diseases Research Center, Tehran University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Mubarik, Sumaira
+IR  - Mubarik S
+IRAD- Unit of Pharmacotherapy, Epidemiology and Economics, Rijksuniversiteit Groningen 
+      (University of Groningen), Groningen, Netherlands; Department of Epidemiology and 
+      Biostatistics, Wuhan University, Wuhan, China.
+FIR - Murray, Christopher J L
+IR  - Murray CJL
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Muthu, Sathish
+IR  - Muthu S
+IRAD- Department of Research Methods, Orthopaedic Research Group, Coimbatore, India; 
+      Department of Biotechnology, Karpagam Academy of Higher Education (Deemed to be 
+      University), Coimbatore, India.
+FIR - Naghavi, Mohsen
+IR  - Naghavi M
+IRAD- Institute for Health Metrics and Evaluation, University of Washington, Seattle, 
+      WA, USA; Department of Health Metrics Sciences, School of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FIR - Naghavi, Pirouz
+IR  - Naghavi P
+IRAD- Department of Computer Science, University of Illinois, Urbana, IL, USA.
+FIR - Natto, Zuhair S
+IR  - Natto ZS
+IRAD- Department of Dental Public Health, King Abdulaziz University, Jeddah, Saudi 
+      Arabia; Department of Health Policy and Oral Epidemiology, Harvard University, 
+      Boston, MA, USA.
+FIR - Nayak, Biswa Prakash
+IR  - Nayak BP
+IRAD- Amity Institute of Forensic Sciences, Amity University, Noida, India.
+FIR - Nematollahi, Mohammad Hadi
+IR  - Nematollahi MH
+IRAD- Applied Cellular and Molecular Research Center, Kerman University of Medical 
+      Sciences, Kerman, Iran.
+FIR - Nguyen, Duc Hoang
+IR  - Nguyen DH
+IRAD- Cardiovascular Laboratory, Methodist Hospital, Merrillville, IN, USA; Department 
+      of Allergy, Immunology and Dermatology, Hanoi Medical University, Hanoi, Viet 
+      Nam.
+FIR - Nguyen, Hien Quang
+IR  - Nguyen HQ
+IRAD- Cardiovascular Research Department, Methodist Hospital, Merrillville, IN, USA.
+FIR - Nguyen, Van Thanh
+IR  - Nguyen VT
+IRAD- Tuberculosis Group, Oxford University Clinical Research Unit, Vietnam, Ho Chi 
+      Minh City, Viet Nam; Department of General Medicine, University of Medicine and 
+      Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Viet Nam.
+FIR - Niazi, Robina Khan
+IR  - Niazi RK
+IRAD- International Islamic University Islamabad, Islamabad, Pakistan.
+FIR - Noman, Efaq Ali
+IR  - Noman EA
+IRAD- School of Chemical & Biomolecular Engineering, University of Sydney, Sydney, NSW, 
+      Australia; Faculty of Applied Sciences, Taiz University, Taiz, Yemen.
+FIR - Nurrika, Dieta
+IR  - Nurrika D
+IRAD- Department of Public Health, Banten School of Health Science, South Tangerang, 
+      Indonesia; Ministry of Research, Technology and Higher Education, Higher 
+      Education Service Institutions (LL-DIKTI) Region IV, Bandung, Indonesia.
+FIR - Okonji, Osaretin Christabel
+IR  - Okonji OC
+IRAD- School of Pharmacy, University of the Western Cape, Cape Town, South Africa.
+FIR - Ordak, Michal
+IR  - Ordak M
+IRAD- Department of Pharmacotherapy and Pharmaceutical Care, Medical University of 
+      Warsaw, Warsaw, Poland.
+FIR - Osman, Wael M S
+IR  - Osman WMS
+IRAD- Department of Biology, Khalifa University, Abu Dhabi, United Arab Emirates.
+FIR - Ostadi, Yasamin
+IR  - Ostadi Y
+IRAD- School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+FIR - Padron-Monedero, Alicia
+IR  - Padron-Monedero A
+IRAD- National School of Public Health, Institute of Health Carlos III, Madrid, Spain.
+FIR - Pardhan, Shahina
+IR  - Pardhan S
+IRAD- Vision and Eye Research Institute, Anglia Ruskin University, Cambridge, UK.
+FIR - Parija, Pragyan Paramita
+IR  - Parija PP
+IRAD- Department of Community Medicine, All India Institute of Medical Sciences, Jammu, 
+      India.
+FIR - Parikh, Romil R
+IR  - Parikh RR
+IRAD- Division of Health Policy and Management, University of Minnesota, Minneapolis, 
+      MN, USA.
+FIR - Patel, Jay
+IR  - Patel J
+IRAD- Global Health Governance Programme, University of Edinburgh, Edinburgh, UK; 
+      School of Dentistry, University of Leeds, Leeds, UK.
+FIR - Petermann-Rocha, Fanny Emily
+IR  - Petermann-Rocha FE
+IRAD- Facultad de Medicina (Faculty of Medicine), Universidad Diego Portales (Diego 
+      Portales University), Santiago, Chile; School of Cardiovascular and Metabolic 
+      Health, University of Glasgow, Glasgow, UK.
+FIR - Pham, Hoang Tran
+IR  - Pham HT
+IRAD- Department of Internal Medicine, Weiss Memorial Hospital, Chicago, IL, USA.
+FIR - Prates, Elton Junio Sady
+IR  - Prates EJS
+IRAD- Department of Maternal-Child Nursing and Public Health, Federal University of 
+      Minas Gerais, Belo Horizonte, Brazil.
+FIR - Qattea, Ibrahim
+IR  - Qattea I
+IRAD- Department of Neonatology, Case Western Reserve University, Akron, OH, USA.
+FIR - Rahimi, Mehran
+IR  - Rahimi M
+IRAD- Cardiovascular Research Center, Tabriz University of Medical Sciences, Tabriz, 
+      Iran.
+FIR - Rahimi-Movaghar, Vafa
+IR  - Rahimi-Movaghar V
+IRAD- Sina Trauma and Surgery Research Center, Tehran University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Rahman, Mosiur
+IR  - Rahman M
+IRAD- Department of Population Science and Human Resource Development, University of 
+      Rajshahi, Rajshahi, Bangladesh.
+FIR - Rahmati, Masoud
+IR  - Rahmati M
+IRAD- Health Service Research and Quality of Life Center (CEReSS), Aix-Marseille 
+      University, Marseille, France.
+FIR - Raimondo, Ivano
+IR  - Raimondo I
+IRAD- Department of Medical, Surgical and Experimental Sciences, University of Sassari, 
+      Sassari, Italy; Gynecology and Breast Care Center, Mater Olbia Hospital, Olbia, 
+      Italy.
+FIR - Ramasamy, Shakthi Kumaran
+IR  - Ramasamy SK
+IRAD- Department of Radiology, Stanford University, Stanford, CA, USA.
+FIR - Rashedi, Sina
+IR  - Rashedi S
+IRAD- Department of Epidemiology, Non-Communicable Diseases Research Center (NCDRC), 
+      Tehran, Iran; Brigham and Women's Hospital, Harvard Medical School, Boston, MA, 
+      USA.
+FIR - Rashidi, Mohammad-Mahdi
+IR  - Rashidi MM
+IRAD- Social Determinants of Health Research Center, Shahid Beheshti University of 
+      Medical Sciences, Tehran, Iran; Non-communicable Diseases Research Center, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FIR - Rawaf, Salman
+IR  - Rawaf S
+IRAD- Department of Primary Care and Public Health, Imperial College London, London, 
+      UK; Academic Public Health England, Public Health England, London, UK.
+FIR - Redwan, Elrashdy M
+IR  - Redwan EM
+IRAD- Department of Biological Sciences, King Abdulaziz University, Jeddah, Egypt; 
+      Department of Protein Research, Research and Academic Institution, Alexandria, 
+      Egypt.
+FIR - Rezaei, Nazila
+IR  - Rezaei N
+IRAD- Non-communicable Diseases Research Center, Tehran University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Saad, Aly M A
+IR  - Saad AMA
+IRAD- Cardiovascular Department, Zagazig University, Zagazig, Egypt.
+FIR - Saeed, Umar
+IR  - Saeed U
+IRAD- Operational Research Center in Healthcare, Near East University (NEU), Nicosia 
+      Cyprus, Türkiye; International Center of Medical Sciences Research (ICMSR), 
+      Islamabad, Pakistan.
+FIR - Saghazadeh, Amene
+IR  - Saghazadeh A
+IRAD- Research Center for Immunodeficiencies, Tehran University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Saheb Sharif-Askari, Fatemeh
+IR  - Saheb Sharif-Askari F
+IRAD- Sharjah Institute of Medical Sciences, University of Sharjah, Sharjah, United 
+      Arab Emirates.
+FIR - Sahebkar, Amirhossein
+IR  - Sahebkar A
+IRAD- Center for Global Health Research, Saveetha University, Chennai, India; 
+      Biotechnology Research Center, Mashhad University of Medical Sciences, Mashhad, 
+      Iran.
+FIR - Saki, Morteza
+IR  - Saki M
+IRAD- Department of Microbiology, Ahvaz Jundishapur University of Medical Sciences, 
+      Ahvaz, Iran.
+FIR - Sakshaug, Joseph W
+IR  - Sakshaug JW
+IRAD- Institute for Employment Research, Nuremberg, Germany; LMU-Munich, Munich, 
+      Germany.
+FIR - Saleh, Mohamed A
+IR  - Saleh MA
+IRAD- College of Medicine, University of Sharjah, Sharjah, United Arab Emirates; 
+      Faculty of Pharmacy, Mansoura University, Mansoura, Egypt.
+FIR - Samodra, Yoseph Leonardo
+IR  - Samodra YL
+IRAD- Institute of Epidemiology and Preventive Medicine, National Taiwan University, 
+      Taipei, Taiwan; Benang Merah Research Center (BMRC), Minahasa Utara, Indonesia.
+FIR - Samy, Abdallah M
+IR  - Samy AM
+IRAD- Department of Entomology, Ain Shams University, Cairo, Egypt; Medical Ain Shams 
+      Research Institute (MASRI), Ain Shams University, Cairo, Egypt.
+FIR - Sanmarchi, Francesco
+IR  - Sanmarchi F
+IRAD- Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, 
+      Italy; Primary Healthcare Department, Azienda USL di Bologna, Bologna, Italy.
+FIR - Saqib, Muhammad Arif Nadeem
+IR  - Saqib MAN
+IRAD- Research Development Coordination Section, Pakistan Health Research Council, 
+      Islamabad, Pakistan; School of Sciences, University of Management and Technology, 
+      Lahore, Pakistan.
+FIR - Schuermans, Art
+IR  - Schuermans A
+IRAD- Faculty of Medicine, Katholieke Universiteit Leuven, Leuven, Belgium; Department 
+      of Cardiovascular Sciences, Katholieke Universiteit Leuven, Leuven, Belgium.
+FIR - Sethi, Yashendra
+IR  - Sethi Y
+IRAD- Department of Medicine, Swami Vivekanand Subharti University, Meerut, India.
+FIR - Seylani, Allen
+IR  - Seylani A
+IRAD- National Heart, Lung, and Blood Institute, National Institutes of Health, 
+      Rockville, MD, USA.
+FIR - Shahwan, Moyad Jamal
+IR  - Shahwan MJ
+IRAD- Center for Medical and Bio-Allied Health Sciences Research, Ajman University, 
+      Ajman, United Arab Emirates.
+FIR - Sham, Sunder
+IR  - Sham S
+IRAD- Department of Pathology and Laboratory Medicine, Northwell Health, New York, NY, 
+      USA.
+FIR - Shannawaz, Mohammed
+IR  - Shannawaz M
+IRAD- Amity Institute of Public Health, Amity University, Noida, India.
+FIR - Sharfaei, Sadaf
+IR  - Sharfaei S
+IRAD- Department of Safety Services, Baim Institute for Clinical Research, Boston, MA, 
+      USA; Beth Israel Deaconess Medical Center, Harvard University, Boston, MA, USA.
+FIR - Sharma, Manoj
+IR  - Sharma M
+IRAD- Department of Social and Behavioral Health, University of Nevada Las Vegas, Las 
+      Vegas, NV, USA.
+FIR - Shorofi, Seyed Afshin
+IR  - Shorofi SA
+IRAD- Department of Medical-Surgical Nursing, Mazandaran University of Medical 
+      Sciences, Sari, Iran; Department of Nursing and Health Sciences, Flinders 
+      University, Adelaide, SA, Australia.
+FIR - Siddig, Emmanuel Edwar
+IR  - Siddig EE
+IRAD- Unit of Basic Medical Sciences, University of Khartoum, Khartoum, Sudan; 
+      Department of Medical Microbiology and Infectious Diseases, Erasmus University, 
+      Rotterdam, Netherlands.
+FIR - Silva, Luís Manuel Lopes Rodrigues
+IR  - Silva LMLR
+IRAD- CICS-UBI Health Sciences Research Center, University of Beira Interior, Covilhã, 
+      Portugal; Sport Physical Activity and Health Research & Innovation Center 
+      (SPRINT), Polytechnic Institute of Guarda, Guarda, Portugal.
+FIR - Singh, Jasvinder A
+IR  - Singh JA
+IRAD- School of Medicine, Baylor College of Medicine, Houston, TX, USA; Department of 
+      Medicine Service, US Department of Veterans Affairs (VA), Houston, TX, USA.
+FIR - Singh, Paramdeep
+IR  - Singh P
+IRAD- Department of Radiodiagnosis, All India Institute of Medical Sciences, Bathinda, 
+      India.
+FIR - Soleimani, Hamidreza
+IR  - Soleimani H
+IRAD- Department of Epidemiology, Non-Communicable Diseases Research Center (NCDRC), 
+      Tehran, Iran.
+FIR - Swain, Chandan Kumar
+IR  - Swain CK
+IRAD- Department of Analytical and Applied Economics, Utkal University, Bhubaneswar, 
+      India.
+FIR - Tabatabai, Shima
+IR  - Tabatabai S
+IRAD- Department of Medical Education, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran.
+FIR - Tamuzi, Jacques Lukenze
+IR  - Tamuzi JL
+IRAD- Department of Epidemiology, Stellenbosch University, Cape Town, South Africa; 
+      Department of Medicine, Northlands Medical Group, Omuthiya, Namibia.
+FIR - Tavakoli Oliaee, Razieh
+IR  - Tavakoli Oliaee R
+IRAD- Basic Sciences in Infectious Diseases Research Center, Shiraz University of 
+      Medical Sciences, Shiraz, Iran.
+FIR - Tavangar, Seyed Mohammad
+IR  - Tavangar SM
+IRAD- Department of Pathology, Tehran University of Medical Sciences, Tehran, Iran.
+FIR - Teramoto, Masayuki
+IR  - Teramoto M
+IRAD- Department of Preventive Medicine, Northwestern University, Chicago, IL, USA.
+FIR - Terefa, Dufera Rikitu
+IR  - Terefa DR
+IRAD- Outpatient Department, Wollega University, Bedele Town, Ethiopia; Department of 
+      Public Health, Wollega University, Nekemte, Ethiopia.
+FIR - Ticoalu, Jansje Henny Vera
+IR  - Ticoalu JHV
+IRAD- Faculty of Public Health, Universitas Sam Ratulangi (Sam Ratulangi University), 
+      Manado, Indonesia.
+FIR - Vaithinathan, Asokan Govindaraj
+IR  - Vaithinathan AG
+IRAD- College of Health and Sport Sciences, University of Bahrain, Zallaq, Bahrain.
+FIR - Vasankari, Tommi Juhani
+IR  - Vasankari TJ
+IRAD- UKK Institute, Tampere, Finland; Faculty of Medicine and Health Technology, 
+      Tampere University, Tampere, Finland.
+FIR - Vaziri, Siavash
+IR  - Vaziri S
+IRAD- Department of Infectious Disease, Kermanshah University of Medical Sciences, 
+      Kermanshah, Iran.
+FIR - Wang, Fang
+IR  - Wang F
+IRAD- School of Public Health, Xuzhou Medical University, Xuzhou, China.
+FIR - Wang, Shu
+IR  - Wang S
+IRAD- Department of Neurosurgery, Capital Medical University, Beijing, China; 
+      Department of Neurosurgery, Beijing Tiantan Hospital, Beijing, China.
+FIR - Xia, Juan
+IR  - Xia J
+IRAD- School of Public Health, Capital Medical University, Beijing, China.
+FIR - Yonemoto, Naohiro
+IR  - Yonemoto N
+IRAD- Department of Biostatistics, University of Toyama, Toyama, Japan; Department of 
+      Public Health, Juntendo University, Tokyo, Japan.
+FIR - Yu, Chuanhua
+IR  - Yu C
+IRAD- Department of Epidemiology and Biostatistics, Wuhan University, Wuhan, China.
+FIR - Zahir, Mazyar
+IR  - Zahir M
+IRAD- Norris Comprehensive Cancer Center, Keck School of Medicine, University of 
+      Southern California, Los Angeles, CA, USA.
+FIR - Zhao, Hanqing
+IR  - Zhao H
+IRAD- College of Traditional Chinese Medicine, Hebei University, Baoding, China.
+FIR - Zielińska, Magdalena
+IR  - Zielińska M
+IRAD- Department of Biochemistry and Pharmacogenomics, Medical University of Warsaw, 
+      Warsaw, Poland.
+FIR - Zitoun, Osama A
+IR  - Zitoun OA
+IRAD- School of Public Health Sciences, University of Waterloo, Waterloo, ON, Canada; 
+      College of Medicine, Sulaiman Alrajhi University, Al Bukairiyah, Saudi Arabia.
+FIR - March, Lyn M
+IR  - March LM
+IRAD- Department of Rheumatology, Royal North Shore Hospital, St Leonards, NSW, 
+      Australia; Faculty of Medicine and Health, University of Sydney, Sydney, NSW, 
+      Australia.
+FIR - Sanchez-Riera, Lidia
+IR  - Sanchez-Riera L
+IRAD- Institute of Bone and Joint Research, University of Sydney, Sydney, NSW, 
+      Australia.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 18:53
+PHST- 2024/03/22 00:00 [received]
+PHST- 2025/01/01 00:00 [revised]
+PHST- 2025/04/09 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 18:53 [entrez]
+AID - S2665-9913(25)00105-5 [pii]
+AID - 10.1016/S2665-9913(25)00105-5 [doi]
+PST - aheadofprint
+SO  - Lancet Rheumatol. 2025 Sep 16:S2665-9913(25)00105-5. doi: 
+      10.1016/S2665-9913(25)00105-5.

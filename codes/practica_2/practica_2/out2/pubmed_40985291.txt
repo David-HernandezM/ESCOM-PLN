@@ -1,0 +1,71 @@
+PMID- 40985291
+OWN - NLM
+STAT- Publisher
+LR  - 20250924
+IS  - 1305-3825 (Print)
+IS  - 1305-3825 (Linking)
+DP  - 2025 Sep 23
+TI  - Imaging in chronic thromboembolic pulmonary hypertension: review of the current 
+      literature.
+LID - 10.4274/dir.2025.253249 [doi]
+AB  - Chronic thromboembolic pulmonary hypertension (CTEPH) is a severe, 
+      life-threatening complication of pulmonary embolism with pulmonary hypertension 
+      (PH). The combination of insufficient resolution of thrombi following pulmonary 
+      emboli and accompanying microvascular disease results in PH. Advances in imaging 
+      can offer better insight into CTEPH diagnosis and management, but lack of disease 
+      awareness among radiologists has been shown to be a cause of CTEPH misdiagnosis 
+      or delayed diagnosis. This review highlights features pertinent to CTEPH 
+      diagnosis. The primary focus is on different modalities with their distinctive 
+      signs and newly developed technologies employing artificial intelligence systems.
+FAU - Hekimoglu, Koray
+AU  - Hekimoglu K
+AUID- ORCID: 0000-0002-0805-0841
+AD  - TOBB University of Economics and Technology, Department of Radiology, Ankara, 
+      Türkiye.
+FAU - Gopalan, Deepa
+AU  - Gopalan D
+AUID- ORCID: 0000-0001-8079-205X
+AD  - Imperial College Healthcare NHS Trust, Department of Radiology, United Kingdom, 
+      England.
+FAU - Onur, Mehmet Ruhi
+AU  - Onur MR
+AUID- ORCID: 0000-0003-1732-7862
+AD  - Hacettepe University Faculty of Medicine, Department of Radiology, Ankara, 
+      Türkiye.
+FAU - Kahraman, Gökhan
+AU  - Kahraman G
+AUID- ORCID: 0000-0001-9902-8844
+AD  - Hacettepe University Faculty of Medicine, Department of Radiology, Ankara, 
+      Türkiye.
+FAU - Akay, Tankut
+AU  - Akay T
+AUID- ORCID: 0000-0003-1581-5352
+AD  - Başkent University Faculty of Medicine, Department of Cardiovascular Surgery, 
+      Ankara, Türkiye.
+LA  - eng
+PT  - Journal Article
+DEP - 20250923
+PL  - Turkey
+TA  - Diagn Interv Radiol
+JT  - Diagnostic and interventional radiology (Ankara, Turkey)
+JID - 101241152
+OTO - NOTNLM
+OT  - Chronic thromboembolic pulmonary diseases
+OT  - artificial intelligence
+OT  - chronic thromboembolic pulmonary hypertension
+OT  - computed tomography
+OT  - dual-energy computed tomography
+OT  - four-dimensional magnetic resonance imaging
+OT  - magnetic resonance imaging
+OT  - pulmonary angiography
+OT  - pulmonary embolism
+OT  - pulmonary hypertension
+EDAT- 2025/09/23 12:46
+MHDA- 2025/09/23 12:46
+CRDT- 2025/09/23 06:27
+PHST- 2025/09/23 12:46 [medline]
+PHST- 2025/09/23 12:46 [pubmed]
+PHST- 2025/09/23 06:27 [entrez]
+AID - 10.4274/dir.2025.253249 [doi]
+PST - aheadofprint
+SO  - Diagn Interv Radiol. 2025 Sep 23. doi: 10.4274/dir.2025.253249.

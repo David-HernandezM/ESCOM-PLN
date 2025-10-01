@@ -1,0 +1,87 @@
+PMID- 36102351
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221215
+LR  - 20230415
+IS  - 1528-1167 (Electronic)
+IS  - 0013-9580 (Print)
+IS  - 0013-9580 (Linking)
+VI  - 63
+IP  - 12
+DP  - 2022 Dec
+TI  - Drug resistance in idiopathic generalized epilepsies: Evidence and concepts.
+PG  - 3007-3019
+LID - 10.1111/epi.17410 [doi]
+AB  - Although approximately 10%-15% of patients with idiopathic generalized epilepsy 
+      (IGE)/genetic generalized epilepsy remain drug-resistant, there is no consensus 
+      or established concept regarding the underlying mechanisms and prevalence. This 
+      review summarizes the recent data and the current hypotheses on mechanisms that 
+      may contribute to drug-resistant IGE. A literature search was conducted in PubMed 
+      and Embase for studies on mechanisms of drug resistance published since 1980. The 
+      literature shows neither consensus on the definition nor a widely accepted model 
+      to explain drug resistance in IGE or one of its subsyndromes. Large-scale genetic 
+      studies have failed to identify distinct genetic causes or affected genes 
+      involved in pharmacokinetics. We found clinical and experimental evidence in 
+      support of four hypotheses: (1) "network hypothesis"-the degree of drug 
+      resistance in IGE reflects the severity of cortical network alterations, (2) 
+      "minor focal lesion in a predisposed brain hypothesis"-minor cortical lesions are 
+      important for drug resistance, (3) "interneuron hypothesis"-impaired functioning 
+      of γ-aminobutyric acidergic interneurons contributes to drug resistance, and (4) 
+      "changes in drug kinetics"-genetically impaired kinetics of antiseizure 
+      medication (ASM) reduce the effectiveness of available ASMs. In summary, the 
+      exact definition and cause of drug resistance in IGE is unknown. However, 
+      published evidence suggests four different mechanisms that may warrant further 
+      investigation.
+CI  - © 2022 The Authors. Epilepsia published by Wiley Periodicals LLC on behalf of 
+      International League Against Epilepsy.
+FAU - Gesche, Joanna
+AU  - Gesche J
+AUID- ORCID: 0000-0002-0546-4619
+AD  - Department of Neurology, Odense University Hospital, Odense, Denmark.
+AD  - Department of Clinical Research, University of Southern Denmark, Odense, Denmark.
+FAU - Beier, Christoph P
+AU  - Beier CP
+AUID- ORCID: 0000-0001-8268-1492
+AD  - Department of Neurology, Odense University Hospital, Odense, Denmark.
+AD  - Department of Clinical Research, University of Southern Denmark, Odense, Denmark.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20221014
+PL  - United States
+TA  - Epilepsia
+JT  - Epilepsia
+JID - 2983306R
+RN  - Epilepsy, Idiopathic Generalized
+SB  - IM
+MH  - Humans
+MH  - *Epilepsy, Generalized/drug therapy/genetics
+MH  - Drug Resistance/genetics
+PMC - PMC10092586
+OTO - NOTNLM
+OT  - drug resistance
+OT  - focality
+OT  - idiopathic generalized epilepsy
+OT  - interneurons
+OT  - juvenile myoclonic epilepsy
+OT  - kinetics
+OT  - network
+OT  - treatment failure
+COIS- C.P.B. has received honoraria from UCB, Eisai, and Arvelle. J.G. does not report 
+      possible conflicts of interest.
+EDAT- 2022/09/15 06:00
+MHDA- 2022/12/15 06:00
+PMCR- 2023/04/12
+CRDT- 2022/09/14 07:23
+PHST- 2022/09/05 00:00 [revised]
+PHST- 2022/06/01 00:00 [received]
+PHST- 2022/09/12 00:00 [accepted]
+PHST- 2022/09/15 06:00 [pubmed]
+PHST- 2022/12/15 06:00 [medline]
+PHST- 2022/09/14 07:23 [entrez]
+PHST- 2023/04/12 00:00 [pmc-release]
+AID - EPI17410 [pii]
+AID - 10.1111/epi.17410 [doi]
+PST - ppublish
+SO  - Epilepsia. 2022 Dec;63(12):3007-3019. doi: 10.1111/epi.17410. Epub 2022 Oct 14.

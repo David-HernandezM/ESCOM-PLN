@@ -1,0 +1,52 @@
+PMID- 29042912
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1792-0981 (Print)
+IS  - 1792-1015 (Electronic)
+IS  - 1792-0981 (Linking)
+VI  - 14
+IP  - 4
+DP  - 2017 Oct
+TI  - HPV vaccination in boys: Determining the clinical relevance of this strategy.
+PG  - 3327-3328
+LID - 10.3892/etm.2017.5005 [doi]
+FAU - Zur Hausen, Harald
+AU  - Zur Hausen H
+AD  - German Cancer Research Centre (DKFZ), Heidelberg 69120, Germany.
+FAU - Mammas, Ioannis N
+AU  - Mammas IN
+AD  - Department of Clinical Virology, School of Medicine, University of Crete, 
+      Heraklion 71003, Greece.
+FAU - Spandidos, Demetrios A
+AU  - Spandidos DA
+AD  - Department of Clinical Virology, School of Medicine, University of Crete, 
+      Heraklion 71003, Greece.
+LA  - eng
+PT  - Editorial
+DEP - 20170823
+PL  - Greece
+TA  - Exp Ther Med
+JT  - Experimental and therapeutic medicine
+JID - 101531947
+PMC - PMC5639420
+OTO - NOTNLM
+OT  - 3rd Workshop on Paediatric Virology
+OT  - Greece
+OT  - Harald zur Hausen
+OT  - human papillomavirus
+EDAT- 2017/10/19 06:00
+MHDA- 2017/10/19 06:01
+PMCR- 2017/08/23
+CRDT- 2017/10/19 06:00
+PHST- 2017/07/18 00:00 [received]
+PHST- 2017/08/22 00:00 [accepted]
+PHST- 2017/10/19 06:00 [entrez]
+PHST- 2017/10/19 06:00 [pubmed]
+PHST- 2017/10/19 06:01 [medline]
+PHST- 2017/08/23 00:00 [pmc-release]
+AID - ETM-0-0-5005 [pii]
+AID - 10.3892/etm.2017.5005 [doi]
+PST - ppublish
+SO  - Exp Ther Med. 2017 Oct;14(4):3327-3328. doi: 10.3892/etm.2017.5005. Epub 2017 Aug 
+      23.

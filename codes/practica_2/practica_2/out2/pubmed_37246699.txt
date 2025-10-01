@@ -1,0 +1,44 @@
+PMID- 37246699
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230530
+LR  - 20230531
+IS  - 0030-9982 (Print)
+IS  - 0030-9982 (Linking)
+VI  - 72
+IP  - 12
+DP  - 2022 Dec
+TI  - Autism spectrum disorder related to unwarranted paracetamol use in pregnancy.
+PG  - 2578-2579
+LID - 10.47391/JPMA.6267 [doi]
+FAU - Zehra, Asmat
+AU  - Zehra A
+AD  - 4th Year MBBS Students, Dow Medical College, Karachi, Pakistan.
+CN  - Gul -e- Zehra
+AD  - 4th Year MBBS Students, Dow Medical College, Karachi, Pakistan.
+FAU - Altaf, Hina
+AU  - Altaf H
+AD  - 4th Year MBBS Students, Dow Medical College, Karachi, Pakistan.
+LA  - eng
+PT  - Journal Article
+TA  - J Pak Med Assoc
+JT  - JPMA. The Journal of the Pakistan Medical Association
+JID - 7501162
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+MH  - Pregnancy
+MH  - Female
+MH  - Humans
+MH  - Acetaminophen/adverse effects
+MH  - *Autism Spectrum Disorder/drug therapy
+MH  - *Prenatal Exposure Delayed Effects/chemically induced
+EDAT- 2023/05/29 13:05
+MHDA- 2023/05/30 06:42
+CRDT- 2023/05/29 06:13
+PHST- 2023/05/30 06:42 [medline]
+PHST- 2023/05/29 13:05 [pubmed]
+PHST- 2023/05/29 06:13 [entrez]
+AID - 11685 [pii]
+AID - 10.47391/JPMA.6267 [doi]
+PST - ppublish
+SO  - J Pak Med Assoc. 2022 Dec;72(12):2578-2579. doi: 10.47391/JPMA.6267.

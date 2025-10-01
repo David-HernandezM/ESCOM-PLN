@@ -1,0 +1,88 @@
+PMID- 40983659
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1476-4679 (Electronic)
+IS  - 1465-7392 (Linking)
+DP  - 2025 Sep 22
+TI  - Membrane receptors cluster phosphatidylserine to activate LC3-associated 
+      phagocytosis.
+LID - 10.1038/s41556-025-01749-z [doi]
+AB  - LC3-associated phagocytosis (LAP) represents a non-canonical function of 
+      autophagy proteins in which ATG8-family proteins (LC3 and GABARAP proteins) are 
+      lipidated onto single-membrane phagosomes as particles are engulfed by phagocytic 
+      cells. LAP plays roles in innate immunity, inflammation and anticancer responses, 
+      and is initiated following phagocytosis of particles that stimulate Toll-like 
+      receptors (TLR) and Fc receptors as well as following engulfment of dying cells. 
+      However, how this molecular process is initiated remains elusive. Here we report 
+      that receptors that engage LAP enrich phosphatidylserine (PS) in the phagosome 
+      membrane via membrane-proximal domains that are necessary and sufficient for LAP 
+      to proceed. Subsequently, PS recruits the Rubicon-containing PI3-kinase complex 
+      to initiate the enzymatic cascade leading to LAP. Manipulation of plasma membrane 
+      PS content, PS binding by Rubicon or the PS-clustering domains of receptors 
+      prevents LAP and delays phagosome maturation. Therefore, the initiation of LAP 
+      represents a novel mechanism of PS-mediated signal transduction following 
+      ligation of surface receptors.
+CI  - © 2025. The Author(s).
+FAU - Boada-Romero, Emilio
+AU  - Boada-Romero E
+AUID- ORCID: 0000-0003-2482-076X
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA. emilio.boadaromero@stjude.org.
+FAU - Guy, Clifford S
+AU  - Guy CS
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Palacios, Gustavo
+AU  - Palacios G
+AUID- ORCID: 0009-0001-2483-3774
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Mari, Luigi
+AU  - Mari L
+AUID- ORCID: 0000-0002-2903-7689
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Poudel, Suresh
+AU  - Poudel S
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Li, Zhenrui
+AU  - Li Z
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Sharma, Piyush
+AU  - Sharma P
+AUID- ORCID: 0000-0003-1185-9534
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA.
+FAU - Green, Douglas R
+AU  - Green DR
+AUID- ORCID: 0000-0002-7332-1417
+AD  - Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN, 
+      USA. douglas.green@stjude.org.
+LA  - eng
+GR  - R35CA231620/U.S. Department of Health & Human Services | National Institutes of 
+      Health (NIH)/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Cell Biol
+JT  - Nature cell biology
+JID - 100890575
+SB  - IM
+COIS- Competing interests: D.R.G. consulted for Sonata Therapeutics, Horizon 
+      Therapeutics, Ventus Therapeutics, ASHA Therapeutics and Mycos during the period 
+      of this project. The other authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:19
+PHST- 2023/08/11 00:00 [received]
+PHST- 2025/07/23 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:19 [entrez]
+AID - 10.1038/s41556-025-01749-z [pii]
+AID - 10.1038/s41556-025-01749-z [doi]
+PST - aheadofprint
+SO  - Nat Cell Biol. 2025 Sep 22. doi: 10.1038/s41556-025-01749-z.

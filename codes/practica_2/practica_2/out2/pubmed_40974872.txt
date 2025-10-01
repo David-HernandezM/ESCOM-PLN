@@ -1,0 +1,202 @@
+PMID- 40974872
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1872-8332 (Electronic)
+IS  - 0169-5002 (Linking)
+VI  - 208
+DP  - 2025 Sep 16
+TI  - Biological impact of chemotherapy during treatment with EGFR tyrosine kinase 
+      inhibitors for non-small cell lung cancer positive for EGFR activating mutations.
+PG  - 108756
+LID - S0169-5002(25)00648-8 [pii]
+LID - 10.1016/j.lungcan.2025.108756 [doi]
+AB  - BACKGROUND: The aim of this study was to explore the biological impact of 
+      chemotherapy during epidermal growth factor receptor (EGFR) tyrosine kinase 
+      inhibitor (TKI) treatment in individuals with non-small cell lung cancer (NSCLC). 
+      METHODS: Plasma and tumor tissue specimens were prospectively collected from 
+      NSCLC patients with EGFR activating mutations who participated in a randomized 
+      phase III study comparing EGFR-TKI therapy with or without inserted chemotherapy 
+      (JCOG1404/WJOG8214L). The specimens were analyzed for genetic mutations by 
+      droplet digital polymerase chain reaction analysis and next-generation 
+      sequencing. RESULTS: Two hundred patients were enrolled in this biomarker study, 
+      with 113 and 87 individuals receiving EGFR-TKI monotherapy and EGFR-TKI treatment 
+      plus inserted chemotherapy, respectively. Although progression-free survival 
+      (PFS) for EGFR-TKI monotherapy was shorter in patients with than in those without 
+      detectable EGFR activating mutations in cell-free DNA at baseline, inserted 
+      chemotherapy improved PFS compared with EGFR-TKI monotherapy for the former 
+      patients (median, 17.5 vs. 11.8 months). Inserted chemotherapy suppressed the 
+      number of alleles positive for activating and T790M mutations of EGFR in 
+      cell-free DNA at disease progression. The benefit of inserted chemotherapy 
+      relative to EGFR-TKI monotherapy was more apparent in patients with (median PFS, 
+      18.8 vs. 13.5 months) than in those without detectable concurrent mutations of 
+      TP53. CONCLUSIONS: Chemotherapy has the potential to suppress the development of 
+      EGFR-TKI resistance as well as to inhibit tumor growth for NSCLC positive for 
+      EGFR activating mutations. Our results provide biological insight into 
+      combination treatment with EGFR-TKIs and chemotherapy for such patients.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Iwama, Eiji
+AU  - Iwama E
+AD  - Department of Respiratory Medicine, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan.
+FAU - Sakai, Kazuko
+AU  - Sakai K
+AD  - Department of Genome Biology, Faculty of Medicine, Kindai University, 
+      Osaka-Sayama, Japan.
+FAU - Harada, Taishi
+AU  - Harada T
+AD  - Department of Respiratory Medicine, Japan Community Health Care 
+      Organization-Kyushu Hospital, Fukuoka, Japan.
+FAU - Kanda, Shintaro
+AU  - Kanda S
+AD  - Department of Hematology and Medical Oncology, Shinshu University School of 
+      Medicine, Matsumoto, Japan; Department of Thoracic Oncology, National Cancer 
+      Center Hospital, Tokyo, Japan.
+FAU - Sugawara, Shunichi
+AU  - Sugawara S
+AD  - Department of Pulmonary Medicine, Sendai Kousei Hospital, Sendai, Japan.
+FAU - Yokoyama, Toshihide
+AU  - Yokoyama T
+AD  - Department of Respiratory Medicine, Kurashiki Central Hospital, Kurashiki, Japan.
+FAU - Taniguchi, Hirokazu
+AU  - Taniguchi H
+AD  - Department of Respiratory Medicine, Nagasaki University Graduate School of 
+      Biomedical Sciences, Nagasaki, Japan.
+FAU - Tanaka, Kaoru
+AU  - Tanaka K
+AD  - Department of Medical Oncology, Kindai University Faculty of Medicine, 
+      Osaka-Sayama, Japan.
+FAU - Toyozawa, Ryo
+AU  - Toyozawa R
+AD  - Department of Thoracic Oncology, NHO Kyushu Cancer Center, Fukuoka, Japan.
+FAU - Koyama, Kenichi
+AU  - Koyama K
+AD  - Department of Internal Medicine, Niigata Cancer Center Hospital, Niigata, Japan.
+FAU - Zenke, Yoshitaka
+AU  - Zenke Y
+AD  - Department of Thoracic Oncology, National Cancer Center Hospital East, Kashiwa, 
+      Japan.
+FAU - Kida, Gen
+AU  - Kida G
+AD  - Department of Thoracic Oncology, Saitama Cancer Center, Saitama, Japan.
+FAU - Nishioka, Yasuhiko
+AU  - Nishioka Y
+AD  - Department of Respiratory Medicine and Rheumatology, Graduate School of 
+      Biomedical Sciences, Tokushima University, Tokushima, Japan.
+FAU - Yokouchi, Hiroshi
+AU  - Yokouchi H
+AD  - Department of Respiratory Medicine, NHO Hokkaido Cancer Center, Sapporo, Japan.
+FAU - Hirose, Masayuki
+AU  - Hirose M
+AD  - Center for Clinical and Translational Research, Kyushu University Hospital, 
+      Fukuoka, Japan.
+FAU - Nishio, Kazuto
+AU  - Nishio K
+AD  - Department of Genome Biology, Faculty of Medicine, Kindai University, 
+      Osaka-Sayama, Japan.
+FAU - Yamamoto, Nobuyuki
+AU  - Yamamoto N
+AD  - Internal Medicine III, Wakayama Medical University, Wakayama, Japan.
+FAU - Ohe, Yuichiro
+AU  - Ohe Y
+AD  - Department of Thoracic Oncology, National Cancer Center Hospital, Tokyo, Japan.
+FAU - Okamoto, Isamu
+AU  - Okamoto I
+AD  - Department of Respiratory Medicine, Graduate School of Medical Sciences, Kyushu 
+      University, Fukuoka, Japan. Electronic address: 
+      okamoto.isamu.290@m.kyushu-u.ac.jp.
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - Ireland
+TA  - Lung Cancer
+JT  - Lung cancer (Amsterdam, Netherlands)
+JID - 8800805
+SB  - IM
+OTO - NOTNLM
+OT  - Chemotherapy
+OT  - Circulating tumor DNA
+OT  - Epidermal growth factor receptor (EGFR)
+OT  - Osimertinib
+OT  - Tyrosine kinase inhibitor
+COIS- Declaration of competing interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests: Eiji Iwama has received honoraria from AstraZeneca K.K. and Chugai 
+      Pharmaceutical. Kazuko Sakai has received honoraria from Qiagen, Inc., Takeda 
+      Pharmaceutical Co., Ltd., Nippon Kayaku Co., Ltd. and Life Technologies Japan 
+      Ltd. Shintaro Kanda has received honoraria from AstraZeneca K.K., Bristol Myers 
+      Squibb. K.K., Chugai Pharmaceutical Co., Ltd., Daiichi Sankyo Co., Ltd., Eisai 
+      Co., Ltd., Guardant Health AMEA, Kyowa Kirin Co., Ltd., MSD K.K., Nippon 
+      Boehringer. Ingelheim Co., Ltd., Ono Pharmaceutical Co., Ltd., and Taiho 
+      Pharmaceutical. Shunichi Sugawara has received honoraria from AstraZeneca K.K., 
+      Amgen, Boehringer Ingelheim Co., Ltd., Bristol Myers Squibb K.K., Chugai 
+      Pharmaceutical Co., Ltd., Eisai, Eli Lilly Japan K.K., Kyowa Kirin Co., Ltd., MSD 
+      K.K., Merck, Novartis Pharma K.K, Nippon Kayaku Co., Ltd., Ono Pharmaceutical 
+      Co., Ltd., Pfizer, Sysmex, Thermo Fisher Scientific, Takeda Pharmaceutical, and 
+      Taiho Pharmaceutical. Toshihide Yokoyama has received honoraria from AbbVie GK, 
+      AstraZeneca K.K., Boehringer Ingelheim Co., Ltd., Bristol Myers Squibb K.K., 
+      Chugai Pharmaceutical Co., Ltd., Daiichi Sankyo Co., Ltd., Delta-Fly Pharma, 
+      Janssen, MSD, Parexel International and Takeda Pharmaceutical. Kaoru Tanaka has 
+      received honoraria from AstraZeneca K.K., Bristol Myers Squibb K.K., Chugai 
+      Pharmaceutical Co., Ltd., Eisai, Merck Biopharma, MSD, Ono Pharmaceutical Co., 
+      Ltd., Novartis Pharma, Taiho Pharmaceutical and Takeda Pharmaceutical. Ryo 
+      Toyozawa has received honoraria from AstraZeneca K.K., Bristol Myers Squibb K.K., 
+      Chugai Pharmaceutical Co., Ltd., Eli Lilly Japan K.K., MSD K.K., Nippon Kayaku 
+      Co.,Ltd., Ono Pharmaceutical Co., Ltd., Pfizer, Sysmex, Thermo Fisher Scientific, 
+      Takeda Pharmaceutical, and Taiho Pharmaceutical. Yoshitaka Zenke has received 
+      honoraria from Amgen Inc., AstraZeneca K.K., Bristol-Myers Squibb K.K., Chugai 
+      Pharmaceutical Co., Ltd., Eli Lilly Japan K.K., Kyowa Kirin Co., Ltd., MSD K.K., 
+      Nippon Boehringer Ingelheim Co., Ltd., Nippon Kayaku Co., Ltd., Novartis Pharma 
+      K.K., Ono Pharmaceutical Co., Ltd., Pfizer Japan Inc., Taiho Pharmaceutical Co., 
+      Ltd., and Takeda Pharmaceuticals Co., Ltd., Guardant health, J&J Innovative 
+      Medicine; grants or other funding from Amgen Inc., AstraZeneca K.K., Chugai 
+      Pharmaceutical Co., Ltd., Daiichi Sankyo Co., Ltd., Merck Biopharma Co., Ltd., 
+      MSD K.K., Novocure, GSK, and Nippon Boehringer Ingelheim Co., Ltd. K. Yasuhiko 
+      Nishioka has received honoraria from AstraZeneca K.K. Hiroshi Yokouchi has 
+      received honoraria from AstraZeneca K.K.and Chugai Pharmaceutical Co., Ltd; 
+      research funding from AstraZeneca K.K., Amgen, AbbVie, Bristol Myers Squibb K.K., 
+      Chugai Pharmaceutical Co., Ltd., Daiichi-Sankyo, MSD K.K., Sanofi, and Takeda 
+      Pharmaceutical. Kazuto Nishio has received honoraria from AstraZeneca K.K., 
+      Chugai Pharmaceutical Co., Ltd., Daiichi Sankyo, Eli Lilly Japan K.K., Invitae 
+      Japan, MSD K.K., Maruho, Nichirei, Novartis Pharma K.K., Ono Pharmaceutical Co., 
+      Ltd., Guardant health, and Janssen Pharmaceutical; grants or other funding from 
+      Nippon Boehringer Ingelheim Co., Ltd., West Japan Oncology Group, Nichirei 
+      Biosciences Inc. Eli Lilly Japan, Hitachi, Sysmex, Otsuka Pharmaceutical, 
+      Thoracic Oncology Research Group, Okayama University, SymBio Pharmaceuticals and 
+      Japan Breast Cancer Research Group. N Yamamoto has honoraria from AbbVie G.K., 
+      Amgen Inc., Accuray Japan K.K., AstraZeneca K.K., Bristol-Myers Squibb K.K., 
+      Chugai Pharmaceutical Co., Ltd., Daiichi Sankyo Co., Ltd., Eli Lilly Japan K.K., 
+      Guardant Health AMEA, Janssen Pharmaceutical K.K., Kyorin Pharmaceutical Co., 
+      Ltd., Ono Pharmaceutical Co., Ltd., Otsuka Pharmaceutical Co., Ltd., Merck 
+      Biopharma Co., Ltd., Miyarisan Pharmaceutical Co., Ltd., USACO Corporation, 
+      Medical Review Co.,Ltd., KOWA COMPANY LTD. MSD K.K., Nippon Boehringer Ingelheim 
+      Co., Ltd., Nippon Kayaku Co., Ltd., Kyowa Kirin Co., Ltd., ShiftZero K.K., 
+      Novartis Pharma K.K., Pfizer Japan Inc., Taiho Pharmaceutical Co., Ltd., Takeda 
+      Pharmaceuticals Co., Ltd., Terumo Corporation, and Tsumura & Co.; grants or other 
+      funding from AstraZeneca K.K., Amgen Inc., DAIICHI SANKYO, INC., MSD, USACO 
+      Corporation, Ono Pharmaceutical Co., Ltd., and NovartisJapan. Yuichiro Ohe has 
+      received honoraria from AstraZeneca, Chugai, Eli Lilly, ONO, BMS, Boehringer 
+      Ingelheim, Bayer, Pfizer, MSD, Taiho, Nippon Kayaku, Kyowa Hakko Kirin, Eisai, 
+      Daiichi-Sankyo; grants or other funding from AstraZeneca, Chugai, Eli Lilly, 
+      Kirin, Sumitomo, Pfizer, Taiho, Novartis, Takeda, Daiichi-Sankyo, Janssen, ONO, 
+      BMS, Kyorin, Celltrion, Amgen, nippon Kayaku, Boehringer Ingelheim, AnHeart 
+      Therapeutics Inc. PharmaMar. Isamu Okamoto has received honoraria from 
+      AstraZeneca, Taiho Pharmaceutical, Boehringer Ingelheim, Ono Pharmaceutical, MSD, 
+      Eli Lilly Japan K.K., Bristol-Myers Squibb, Novartis, Chugai Pharmaceutical, 
+      Pfizer; grants or other funding from AstraZeneca, Taiho Pharmaceutical, 
+      Boehringer Ingelheim, Ono Pharmaceutical, MSD, Eli Lilly Japan K.K., Astellas, 
+      Bristol-Myers Squibb, Novartis, Chugai Pharmaceutical, Pfizer, AbbVie. Other 
+      authors declare no potential conflicts of interest.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:09
+PHST- 2025/07/05 00:00 [received]
+PHST- 2025/08/20 00:00 [revised]
+PHST- 2025/09/13 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:09 [entrez]
+AID - S0169-5002(25)00648-8 [pii]
+AID - 10.1016/j.lungcan.2025.108756 [doi]
+PST - aheadofprint
+SO  - Lung Cancer. 2025 Sep 16;208:108756. doi: 10.1016/j.lungcan.2025.108756.

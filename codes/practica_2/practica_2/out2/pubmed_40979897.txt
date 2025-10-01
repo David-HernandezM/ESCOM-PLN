@@ -1,0 +1,127 @@
+PMID- 40979897
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1178-2005 (Electronic)
+IS  - 1176-9106 (Print)
+IS  - 1176-9106 (Linking)
+VI  - 20
+DP  - 2025
+TI  - Association Between Body Roundness Index and Chronic Obstructive Pulmonary 
+      Disease in US Adults: Data from NHANES 2013-2018.
+PG  - 3217-3228
+LID - 10.2147/COPD.S545770 [doi]
+AB  - BACKGROUND: The association between the body roundness index (BRI) and the 
+      prevalence of chronic obstructive pulmonary disease (COPD) in US adults remains 
+      unclear. This study aims to investigate the association between BRI and the 
+      likelihood of developing COPD. METHODS: This study was conducted based on data 
+      from the 2013-2018 National Health and Nutrition Examination Survey. Participants 
+      were classified as having COPD if they met any of the following criteria: (i) 
+      self-reported physician diagnosis of COPD; (ii) physician-confirmed diagnosis of 
+      emphysema; or (iii) physician-confirmed diagnosis of chronic bronchitis. Those 
+      who responded "no" to all of the above were categorized as non-COPD. To assess 
+      the association between BRI and COPD, weighted logistic regression models, 
+      subgroup analyses, and interaction tests were employed. The dose-response 
+      relationship was investigated using a restricted cubic spline (RCS) model. 
+      RESULTS: A total of 14,254 individuals were included. The overall weighted 
+      prevalence of COPD was 8.3%. After adjusting for multiple confounders, continuous 
+      BRI was found to be positively associated with COPD (odds ratio [OR] = 1.140, 95% 
+      confidence interval [CI]: 1.033-1.259, P = 0.012). The RCS analysis confirmed a 
+      linear dose-response relationship between BRI and COPD. Subgroup analyses 
+      demonstrated substantial heterogeneity across sex, hypertension, and 
+      cardiovascular disease subgroups, indicating that the association between BRI and 
+      COPD may be impacted by these factors. CONCLUSION: Higher BRI levels were 
+      positively associated with an increased likelihood of developing COPD among US 
+      adults. Our study suggests that BRI holds promise as a tool for assessing the 
+      odds of having COPD.
+CI  - © 2025 Zheng et al.
+FAU - Zheng, Weibo
+AU  - Zheng W
+AUID- ORCID: 0009-0005-7011-9941
+AD  - The Second School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Chen, Liandong
+AU  - Chen L
+AD  - The Fifth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Ying, Haojie
+AU  - Ying H
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Lv, Jiawei
+AU  - Lv J
+AD  - The Fifth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Zhou, Binzhe
+AU  - Zhou B
+AUID- ORCID: 0009-0002-1500-7515
+AD  - The Third School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Tian, Chendong
+AU  - Tian C
+AUID- ORCID: 0009-0009-2910-6216
+AD  - School of Clinical Medicine, Hangzhou Medical College, Hangzhou, Zhejiang, 
+      310059, People's Republic of China.
+FAU - Wu, Yuchen
+AU  - Wu Y
+AD  - The Fifth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Shao, Qihui
+AU  - Shao Q
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Xu, Hanyu
+AU  - Xu H
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+FAU - Jin, Bowen
+AU  - Jin B
+AD  - The Fourth School of Clinical Medicine, Zhejiang Chinese Medical University, 
+      Hangzhou, Zhejiang, 310053, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - New Zealand
+TA  - Int J Chron Obstruct Pulmon Dis
+JT  - International journal of chronic obstructive pulmonary disease
+JID - 101273481
+SB  - IM
+MH  - Humans
+MH  - *Pulmonary Disease, Chronic Obstructive/epidemiology/diagnosis/physiopathology
+MH  - Male
+MH  - Female
+MH  - United States/epidemiology
+MH  - Middle Aged
+MH  - Nutrition Surveys
+MH  - Prevalence
+MH  - Adult
+MH  - Risk Factors
+MH  - Aged
+MH  - Cross-Sectional Studies
+MH  - Risk Assessment
+PMC - PMC12449875
+OTO - NOTNLM
+OT  - BRI
+OT  - NHANES
+OT  - abdominal fat
+OT  - body roundness index
+OT  - chronic obstructive pulmonary disease
+OT  - cross-sectional study
+OT  - obesity
+COIS- The authors declare that they have no competing interests.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:47
+PMCR- 2025/09/16
+CRDT- 2025/09/22 08:16
+PHST- 2025/06/09 00:00 [received]
+PHST- 2025/09/07 00:00 [accepted]
+PHST- 2025/09/22 12:47 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 08:16 [entrez]
+PHST- 2025/09/16 00:00 [pmc-release]
+AID - 545770 [pii]
+AID - 10.2147/COPD.S545770 [doi]
+PST - epublish
+SO  - Int J Chron Obstruct Pulmon Dis. 2025 Sep 16;20:3217-3228. doi: 
+      10.2147/COPD.S545770. eCollection 2025.

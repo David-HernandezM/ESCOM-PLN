@@ -1,0 +1,148 @@
+PMID- 40967218
+OWN - NLM
+STAT- Publisher
+LR  - 20250918
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+DP  - 2025 Sep 17
+TI  - Identification of a neural basis for energy expenditure in the mouse arcuate 
+      hypothalamus.
+LID - S0896-6273(25)00630-0 [pii]
+LID - 10.1016/j.neuron.2025.08.021 [doi]
+AB  - Given the evolutionary instinct for caloric intake and frequent weight rebound 
+      after diet or drug cessation, increasing energy expenditure emerges as an 
+      alternative obesity treatment. Environmental cues such as cold and seasonal light 
+      prompt the brain to adjust energy expenditure, yet the coordinating neural 
+      mechanisms remain poorly understood. Here, we identify a hypothalamic GABAergic 
+      neuronal subtype, marked by Crabp1, that targets multiple nuclei to regulate 
+      energy expenditure in mice. Silencing Crabp1 neurons reduces physical activity, 
+      body temperature, and adaptive thermogenesis, leading to obesity, whereas 
+      activation increases energy expenditure and mitigates diet-induced obesity. 
+      Structural and functional analyses reveal that Crabp1 neurons promote energy 
+      metabolism through a "one-to-many" projection pattern. While Crabp1 neurons are 
+      activated by cold exposure and physical activity, prolonged light exposure 
+      abrogates their firing, which mediates light-induced metabolic disorder. 
+      Together, we reveal a neural basis that integrates various physiological and 
+      environmental stimuli to control energy expenditure and body weight.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Wang, Ting
+AU  - Wang T
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Han, Shuping
+AU  - Han S
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Wang, Yaxin
+AU  - Wang Y
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Li, Yaning
+AU  - Li Y
+AD  - National Institute of Biological Sciences, Beijing 102206, China.
+FAU - Li, Yuxiao
+AU  - Li Y
+AD  - State Key Laboratory of Digital Medical Engineering, School of Biomedical 
+      Engineering, Hainan University, Haikou 570228, China.
+FAU - Xing, Zhifang
+AU  - Xing Z
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Zhang, Shuangfeng
+AU  - Zhang S
+AD  - National Institute of Biological Sciences, Beijing 102206, China.
+FAU - Xia, Yu
+AU  - Xia Y
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Zhu, Feipeng
+AU  - Zhu F
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Chen, Zhen-Hua
+AU  - Chen ZH
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Li, Yu Zheng
+AU  - Li YZ
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Wang, Jingjing
+AU  - Wang J
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Xu, Mingrui
+AU  - Xu M
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China.
+FAU - Liu, Qinghua
+AU  - Liu Q
+AD  - National Institute of Biological Sciences, Beijing 102206, China.
+FAU - Jiang, Man
+AU  - Jiang M
+AD  - Department of Physiology, School of Basic Medicine and Tongji Medical College, 
+      Huazhong University of Science and Technology, Wuhan 430030, China.
+FAU - Xu, Xiaohong
+AU  - Xu X
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Chinese Academy of 
+      Sciences, Shanghai 200031, China.
+FAU - Li, Xiangning
+AU  - Li X
+AD  - State Key Laboratory of Digital Medical Engineering, School of Biomedical 
+      Engineering, Hainan University, Haikou 570228, China; HUST-Suzhou Institute for 
+      Brainsmatics, JITRI, Suzhou 215123, China.
+FAU - Gong, Hui
+AU  - Gong H
+AD  - HUST-Suzhou Institute for Brainsmatics, JITRI, Suzhou 215123, China.
+FAU - Cao, Peng
+AU  - Cao P
+AD  - National Institute of Biological Sciences, Beijing 102206, China. Electronic 
+      address: caopeng@nibs.ac.cn.
+FAU - Wu, Qing-Feng
+AU  - Wu QF
+AD  - Laboratory of Integrative Physiology, Institute of Genetics and Developmental 
+      Biology, Chinese Academy of Sciences, Beijing 100101, China; University of 
+      Chinese Academy of Sciences, Beijing 100101, China; Beijing Key Laboratory for 
+      Genetics of Birth Defects, Beijing 100045, China. Electronic address: 
+      wu_qingfeng@genetics.ac.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+OTO - NOTNLM
+OT  - Crabp1 neurons
+OT  - arcuate nucleus
+OT  - cold exposure
+OT  - energy expenditure
+OT  - exercise
+OT  - feeding behavior
+OT  - hypothalamus
+OT  - light pollution
+OT  - metabolic disorder
+OT  - obesity
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+CRDT- 2025/09/18 18:41
+PHST- 2024/12/28 00:00 [received]
+PHST- 2025/07/15 00:00 [revised]
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 18:41 [entrez]
+AID - S0896-6273(25)00630-0 [pii]
+AID - 10.1016/j.neuron.2025.08.021 [doi]
+PST - aheadofprint
+SO  - Neuron. 2025 Sep 17:S0896-6273(25)00630-0. doi: 10.1016/j.neuron.2025.08.021.

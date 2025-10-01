@@ -1,0 +1,118 @@
+PMID- 40972193
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1879-1026 (Electronic)
+IS  - 0048-9697 (Linking)
+VI  - 1001
+DP  - 2025 Sep 18
+TI  - Exploring the mechanism of volatile organic compounds in respiratory tract tumors 
+      based on network toxicology and molecular simulation.
+PG  - 180500
+LID - S0048-9697(25)02140-0 [pii]
+LID - 10.1016/j.scitotenv.2025.180500 [doi]
+AB  - This study elucidates the pathogenic role of environmental volatile organic 
+      compounds (VOCs) in respiratory tumorigenesis, focusing on head and neck cancer 
+      (HNSC), lung squamous cell carcinoma (LUSC), and lung adenocarcinoma (LUAD). As 
+      pervasive pollutants derived from industrial emissions, traffic exhaust, and 
+      indoor contaminants, VOCs threaten public health, yet their molecular mechanisms 
+      in multi-cancer pathogenesis remain poorly defined. By integrating network 
+      toxicology and molecular docking, we systematically dissected VOC-driven 
+      disruptions in respiratory homeostasis. Disease-associated targets were mined 
+      from TCGA, CTD, and GeneCards databases, followed by core target identification 
+      via STRING network analysis and Cytoscape. Functional enrichment (GO/KEGG) and 
+      survival analyses revealed critical pathways, while molecular docking and 
+      molecular dynamics validated pollutant-target interactions. Our results 
+      demonstrate that VOCs directly perturb key targets (FN1, PECAM1, CDK1 etc.), 
+      hijacking PI3K-Akt signaling, ECM-receptor interactions, and cell cycle 
+      regulation to promote apoptosis evasion and unchecked proliferation. 
+      High-affinity binding between VOCs and targets underscores their role as 
+      environmental carcinogens. Strikingly, shared dysregulated pathway across HNSC, 
+      LUSC, and LUAD highlight pan-respiratory susceptibility to VOC exposure. 
+      Epidemiological correlations align with molecular findings, emphasizing 
+      cumulative risks in populations exposed to air pollution. The study also 
+      highlights FN1 and PECAM1 as key targets, emphasizing the importance of these 
+      markers in VOC-associated carcinogenesis.
+CI  - Copyright © 2025. Published by Elsevier B.V.
+FAU - Ding, Ran
+AU  - Ding R
+AD  - Department of Radiology, State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Collaborative 
+      Innovation Center of Cancer Medicine, Sun Yat-sen University Cancer Center, 
+      Guangzhou, 510060, PR China.
+FAU - Quan, Qi
+AU  - Quan Q
+AD  - State Key Laboratory of Oncology in South China, Guangdong Key Laboratory of 
+      Nasopharyngeal Carcinoma Diagnosis and Therapy, Guangdong Provincial Clinical 
+      Research Center for Cancer, Sun Yat-sen University Cancer Center, Guangzhou, 
+      510060, PR China.
+FAU - Dai, QianQian
+AU  - Dai Q
+AD  - Department of Radiation Oncology, Guangdong Provincial People's Hospital 
+      (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 
+      Guangdong, 510080, PR China.
+FAU - Quan, TingQiu
+AU  - Quan T
+AD  - Department of Radiology, State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Collaborative 
+      Innovation Center of Cancer Medicine, Sun Yat-sen University Cancer Center, 
+      Guangzhou, 510060, PR China; State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University 
+      Cancer Center, Guangzhou, 510060, PR China.
+FAU - Huang, Rong
+AU  - Huang R
+AD  - Department of Radiology, State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Collaborative 
+      Innovation Center of Cancer Medicine, Sun Yat-sen University Cancer Center, 
+      Guangzhou, 510060, PR China.
+FAU - Xie, DeHuan
+AU  - Xie D
+AD  - Department of Radiation Oncology, Guangdong Provincial People's Hospital 
+      (Guangdong Academy of Medical Sciences), Southern Medical University, Guangzhou, 
+      Guangdong, 510080, PR China.
+FAU - Long, ZhiQing
+AU  - Long Z
+AD  - Department of Radiology, State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Collaborative 
+      Innovation Center of Cancer Medicine, Sun Yat-sen University Cancer Center, 
+      Guangzhou, 510060, PR China; State Key Laboratory of Oncology in South China, 
+      Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, 
+      Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University 
+      Cancer Center, Guangzhou, 510060, PR China. Electronic address: 
+      longzq@sysucc.org.cn.
+LA  - eng
+PT  - Letter
+DEP - 20250918
+PL  - Netherlands
+TA  - Sci Total Environ
+JT  - The Science of the total environment
+JID - 0330500
+SB  - IM
+OTO - NOTNLM
+OT  - Head and neck cancer
+OT  - Lung adenocarcinoma
+OT  - Lung squamous cell carcinoma
+OT  - Molecular docking
+OT  - Network toxicology
+OT  - Volatile organic carcinogens
+COIS- Declaration of competing interest The authors declare no competing financial 
+      interests or personal relationships that could influence the work reported in 
+      this manuscript.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 18:06
+PHST- 2025/05/15 00:00 [received]
+PHST- 2025/08/22 00:00 [revised]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 18:06 [entrez]
+AID - S0048-9697(25)02140-0 [pii]
+AID - 10.1016/j.scitotenv.2025.180500 [doi]
+PST - aheadofprint
+SO  - Sci Total Environ. 2025 Sep 18;1001:180500. doi: 10.1016/j.scitotenv.2025.180500.

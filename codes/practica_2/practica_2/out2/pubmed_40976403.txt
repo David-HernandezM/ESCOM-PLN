@@ -1,0 +1,126 @@
+PMID- 40976403
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1090-2139 (Electronic)
+IS  - 0889-1591 (Linking)
+DP  - 2025 Sep 19
+TI  - Social determinants of health, brain structure, and immune-metabolic mechanisms 
+      in depression: A multi-omic analysis from the UK Biobank.
+PG  - 106117
+LID - S0889-1591(25)00359-9 [pii]
+LID - 10.1016/j.bbi.2025.106117 [doi]
+AB  - BACKGROUND: Depression is a leading global health challenge, yet the role of 
+      Social Determinants of Health (SDH) in shaping depression risk - particularly 
+      through underlying biological mechanisms - remains insufficiently understood. 
+      This study leverages a multi-omics approach to explore how unfavorable social 
+      conditions influence depression through neural, and physiological pathways. 
+      METHODS: Drawing on data from 257,698 participants in the UK Biobank. Cox 
+      proportional hazards regression models were used to examine the relationship 
+      between SDH, polygenic risk scores (PRS), and depression. Correlation analyses 
+      were conducted to explore associations between SDH, biomarkers, brain structure, 
+      and depression. Two-sample mendelian randomization (MR) was applied to 
+      investigate causal relationships, while structural equation modeling (SEM) was 
+      used to examine interactions among SDH, depression, brain structure, PRS, and 
+      immune-metabolic biomarkers. RESULTS: Depression was significantly associated 
+      with SDH. Multivariable Cox regression showed that unfavorable SDH increased 
+      depression risk (HR = 1.916), and higher PRS was also linked to increased risk 
+      (HR = 1.288). The combination of unfavorable SDH and high PRS yielded the highest 
+      depression risk (HR = 2.578). MR analysis further emphasized the causal 
+      relationship between unfavorable SDH and depression. SDH was also linked to brain 
+      structural changes and metabolic markers, with smaller brain volumes in regions 
+      like the hippocampus and insula in the unfavorable SDH group, along with 
+      associations with biomarkers such as triglycerides and C-reactive protein. SEM 
+      analysis revealed that SDH influenced depression through immune-metabolic and 
+      brain structural pathways. CONCLUSIONS: These findings underscore the 
+      multifaceted nature of depression, highlighting how social disadvantage becomes 
+      biologically embedded through genetic and physiological mechanisms. Addressing 
+      key modifiable components of SDH may represent a powerful strategy for targeted 
+      prevention, especially in genetically at-risk populations.
+CI  - Copyright © 2025. Published by Elsevier Inc.
+FAU - Xu, Huijie
+AU  - Xu H
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Zhang, Zheng
+AU  - Zhang Z
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Ye, Yanyue
+AU  - Ye Y
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Gu, Jing
+AU  - Gu J
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Chen, Hui
+AU  - Chen H
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Jiang, Zhengqian
+AU  - Jiang Z
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Cheng, Bohao
+AU  - Cheng B
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Tang, Huajia
+AU  - Tang H
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Li, Sihong
+AU  - Li S
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China.
+FAU - Chang, Zheng
+AU  - Chang Z
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm, Sweden. Electronic address: zheng.chang@ki.se.
+FAU - Zhou, Jiansong
+AU  - Zhou J
+AD  - Department of Psychiatry, the Second Xiangya Hospital of Central South 
+      University, National Center for Mental Disorders, National Clinical Research 
+      Center for Mental Disorders, Changsha 410011, China. Electronic address: 
+      zhoujs2003@csu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - Netherlands
+TA  - Brain Behav Immun
+JT  - Brain, behavior, and immunity
+JID - 8800478
+SB  - IM
+OTO - NOTNLM
+OT  - Brain Structure
+OT  - Depression
+OT  - Immune-Metabolic Biomarkers
+OT  - Polygenic Risk Scores
+OT  - Social Determinants of Health
+OT  - UK Biobank
+COIS- declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/22 00:29
+MHDA- 2025/09/22 00:29
+CRDT- 2025/09/21 19:48
+PHST- 2025/03/28 00:00 [received]
+PHST- 2025/09/13 00:00 [revised]
+PHST- 2025/09/18 00:00 [accepted]
+PHST- 2025/09/22 00:29 [medline]
+PHST- 2025/09/22 00:29 [pubmed]
+PHST- 2025/09/21 19:48 [entrez]
+AID - S0889-1591(25)00359-9 [pii]
+AID - 10.1016/j.bbi.2025.106117 [doi]
+PST - aheadofprint
+SO  - Brain Behav Immun. 2025 Sep 19:106117. doi: 10.1016/j.bbi.2025.106117.

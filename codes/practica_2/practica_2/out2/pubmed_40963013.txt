@@ -1,0 +1,231 @@
+PMID- 40963013
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Sep 17
+TI  - CRISPR activation for SCN2A-related neurodevelopmental disorders.
+LID - 10.1038/s41586-025-09522-w [doi]
+AB  - Most neurodevelopmental disorders with single gene diagnoses act via 
+      haploinsufficiency, in which only one of the two gene copies is functional(1). 
+      SCN2A haploinsufficiency is one of the most frequent causes of neurodevelopmental 
+      disorder, often presenting with autism spectrum disorder, intellectual disability 
+      and, in a subset of children, refractory epilepsy(2). Here, using SCN2A 
+      haploinsufficiency as a proof-of-concept, we show that upregulation of the 
+      existing functional gene copy through CRISPR activation (CRISPRa) can rescue 
+      neurological-associated phenotypes in Scn2a haploinsufficient mice. We first show 
+      that restoring Scn2a expression in adolescent heterozygous Scn2a conditional 
+      knock-in mice rescues electrophysiological deficits associated with Scn2a 
+      haploinsufficiency (Scn2a(+/-)). Next, using an adeno-associated virus 
+      CRISPRa-based treatment in adolescent mice, we show that we can correct intrinsic 
+      and synaptic deficits in neocortical pyramidal cells, a major cell type that 
+      contributes to neurodevelopmental disorders and seizure aetiology in SCN2A 
+      haploinsufficiency. Furthermore, we find that systemic delivery of CRISPRa 
+      protects Scn2a(+/-) mice against chemoconvulsant-induced seizures. Finally, we 
+      also show that adeno-associated virus CRISPRa treatment rescues excitability in 
+      SCN2A haploinsufficient human stem-cell-derived neurons. Our results showcase the 
+      potential of this therapeutic approach to rescue SCN2A haploinsufficiency and 
+      demonstrates that rescue even at adolescent stages can ameliorate 
+      neurodevelopmental phenotypes.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+FAU - Tamura, Serena
+AU  - Tamura S
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Nelson, Andrew D
+AU  - Nelson AD
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Spratt, Perry W E
+AU  - Spratt PWE
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Hamada, Elizabeth C
+AU  - Hamada EC
+AUID- ORCID: 0009-0008-0614-8141
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Zhou, Xujia
+AU  - Zhou X
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Kyoung, Henry
+AU  - Kyoung H
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Li, Zizheng
+AU  - Li Z
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Arnould, Coline
+AU  - Arnould C
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Barskyi, Vladyslav
+AU  - Barskyi V
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Krupkin, Beniamin
+AU  - Krupkin B
+AUID- ORCID: 0000-0002-7457-7342
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Young, Kiana
+AU  - Young K
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Zhao, Jingjing
+AU  - Zhao J
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Holden, Stephanie S
+AU  - Holden SS
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+AD  - Gladstone Institute of Neurological Disease, University of California San 
+      Francisco, San Francisco, CA, USA.
+FAU - Sahagun, Atehsa
+AU  - Sahagun A
+AUID- ORCID: 0000-0001-7521-3279
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Keeshen, Caroline M
+AU  - Keeshen CM
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Lu, Congyi
+AU  - Lu C
+AD  - Stanley Center for Psychiatric Research, Broad Institute, Cambridge, MA, USA.
+FAU - Ben-Shalom, Roy
+AU  - Ben-Shalom R
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Taloma, Sunrae E
+AU  - Taloma SE
+AUID- ORCID: 0000-0002-7210-8614
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Schamiloglu, Selin
+AU  - Schamiloglu S
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Li, Ying C
+AU  - Li YC
+AUID- ORCID: 0009-0009-4792-8336
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Min, Lia
+AU  - Min L
+AUID- ORCID: 0000-0002-3977-1684
+AD  - Department of Pharmacology, University of Michigan Medical School, Ann Arbor, MI, 
+      USA.
+FAU - Jenkins, Paul M
+AU  - Jenkins PM
+AUID- ORCID: 0000-0002-4207-5823
+AD  - Department of Pharmacology, University of Michigan Medical School, Ann Arbor, MI, 
+      USA.
+AD  - Department of Psychiatry, University of Michigan Medical School, Ann Arbor, MI, 
+      USA.
+FAU - Pan, Jen Q
+AU  - Pan JQ
+AD  - Stanley Center for Psychiatric Research, Broad Institute, Cambridge, MA, USA.
+FAU - Paz, Jeanne T
+AU  - Paz JT
+AUID- ORCID: 0000-0001-6339-8130
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA.
+AD  - Gladstone Institute of Neurological Disease, University of California San 
+      Francisco, San Francisco, CA, USA.
+FAU - Sanders, Stephan J
+AU  - Sanders SJ
+AUID- ORCID: 0000-0001-9112-5148
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA.
+AD  - Department of Psychiatry, University of California San Francisco, San Francisco, 
+      CA, USA.
+AD  - Institute of Developmental and Regenerative Medicine, Department of Paediatrics, 
+      University of Oxford, Oxford, UK.
+FAU - Matharu, Navneet
+AU  - Matharu N
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA.
+FAU - Ahituv, Nadav
+AU  - Ahituv N
+AUID- ORCID: 0000-0002-7434-8144
+AD  - Department of Bioengineering and Therapeutic Sciences, University of California 
+      San Francisco, San Francisco, CA, USA. nadav.ahituv@ucsf.edu.
+AD  - Institute for Human Genetics, University of California San Francisco, San 
+      Francisco, CA, USA. nadav.ahituv@ucsf.edu.
+FAU - Bender, Kevin J
+AU  - Bender KJ
+AUID- ORCID: 0000-0001-7084-1532
+AD  - Weill Institute for Neurosciences, University of California San Francisco, San 
+      Francisco, CA, USA. kevin.bender@ucsf.edu.
+AD  - Department of Neurology, University of California San Francisco, San Francisco, 
+      CA, USA. kevin.bender@ucsf.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+COIS- Competing interests: N.M. is the cofounder and former board member and CSO of 
+      Regel Therapeutics, N.A. is the cofounder of Regel Therapeutics and both N.A. and 
+      K.J.B. are on the scientific advisory board of Regel Therapeutics. P.W.E.S. is a 
+      Program Director at Regel Therapeutics. N.M. and N.A. are the inventors on patent 
+      ‘Gene therapy for haploinsufficiency’ WO2018148256A9. N.A., K.J.B. and S.J.S. 
+      receive funding from BioMarin Pharmaceutical Incorporated. The other authors 
+      declare no competing interests.
+EDAT- 2025/09/18 00:30
+MHDA- 2025/09/18 00:30
+CRDT- 2025/09/17 23:22
+PHST- 2024/01/23 00:00 [received]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/18 00:30 [medline]
+PHST- 2025/09/18 00:30 [pubmed]
+PHST- 2025/09/17 23:22 [entrez]
+AID - 10.1038/s41586-025-09522-w [pii]
+AID - 10.1038/s41586-025-09522-w [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Sep 17. doi: 10.1038/s41586-025-09522-w.

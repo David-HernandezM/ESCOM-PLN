@@ -1,0 +1,130 @@
+PMID- 40974574
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2211-1247 (Electronic)
+VI  - 44
+IP  - 10
+DP  - 2025 Sep 19
+TI  - Nuclear-cytoplasmic translocation of MCIDAS couples transcription with massive de 
+      novo centriole biogenesis in multiciliated cells.
+PG  - 116321
+LID - S2211-1247(25)01092-7 [pii]
+LID - 10.1016/j.celrep.2025.116321 [doi]
+AB  - Multiciliated cells (MCCs) bear numerous motile cilia that drive fluid flow, but 
+      how numerous centrioles for multiciliation are generated has remained unresolved. 
+      Here, we report that the "master" MCC transcriptional regulator, MCIDAS, 
+      moonlights in the cytoplasm to organize massive centriole biogenesis. Like 
+      MCIDAS, its co-transcriptional factors, E2F4 and E2F5, also undergo cytoplasmic 
+      accumulation, colocalizing with MCIDAS and forming procentrioles. MCIDAS loss 
+      inhibited E2F4/5 cytoplasmic accumulation and blocked centriole assembly. 
+      Furthermore, we show that the cytoplasmic accumulation of MCIDAS is mediated by 
+      CRM1-dependant nuclear export, and its inhibition specifically compromised 
+      centriole biogenesis. By contrast, on loss of parental centrioles and 
+      deuterosomes, which does not impair centriole formation, E2F4 cytoplasmic 
+      localization remained unaffected, establishing that the MCIDAS-E2F4/5 cytoplasmic 
+      complex represents the de novo centriole biogenesis pathway. We have also 
+      assembled a comprehensive list of MCIDAS targets, a resource which will enable 
+      further exposition of MCC biology and pathological mechanisms of motile 
+      ciliopathies.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Lu, Hao
+AU  - Lu H
+AD  - Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology 
+      and Research (A(∗)STAR), Proteos, 61 Biopolis Drive, Singapore 138673, Singapore.
+FAU - Goh, Kim Jee
+AU  - Goh KJ
+AD  - Skin Research Institute of Singapore, 11 Mandalay Road #17-01 Clinical Sciences 
+      Building, Singapore 308232, Singapore.
+FAU - Tan, Ee Kim
+AU  - Tan EK
+AD  - Lee Kong Chian School of Medicine, Nanyang Technological University, Clinical 
+      Sciences Building, 11 Mandalay Road, Singapore 308232, Singapore.
+FAU - James, Cameron T
+AU  - James CT
+AD  - Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology 
+      and Research (A(∗)STAR), Proteos, 61 Biopolis Drive, Singapore 138673, Singapore; 
+      Division of Clinical Medicine, School of Medicine and Public Health, University 
+      of Sheffield, Sheffield S10 2JF, UK.
+FAU - Ghosh, Arnab
+AU  - Ghosh A
+AD  - Biotechnology Research and Innovation Council - National Institute of Biomedical 
+      Genomics (BRIC-NIBMG), Kalyani, India; Biotechnology Research and Innovation 
+      Council - Regional Centre for Biotechnology (BRIC-RCB), Faridabad, India.
+FAU - Boudjema, Amélie-Rose
+AU  - Boudjema AR
+AD  - Institut de Biologie de l'École Normale Supérieure (IBENS), CNRS, UMR 8197, 
+      INSERM, U1024, Paris Sciences et Lettres (PSL), Research University, Paris, 
+      France.
+FAU - Lorenzini, Paolo Alberto
+AU  - Lorenzini PA
+AD  - Infectious Disease Labs (IDLabs), Agency for Science, Technology and Research 
+      (A(∗)STAR), 8a Biomedical Grove, #05-13, Immunos, Singapore 1386348, Singapore; 
+      Bioinformatics Institute (BII), Agency for Science, Technology and Research 
+      (A(∗)STAR), 30 Biopolis Street, #07-01, Matrix, Singapore 138671, Singapore.
+FAU - Bingle, Colin D
+AU  - Bingle CD
+AD  - Division of Clinical Medicine, School of Medicine and Public Health, University 
+      of Sheffield, Sheffield S10 2JF, UK.
+FAU - Maurer-Stroh, Sebastian
+AU  - Maurer-Stroh S
+AD  - Bioinformatics Institute (BII), Agency for Science, Technology and Research 
+      (A(∗)STAR), 30 Biopolis Street, #07-01, Matrix, Singapore 138671, Singapore; Yong 
+      Loo Lin School of Medicine and Department of Biological Sciences, National 
+      University of Singapore, Singapore 117597, Singapore.
+FAU - Biswas, Nidhan K
+AU  - Biswas NK
+AD  - Biotechnology Research and Innovation Council - National Institute of Biomedical 
+      Genomics (BRIC-NIBMG), Kalyani, India.
+FAU - Meunier, Alice
+AU  - Meunier A
+AD  - Institut de Biologie de l'École Normale Supérieure (IBENS), CNRS, UMR 8197, 
+      INSERM, U1024, Paris Sciences et Lettres (PSL), Research University, Paris, 
+      France.
+FAU - Dunn, N Ray
+AU  - Dunn NR
+AD  - Skin Research Institute of Singapore, 11 Mandalay Road #17-01 Clinical Sciences 
+      Building, Singapore 308232, Singapore; Lee Kong Chian School of Medicine, Nanyang 
+      Technological University, Clinical Sciences Building, 11 Mandalay Road, Singapore 
+      308232, Singapore.
+FAU - Roy, Sudipto
+AU  - Roy S
+AD  - Institute of Molecular and Cell Biology (IMCB), Agency for Science, Technology 
+      and Research (A(∗)STAR), Proteos, 61 Biopolis Drive, Singapore 138673, Singapore; 
+      Department of Pediatrics, Yong Loo Lin School of Medicine, National University of 
+      Singapore, 1E Kent Ridge Road, Singapore 119288, Singapore. Electronic address: 
+      sudipto_roy@a-star.edu.sg.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cell Rep
+JT  - Cell reports
+JID - 101573691
+SB  - IM
+OTO - NOTNLM
+OT  - CP: Cell biology
+OT  - E2F4
+OT  - E2F5
+OT  - MCIDAS
+OT  - centrioles
+OT  - de novo centriole biogenesis
+OT  - ependymal cells
+OT  - human embryonic stem cells
+OT  - mouse tracheal epithelial cells
+OT  - multiciliated cells
+OT  - primary ciliary dyskinesia
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/20 18:29
+MHDA- 2025/09/20 18:29
+CRDT- 2025/09/20 12:36
+PHST- 2024/08/22 00:00 [received]
+PHST- 2025/05/29 00:00 [revised]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/20 18:29 [medline]
+PHST- 2025/09/20 18:29 [pubmed]
+PHST- 2025/09/20 12:36 [entrez]
+AID - S2211-1247(25)01092-7 [pii]
+AID - 10.1016/j.celrep.2025.116321 [doi]
+PST - aheadofprint
+SO  - Cell Rep. 2025 Sep 19;44(10):116321. doi: 10.1016/j.celrep.2025.116321.

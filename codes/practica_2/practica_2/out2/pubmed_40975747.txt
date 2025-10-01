@@ -1,0 +1,178 @@
+PMID- 40975747
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1476-5403 (Electronic)
+IS  - 1350-9047 (Linking)
+DP  - 2025 Sep 20
+TI  - TRIM24-mediated K27-linked ubiquitination of ULK1 alleviates energy 
+      stress-induced autophagy and promote prostate cancer growth in the context of 
+      SPOP mutation.
+LID - 10.1038/s41418-025-01582-9 [doi]
+AB  - SPOP, the most frequently mutated gene in prostate cancer, has been implicated in 
+      the aberrant activation of stress granules, presenting significant challenges in 
+      disease management. However, the mechanistic link between SPOP mutations and 
+      cellular energy stress remains inadequately explored. In this study, we 
+      demonstrate that ULK1 expression is positively correlated with both 
+      loss-of-function mutations in SPOP and the upregulation of the E3 ubiquitin 
+      ligase TRIM24 in human prostate cancer specimens. Mechanistically, SPOP mutations 
+      induce the upregulation of TRIM24, which subsequently binds to ULK1 and catalyzes 
+      its non-degradative K27-linked polyubiquitylation. This post-translational 
+      modification enhances the stability of ULK1, facilitating cellular adaptation to 
+      energy stress and consequently promoting prostate cancer progression. Notably, 
+      pharmacological inhibition of TRIM24 using TRIM24-PROTAC (proteolysis-targeting 
+      chimera) effectively suppressed tumor growth in mice bearing SPOP-mutant prostate 
+      cancer cells. Collectively, these findings elucidate a pivotal role of SPOP 
+      mutations in modulating energy stress responses via TRIM24-mediated ULK1 
+      ubiquitylation and underscore the therapeutic potential of targeting TRIM24 in 
+      SPOP-mutant prostate cancers.
+CI  - © 2025. The Author(s), under exclusive licence to ADMC Associazione 
+      Differenziamento e Morte Cellulare.
+FAU - Chen, Shimin
+AU  - Chen S
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Lin, Jichun
+AU  - Lin J
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+AD  - Oncology Department, Shandong Second Provincial General Hospital, Jinan, China.
+FAU - Yang, Zhan
+AU  - Yang Z
+AUID- ORCID: 0000-0001-7191-2910
+AD  - Shandong Provincial Key Laboratory of Clinical Research for Pancreatic Diseases, 
+      Tumor Immunology and Cytotherapy, Medical Research Center, The Affiliated 
+      Hospital of Qingdao University, Qingdao, China.
+FAU - Wang, Yuanjing
+AU  - Wang Y
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Wang, Qiang
+AU  - Wang Q
+AD  - Oncology Department, Shandong Second Provincial General Hospital, Jinan, China.
+FAU - Wang, Dong
+AU  - Wang D
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Qu, Yue
+AU  - Qu Y
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Lin, Qian
+AU  - Lin Q
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Liu, Jia
+AU  - Liu J
+AD  - Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, 
+      China.
+FAU - Yan, Shi
+AU  - Yan S
+AD  - Department of Urology, Shanghai Fourth People's Hospital, School of Medicine, 
+      Tongji University, Shanghai, China.
+FAU - Wang, Zixin
+AU  - Wang Z
+AD  - College of Basic Medical Sciences, Naval Medical University, Shanghai, China.
+FAU - Qian, Xueyu
+AU  - Qian X
+AD  - College of Basic Medical Sciences, Naval Medical University, Shanghai, China.
+FAU - Xiao, Yutian
+AU  - Xiao Y
+AUID- ORCID: 0000-0002-3039-8342
+AD  - Department of Urology, The First Affiliated Hospital, Naval Medical University, 
+      Shanghai, China.
+FAU - Li, Xue
+AU  - Li X
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Chen, Yinuo
+AU  - Chen Y
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Fang, Wenshuo
+AU  - Fang W
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Zhao, Jiaojiao
+AU  - Zhao J
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China.
+FAU - Lu, Zhimin
+AU  - Lu Z
+AUID- ORCID: 0000-0002-2859-2736
+AD  - Zhejiang Key Laboratory of Pancreatic Disease, The First Affiliated Hospital, 
+      Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, and 
+      Institute of Translational Medicine, Zhejiang University School of Medicine, 
+      Hangzhou, China. zhiminlu@zju.edu.cn.
+AD  - Institute of Fundamental and Transdisciplinary Research, Cancer Center, Zhejiang 
+      University, Hangzhou, China. zhiminlu@zju.edu.cn.
+FAU - Ren, He
+AU  - Ren H
+AD  - Shandong Provincial Key Laboratory of Clinical Research for Pancreatic Diseases, 
+      Tumor Immunology and Cytotherapy, Medical Research Center, The Affiliated 
+      Hospital of Qingdao University, Qingdao, China. herenrh@163.com.
+AD  - Gastrointestinal Cancer Institute/Pancreatic Disease Institute, the Affiliated 
+      Hospital of Qingdao University, Qingdao, Shandong, China. herenrh@163.com.
+FAU - Zhu, Yasheng
+AU  - Zhu Y
+AD  - Department of Urology, The First Affiliated Hospital, Naval Medical University, 
+      Shanghai, China. zys0562@foxmail.com.
+FAU - Ma, Leina
+AU  - Ma L
+AUID- ORCID: 0000-0003-3964-632X
+AD  - Department of Oncology, Cancer Institute of the Affiliated Hospital of Qingdao 
+      University, Qingdao University, Qingdao Cancer Institute, Qingdao, Shandong, 
+      China. leinama@gmail.com.
+LA  - eng
+GR  - 82372806/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82188102/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82030074/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82125026/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - ZR2021MC039/Natural Science Foundation of Shandong Province (Shandong Provincial 
+      Natural Science Foundation)/
+GR  - tsqn202312378/Taishan Scholar Foundation of Shandong Province/
+GR  - tsqn202312378/Taishan Scholar Foundation of Shandong Province/
+GR  - 2020YFA0803300/Ministry of Science and Technology of the People's Republic of 
+      China (Chinese Ministry of Science and Technology)/
+GR  - 22Y11905200/Science and Technology Commission of Shanghai Municipality (Shanghai 
+      Municipal Science and Technology Commission)/
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Cell Death Differ
+JT  - Cell death and differentiation
+JID - 9437445
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethics approval 
+      and consent to participate: The studies involving human participants were 
+      reviewed and approved by the Institute Review Board of Shanghai Changhai 
+      Hospital. Written informed consent for participation was not required for this 
+      study in accordance with the national legislation and the institutional 
+      requirements.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 23:15
+PHST- 2024/10/01 00:00 [received]
+PHST- 2025/09/10 00:00 [accepted]
+PHST- 2025/08/05 00:00 [revised]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 23:15 [entrez]
+AID - 10.1038/s41418-025-01582-9 [pii]
+AID - 10.1038/s41418-025-01582-9 [doi]
+PST - aheadofprint
+SO  - Cell Death Differ. 2025 Sep 20. doi: 10.1038/s41418-025-01582-9.

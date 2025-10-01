@@ -1,0 +1,249 @@
+PMID- 40973797
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1529-2916 (Electronic)
+IS  - 1529-2908 (Linking)
+DP  - 2025 Sep 19
+TI  - STING signals to NF-κB from late endolysosomal compartments using IRF3 as an 
+      adaptor.
+LID - 10.1038/s41590-025-02283-8 [doi]
+AB  - NF-κB is central for activation of immune responses. Cytosolic DNA activates the 
+      cGAS-STING pathway to induce type I interferons (IFNs) and signaling through 
+      NF-κB, thus instigating host defenses and pathological inflammation. However, the 
+      mechanism underlying STING-induced NF-κB activation is unknown. Here we report 
+      that STING activates NF-κB in a delayed manner, following exit from the Golgi to 
+      endolysosomal compartments. Activation of NF-κB is dependent on the IFN-inducing 
+      transcription factor IRF3 but is independent of type I IFN signaling. This 
+      activation pattern is evolutionarily conserved in tetrapods. Mechanistically, the 
+      monomer IRF3 is recruited to STING pS358, with delayed kinetics relative to IRF3 
+      recruitment to STING pS366, which promotes type I IFN responses. IRF3 engagement 
+      with STING pS358 induces trafficking to late endolysosomal compartments, 
+      supporting recruitment of TRAF6 and activation of NF-κB. We identify a TRAF6 
+      binding motif in IRF3 that facilitates recruitment of TRAF6. This work defines a 
+      signaling surface on STING and a function for IRF3 as an adaptor in immune 
+      signaling. These findings indicate that STING signaling to NF-κB is enabled only 
+      within a short time window between exit from the Golgi and lysosomal degradation, 
+      possibly limiting inflammation under homeostatic and danger-sensing conditions.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature America, Inc.
+FAU - Zhang, Bao-Cun
+AU  - Zhang BC
+AUID- ORCID: 0000-0001-6104-0848
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark. 
+      baocunzh@biomed.au.dk.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark. 
+      baocunzh@biomed.au.dk.
+FAU - Pedersen, Alice
+AU  - Pedersen A
+AUID- ORCID: 0000-0003-4705-8050
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Reinert, Line S
+AU  - Reinert LS
+AUID- ORCID: 0000-0002-8317-0886
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Li, Ying
+AU  - Li Y
+AD  - Department of Biochemistry and Biophysics, Texas A&M University, College Station, 
+      TX, USA.
+FAU - Narita, Ryo
+AU  - Narita R
+AUID- ORCID: 0000-0003-2045-2509
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Idorn, Manja
+AU  - Idorn M
+AUID- ORCID: 0000-0002-6769-9165
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Hu, Lili
+AU  - Hu L
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Skouboe, Morten K
+AU  - Skouboe MK
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Department of Infectious Diseases, Aarhus University Hospital, Aarhus, Denmark.
+FAU - Li, Sirui
+AU  - Li S
+AD  - Department of Genetics, Lineberger Comprehensive Cancer Center, Center for 
+      Translational Immunology, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA.
+AD  - Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in 
+      Molecular Cell Science, Chinese Academy of Sciences, University of Chinese 
+      Academy of Sciences, Shanghai, China.
+AD  - Department of Microbiology and Immunology, University of North Carolina at Chapel 
+      Hill, Chapel Hill, NC, USA.
+FAU - Maimaitili, Muyesier
+AU  - Maimaitili M
+AUID- ORCID: 0009-0006-2049-840X
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Ding, Xiangning
+AU  - Ding X
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Cong, Yingying
+AU  - Cong Y
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Zhao, Jian
+AU  - Zhao J
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Frémond, Marie-Louise
+AU  - Frémond ML
+AUID- ORCID: 0000-0002-2798-9141
+AD  - Laboratory of Neurogenetics and Neuroinflammation, Imagine Institute, INSERM 
+      UMR1163, University Paris Cité, Paris, France.
+AD  - Paediatric Hematology-Immunology and Rheumatology Unit, Necker-Enfants Malades 
+      Hospital, AP-HP, Paris, France.
+FAU - Mikkelsen, Kasper
+AU  - Mikkelsen K
+AUID- ORCID: 0000-0001-6062-4243
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Gao, Zongliang
+AU  - Gao Z
+AUID- ORCID: 0000-0002-8257-8986
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Huang, Jin-Rong
+AU  - Huang JR
+AUID- ORCID: 0000-0001-8085-9939
+AD  - Department of Biology, University of Copenhagen, Copenhagen, Denmark.
+FAU - Thomsen, Emil A
+AU  - Thomsen EA
+AUID- ORCID: 0000-0002-2685-7745
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Mikkelsen, Jakob H
+AU  - Mikkelsen JH
+AUID- ORCID: 0000-0002-2914-3297
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Venkatraman, Rajan
+AU  - Venkatraman R
+AD  - Department of Biochemistry and Molecular Biology, Monash Biomedicine Discovery 
+      Institute, Monash University, Clayton, Victoria, Australia.
+FAU - Thomsen, Martin K
+AU  - Thomsen MK
+AUID- ORCID: 0000-0002-5055-7531
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Iversen, Marie B
+AU  - Iversen MB
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Assil, Sonia
+AU  - Assil S
+AUID- ORCID: 0000-0001-7765-2953
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Zhang, Ran
+AU  - Zhang R
+AD  - Groningen Research Institute of Pharmacy, University of Groningen, Groningen, the 
+      Netherlands.
+FAU - Henneman, Linda
+AU  - Henneman L
+AD  - Animal Modeling Facility, Netherlands Cancer Institute, Amsterdam, the 
+      Netherlands.
+FAU - Jakobsen, Martin R
+AU  - Jakobsen MR
+AUID- ORCID: 0000-0001-8847-9201
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Oxvig, Claus
+AU  - Oxvig C
+AUID- ORCID: 0000-0002-4715-9719
+AD  - Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark.
+FAU - Dalgaard, Tina S
+AU  - Dalgaard TS
+AD  - Department of Animal and Veterinary Sciences, Aarhus University, Tjele, Denmark.
+FAU - Møller, Peter
+AU  - Møller P
+AUID- ORCID: 0000-0002-2021-1249
+AD  - Section of Environmental Health, Department of Public Health, University of 
+      Copenhagen, Copenhagen, Denmark.
+FAU - Fago, Angela
+AU  - Fago A
+AUID- ORCID: 0000-0001-7315-2628
+AD  - Department of Biology, Aarhus University, Aarhus, Denmark.
+FAU - Wang, Tobias
+AU  - Wang T
+AD  - Department of Biology, Aarhus University, Aarhus, Denmark.
+FAU - Andersen, Christian B F
+AU  - Andersen CBF
+AUID- ORCID: 0000-0001-6182-2436
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - De Nardo, Dominic
+AU  - De Nardo D
+AUID- ORCID: 0000-0002-7045-4695
+AD  - Department of Biology, University of Copenhagen, Copenhagen, Denmark.
+FAU - Reggiori, Fulvio
+AU  - Reggiori F
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Ting, Jenny P-Y
+AU  - Ting JP
+AUID- ORCID: 0000-0002-3282-419X
+AD  - Department of Genetics, Lineberger Comprehensive Cancer Center, Center for 
+      Translational Immunology, University of North Carolina at Chapel Hill, Chapel 
+      Hill, NC, USA.
+AD  - Department of Microbiology and Immunology, University of North Carolina at Chapel 
+      Hill, Chapel Hill, NC, USA.
+FAU - Mikkelsen, Jacob G
+AU  - Mikkelsen JG
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+FAU - Bak, Rasmus O
+AU  - Bak RO
+AUID- ORCID: 0000-0002-7383-0297
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+FAU - Mogensen, Trine H
+AU  - Mogensen TH
+AUID- ORCID: 0000-0002-1853-9704
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark.
+AD  - Department of Biochemistry and Biophysics, Texas A&M University, College Station, 
+      TX, USA.
+FAU - Li, Pingwei
+AU  - Li P
+AD  - Department of Biochemistry and Biophysics, Texas A&M University, College Station, 
+      TX, USA.
+FAU - Paludan, Søren R
+AU  - Paludan SR
+AUID- ORCID: 0000-0001-9180-4060
+AD  - Department of Biomedicine, Aarhus University, Aarhus, Denmark. srp@biomed.au.dk.
+AD  - Center for Immunology of Viral infections, Aarhus University, Aarhus, Denmark. 
+      srp@biomed.au.dk.
+LA  - eng
+GR  - 0134-00008B/Det Frie Forskningsråd (Danish Council for Independent Research)/
+GR  - 1026-00003B/Det Frie Forskningsråd (Danish Council for Independent Research)/
+GR  - 0134-00006B/Det Frie Forskningsråd (Danish Council for Independent Research)/
+GR  - R359-2020-2287/Lundbeckfonden (Lundbeck Foundation)/
+GR  - NNF18OC0030274/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+GR  - NNF20OC0064301/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+GR  - NNF20OC0063436/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+GR  - NNF20OC0064890/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+GR  - NNF21OC0067157/Novo Nordisk Fonden (Novo Nordisk Foundation)/
+GR  - 786602/EC | EU Framework Programme for Research and Innovation H2020 | H2020 
+      Priority Excellent Science | H2020 European Research Council (H2020 Excellent 
+      Science - European Research Council)/
+GR  - AI145287/U.S. Department of Health & Human Services | NIH | Office of Disease 
+      Prevention (ODP)/
+GR  - A-2107/Welch Foundation/
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Nat Immunol
+JT  - Nature immunology
+JID - 100941354
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 23:51
+PHST- 2023/11/07 00:00 [received]
+PHST- 2025/08/19 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:51 [entrez]
+AID - 10.1038/s41590-025-02283-8 [pii]
+AID - 10.1038/s41590-025-02283-8 [doi]
+PST - aheadofprint
+SO  - Nat Immunol. 2025 Sep 19. doi: 10.1038/s41590-025-02283-8.

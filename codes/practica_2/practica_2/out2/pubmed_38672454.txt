@@ -1,0 +1,113 @@
+PMID- 38672454
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240427
+LR  - 20241210
+IS  - 2218-273X (Electronic)
+IS  - 2218-273X (Linking)
+VI  - 14
+IP  - 4
+DP  - 2024 Apr 3
+TI  - Roles of Epigenetics and Glial Cells in Drug-Induced Autism Spectrum Disorder.
+LID - 10.3390/biom14040437 [doi]
+LID - 437
+AB  - Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by 
+      severe deficits in social communication and interaction, repetitive movements, 
+      abnormal focusing on objects, or activity that can significantly affect the 
+      quality of life of the afflicted. Neuronal and glial cells have been implicated. 
+      It has a genetic component but can also be triggered by environmental factors or 
+      drugs. For example, prenatal exposure to valproic acid or acetaminophen, or 
+      ingestion of propionic acid, can increase the risk of ASD. Recently, epigenetic 
+      influences on ASD have come to the forefront of investigations on the etiology, 
+      prevention, and treatment of this disorder. Epigenetics refers to DNA 
+      modifications that alter gene expression without making any changes to the DNA 
+      sequence. Although an increasing number of pharmaceuticals and environmental 
+      chemicals are being implicated in the etiology of ASD, here, we specifically 
+      focus on the molecular influences of the abovementioned chemicals on epigenetic 
+      alterations in neuronal and glial cells and their potential connection to ASD. We 
+      conclude that a better understanding of these phenomena can lead to more 
+      effective interventions in ASD.
+FAU - Csoka, Antonei B
+AU  - Csoka AB
+AD  - Department of Anatomy, Howard University College of Medicine, Washington, DC 
+      20059, USA.
+FAU - El Kouhen, Nacer
+AU  - El Kouhen N
+AD  - Faculty of Medicine and Pharmacy of Casablanca, Hassan II University, Casablanca 
+      20100, Morocco.
+FAU - Bennani, Samia
+AU  - Bennani S
+AUID- ORCID: 0009-0001-5800-1044
+AD  - Faculty of Medicine and Pharmacy of Casablanca, Hassan II University, Casablanca 
+      20100, Morocco.
+FAU - Getachew, Bruk
+AU  - Getachew B
+AD  - Department of Pharmacology, Howard University College of Medicine, Washington, DC 
+      20059, USA.
+FAU - Aschner, Michael
+AU  - Aschner M
+AUID- ORCID: 0000-0002-2619-1656
+AD  - Department of Molecular Pharmacology, Albert Einstein College of Medicine, Bronx, 
+      NY 10461, USA.
+FAU - Tizabi, Yousef
+AU  - Tizabi Y
+AUID- ORCID: 0000-0003-1703-1842
+AD  - Department of Pharmacology, Howard University College of Medicine, Washington, DC 
+      20059, USA.
+LA  - eng
+GR  - R03 AA022479/AA/NIAAA NIH HHS/United States
+GR  - NIH/NIGMS (2 SO6 GM08016-39/National Institute of Health/
+GR  - R25 AG047843/AG/NIA NIH HHS/United States
+GR  - R01 ES007331/ES/NIEHS NIH HHS/United States
+GR  - S06 GM008016/GM/NIGMS NIH HHS/United States
+GR  - R01 ES010563/ES/NIEHS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20240403
+PL  - Switzerland
+TA  - Biomolecules
+JT  - Biomolecules
+JID - 101596414
+RN  - 614OI1Z5WI (Valproic Acid)
+RN  - 0 (Propionates)
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - JHU490RVYR (propionic acid)
+SB  - IM
+MH  - *Autism Spectrum Disorder/genetics/metabolism/chemically induced
+MH  - Humans
+MH  - *Epigenesis, Genetic/drug effects
+MH  - *Neuroglia/metabolism/drug effects
+MH  - Valproic Acid/pharmacology/adverse effects
+MH  - Propionates/pharmacology
+MH  - Animals
+MH  - Acetaminophen/adverse effects
+MH  - Neurons/metabolism/drug effects/pathology
+MH  - DNA Methylation/drug effects
+PMC - PMC11048423
+OTO - NOTNLM
+OT  - acetaminophen
+OT  - autism spectrum disorder
+OT  - epigenetics
+OT  - gliosis
+OT  - neuroinflammation
+OT  - propionic acid
+OT  - teratogen
+OT  - valproic acid
+COIS- The authors declare no conflict of interest.
+EDAT- 2024/04/27 09:56
+MHDA- 2024/04/27 09:57
+PMCR- 2024/04/03
+CRDT- 2024/04/27 01:05
+PHST- 2024/02/29 00:00 [received]
+PHST- 2024/03/31 00:00 [revised]
+PHST- 2024/04/01 00:00 [accepted]
+PHST- 2024/04/27 09:57 [medline]
+PHST- 2024/04/27 09:56 [pubmed]
+PHST- 2024/04/27 01:05 [entrez]
+PHST- 2024/04/03 00:00 [pmc-release]
+AID - biom14040437 [pii]
+AID - biomolecules-14-00437 [pii]
+AID - 10.3390/biom14040437 [doi]
+PST - epublish
+SO  - Biomolecules. 2024 Apr 3;14(4):437. doi: 10.3390/biom14040437.

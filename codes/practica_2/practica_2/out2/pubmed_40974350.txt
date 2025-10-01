@@ -1,0 +1,110 @@
+PMID- 40974350
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1942-5546 (Electronic)
+IS  - 0025-6196 (Print)
+IS  - 0025-6196 (Linking)
+DP  - 2025 Sep 19
+TI  - The Genetic Associations Between Kidney Stones, Obesity, Type 2 Diabetes, and 
+      Hypertension.
+LID - S0025-6196(25)00243-5 [pii]
+LID - 10.1016/j.mayocp.2025.04.030 [doi]
+AB  - OBJECTIVE: Investigate shared genetic changes that contribute to the association 
+      of kidney stones with cardiometabolic comorbidities. PATIENTS AND METHODS: 
+      Genome-wide association studies (GWAS) and meta-analyses were performed using the 
+      UK Biobank, Mayo Clinic Biobank, and FinnGen, complemented by secondary genetic 
+      association analyses. RESULTS: Genetic correlation analyses confirmed modest but 
+      significant positive associations between kidney stones and hypertension, 
+      obesity, and type 2 diabetes (r(g)=0.14 ∼ 0.19, all P<.001). Single nucleotide 
+      variants near FTO (for expansion of gene symbols, use search tool at 
+      www.genenames.org) were identified as shared risk loci across all conditions. 
+      Mendelian randomization analyses demonstrated that higher body mass index (BMI) 
+      and waist-hip ratio (WHR) significantly increased the risk of kidney stones, type 
+      2 diabetes, and hypertension. Subsequent GWAS analyses adjusting for BMI or WHR 
+      revealed a slightly reduced yet significant genetic correlation between kidney 
+      stones and type 2 diabetes (BMI-adjusted: r(g)=0.18; 95% CI, 0.07 to 0.28; 
+      P=.001; WHR-adjusted: r(g)=0.16; 95% CI, 0.06 to 0.25; P<.001), whereas the 
+      association of kidney stones with hypertension was nearly eliminated. A 
+      multi-trait analysis of GWAS identified one potential shared risk locus between 
+      BMI-adjusted kidney stones and type 2 diabetes on chromosome 6 near LINC02537. 
+      Further analyses indicated this locus is associated with thyroid-stimulating 
+      hormone and free thyroxine levels. CONCLUSION: Our study highlights a critical 
+      role for shared obesity-related genetic changes in the comorbid relationship 
+      between kidney stones and cardiometabolic conditions. There are additional 
+      genetic features related to thyroid function that are shared between kidney 
+      stones and type 2 diabetes, which appear to be independent of obesity.
+CI  - Copyright © 2025 Mayo Foundation for Medical Education and Research. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Zhou, Le-Ting
+AU  - Zhou LT
+AD  - Department of Nephrology, The Affiliated Wuxi People's Hospital of Nanjing 
+      Medical University; Wuxi Medical Center, Nanjing Medical University; Wuxi 
+      People's Hospital, Wuxi, China; Division of Nephrology and Hypertension, 
+      Department of Medicine, Mayo Clinic, Rochester, MN, USA.
+FAU - Stark, Isaac W
+AU  - Stark IW
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Ali, Ahmed E
+AU  - Ali AE
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Jayachandran, Muthuvel
+AU  - Jayachandran M
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Haskic, Zejfa
+AU  - Haskic Z
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Harris, Peter C
+AU  - Harris PC
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA.
+FAU - Koo, Kevin
+AU  - Koo K
+AD  - Department of Urology, Mayo Clinic, Rochester, MN, USA.
+FAU - McDonnell, Shannon K
+AU  - McDonnell SK
+AD  - Division of Clinical Trials and Biostatistics, Department of Quantitative Health 
+      Sciences, Mayo Clinic, Rochester, MN, USA.
+FAU - Larson, Nicholas B
+AU  - Larson NB
+AD  - Division of Clinical Trials and Biostatistics, Department of Quantitative Health 
+      Sciences, Mayo Clinic, Rochester, MN, USA.
+FAU - Lieske, John C
+AU  - Lieske JC
+AD  - Division of Nephrology and Hypertension, Department of Medicine, Mayo Clinic, 
+      Rochester, MN, USA; Department of Laboratory Medicine and Pathology, Mayo Clinic, 
+      Rochester, MN, USA. Electronic address: Lieske.John@mayo.edu.
+LA  - eng
+GR  - P20 DK135097/DK/NIDDK NIH HHS/United States
+GR  - R01 DK133171/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Mayo Clin Proc
+JT  - Mayo Clinic proceedings
+JID - 0405543
+SB  - IM
+PMC - PMC12453589
+MID - NIHMS2081012
+COIS- Financial Disclosure: The authors declare that they have no relevant financial 
+      interests.
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:32
+PMCR- 2026/09/19
+CRDT- 2025/09/20 10:30
+PHST- 2025/01/29 00:00 [received]
+PHST- 2025/04/21 00:00 [revised]
+PHST- 2025/04/29 00:00 [accepted]
+PHST- 2026/09/19 00:00 [pmc-release]
+PHST- 2025/09/20 12:32 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 10:30 [entrez]
+AID - S0025-6196(25)00243-5 [pii]
+AID - 10.1016/j.mayocp.2025.04.030 [doi]
+PST - aheadofprint
+SO  - Mayo Clin Proc. 2025 Sep 19:S0025-6196(25)00243-5. doi: 
+      10.1016/j.mayocp.2025.04.030.

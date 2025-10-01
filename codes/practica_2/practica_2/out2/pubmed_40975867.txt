@@ -1,0 +1,129 @@
+PMID- 40975867
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2211-1247 (Electronic)
+VI  - 44
+IP  - 10
+DP  - 2025 Sep 19
+TI  - Gut-derived metabolites drive Th17 cell pathogenicity in multiple sclerosis.
+PG  - 116326
+LID - S2211-1247(25)01097-6 [pii]
+LID - 10.1016/j.celrep.2025.116326 [doi]
+AB  - The gut-brain axis is an emerging factor in promoting multiple sclerosis (MS). 
+      However, the underlying mechanisms and strategies to target this axis are not 
+      established. Here, we investigated how the gut environment influences 
+      myelin-specific Th17 cell pathogenicity. We used the adoptive Th17 cell transfer 
+      experimental autoimmune encephalomyelitis (EAE) model and antibiotic treatment to 
+      disrupt the intestinal microbiome. We observed reduced pathogenic Th17 cell 
+      signature in the colon of antibiotic-treated mice. Treatment with fecal filtrates 
+      enhanced myelin-specific Th17 cell encephalitogenic properties both in vitro and 
+      in vivo. Fecal metabolomic profiling identified altered tryptophan-derived 
+      metabolites, including indole-3-carboxylate (I3CA). Oral I3CA supplementation 
+      accelerated EAE development. I3CA concentration in blood samples from persons 
+      with MS (PwMS) was associated with increased disease severity mirrored by 
+      increased serum neurofilament light chain levels. Altogether, our study shows 
+      that microbiota-derived metabolites play a key role in the intestine during 
+      neuroinflammation, offering potential therapeutic insights for PwMS.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Rebeaud, J
+AU  - Rebeaud J
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Vigne, S
+AU  - Vigne S
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Bressoud, V
+AU  - Bressoud V
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Carre, R
+AU  - Carre R
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Ruiz, F
+AU  - Ruiz F
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Peter, B
+AU  - Peter B
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland.
+FAU - Phillips, N E
+AU  - Phillips NE
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland; Service of Endocrinology and 
+      Diabetology, Geneva University Hospitals, Geneva, Switzerland.
+FAU - Siewert, L
+AU  - Siewert L
+AD  - Departments of Neurology, Biomedicine, and Clinical Research & Research Center 
+      for Neuroimmunology and Neuroscience Basel (RC2NB), University Hospital and 
+      University of Basel, Basel, Switzerland.
+FAU - Roloff, T
+AU  - Roloff T
+AD  - Institute of Medical Microbiology, University of Zurich, Zurich, Switzerland.
+FAU - Egli, A
+AU  - Egli A
+AD  - Institute of Medical Microbiology, University of Zurich, Zurich, Switzerland.
+FAU - Kuhle, J
+AU  - Kuhle J
+AD  - Departments of Neurology, Biomedicine, and Clinical Research & Research Center 
+      for Neuroimmunology and Neuroscience Basel (RC2NB), University Hospital and 
+      University of Basel, Basel, Switzerland.
+FAU - Collet, T-H
+AU  - Collet TH
+AD  - Service of Endocrinology and Diabetology, Geneva University Hospitals, Geneva, 
+      Switzerland; Diabetes Centre, Faculty of Medicine, University of Geneva, Geneva, 
+      Switzerland.
+FAU - Pröbstel, A K
+AU  - Pröbstel AK
+AD  - Departments of Neurology, Biomedicine, and Clinical Research & Research Center 
+      for Neuroimmunology and Neuroscience Basel (RC2NB), University Hospital and 
+      University of Basel, Basel, Switzerland.
+FAU - Pot, C
+AU  - Pot C
+AD  - Laboratories of Neuroimmunology, Center for Research in Neuroscience and Service 
+      of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital, 
+      and University of Lausanne, Lausanne, Switzerland. Electronic address: 
+      caroline.pot-kreis@chuv.ch.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Cell Rep
+JT  - Cell reports
+JID - 101573691
+SB  - IM
+OTO - NOTNLM
+OT  - CP: Metabolism
+OT  - CP: Neuroscience
+OT  - Th17 lymphocytes
+OT  - blood biomarker
+OT  - experimental autoimmune encephalomyelitis
+OT  - gut-brain axis
+OT  - indole derivatives
+OT  - microbiota-derived metabolites
+OT  - multiple sclerosis
+OT  - neuroinflammation
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2025/09/21 18:29
+MHDA- 2025/09/21 18:29
+CRDT- 2025/09/21 12:36
+PHST- 2025/01/30 00:00 [received]
+PHST- 2025/06/16 00:00 [revised]
+PHST- 2025/09/01 00:00 [accepted]
+PHST- 2025/09/21 18:29 [medline]
+PHST- 2025/09/21 18:29 [pubmed]
+PHST- 2025/09/21 12:36 [entrez]
+AID - S2211-1247(25)01097-6 [pii]
+AID - 10.1016/j.celrep.2025.116326 [doi]
+PST - aheadofprint
+SO  - Cell Rep. 2025 Sep 19;44(10):116326. doi: 10.1016/j.celrep.2025.116326.

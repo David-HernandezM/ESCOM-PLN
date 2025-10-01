@@ -1,0 +1,85 @@
+PMID- 20878177
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110512
+LR  - 20220409
+IS  - 1439-6327 (Electronic)
+IS  - 1439-6319 (Linking)
+VI  - 111
+IP  - 2
+DP  - 2011 Feb
+TI  - Association among basal serum BDNF, cardiorespiratory fitness and cardiovascular 
+      disease risk factors in untrained healthy Korean men.
+PG  - 303-11
+LID - 10.1007/s00421-010-1658-5 [doi]
+AB  - Evidence suggests that serum brain-derived neurotrophic factor (serum BDNF) can 
+      be affected by cardiorespiratory fitness (CRF), but this relationship is far from 
+      clear. Recent reports show an inverse relationship between serum BDNF and CRF in 
+      healthy individuals, and other studies suggest a possible association between 
+      serum BDNF and cardiovascular disease. However, the possible interaction between 
+      serum BDNF, CRF, and cardiovascular disease risk has not been studied. The 
+      purpose of this study was to examine the association among serum BDNF, CRF, and 
+      cardiovascular disease risk factors in healthy men. The investigation involved a 
+      large sample of men (n = 995, age range: 20-76 years) who live in the central 
+      area of South Korea and were recruited into the Preventive Health Study. Our 
+      study showed a significant inverse relationship between serum BDNF and relative 
+      VO(2)max (r = -0.412, p < 0.0001) and heart rate reserve (r = -0.194, p < 
+      0.0001). Serum BDNF was positively correlated with body mass index (r = 0.80, p < 
+      0.0001), total cholesterol (r = 0.185, p < 0.0001), and triglyceride (r = 0.320, 
+      p < 0.0001). Our data suggest that serum BDNF may be associated with effects of 
+      increased CRF on cardiovascular disease. However, more research is clearly needed 
+      before a determination of whether, and to what extent, serum BDNF may be 
+      responsible for some of the health benefits associated with CRF.
+FAU - Jung, Seung Ho
+AU  - Jung SH
+AD  - Psychoneuroimmunology of Exercise and Nutrition Laboratory, Division of Applied 
+      Physiology, Department of Exercise Science, Arnold School of Public Health, 
+      University of South Carolina, Columbia, SC 29208, USA.
+FAU - Kim, Jongkyu
+AU  - Kim J
+FAU - Davis, J Mark
+AU  - Davis JM
+FAU - Blair, Steven N
+AU  - Blair SN
+FAU - Cho, Hyun-chul
+AU  - Cho HC
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100928
+PL  - Germany
+TA  - Eur J Appl Physiol
+JT  - European journal of applied physiology
+JID - 100954790
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Basal Metabolism/physiology
+MH  - Brain-Derived Neurotrophic Factor/*blood/metabolism
+MH  - Cardiovascular Diseases/blood/*etiology
+MH  - *Cardiovascular Physiological Phenomena
+MH  - Exercise Test
+MH  - Health
+MH  - Humans
+MH  - Korea
+MH  - Male
+MH  - Middle Aged
+MH  - Physical Education and Training
+MH  - Physical Fitness/*physiology
+MH  - *Respiratory Physiological Phenomena
+MH  - Risk Factors
+MH  - Young Adult
+EDAT- 2010/09/30 06:00
+MHDA- 2011/05/13 06:00
+CRDT- 2010/09/30 06:00
+PHST- 2010/09/13 00:00 [accepted]
+PHST- 2010/09/30 06:00 [entrez]
+PHST- 2010/09/30 06:00 [pubmed]
+PHST- 2011/05/13 06:00 [medline]
+AID - 10.1007/s00421-010-1658-5 [doi]
+PST - ppublish
+SO  - Eur J Appl Physiol. 2011 Feb;111(2):303-11. doi: 10.1007/s00421-010-1658-5. Epub 
+      2010 Sep 28.

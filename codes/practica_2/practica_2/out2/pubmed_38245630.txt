@@ -1,0 +1,56 @@
+PMID- 38245630
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240712
+LR  - 20240724
+IS  - 1530-0447 (Electronic)
+IS  - 0031-3998 (Linking)
+VI  - 95
+IP  - 7
+DP  - 2024 Jun
+TI  - Acetaminophen use during pregnancy: is there a problem?
+PG  - 1677-1679
+LID - 10.1038/s41390-024-03050-5 [doi]
+FAU - Church, Paige Terrien
+AU  - Church PT
+AD  - Department of Neonatology, Beth Israel Deaconess Medical Center, Boston, MA, USA.
+AD  - Department of Pediatrics, Tufts Medical Center, Boston, MA, USA.
+FAU - Werner, Erika
+AU  - Werner E
+AD  - Department of Obstetrics and Gynecology, Tufts Medical Center, Boston, MA, USA.
+FAU - Davis, Jonathan M
+AU  - Davis JM
+AD  - Department of Pediatrics, Tufts Medical Center, Boston, MA, USA. 
+      jdavis@tuftsmedicalcenter.org.
+AD  - The Tufts Clinical and Translational Science Institute, Tufts University, Boston, 
+      MA, USA. jdavis@tuftsmedicalcenter.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20240120
+PL  - United States
+TA  - Pediatr Res
+JT  - Pediatric research
+JID - 0100714
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 0 (Analgesics, Non-Narcotic)
+SB  - IM
+MH  - *Acetaminophen/adverse effects/administration & dosage
+MH  - Humans
+MH  - Pregnancy
+MH  - Female
+MH  - *Analgesics, Non-Narcotic/adverse effects
+MH  - Pregnancy Complications/drug therapy
+MH  - Prenatal Exposure Delayed Effects
+EDAT- 2024/01/21 00:42
+MHDA- 2024/07/13 07:45
+CRDT- 2024/01/20 23:22
+PHST- 2024/01/01 00:00 [received]
+PHST- 2024/01/07 00:00 [accepted]
+PHST- 2024/07/13 07:45 [medline]
+PHST- 2024/01/21 00:42 [pubmed]
+PHST- 2024/01/20 23:22 [entrez]
+AID - 10.1038/s41390-024-03050-5 [pii]
+AID - 10.1038/s41390-024-03050-5 [doi]
+PST - ppublish
+SO  - Pediatr Res. 2024 Jun;95(7):1677-1679. doi: 10.1038/s41390-024-03050-5. Epub 2024 
+      Jan 20.

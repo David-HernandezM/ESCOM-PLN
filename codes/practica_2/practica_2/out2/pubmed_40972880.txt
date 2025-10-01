@@ -1,0 +1,88 @@
+PMID- 40972880
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1542-7714 (Electronic)
+IS  - 1542-3565 (Linking)
+DP  - 2025 Sep 17
+TI  - Differential Effects of Cardiometabolic Risk Factors on All-Cause Mortality in US 
+      Adults with Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD).
+LID - S1542-3565(25)00758-X [pii]
+LID - 10.1016/j.cgh.2025.09.003 [doi]
+AB  - BACKGROUND & AIMS: MASLD is defined by abnormalities in cardiometabolic risk 
+      factors (CMRFs). Characterizing the contribution of individual CMRFs to clinical 
+      outcomes may guide prioritization of interventions. We evaluated the association 
+      of individual CMRFs with all-cause mortality in US adults with metabolic 
+      dysfunction-associated steatotic liver disease (MASLD). METHODS: Participants in 
+      the National Health and Nutrition Examination Survey (NHANES) III (1988-1994) and 
+      continuous NHANES (1999-2018) were linked to mortality data through 2019. Adults 
+      > 20 years of age were included if Fatty Liver Index (FLI) > 60 and at least one 
+      CMRF (overweight/obesity, glucose intolerance, high blood pressure, 
+      triglycerides, or low high-density lipoprotein [HDL]). Cox regression analyzed 
+      risk of all-cause mortality adjusted for age, sex, and FIB-4. RESULTS: Among 
+      21,872 participants included (mean age 50 years, 53% male), mean BMI was 33.6 
+      kg/m(2) with a median of 3 CMRF (99.5% overweight/obese, 55% glucose intolerance, 
+      58% high blood pressure, 67% triglycerides, 40% low HDL). In adjusted analysis of 
+      individual CMRF, high blood pressure (aHR 1.39, 95%CI 1.24-1.55, p<0.001), 
+      glucose intolerance (aHR 1.26, 95%CI 1.16-1.38, p<0.01), and low HDL (aHR 1.15, 
+      95%CI 1.05-1.26, p=0.003) exerted significant risks for mortality. When 
+      stratifying the overweight/obesity CMRF by discrete BMI ranges, a significantly 
+      greater risk for mortality was seen with BMI 35 - 40 kg/m(2) (aHR 1.18, 95%CI 
+      1.02-1.36, p=0.03), BMI 40 - 45 kg/m(2) (aHR 1.55, 95%CI 1.24-1.94, p<0.001), BMI 
+      > 45 kg/m(2) (aHR 1.64, 95%CI 1.27-2.14, p<0.001) compared to those with a BMI 25 
+      - 30 kg/m(2). In age-adjusted analysis, number of CMRFs was associated with 
+      greater risk for mortality (aHR 1.15 per additional CMRF, 95%CI 1.10-1.20, 
+      p<0.001) CONCLUSIONS: The differential risk for mortality between individual 
+      CMRFs supports distinct clinical profiles in MASLD. This study found that high 
+      blood pressure and glucose intolerance exerted the greatest risk for all-cause 
+      mortality in those with MASLD, suggesting a role for prioritization of CMRF 
+      optimization.
+CI  - Copyright © 2025. Published by Elsevier Inc.
+FAU - Dukewich, Matthew
+AU  - Dukewich M
+AD  - Division of Gastrointestinal and Liver Diseases, University of Southern 
+      California Keck School of Medicine, Los Angeles, CA.
+FAU - Dodge, Jennifer L
+AU  - Dodge JL
+AD  - Division of Gastrointestinal and Liver Diseases, University of Southern 
+      California Keck School of Medicine, Los Angeles, CA; Department of Population and 
+      Public Health Sciences, University of Southern California Keck School of 
+      Medicine, Los Angeles, CA.
+FAU - Yuan, Liyun
+AU  - Yuan L
+AD  - Division of Gastrointestinal and Liver Diseases, University of Southern 
+      California Keck School of Medicine, Los Angeles, CA.
+FAU - Terrault, Norah A
+AU  - Terrault NA
+AD  - Division of Gastrointestinal and Liver Diseases, University of Southern 
+      California Keck School of Medicine, Los Angeles, CA. Electronic address: 
+      terrault@usc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - Clin Gastroenterol Hepatol
+JT  - Clinical gastroenterology and hepatology : the official clinical practice journal 
+      of the American Gastroenterological Association
+JID - 101160775
+SB  - IM
+OTO - NOTNLM
+OT  - cirrhosis
+OT  - fatty liver
+OT  - metabolic syndrome
+OT  - non-alcoholic fatty liver disease
+OT  - nutrition surveys
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:23
+PHST- 2025/03/13 00:00 [received]
+PHST- 2025/08/27 00:00 [revised]
+PHST- 2025/09/03 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:23 [entrez]
+AID - S1542-3565(25)00758-X [pii]
+AID - 10.1016/j.cgh.2025.09.003 [doi]
+PST - aheadofprint
+SO  - Clin Gastroenterol Hepatol. 2025 Sep 17:S1542-3565(25)00758-X. doi: 
+      10.1016/j.cgh.2025.09.003.

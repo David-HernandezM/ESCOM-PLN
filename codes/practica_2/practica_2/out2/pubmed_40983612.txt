@@ -1,0 +1,158 @@
+PMID- 40983612
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 22
+TI  - Comparative single-cell and spatial profiling of anti-SSA-positive and 
+      anti-centromere-positive Sjögren's disease reveals common and distinct immune 
+      activation and fibroblast-mediated inflammation.
+PG  - 8299
+LID - 10.1038/s41467-025-63935-9 [doi]
+AB  - Sjögren's disease (SjD) is an autoimmune disease that causes salivary gland 
+      dysfunction due to immune-mediated destruction. While autoantibodies such as 
+      anti-SSA and anti-centromere (CENT) are associated with distinct clinical 
+      manifestations, the molecular features remain to be elucidated. In this study, we 
+      apply multi-modal single-cell technologies: single-cell RNA sequencing, T cell 
+      and B cell receptor sequencing and spatial transcriptomics to salivary gland 
+      lesions, aiming to elucidate common and unique cellular and transcriptional 
+      signatures linked to different autoantibody profiles. Our analysis demonstrates 
+      that GZMB(+)GNLY(+) CD8(+) T cells are the main expanded subset across different 
+      autoantibody statuses, highlighting their central role in SjD pathogenesis, while 
+      the enrichment of memory B cells is more prominent in anti-CENT-positive 
+      patients. Cytokine signaling also differs by autoantibody profile, with an 
+      activated interferon signature in anti-SSA-positive patients, whereas TGFβ 
+      signaling is enhanced in anti-CENT-positive patients. Furthermore, spatial 
+      profiling reveals THY1(+) fibroblasts, expressing complement genes and 
+      chemokines, as key hubs orchestrating inflammation within the salivary glands. 
+      These findings deepen our understanding of the pathogenesis of SjD, and may 
+      inform the development of targeted and personalized therapeutic strategies.
+CI  - © 2025. The Author(s).
+FAU - Inamo, Jun
+AU  - Inamo J
+AUID- ORCID: 0000-0002-9927-7936
+AD  - Division of Rheumatology, Department of Internal Medicine, Keio University School 
+      of Medicine, Shinjuku-ku, Tokyo, Japan. juninamo@keio.jp.
+AD  - Division of Rheumatology, University of Colorado School of Medicine, Aurora, CO, 
+      USA. juninamo@keio.jp.
+FAU - Takeshita, Masaru
+AU  - Takeshita M
+AUID- ORCID: 0000-0002-3281-6595
+AD  - Division of Rheumatology, Department of Internal Medicine, Keio University School 
+      of Medicine, Shinjuku-ku, Tokyo, Japan. takeshita.a5@keio.jp.
+FAU - Suzuki, Katsuya
+AU  - Suzuki K
+AD  - Division of Rheumatology, Department of Internal Medicine, Keio University School 
+      of Medicine, Shinjuku-ku, Tokyo, Japan.
+AD  - Division of Rheumatology, Department of Internal Medicine, NHO Tokyo Medical 
+      Center, Meguro-ku, Tokyo, Japan.
+FAU - Tsunoda, Kazuyuki
+AU  - Tsunoda K
+AD  - Department of Dentistry and Oral Surgery, Keio University School of Medicine, 
+      Shinjuku-ku, Tokyo, Japan.
+FAU - Usuda, Satoshi
+AU  - Usuda S
+AD  - Department of Dentistry and Oral Surgery, Keio University School of Medicine, 
+      Shinjuku-ku, Tokyo, Japan.
+FAU - Kuramoto, Junko
+AU  - Kuramoto J
+AD  - Department of Pathology, Keio University School of Medicine, Shinjuku-ku, Tokyo, 
+      Japan.
+FAU - Moody, Jonathan
+AU  - Moody J
+AUID- ORCID: 0000-0001-9261-711X
+AD  - Laboratory for Regulatory Genomics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Kanagawa, Japan.
+FAU - Hon, Chung-Chau
+AU  - Hon CC
+AUID- ORCID: 0000-0002-3741-7577
+AD  - Laboratory for Regulatory Genomics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Kanagawa, Japan.
+AD  - Graduate School of Integrated Sciences for Life, Hiroshima University, 
+      Higashi-Hiroshima, Hiroshima, Japan.
+FAU - Ando, Yoshinari
+AU  - Ando Y
+AUID- ORCID: 0000-0002-8128-6201
+AD  - Laboratory for Regulatory Genomics, RIKEN Center for Integrative Medical 
+      Sciences, Yokohama, Kanagawa, Japan.
+FAU - Sasaki, Takashi
+AU  - Sasaki T
+AUID- ORCID: 0000-0002-6275-046X
+AD  - Center for Supercentenarian Medical Research, Keio University School of Medicine, 
+      Shinjuku-ku, Tokyo, Japan.
+FAU - Yoshitake, Kazutoshi
+AU  - Yoshitake K
+AD  - Laboratory of Aquatic Molecular Biology and Biotechnology, Graduate School of 
+      Agricultural and Life Sciences, University of Tokyo, Bunkyo-ku, Tokyo, Japan.
+FAU - Mitsuyama, Susumu
+AU  - Mitsuyama S
+AUID- ORCID: 0009-0002-5965-9363
+AD  - Laboratory of Aquatic Molecular Biology and Biotechnology, Graduate School of 
+      Agricultural and Life Sciences, University of Tokyo, Bunkyo-ku, Tokyo, Japan.
+FAU - Asakawa, Shuichi
+AU  - Asakawa S
+AD  - Laboratory of Aquatic Molecular Biology and Biotechnology, Graduate School of 
+      Agricultural and Life Sciences, University of Tokyo, Bunkyo-ku, Tokyo, Japan.
+FAU - Kanai, Yae
+AU  - Kanai Y
+AD  - Department of Pathology, Keio University School of Medicine, Shinjuku-ku, Tokyo, 
+      Japan.
+FAU - Takeuchi, Tsutomu
+AU  - Takeuchi T
+AD  - Division of Rheumatology, Department of Internal Medicine, Keio University School 
+      of Medicine, Shinjuku-ku, Tokyo, Japan.
+AD  - Saitama Medical University, Iruma, Saitama, Japan.
+FAU - Kaneko, Yuko
+AU  - Kaneko Y
+AD  - Division of Rheumatology, Department of Internal Medicine, Keio University School 
+      of Medicine, Shinjuku-ku, Tokyo, Japan.
+LA  - eng
+GR  - JP21J00596/MEXT | Japan Society for the Promotion of Science (JSPS)/
+GR  - JP20K17430/MEXT | Japan Society for the Promotion of Science (JSPS)/
+GR  - JP20H03720/MEXT | Japan Society for the Promotion of Science (JSPS)/
+GR  - JP22K08528/MEXT | Japan Society for the Promotion of Science (JSPS)/
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Autoantibodies)
+RN  - 0 (Antibodies, Antinuclear)
+RN  - 0 (Cytokines)
+SB  - IM
+MH  - *Sjogren's Syndrome/immunology/genetics/pathology
+MH  - Humans
+MH  - Single-Cell Analysis/methods
+MH  - Salivary Glands/immunology/pathology
+MH  - *Fibroblasts/immunology/metabolism/pathology
+MH  - Inflammation/immunology/pathology
+MH  - Female
+MH  - Autoantibodies/immunology
+MH  - B-Lymphocytes/immunology
+MH  - *Antibodies, Antinuclear/immunology
+MH  - CD8-Positive T-Lymphocytes/immunology
+MH  - Middle Aged
+MH  - Male
+MH  - Adult
+MH  - Transcriptome
+MH  - Signal Transduction
+MH  - Cytokines/metabolism
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 23:15
+PHST- 2024/11/15 00:00 [received]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:15 [entrez]
+AID - 10.1038/s41467-025-63935-9 [pii]
+AID - 10.1038/s41467-025-63935-9 [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 22;16(1):8299. doi: 10.1038/s41467-025-63935-9.

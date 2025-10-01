@@ -1,0 +1,129 @@
+PMID- 40988017
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250923
+LR  - 20250923
+IS  - 1475-2840 (Electronic)
+IS  - 1475-2840 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2025 Sep 23
+TI  - Association of the triglyceride-glucose index combined with a body shape index 
+      with all-cause and cardiovascular mortality in individuals with 
+      cardiovascular-kidney-metabolic syndrome stage 0-3: findings from two prospective 
+      cohorts.
+PG  - 366
+LID - 10.1186/s12933-025-02921-3 [doi]
+AB  - BACKGROUND: The triglyceride-glucose (TyG) index, as a measure of insulin 
+      resistance, has been confirmed to be associated with adverse clinical outcomes. 
+      The new composite indicator, TyG-A body type index (TyG-ABSI), by integrating the 
+      TyG index and the A body type index, has demonstrated superior efficacy in 
+      predicting the risk of cardiovascular death in the general population compared to 
+      traditional indicators. This study aims to deeply explore the association between 
+      TyG-ABSI and all-cause mortality and CVD mortality in the population with 
+      cardiovascular kidney-metabolic syndrome (CKM) stages 0-3. The analysis will be 
+      conducted from multiple dimensions such as the intensity of indicator correlation 
+      and potential influencing mechanisms, in order to comprehensively reveal the 
+      relationship between the two. RESULTS: We analyzed data from 13,480 participants 
+      in the NHANES cohort (1999-2018) using Cox proportional hazards models and 
+      restricted cubic spline functions. The results indicated that elevated TyG-ABSI 
+      values were independently associated with a higher risk of all-cause mortality 
+      (HR = 1.226, 95% CI 1.104-1.361) and cardiovascular mortality (HR = 1.377, 95% CI 
+      1.149-1.651). Time-dependent receiver operating characteristic (ROC) curves and 
+      concordance index evaluations demonstrated that TyG-ABSI yielded more accurate 
+      long-term prognostic performance than other TyG-derived metrics. The area under 
+      the curve (AUC) of this indicator reached 0.688-0.708 in the prediction of 
+      all-cause mortality risk over 5-15 years, and 0.696-0.739 in the prediction of 
+      cardiovascular mortality risk. External validation using CHARLS data confirmed 
+      the robustness of these findings in predicting all-cause mortality. CONCLUSIONS: 
+      Among individuals with CKM stages 0-3, TyG-ABSI demonstrates a stronger 
+      association with mortality risk and superior predictive ability compared with 
+      other TyG-derived metrics. Its performance suggests a potential role in capturing 
+      variations across diverse clinical subgroups, and informing optimal timing for 
+      preventive interventions.
+CI  - © 2025. The Author(s).
+FAU - Chen, Mingjie
+AU  - Chen M
+AD  - Department of Cardiology, Bishan Hospital of Chongqing Medical University, 
+      Chongqing, 402760, China.
+FAU - Guo, Jiajie
+AU  - Guo J
+AD  - The Second School of Clinical Medicine, Guangzhou Medical University, Guangzhou, 
+      511400, China.
+FAU - Shangguan, Yuwen
+AU  - Shangguan Y
+AD  - Department of Sport and Exercise Sciences, Kunsan National University, Gunsan-si, 
+      Jeollabuk-Do, 54150, South Korea.
+FAU - Sun, Zhonghua
+AU  - Sun Z
+AD  - Medical School of Nanjing University, Nanjing, 210093, China.
+FAU - He, Xueling
+AU  - He X
+AD  - Department of Cardiology, Bishan Hospital of Chongqing Medical University, 
+      Chongqing, 402760, China.
+FAU - Tu, Qiang
+AU  - Tu Q
+AD  - Sydney Nursing School, Faculty of Medicine and Health, The University of Sydney, 
+      Sydney, NSW, 2006, Australia.
+FAU - Yan, Qingkai
+AU  - Yan Q
+AD  - Department of Cardiology, Bishan Hospital of Chongqing Medical University, 
+      Chongqing, 402760, China. yanqingkai@hotmail.com.
+LA  - eng
+GR  - Grant BYD02-02/The Special Fund for Outstanding Young Talents/
+PT  - Journal Article
+DEP - 20250923
+PL  - England
+TA  - Cardiovasc Diabetol
+JT  - Cardiovascular diabetology
+JID - 101147637
+RN  - 0 (Triglycerides)
+RN  - 0 (Biomarkers)
+RN  - 0 (Blood Glucose)
+SB  - IM
+MH  - Humans
+MH  - *Metabolic Syndrome/diagnosis/mortality/blood/physiopathology
+MH  - Male
+MH  - Female
+MH  - Prospective Studies
+MH  - Middle Aged
+MH  - *Triglycerides/blood
+MH  - Risk Assessment
+MH  - *Cardiovascular Diseases/mortality/diagnosis/blood
+MH  - Biomarkers/blood
+MH  - *Blood Glucose/metabolism
+MH  - Cause of Death
+MH  - Prognosis
+MH  - Predictive Value of Tests
+MH  - Time Factors
+MH  - Aged
+MH  - United States/epidemiology
+MH  - Nutrition Surveys
+MH  - Adult
+MH  - *Kidney Diseases/mortality/diagnosis/blood
+MH  - Risk Factors
+MH  - Insulin Resistance
+MH  - *Body Mass Index
+OTO - NOTNLM
+OT  - A body shape index
+OT  - Cardiovascular-kidney-metabolic syndrome
+OT  - Insulin resistance
+OT  - Mortality
+OT  - Triglyceride-glucose index
+COIS- Declarations. Informed consent: The NHANES study protocol received approval from 
+      the Institutional Review Board of the National Center for Health Statistics, and 
+      all participants provided written informed consent prior to enrollment. Consent 
+      for publications: Not applicable. Competing interests: The authors declare no 
+      competing interests.
+EDAT- 2025/09/24 00:39
+MHDA- 2025/09/24 00:40
+CRDT- 2025/09/23 23:33
+PHST- 2025/07/30 00:00 [received]
+PHST- 2025/08/23 00:00 [accepted]
+PHST- 2025/09/24 00:40 [medline]
+PHST- 2025/09/24 00:39 [pubmed]
+PHST- 2025/09/23 23:33 [entrez]
+AID - 10.1186/s12933-025-02921-3 [pii]
+AID - 10.1186/s12933-025-02921-3 [doi]
+PST - epublish
+SO  - Cardiovasc Diabetol. 2025 Sep 23;24(1):366. doi: 10.1186/s12933-025-02921-3.

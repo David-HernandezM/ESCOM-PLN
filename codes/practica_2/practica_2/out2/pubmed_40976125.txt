@@ -1,0 +1,156 @@
+PMID- 40976125
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 11
+TI  - Comparison of the efficacy and action mechanism of Chinese patent medicines for 
+      liver fibrosis and cirrhosis.
+PG  - 157246
+LID - S0944-7113(25)00885-2 [pii]
+LID - 10.1016/j.phymed.2025.157246 [doi]
+AB  - BACKGROUND: Liver fibrosis is a critical stage in liver disease progression and 
+      can advance to cirrhosis without appropriate treatment. Hepatitis B virus 
+      infection is the primary cause of liver fibrosis. Antiviral drugs, e.g., 
+      entecavir, are widely used to treat liver fibrosis and cirrhosis. Additionally, 
+      Chinese patent medicines, such as Biejiajian Pill (BJP), Liuwei Wuling Tablet 
+      (LWT), Fufang Biejia Ruangan Tablet (FFT), Fuzheng Huayu Capsule (FZC), and Anluo 
+      Huaxian Pill (AHP), demonstrate therapeutic effects. However, there is still 
+      insufficient evidence-based agreement on the most effective therapies and how 
+      they work. OBJECTIVE: This study aims to identify the most effective Chinese 
+      patent medicines for treating liver fibrosis and cirrhosis by combining network 
+      meta-analysis and network pharmacology. It also summarises and evaluates the 
+      potential mechanisms of effective treatment methods based on published clinical 
+      research data. The aim is to provide scientific evidence for clinical 
+      decision-making. Finally, these results were verified through experiments. The 
+      aim is to provide a scientific basis for clinical decision-making. METHODS: We 
+      conducted a comprehensive search of eight databases (PubMed, Web of Science, 
+      Excerpta Medica Database (EMBASE), Cochrane Library, China National Knowledge 
+      Infrastructure (CNKI), Weipu Database (VIP), and Wanfang) for studies published 
+      up to April 2025. After applying inclusion and exclusion criteria, clinical 
+      outcomes such as Hyaluronic Acid (HA), Laminin (LN), Type IV Collagen (IV-C), 
+      Type III Procollagen (PC-III), Aspartate Aminotransferase (AST), Alanine 
+      Aminotransferase (ALT), and Total Bilirubin (TBIL) were analyzed. A 
+      protein-protein interaction (PPI) network was constructed using network 
+      pharmacology, with core genes identified via CytoHubba in CytoScape 3.10.0. Gene 
+      Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses 
+      were used to explore the underlying mechanisms. Next, we validated these 
+      predictions using in vivo experiments, observing pathological changes through HE 
+      Staining, Masson's Trichrome Staining, Picro Sirius Red Staining, and 
+      Immunohistochemistry, and performing protein expression analysis using Western 
+      blotting. RESULTS: A total of 380 studies involving 37,380 patients, were 
+      included. Surface Under the Cumulative Ranking Curve (SUCRA) and Rank 1 
+      probability were used to assess the therapeutic efficacy of each prescription. 
+      For liver fibrosis, AHP was the most effective, followed by LWT, FZC, BJP, and 
+      FFT. In cirrhosis treatment, LWT was the most effective, followed by AHP, FZC, 
+      BJP, and FFT. Combined with network pharmacology analyses revealed that AHP and 
+      LWT might play a role in liver fibrosis and cirrhosis by regulating targets such 
+      as Signal Transducer and Activator of Transcription 3 (STAT3), Matrix 
+      Metallopeptidase 9 (MMP9), Protein kinase B (AKT1), etc. Animal experiments have 
+      shown that Chinese patent medicines such as LWT and AHP can significantly improve 
+      liver damage in mice and reduce the levels of Alpha-Smooth Muscle Actin (α-SMA), 
+      Transforming Growth Factor Beta (TGF-β), Fibronectin (FN), STAT3, and MMP9 in the 
+      CCL(4) group, while increasing the expression and content of AKT1. CONCLUSION: 
+      AHP and LWT are the most effective treatments for liver fibrosis and cirrhosis, 
+      respectively according to current network meta-analysis. LWT and AHP may play a 
+      role in liver fibrosis and cirrhosis by regulating targets such as STAT3, MMP9, 
+      and AKT1, providing a solid foundation for clinical treatment strategies.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Fu, Lingping
+AU  - Fu L
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Xie, Jin
+AU  - Xie J
+AD  - Department of Pharmacy, Chinese PLA General Hospital, Beijing, China.
+FAU - Wang, ZeXin
+AU  - Wang Z
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Jiang, Tao
+AU  - Jiang T
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Zeng, Yi
+AU  - Zeng Y
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Yan, Jing
+AU  - Yan J
+AD  - Clinical Medical College, Chengdu University of Traditional Chinese Medicine, 
+      Chengdu, China.
+FAU - Sun, Rong
+AU  - Sun R
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Huang, Mengshuang
+AU  - Huang M
+AD  - Clinical Medical College, Chengdu University of Traditional Chinese Medicine, 
+      Chengdu, China.
+FAU - Du, Shengyi
+AU  - Du S
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Wang, Xiaobao
+AU  - Wang X
+AD  - Clinical Medical College, Chengdu University of Traditional Chinese Medicine, 
+      Chengdu, China.
+FAU - Liu, Yuyang
+AU  - Liu Y
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China.
+FAU - Xi, Kailai
+AU  - Xi K
+AD  - School of Acupuncture and Tuina, Chengdu University of Traditional Chinese 
+      Medicine, Chengdu, China.
+FAU - Chen, Ailin
+AU  - Chen A
+AD  - Clinical Medical College, Chengdu University of Traditional Chinese Medicine, 
+      Chengdu, China.
+FAU - Ma, Xiao
+AU  - Ma X
+AD  - State Key Laboratory of Southwestern Chinese Medicine Resources, School of 
+      Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China. 
+      Electronic address: tobymaxiao@163.com.
+FAU - Zeng, Jinhao
+AU  - Zeng J
+AD  - Key Laboratory of TCM Prevention and Treatment of Metabolic and Chronic Diseases, 
+      Sichuan Province, Hospital of Chengdu University of Traditional Chinese Medicine, 
+      Chengdu, China. Electronic address: zengjinhao@cdutcm.edu.cn.
+FAU - Efferth, Thomas
+AU  - Efferth T
+AD  - Department of Pharmaceutical Biology, Institute of Pharmaceutical and Biomedical 
+      Sciences, Johannes Gutenberg University, Mainz, Germany. Electronic address: 
+      efferth@uni-mainz.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20250911
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Anluo Huaxian Pill
+OT  - Cirrhosis
+OT  - Liuwei Wuling Tablet
+OT  - Liver fibrosis
+OT  - Network meta-analysis
+OT  - Network pharmacology
+COIS- Declaration of competing interest The authors declare that they have no conflicts 
+      of interest regarding the research, authorship, or publication of this paper.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:07
+PHST- 2025/05/10 00:00 [received]
+PHST- 2025/08/30 00:00 [revised]
+PHST- 2025/09/07 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:07 [entrez]
+AID - S0944-7113(25)00885-2 [pii]
+AID - 10.1016/j.phymed.2025.157246 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 11;148:157246. doi: 10.1016/j.phymed.2025.157246.

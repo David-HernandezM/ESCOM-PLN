@@ -1,0 +1,77 @@
+PMID- 16876584
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061128
+LR  - 20141120
+IS  - 0079-6123 (Print)
+IS  - 0079-6123 (Linking)
+VI  - 153
+DP  - 2006
+TI  - What can we learn from seasonal animals about the regulation of energy balance?
+PG  - 325-37
+AB  - Weight loss in humans requires, except during an illness, some form of imposed 
+      restriction on food intake or increase in energy expenditure. This necessitates 
+      overcoming powerful peripheral and central signals that serve to protect against 
+      negative energy balance. The identification of the systems and pathways involved 
+      has come from mouse models with genetic and targeted mutations, e.g., ob/ob and 
+      MC4 R(-/-) as well as rat models of obesity. Study of seasonal animals has shown 
+      that they undergo annual cycles of body fattening and adipose tissue loss as 
+      important adaptations to environmental change, yet these changes appear to 
+      involve mechanisms distinct from those known already. One animal model, the 
+      Siberian hamster, exhibits marked, but reversible, weight loss in response to 
+      shortening day length. The body weight is driven by a decrease in food intake 
+      with the magnitude of the loss of body weight being directly related to the 
+      length of time of exposure to short photoperiod. The most important facet of this 
+      response is that the point of energy balance is continuously re-adjusted during 
+      the transition in body weight reflecting an apparent 'sliding set point'. Studies 
+      have focused on identifying the neural basis of this mechanism. Initial studies 
+      of known genes (e.g., NPY, POMC, and AgRP) both through the measurement of gene 
+      expression in the arcuate nucleus as well as following intracerebroventricular 
+      (i.c.v.) injection indicated that the systems involved are not those involved in 
+      restoring energy balance following energy deficits. Instead, a novel mechanism of 
+      regulation is implied. Recent studies have begun to explore the neural basis of 
+      the seasonal body weight response. A discrete and novel region of the posterior 
+      arcuate nucleus, the dorsal medial posterior arcuate nucleus (dmpARC) has been 
+      identified, where a battery of gene expression changes for signalling molecules 
+      (vgf and histamine H3 receptor) and transcription factors (RXRgamma and RAR) 
+      occur in association with seasonal changes in body weight. This work provides the 
+      basis of a potentially novel mechanism of energy balance regulation.
+FAU - Morgan, Peter J
+AU  - Morgan PJ
+AD  - Rowett Research Institute, Greenburn Road, Bucksburn, Aberdeen, AB21 9SB, UK. 
+      p.morgan@rowett.ac.uk
+FAU - Ross, Alexander W
+AU  - Ross AW
+FAU - Mercer, Julian G
+AU  - Mercer JG
+FAU - Barrett, Perry
+AU  - Barrett P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - Netherlands
+TA  - Prog Brain Res
+JT  - Progress in brain research
+JID - 0376441
+RN  - 0 (Leptin)
+SB  - IM
+MH  - Animals
+MH  - Arcuate Nucleus of Hypothalamus/cytology/physiology
+MH  - Body Weight/*physiology
+MH  - Energy Metabolism/*physiology
+MH  - Gene Expression Regulation/physiology
+MH  - Leptin/metabolism
+MH  - *Photoperiod
+MH  - *Seasons
+RF  - 60
+EDAT- 2006/08/01 09:00
+MHDA- 2006/12/09 09:00
+CRDT- 2006/08/01 09:00
+PHST- 2006/08/01 09:00 [pubmed]
+PHST- 2006/12/09 09:00 [medline]
+PHST- 2006/08/01 09:00 [entrez]
+AID - S0079-6123(06)53019-5 [pii]
+AID - 10.1016/S0079-6123(06)53019-5 [doi]
+PST - ppublish
+SO  - Prog Brain Res. 2006;153:325-37. doi: 10.1016/S0079-6123(06)53019-5.

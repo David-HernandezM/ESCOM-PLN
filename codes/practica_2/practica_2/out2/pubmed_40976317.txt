@@ -1,0 +1,111 @@
+PMID- 40976317
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1879-1891 (Electronic)
+IS  - 0002-9394 (Linking)
+DP  - 2025 Sep 19
+TI  - Comparative Risk of Glaucoma in Patients Using Sodium-glucose Cotransporter-2 
+      Inhibitors and Metformin: A Multinational Cohort Study.
+LID - S0002-9394(25)00504-5 [pii]
+LID - 10.1016/j.ajo.2025.09.027 [doi]
+AB  - OBJECTIVE: To compare the impact of sodium-glucose cotransporter-2 (SGLT2) 
+      inhibitors and metformin on the risk of glaucoma-related outcomes in patients 
+      with type 2 diabetes mellitus (T2DM). DESIGN: Multinational, retrospective 
+      clinical cohort study using patient data from 160 healthcare organizations across 
+      21 countries. SUBJECTS: Adults with T2DM who initiated SGLT2 inhibitors or 
+      metformin during 2013-2023 were included. INTERVENTION: Patients with T2DM 
+      prescribed SGLT2 inhibitors were compared to those prescribed metformin. We 
+      performed 1:1 propensity score matching to balance age, sex, race, glycated 
+      hemoglobin, body mass index, medications, and comorbidities between the SGLT2 
+      inhibitor and metformin groups. MAIN OUTCOME MEASURE: The occurrence of ocular 
+      hypertension, primary open-angle glaucoma (POAG), and the need for glaucoma 
+      medications. RESULTS: Our final analysis included 32,634 patients prescribed 
+      SGLT2 inhibitors and 32,634 prescribed metformin. Compared to metformin, SGLT2 
+      inhibitors are associated with significantly lower risks of ocular hypertension 
+      (hazard ratio [HR], 0.73; 95% confidence interval [CI], 0.60-0.89), POAG (HR, 
+      0.64; 95% CI, 0.51-0.81), and the need for glaucoma medications (HR, 0.76; 95% 
+      CI, 0.69-0.84) in 5 years. These associations remain consistent in patients aged 
+      ≥60 years, females, males, Whites, and those prescribed empagliflozin. 
+      CONCLUSIONS: Among patients with T2DM, treatment with SGLT2 inhibitors may be 
+      associated with lower risks of ocular hypertension, POAG, and the need for 
+      glaucoma medications compared to metformin.
+CI  - Copyright © 2025. Published by Elsevier Inc.
+FAU - Pan, Ssu-Yu
+AU  - Pan SY
+AD  - School of Medicine, College of Medicine, National Yang Ming Chiao Tung 
+      University, Taipei, Taiwan; Department of Ophthalmology, Taichung Veterans 
+      General Hospital, Taichung, Taiwan.
+FAU - Weng, Chien-Hsiang
+AU  - Weng CH
+AD  - Department of Family Medicine, Brown University Warren Alpert Medical School, 
+      Providence, Rhode Island, USA; Brown University Health, Providence, Rhode Island, 
+      USA.
+FAU - Tsai, Shang-Feng
+AU  - Tsai SF
+AD  - Division of Nephrology, Department of Internal Medicine, Taichung Veterans 
+      General Hospital, Taichung, Taiwan; Department of Post-Baccalaureate Medicine, 
+      College of Medicine, National Chung Hsing University, Taichung, Taiwan; 
+      Department of Life Science, Tunghai University, Taichung, Taiwan.
+FAU - Sheen, Yi-Jing
+AU  - Sheen YJ
+AD  - School of Medicine, College of Medicine, National Yang Ming Chiao Tung 
+      University, Taipei, Taiwan; Department of Post-Baccalaureate Medicine, College of 
+      Medicine, National Chung Hsing University, Taichung, Taiwan; Division of 
+      Endocrinology and Metabolism, Department of Internal Medicine, Taichung Veterans 
+      General Hospital, Taichung City, Taiwan; Center for Quantitative Imaging in 
+      Medicine, Department of Medical Research, Taichung Veterans General Hospital, 
+      Taichung, Taiwan.
+FAU - Lin, Jun-Fu
+AU  - Lin JF
+AD  - Department of Medical Research, Taichung Veterans General Hospital, Taichung, 
+      Taiwan.
+FAU - Lin, Ching-Heng
+AU  - Lin CH
+AD  - Department of Medical Research, Taichung Veterans General Hospital, Taichung, 
+      Taiwan; Department of Public Health, College of Medicine, Fu Jen Catholic 
+      University, New Taipei City, Taiwan; Department of Industrial Engineering and 
+      Enterprise Information, Tunghai University, Taichung, Taiwan; Institute of Public 
+      Health and Community Medicine Research Center, National Yang Ming Chiao Tung 
+      University, Taipei, Taiwan.
+FAU - Wang, I-Jong
+AU  - Wang IJ
+AD  - Graduate Institute of Biomedical Sciences, China Medical University, Taichung, 
+      Taiwan; Department of Ophthalmology, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Chou, Chien-Chih
+AU  - Chou CC
+AD  - School of Medicine, College of Medicine, National Yang Ming Chiao Tung 
+      University, Taipei, Taiwan; Department of Ophthalmology, Taichung Veterans 
+      General Hospital, Taichung, Taiwan; Department of Post-Baccalaureate Medicine, 
+      College of Medicine, National Chung Hsing University, Taichung, Taiwan. 
+      Electronic address: doctorccc@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Am J Ophthalmol
+JT  - American journal of ophthalmology
+JID - 0370500
+SB  - IM
+OTO - NOTNLM
+OT  - Sodium-glucose cotransporter-2 inhibitors
+OT  - metformin
+OT  - ocular hypertension
+OT  - primary open-angle glaucoma
+OT  - type 2 diabetes mellitus
+COIS- Declaration of competing interest No conflict of interest exists for any author.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 19:38
+PHST- 2024/10/18 00:00 [received]
+PHST- 2025/09/16 00:00 [revised]
+PHST- 2025/09/16 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 19:38 [entrez]
+AID - S0002-9394(25)00504-5 [pii]
+AID - 10.1016/j.ajo.2025.09.027 [doi]
+PST - aheadofprint
+SO  - Am J Ophthalmol. 2025 Sep 19:S0002-9394(25)00504-5. doi: 
+      10.1016/j.ajo.2025.09.027.

@@ -1,0 +1,115 @@
+PMID- 40963019
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Sep 17
+TI  - Learning the natural history of human disease with generative transformers.
+LID - 10.1038/s41586-025-09529-3 [doi]
+AB  - Decision-making in healthcare relies on understanding patients' past and current 
+      health states to predict and, ultimately, change their future course(1-3). 
+      Artificial intelligence (AI) methods promise to aid this task by learning 
+      patterns of disease progression from large corpora of health records(4,5). 
+      However, their potential has not been fully investigated at scale. Here we modify 
+      the GPT(6) (generative pretrained transformer) architecture to model the 
+      progression and competing nature of human diseases. We train this model, 
+      Delphi-2M, on data from 0.4 million UK Biobank participants and validate it using 
+      external data from 1.9 million Danish individuals with no change in parameters. 
+      Delphi-2M predicts the rates of more than 1,000 diseases, conditional on each 
+      individual's past disease history, with accuracy comparable to that of existing 
+      single-disease models. Delphi-2M's generative nature also enables sampling of 
+      synthetic future health trajectories, providing meaningful estimates of potential 
+      disease burden for up to 20 years, and enabling the training of AI models that 
+      have never seen actual data. Explainable AI methods(7) provide insights into 
+      Delphi-2M's predictions, revealing clusters of co-morbidities within and across 
+      disease chapters and their time-dependent consequences on future health, but also 
+      highlight biases learnt from training data. In summary, transformer-based models 
+      appear to be well suited for predictive and generative health-related tasks, are 
+      applicable to population-scale datasets and provide insights into temporal 
+      dependencies between disease events, potentially improving the understanding of 
+      personalized health risks and informing precision medicine approaches.
+CI  - © 2025. The Author(s).
+FAU - Shmatko, Artem
+AU  - Shmatko A
+AUID- ORCID: 0000-0002-2184-0856
+AD  - Division of AI in Oncology, German Cancer Research Centre DKFZ, Heidelberg, 
+      Germany.
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK.
+AD  - Faculty of Biosciences, Heidelberg University, Heidelberg, Germany.
+FAU - Jung, Alexander Wolfgang
+AU  - Jung AW
+AUID- ORCID: 0000-0001-8416-6849
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK.
+AD  - Novo Nordisk Foundation Center for Protein Research, Faculty of Health and 
+      Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+AD  - Statistics Denmark, Copenhagen, Denmark.
+AD  - Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland.
+FAU - Gaurav, Kumar
+AU  - Gaurav K
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK.
+FAU - Brunak, Søren
+AU  - Brunak S
+AUID- ORCID: 0000-0003-0316-5866
+AD  - Novo Nordisk Foundation Center for Protein Research, Faculty of Health and 
+      Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+AD  - Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+FAU - Mortensen, Laust Hvas
+AU  - Mortensen LH
+AD  - Statistics Denmark, Copenhagen, Denmark.
+AD  - Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+AD  - ROCKWOOL Foundation, Copenhagen, Denmark.
+FAU - Birney, Ewan
+AU  - Birney E
+AUID- ORCID: 0000-0001-8314-8497
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK. birney@ebi.ac.uk.
+FAU - Fitzgerald, Tom
+AU  - Fitzgerald T
+AUID- ORCID: 0000-0002-2370-8496
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK. tomas@ebi.ac.uk.
+FAU - Gerstung, Moritz
+AU  - Gerstung M
+AUID- ORCID: 0000-0001-6709-963X
+AD  - Division of AI in Oncology, German Cancer Research Centre DKFZ, Heidelberg, 
+      Germany. moritz.gerstung@dkfz.de.
+AD  - European Molecular Biology Laboratory, European Bioinformatics Institute 
+      EMBL-EBI, Hinxton, UK. moritz.gerstung@dkfz.de.
+AD  - Faculty of Mathematics and Computer Science, Heidelberg University, Heidelberg, 
+      Germany. moritz.gerstung@dkfz.de.
+AD  - Robert Bosch Center for Tumor Diseases, Stuttgart, Germany. 
+      moritz.gerstung@dkfz.de.
+AD  - Medical Faculty, Eberhard-Karls-University, Tübingen, Germany. 
+      moritz.gerstung@dkfz.de.
+AD  - University Hospital Tübingen, Tübingen, Germany. moritz.gerstung@dkfz.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+COIS- Competing interests: A patent has been filed for the use of generative 
+      transformer architectures to model competing risk and timings of diseases 
+      (application number: PCT/EP2025/065771; applicants: DKFZ, EMBL), with M.G., A.S., 
+      T.F., E.B., K.G. and A.W.J. listed as inventors. S.B. has ownership interests in 
+      Hoba Therapeutics Aps, Novo Nordisk, Lundbeck and Eli Lilly. E.B. is a consultant 
+      and shareholder of Oxford Nanopore. The other authors declare no competing 
+      interests.
+EDAT- 2025/09/18 00:30
+MHDA- 2025/09/18 00:30
+CRDT- 2025/09/17 23:22
+PHST- 2024/05/18 00:00 [received]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/18 00:30 [medline]
+PHST- 2025/09/18 00:30 [pubmed]
+PHST- 2025/09/17 23:22 [entrez]
+AID - 10.1038/s41586-025-09529-3 [pii]
+AID - 10.1038/s41586-025-09529-3 [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Sep 17. doi: 10.1038/s41586-025-09529-3.

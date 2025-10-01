@@ -1,0 +1,54 @@
+PMID- 38958940
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240723
+LR  - 20240828
+IS  - 1538-3598 (Electronic)
+IS  - 0098-7484 (Linking)
+VI  - 332
+IP  - 4
+DP  - 2024 Jul 23
+TI  - Acetaminophen Use During Pregnancy-Reply.
+PG  - 339-340
+LID - 10.1001/jama.2024.10707 [doi]
+FAU - Ahlqvist, Viktor H
+AU  - Ahlqvist VH
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Gardner, Renee M
+AU  - Gardner RM
+AD  - Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+FAU - Lee, Brian K
+AU  - Lee BK
+AD  - Department of Epidemiology and Biostatistics, Drexel University Dornsife School 
+      of Public Health, Philadelphia, Pennsylvania.
+LA  - eng
+GR  - R01 NS107607/NS/NINDS NIH HHS/United States
+PT  - Comment
+PT  - Letter
+PL  - United States
+TA  - JAMA
+JT  - JAMA
+JID - 7501160
+RN  - 362O9ITL9D (Acetaminophen)
+RN  - 0 (Analgesics, Non-Narcotic)
+SB  - IM
+CON - JAMA. 2024 Jul 23;332(4):338-339. doi: 10.1001/jama.2024.10704. PMID: 38958987
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - *Acetaminophen/administration & dosage/adverse effects/therapeutic use
+MH  - *Analgesics, Non-Narcotic/administration & dosage/adverse effects/therapeutic use
+MH  - Pregnancy Complications/chemically induced
+MH  - *Prenatal Exposure Delayed Effects/chemically induced
+MH  - *Neurodevelopmental Disorders/chemically induced/etiology
+MH  - Child
+EDAT- 2024/07/03 13:42
+MHDA- 2024/07/23 12:42
+CRDT- 2024/07/03 11:32
+PHST- 2024/07/23 12:42 [medline]
+PHST- 2024/07/03 13:42 [pubmed]
+PHST- 2024/07/03 11:32 [entrez]
+AID - 2820549 [pii]
+AID - 10.1001/jama.2024.10707 [doi]
+PST - ppublish
+SO  - JAMA. 2024 Jul 23;332(4):339-340. doi: 10.1001/jama.2024.10707.

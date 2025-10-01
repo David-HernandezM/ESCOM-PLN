@@ -1,0 +1,114 @@
+PMID- 40975928
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 2352-3964 (Electronic)
+IS  - 2352-3964 (Linking)
+VI  - 120
+DP  - 2025 Sep 20
+TI  - α-Synuclein seed amplification assay positivity beyond synucleinopathies.
+PG  - 105925
+LID - S2352-3964(25)00369-X [pii]
+LID - 10.1016/j.ebiom.2025.105925 [doi]
+AB  - Neurodegenerative diseases are increasingly recognized as complex disorders 
+      involving multiple protein pathologies, with α-synuclein frequently observed 
+      beyond classical synucleinopathies such as Parkinson's disease and multiple 
+      system atrophy. Recent advances in seed amplification assays (SAAs) have enabled 
+      the highly sensitive and specific detection of misfolded α-synuclein in vivo, 
+      particularly in cerebrospinal fluid (CSF). This review focuses on CSF-based 
+      α-synuclein SAAs and their application in detecting co-pathology across 
+      non-synucleinopathies, including Alzheimer's disease, progressive supranuclear 
+      palsy, corticobasal syndrome, idiopathic normal pressure hydrocephalus, and 
+      traumatic brain injury. Evidence indicates a role for α-synuclein in clinical 
+      heterogeneity and disease progression. Emerging diagnostic frameworks 
+      increasingly support integrating co-pathologies into classification and 
+      therapeutic strategies. Addressing key knowledge gaps, such as α-synuclein 
+      interactions with other protein pathologies, and current limitations of α-syn 
+      SAA, such as the lack of quantification of misfolded α-synuclein seeds, will 
+      refine precision medicine and improve outcomes for patients with 
+      neurodegenerative diseases.
+CI  - Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Martinez-Valbuena, Ivan
+AU  - Martinez-Valbuena I
+AD  - Tanz Centre for Research in Neurodegenerative Diseases, University of Toronto, 
+      Toronto, Canada; Krembil Brain Institute, University Health Network, Toronto, 
+      Ontario, M5T 0S8, Canada; Rossy Centre for PSP, Toronto Western Hospital, 
+      Toronto, Ontario, M5T 2S8, Canada. Electronic address: ivan.martinez@utoronto.ca.
+FAU - Fullam, Sarah
+AU  - Fullam S
+AD  - Department of Neurology, Tallaght University Hospital, Dublin 24, Ireland; 
+      Academic Unit of Neurology, Trinity College Dublin, Ireland; Tallaght University 
+      Hospital Institute of Memory and Cognition, Ireland.
+FAU - O'Dowd, Sean
+AU  - O'Dowd S
+AD  - Department of Neurology, Tallaght University Hospital, Dublin 24, Ireland; 
+      Academic Unit of Neurology, Trinity College Dublin, Ireland; Tallaght University 
+      Hospital Institute of Memory and Cognition, Ireland.
+FAU - Tartaglia, M Carmela
+AU  - Tartaglia MC
+AD  - Tanz Centre for Research in Neurodegenerative Diseases, University of Toronto, 
+      Toronto, Canada; Krembil Brain Institute, University Health Network, Toronto, 
+      Ontario, M5T 0S8, Canada; Rossy Centre for PSP, Toronto Western Hospital, 
+      Toronto, Ontario, M5T 2S8, Canada; Department of Neurology, University of 
+      Toronto, Toronto, Ontario, M5T 1A8, Canada.
+FAU - Kovacs, Gabor G
+AU  - Kovacs GG
+AD  - Tanz Centre for Research in Neurodegenerative Diseases, University of Toronto, 
+      Toronto, Canada; Krembil Brain Institute, University Health Network, Toronto, 
+      Ontario, M5T 0S8, Canada; Rossy Centre for PSP, Toronto Western Hospital, 
+      Toronto, Ontario, M5T 2S8, Canada; Edmond J. Safra Programme in Parkinson's 
+      Disease and the Morton and Gloria Shulman Movement Disorders Clinic, Toronto 
+      Western Hospital, Toronto, Ontario, M5T 2S8, Canada; Department of Laboratory 
+      Medicine and Pathobiology, University of Toronto, Toronto, Canada; Laboratory 
+      Medicine Programme, University Health Network, Toronto, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250920
+PL  - Netherlands
+TA  - EBioMedicine
+JT  - EBioMedicine
+JID - 101647039
+SB  - IM
+OTO - NOTNLM
+OT  - Alzheimer’s disease
+OT  - Co-pathology
+OT  - Precision medicine
+OT  - Progressive supranuclear palsy
+OT  - Seed amplification assays
+OT  - α-Synuclein
+COIS- Declaration of interests IMV has a pending patent for Diagnostic assays for 
+      movement disorders (18/537,455), reports personal fees from Ferrer and receives 
+      research funding from the Rossy Family Foundation, the Blidner family, Ajay 
+      Virmani and the Michael J. Fox Foundation. SF has received financial support for 
+      attending scientific meetings from the NCHD Training Supports Scheme and the 
+      Trinity College, School of Medicine. MCT reports funding from the Tanenbaum 
+      Institute of Science in Sport, National Institute of Ageing, Canadian Institutes 
+      of Health Research, University Health Network Foundation, Weston Brain Foundation 
+      and the Michael J. Fox Foundation. She has received consulting fees from Eisai 
+      and Eli Lilly and in-kind support from Roche (to institution). She participates 
+      as a clinical trial site for studies sponsored by Janssen, Biogen, Avanex, Green 
+      Valley, UCB, Novo Nordisk, GSK, BMS, and Passage Bio. She holds unpaid scientific 
+      advisory roles with the Women’s Brain Foundation, Brain Injury Canada, and PSP 
+      Canada. SOD reports no conflict of interest. GGK reports personal fees from 
+      Parexel and Mitsubishi-Tanabe, other funding from the Rossy Family Foundation and 
+      the Edmond Safra Foundation. Grants from Krembil Foundation, MSA Coalition, 
+      Michael J. Fox Foundation, Parkinson Canada, NIH, Canada Foundation for 
+      Innovation, and Ontario Research Fund outside the submitted work; in addition, 
+      GGK has a shared patent for 5G4 Synuclein antibody and a pending patent for 
+      Diagnostic assays for movement disorders (18/537,455). GGK has also received 
+      royalties from Wiley, Cambridge, Taylor Francis, and Elsevier publishers. None of 
+      these had influence on this study.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 18:01
+PHST- 2024/11/29 00:00 [received]
+PHST- 2025/08/15 00:00 [revised]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 18:01 [entrez]
+AID - S2352-3964(25)00369-X [pii]
+AID - 10.1016/j.ebiom.2025.105925 [doi]
+PST - aheadofprint
+SO  - EBioMedicine. 2025 Sep 20;120:105925. doi: 10.1016/j.ebiom.2025.105925.

@@ -1,0 +1,85 @@
+PMID- 27733981
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2193-1801 (Print)
+IS  - 2193-1801 (Electronic)
+IS  - 2193-1801 (Linking)
+VI  - 5
+IP  - 1
+DP  - 2016
+TI  - Impact of headaches on university students in Durban, South Africa.
+PG  - 1679
+LID - 1679
+AB  - BACKGROUND: Introspection into the factors that affect student success at higher 
+      education institutions has gained significant momentum in recent years. Teaching 
+      and learning has come under the spotlight with quality enhancement and teaching 
+      development funding focussing on student support, enhancing the student 
+      environment, and enhancing academics as teachers. Included in this are aspects 
+      that try to understand the student. An aspect that is not receiving attention is 
+      student health, specifically headaches which could impact student success. The 
+      aim of this study was to investigate the impact of primary headaches on student 
+      academic, family and social life at one higher education institution in South 
+      Africa. METHOD: Data was collected using a questionnaire based descriptive cross 
+      sectional survey. Multistage sampling using a ballot method allowed for sampling 
+      to obtain representation from across the institution. To achieve a 95 % 
+      confidence level, 384 students from across the university were invited to 
+      participate after informed consent. Data was analysed using Chi square tests at a 
+      probability of p < 0.05. RESULTS: Majority of the participants were 
+      undergraduates and non-smokers. Half of the population suffered from primary 
+      headaches. Headache sufferers experienced limited concentration due to an 
+      increased headache intensity during tests and/or the examination period. This 
+      negatively impacted on studying which was aggravated by consumption of 
+      caffeinated energy drinks, coffee and chocolate resulting in a less effective 
+      study session. Activities of daily living and participation in social events 
+      which usually leads to relaxation were neglected. Personal and emotional 
+      well-being was also negatively affected. Altered sleeping patterns and absence of 
+      study breaks also led to headaches. CONCLUSION: Headaches were found to impact on 
+      the students study and sleep patterns, their attention levels during lectures and 
+      their social and emotional life. Headaches negatively impacted on some 
+      participants leading to reduced focus on academic, family, social or leisure 
+      activities. Intensity of headaches increased during tests and examinations which 
+      could impact their success at University.
+FAU - Basdav, Jyotika
+AU  - Basdav J
+AD  - Department of Chiropractic, Faculty of Health Sciences, Durban University of 
+      Technology, Gate 8, Steve Biko Road, Durban, South Africa.
+FAU - Haffejee, Firoza
+AU  - Haffejee F
+AD  - Department of Basic Medical Sciences, Faculty of Health Sciences, Durban 
+      University of Technology, Gate 8, Steve Biko Road, Durban, South Africa.
+FAU - Puckree, T
+AU  - Puckree T
+AD  - Faculty of Health Sciences, Durban University of Technology, Gate 8, Steve Biko 
+      Road, Durban, South Africa.
+LA  - eng
+PT  - Journal Article
+DEP - 20160929
+PL  - Switzerland
+TA  - Springerplus
+JT  - SpringerPlus
+JID - 101597967
+PMC - PMC5042922
+OTO - NOTNLM
+OT  - Chiropractic
+OT  - Epidemiology
+OT  - Headaches
+OT  - Impact
+OT  - Primary
+OT  - Students
+OT  - University
+EDAT- 2016/10/14 06:00
+MHDA- 2016/10/14 06:01
+PMCR- 2016/09/29
+CRDT- 2016/10/14 06:00
+PHST- 2016/07/27 00:00 [received]
+PHST- 2016/09/23 00:00 [accepted]
+PHST- 2016/10/14 06:00 [entrez]
+PHST- 2016/10/14 06:00 [pubmed]
+PHST- 2016/10/14 06:01 [medline]
+PHST- 2016/09/29 00:00 [pmc-release]
+AID - 3372 [pii]
+AID - 10.1186/s40064-016-3372-1 [doi]
+PST - epublish
+SO  - Springerplus. 2016 Sep 29;5(1):1679. doi: 10.1186/s40064-016-3372-1. eCollection 
+      2016.

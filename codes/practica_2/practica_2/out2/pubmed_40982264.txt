@@ -1,0 +1,103 @@
+PMID- 40982264
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2168-6114 (Electronic)
+IS  - 2168-6106 (Print)
+IS  - 2168-6106 (Linking)
+DP  - 2025 Sep 22
+TI  - Cognitive Behavioral Therapy for Insomnia in People With Chronic Disease: A 
+      Systematic Review and Meta-Analysis.
+LID - 10.1001/jamainternmed.2025.4610 [doi]
+LID - e254610
+AB  - IMPORTANCE: Insomnia is highly prevalent among individuals with chronic disease 
+      (eg, chronic pain, cardiovascular disease, and cancer) and results in poorer 
+      disease outcomes and quality of life. Cognitive behavioral therapy for insomnia 
+      (CBT-I) is recommended as first-line treatment for insomnia. However, concerns 
+      remain about its applicability and efficacy in people with chronic disease. 
+      OBJECTIVE: To evaluate the nature, efficacy, and acceptability of CBT-I in adults 
+      with chronic disease, and to identify moderators of treatment outcomes. DATA 
+      SOURCES: Systematic searches were conducted in PsycINFO, Medline, Embase, and 
+      CENTRAL from database inception to June 5, 2025. Additional records were 
+      identified from reference lists of relevant reviews and studies. STUDY SELECTION: 
+      Eligible studies were randomized clinical trials (RCTs) involving adults (aged 
+      ≥18 years) with chronic disease and insomnia. Studies using CBT-I with measured 
+      sleep outcomes were included. DATA EXTRACTION AND SYNTHESIS: Two assessors 
+      extracted data from RCTs. Hedges g was used to calculate effect sizes, and random 
+      effects meta-analyses were conducted. Heterogeneity was assessed via I2. Subgroup 
+      analyses examined whether outcomes varied by delivery format, chronic condition 
+      type, or control group. MAIN OUTCOMES AND MEASURES: Primary outcomes included 
+      insomnia severity, sleep efficiency, and sleep onset latency. Secondary outcomes 
+      included treatment acceptability and adverse effects. RESULTS: Sixty-seven RCTs 
+      (5232 participants) met inclusion criteria, including chronic diseases such as 
+      cancer, chronic pain, irritable bowel syndrome, and stroke. CBT-I was associated 
+      with significantly improved outcomes for insomnia severity (g = 0.98; 95% CI, 
+      0.81-1.16) and moderate effect sizes regarding sleep efficiency (g = 0.77; 95% 
+      CI, 0.63-0.91) and sleep onset latency (g = 0.64; 95% CI, 0.50-0.78). Subgroup 
+      analyses revealed some sample, treatment, and methodological moderators (eg, 
+      longer treatment yielded better outcomes for sleep efficiency and sleep onset 
+      latency). Satisfaction with CBT-I was high, with a mean dropout rate of 13.3%. 
+      Treatment-related adverse effects were rare. CONCLUSIONS AND RELEVANCE: This 
+      systematic review and meta-analysis showed that CBT-I demonstrated strong 
+      efficacy and acceptability in chronic disease populations, with moderate to large 
+      effect sizes that appear comparable to those in non-chronic disease populations. 
+      Efficacy of CBT-I was similar across a range of disease subgroups. Future 
+      research should explore the role and nature of treatment adaptations for specific 
+      populations and increase access to CBT-I in medical settings.
+FAU - Scott, Amelia J
+AU  - Scott AJ
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Correa, Ashleigh B
+AU  - Correa AB
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Bisby, Madelyne A
+AU  - Bisby MA
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Chandra, Shianika S
+AU  - Chandra SS
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Rahimi, Matthew
+AU  - Rahimi M
+AD  - CIRUS Centre for Sleep and Chronobiology, Woolcock Institute of Medical Research, 
+      Sydney, New South Wales, Australia.
+FAU - Christina, Stefanny
+AU  - Christina S
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Heriseanu, Andreea I
+AU  - Heriseanu AI
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+FAU - Dear, Blake F
+AU  - Dear BF
+AD  - School of Psychological Sciences, Macquarie University, Sydney, New South Wales, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - JAMA Intern Med
+JT  - JAMA internal medicine
+JID - 101589534
+SB  - IM
+PMC - PMC12455488
+COIS- Conflict of Interest Disclosures: Dr Scott reported receiving grants from 
+      Macquarie University during the conduct of the study. No other disclosures were 
+      reported.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:46
+PMCR- 2026/09/22
+CRDT- 2025/09/22 11:34
+PHST- 2025/09/22 12:46 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 11:34 [entrez]
+PHST- 2026/09/22 00:00 [pmc-release]
+AID - 2839294 [pii]
+AID - ioi250059 [pii]
+AID - 10.1001/jamainternmed.2025.4610 [doi]
+PST - aheadofprint
+SO  - JAMA Intern Med. 2025 Sep 22:e254610. doi: 10.1001/jamainternmed.2025.4610.

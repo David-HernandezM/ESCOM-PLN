@@ -1,0 +1,101 @@
+PMID- 37809560
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231018
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Electronic)
+IS  - 2405-8440 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2023 Sep
+TI  - Antibacterial activity and mechanism of cinnamon essential oil nanoemulsion 
+      against Pseudomonas deceptionensis CM2.
+PG  - e19582
+LID - 10.1016/j.heliyon.2023.e19582 [doi]
+LID - e19582
+AB  - This work aimed to evaluate the antibacterial activity and mechanism of cinnamon 
+      essential oil nanoemulsion (CON) against Pseudomonas deceptionensis CM2. The 
+      results revealed that CON could effectively inhibit the proliferation of P. 
+      deceptionensis CM2 cells in a time- and concentration-dependent manner. After 4 h 
+      of incubation with CON at the minimum inhibitory concentration (0.125 mg/mL), the 
+      relative fluorescence intensity of propidium iodide and 1-N-phenylnapthylamine 
+      (NPN) was increased by 32.0% and 351.4%, respectively. The membrane permeability 
+      of P. deceptionensis CM2 cells was significantly disrupted after CON treatment, 
+      resulting in the leakage of intracellular substances (such as proteins and 
+      electrolytes). CON also caused significant increases in the DiBAC(4)(3) 
+      fluorescence intensity of P. deceptionensis CM2 cells. These results demonstrate 
+      that CON induced inactivation of P. deceptionensis CM2 by destroying the 
+      integrity and function of bacterial membrane. A higher level of intracellular 
+      reactive oxygen species (ROS) was observed in CON-treated cells (p < 0.05), 
+      compared with control cells. Moreover, the addition of glutathione to the growth 
+      medium remarkably decreased the antimicrobial activity of CON against P. 
+      deceptionensis CM2, further confirming that oxidative stress played an important 
+      role in the antimicrobial activity of CON. Overall, CON may exhibit antibacterial 
+      effects by causing damage to the bacterial membranes and oxidative stress.
+CI  - © 2023 The Authors.
+FAU - Zhao, Dianbo
+AU  - Zhao D
+AD  - College of Food and Bioengineering, Zhengzhou University of Light Industry, 
+      Zhengzhou, 450001, China.
+AD  - Key Laboratory of Cold Chain Food Processing and Safety Control (Zhengzhou 
+      University of Light Industry), Ministry of Education, Zhengzhou, 450001, China.
+AD  - Henan Key Laboratory of Cold Chain Food Quality and Safety Control, Zhengzhou, 
+      450001, China.
+FAU - Ma, Yanqing
+AU  - Ma Y
+AD  - College of Food and Bioengineering, Zhengzhou University of Light Industry, 
+      Zhengzhou, 450001, China.
+AD  - Key Laboratory of Cold Chain Food Processing and Safety Control (Zhengzhou 
+      University of Light Industry), Ministry of Education, Zhengzhou, 450001, China.
+AD  - Henan Key Laboratory of Cold Chain Food Quality and Safety Control, Zhengzhou, 
+      450001, China.
+FAU - Wang, Wenwen
+AU  - Wang W
+AD  - College of Food and Bioengineering, Zhengzhou University of Light Industry, 
+      Zhengzhou, 450001, China.
+AD  - Key Laboratory of Cold Chain Food Processing and Safety Control (Zhengzhou 
+      University of Light Industry), Ministry of Education, Zhengzhou, 450001, China.
+AD  - Henan Key Laboratory of Cold Chain Food Quality and Safety Control, Zhengzhou, 
+      450001, China.
+FAU - Xiang, Qisen
+AU  - Xiang Q
+AD  - College of Food and Bioengineering, Zhengzhou University of Light Industry, 
+      Zhengzhou, 450001, China.
+AD  - Key Laboratory of Cold Chain Food Processing and Safety Control (Zhengzhou 
+      University of Light Industry), Ministry of Education, Zhengzhou, 450001, China.
+AD  - Henan Key Laboratory of Cold Chain Food Quality and Safety Control, Zhengzhou, 
+      450001, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230828
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC10558840
+OTO - NOTNLM
+OT  - Antibacterial
+OT  - Cinnamon essential oil
+OT  - Mechanism
+OT  - Nanoemulsions
+OT  - Pseudomonas deceptionensis CM2
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper.
+EDAT- 2023/10/09 06:42
+MHDA- 2023/10/09 06:43
+PMCR- 2023/08/28
+CRDT- 2023/10/09 05:55
+PHST- 2023/04/01 00:00 [received]
+PHST- 2023/08/24 00:00 [revised]
+PHST- 2023/08/27 00:00 [accepted]
+PHST- 2023/10/09 06:43 [medline]
+PHST- 2023/10/09 06:42 [pubmed]
+PHST- 2023/10/09 05:55 [entrez]
+PHST- 2023/08/28 00:00 [pmc-release]
+AID - S2405-8440(23)06790-7 [pii]
+AID - e19582 [pii]
+AID - 10.1016/j.heliyon.2023.e19582 [doi]
+PST - epublish
+SO  - Heliyon. 2023 Aug 28;9(9):e19582. doi: 10.1016/j.heliyon.2023.e19582. eCollection 
+      2023 Sep.

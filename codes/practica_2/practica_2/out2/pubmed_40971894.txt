@@ -1,0 +1,134 @@
+PMID- 40971894
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1460-2156 (Electronic)
+IS  - 0006-8950 (Linking)
+DP  - 2025 Sep 16
+TI  - Targeting lipid droplets in FUS-linked amyotrophic lateral sclerosis mitigates 
+      neuronal and astrocytic lipotoxicity.
+LID - awaf328 [pii]
+LID - 10.1093/brain/awaf328 [doi]
+AB  - Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder 
+      characterized by the progressive loss of motor neurons, muscle atrophy, and 
+      systemic energy imbalance. Increasing evidence suggests a metabolic shift in ALS 
+      from glucose metabolism toward fatty acid utilization; however, the downstream 
+      consequences of this reprogramming on disease progression and neuropathology 
+      remain poorly defined. We investigated neurometabolic changes in ALS using in 
+      vitro and in vivo models of familial ALS expressing the human fused in sarcoma 
+      variant R521G (hFUSR521G), along with post-mortem spinal cord tissue from ALS-FUS 
+      cases. A combination of unbiased quantitative metabolomic profiling, 
+      immunolabeling, and biochemical and molecular approaches were employed. Mass 
+      spectrometry of cortical tissue from hFUSR521G mice and littermates revealed a 
+      significant increase in acylcarnitine moieties, key substrates used in 
+      mitochondrial β-oxidation and cellular energy production. Complementary 
+      cytohistological analyses in hFUSR521G mice demonstrated increased lipid droplets 
+      (LDs) and peroxidized lipids in both neurons and astrocytes, consistent with our 
+      post-mortem findings in spinal cords of individuals carrying FUS R495X or K510E 
+      mutations. Arimoclomol, previously shown to ameliorate behavioral phenotypes in 
+      this ALS mouse model, was found to enhance lipid metabolism and reduce 
+      lipotoxicity in hFUSR521G mice and in cultured neurons and astrocytes expressing 
+      FUS R521G. Mechanistically, arimoclomol enhanced LD-mitochondrial contacts and 
+      stimulated mitochondrial β-oxidation-dependent lipid catabolism under both basal 
+      and pro-inflammatory conditions. This effect was abrogated by etomoxir, an 
+      irreversible inhibitor of CPT1, the rate-limiting enzyme of the carnitine 
+      shuttle, highlighting a CPT1-dependent mechanism for lipid mobilization. 
+      Together, these findings reveal a previously unrecognized role for mitochondrial 
+      lipid metabolism in ALS pathogenesis and identify a therapeutic pathway for 
+      mitigating the cytotoxic consequences of lipid and acylcarnitine accumulation in 
+      FUS-associated ALS.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Guarantors of Brain.
+FAU - Marcadet, Laetitia
+AU  - Marcadet L
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Pelaez, Mari Carmen
+AU  - Pelaez MC
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Desmeules, Antoine
+AU  - Desmeules A
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Serrano, Jeanne
+AU  - Serrano J
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Cheng, Zhan
+AU  - Cheng Z
+AD  - The Metabolomics Innovation Centre (TMIC), University of Alberta, Edmonton, 
+      Alberta, T6G 2E9, Canada.
+FAU - Khademullah, Sahara
+AU  - Khademullah S
+AUID- ORCID: 0000-0003-3887-8946
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Parham, Elahe
+AU  - Parham E
+AD  - Department of Physics, CERVO Brain Research Centre, Laval University, Quebec 
+      City, Quebec, G1J 2G3, Canada.
+FAU - Kennedy, Jaimee
+AU  - Kennedy J
+AD  - London Neurodegenerative Diseases Brain Bank, Department of Basic and Clinical 
+      Neuroscience, Institute of Psychiatry, Psychology & Neuroscience, King's College 
+      London, London, SE5 8AF, UK.
+FAU - Troakes, Claire
+AU  - Troakes C
+AD  - London Neurodegenerative Diseases Brain Bank, Department of Basic and Clinical 
+      Neuroscience, Institute of Psychiatry, Psychology & Neuroscience, King's College 
+      London, London, SE5 8AF, UK.
+FAU - Vance, Caroline
+AU  - Vance C
+AUID- ORCID: 0000-0001-5780-6951
+AD  - Maurice Wohl Clinical Neuroscience Institute, Department of Basic and Clinical 
+      Neuroscience, Institute of Psychiatry, Psychology and Neuroscience, King's 
+      College London, London, SE5 9RX, UK.
+FAU - Soliz, Jorge
+AU  - Soliz J
+AD  - Department of Pediatrics, Institut Universitaire de Cardiologie et de Pneumologie 
+      de Québec (IUCPQ), Laval University, Quebec City, Quebec, G1V 4G5  Canada.
+FAU - Durham, Heather D
+AU  - Durham HD
+AD  - Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill 
+      University, Montreal, Quebec, H3A 1A1  Canada.
+FAU - Li, Liang
+AU  - Li L
+AUID- ORCID: 0000-0002-9347-2108
+AD  - The Metabolomics Innovation Centre (TMIC), University of Alberta, Edmonton, 
+      Alberta, T6G 2E9, Canada.
+FAU - Dutchak, Paul A
+AU  - Dutchak PA
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+FAU - Sephton, Chantelle F
+AU  - Sephton CF
+AUID- ORCID: 0000-0002-9839-0611
+AD  - Department of Psychiatry and Neuroscience, CERVO Brain Research Centre, Laval 
+      University, Quebec City, Quebec, G1J 2G3, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20250916
+PL  - England
+TA  - Brain
+JT  - Brain : a journal of neurology
+JID - 0372537
+SB  - IM
+OTO - NOTNLM
+OT  - fatty acid oxidation (FAO)
+OT  - glycolysis
+OT  - ketolysis
+OT  - nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB)
+OT  - withaferin A
+EDAT- 2025/09/19 18:31
+MHDA- 2025/09/19 18:31
+CRDT- 2025/09/19 17:13
+PHST- 2024/12/23 00:00 [received]
+PHST- 2025/06/16 00:00 [revised]
+PHST- 2025/09/19 18:31 [medline]
+PHST- 2025/09/19 18:31 [pubmed]
+PHST- 2025/09/19 17:13 [entrez]
+AID - 8254939 [pii]
+AID - 10.1093/brain/awaf328 [doi]
+PST - aheadofprint
+SO  - Brain. 2025 Sep 16:awaf328. doi: 10.1093/brain/awaf328.

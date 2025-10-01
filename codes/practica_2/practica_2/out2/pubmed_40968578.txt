@@ -1,0 +1,140 @@
+PMID- 40968578
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250922
+IS  - 1468-1331 (Electronic)
+IS  - 1351-5101 (Print)
+IS  - 1351-5101 (Linking)
+VI  - 32
+IP  - 9
+DP  - 2025 Sep
+TI  - Assessing Real World Efficacy, Safety, and 18-Month Retention Rates of 
+      Cannabidiol in Individuals With Drug Resistant Epilepsies.
+PG  - e70304
+LID - 10.1111/ene.70304 [doi]
+LID - e70304
+AB  - BACKGROUND: Highly purified Cannabidiol (CBD, epidiolex) is approved for treating 
+      Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), and tuberous sclerosis 
+      (TSC), with off-label use in drug-resistant epilepsies. The aim of this study is 
+      to evaluate efficacy, safety, and long-term retention of CBD in a large pediatric 
+      population. METHODS: We prospectively included all consecutive patients 
+      initiating CBD for drug-resistant epilepsy at our pediatric tertiary center from 
+      2019 to 2021. Efficacy and safety were assessed via parental questionnaires on 
+      seizure and non-seizure outcomes at 1, 2, and 6 months, comparing each item to 
+      prior clinic visits. Retention rate was evaluated at 18 months. RESULTS: We 
+      included 103 patients (mean age 11.2 years), with 47% receiving CBD for 
+      label-approved syndromes (23 DS, 15 LGS, 10 TSC) and 53% off-label. At 1 month, 
+      54% of caregivers reported reduced seizure frequency and duration, with a 
+      positive overall impression in 62%. By months 2-6, 48% maintained seizure 
+      improvement, alongside sustained gains in communication (60%), alertness (54%), 
+      and motor skills (44%). Retention rates were 97% at 1 month, 90% at 2 months, 82% 
+      at 6 months, 66% at 12 months, and 55% at 18 months. Off-label use (p = 0.02), 
+      male gender (p = 0.049), and older age at initiation (p = 0.03) were associated 
+      with higher retention. CONCLUSIONS: CBD reduced seizures and improved non 
+      seizures' morbidities in drug-resistant epilepsy. Strong 18-month retention rate, 
+      including off-label use, highlights efficacy and tolerability, underscoring the 
+      need for further real-world data in various rare epilepsy syndromes beyond its 
+      market approval.
+CI  - © 2025 The Author(s). European Journal of Neurology published by John Wiley & 
+      Sons Ltd on behalf of European Academy of Neurology.
+FAU - Chemaly, Nicole
+AU  - Chemaly N
+AUID- ORCID: 0000-0002-2333-9408
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+FAU - Kuchenbuch, Mathieu
+AU  - Kuchenbuch M
+AUID- ORCID: 0000-0002-5944-2204
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+AD  - Université de Lorraine, CNRS, IMoPA, F-54000 Nancy, France.
+AD  - Service de Pédiatrie, Reference Center for Rare Epilepsies, Member of ERN 
+      EpiCARE, Université de Lorraine, CHRU-Nancy, F-54000 Nancy, France.
+FAU - Losito, Emma
+AU  - Losito E
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+FAU - Kaminska, Anna
+AU  - Kaminska A
+AUID- ORCID: 0000-0003-3805-6651
+AD  - Unit of Pediatric Neurophysiology, Necker Enfants Malades Hospital, AP-HP, Paris, 
+      France.
+FAU - Coste-Zeitoun, Delphine
+AU  - Coste-Zeitoun D
+AUID- ORCID: 0000-0003-4063-5345
+AD  - Unit of Pediatric Neurophysiology, Necker Enfants Malades Hospital, AP-HP, Paris, 
+      France.
+FAU - Barcia, Giulia
+AU  - Barcia G
+AUID- ORCID: 0000-0001-6657-5040
+AD  - Université de Paris Cité, Paris, France.
+FAU - Desguerre, Isabelle
+AU  - Desguerre I
+AUID- ORCID: 0000-0002-4074-5862
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+FAU - Hully, Marie
+AU  - Hully M
+AUID- ORCID: 0000-0002-1742-3590
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+FAU - Nabbout, Rima
+AU  - Nabbout R
+AUID- ORCID: 0000-0001-5877-4074
+AD  - Department of Pediatric Neurology, Reference Center for Rare Epilepsies, Hôpital 
+      Necker-Enfants Malades, Member of ERN EpiCARE, Paris, France.
+AD  - Université de Paris Cité, Paris, France.
+AD  - Laboratory of Translational Research for Neurological Disorders, INSERM MR1163, 
+      Imagine Institute, Paris, France.
+LA  - eng
+GR  - ANR-10-IAHU-01/Agence Nationale de la Recherche/
+GR  - ANR-23-RHUS-0002/Agence Nationale de la Recherche/
+GR  - FAMA/
+GR  - Swiss Philanthropy Foundation/
+PT  - Journal Article
+PL  - England
+TA  - Eur J Neurol
+JT  - European journal of neurology
+JID - 9506311
+RN  - 19GBJ60SN5 (Cannabidiol)
+RN  - 0 (Anticonvulsants)
+SB  - IM
+MH  - Humans
+MH  - *Cannabidiol/therapeutic use/adverse effects
+MH  - *Drug Resistant Epilepsy/drug therapy
+MH  - Male
+MH  - Female
+MH  - Child
+MH  - Adolescent
+MH  - *Anticonvulsants/therapeutic use/adverse effects
+MH  - Prospective Studies
+MH  - Child, Preschool
+MH  - Epilepsies, Myoclonic/drug therapy
+MH  - Treatment Outcome
+MH  - Lennox Gastaut Syndrome/drug therapy
+PMC - PMC12446575
+OTO - NOTNLM
+OT  - Dravet syndrome
+OT  - Lennox–Gastaut syndrome
+OT  - developmental and epileptic encephalopathy
+OT  - gender differences
+OT  - off‐label
+OT  - retention rate
+OT  - tuberous sclerosis
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/09/19 06:32
+MHDA- 2025/09/19 06:33
+PMCR- 2025/09/18
+CRDT- 2025/09/19 02:02
+PHST- 2025/07/01 00:00 [revised]
+PHST- 2025/07/01 00:00 [received]
+PHST- 2025/07/12 00:00 [accepted]
+PHST- 2025/09/19 06:33 [medline]
+PHST- 2025/09/19 06:32 [pubmed]
+PHST- 2025/09/19 02:02 [entrez]
+PHST- 2025/09/18 00:00 [pmc-release]
+AID - ENE70304 [pii]
+AID - 10.1111/ene.70304 [doi]
+PST - ppublish
+SO  - Eur J Neurol. 2025 Sep;32(9):e70304. doi: 10.1111/ene.70304.

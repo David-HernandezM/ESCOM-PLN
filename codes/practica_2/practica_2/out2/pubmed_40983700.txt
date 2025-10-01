@@ -1,0 +1,153 @@
+PMID- 40983700
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2058-5276 (Electronic)
+IS  - 2058-5276 (Linking)
+DP  - 2025 Sep 22
+TI  - Nasal Staphylococcus aureus carriage promotes depressive behaviour in mice via 
+      sex hormone degradation.
+LID - 10.1038/s41564-025-02120-6 [doi]
+AB  - The human microbiome has a pronounced impact on human physiology and behaviour. 
+      Despite its unique anatomical connection to the brain, the role of the nasal 
+      microbiome in neurological diseases is understudied. Here, using human data and 
+      experiments in mice, we show that nasal Staphylococcus aureus is linked to 
+      depression. Nasal microbiome analyses revealed a positive correlation between 
+      depression scores and S. aureus abundance among patients with depression and 
+      healthy controls. Metabolomics of the nasal cavity showed decreased sex hormones, 
+      estradiol and testosterone in patients with depression versus controls. Nasal 
+      microbiota transplants from patients reproduced depression-like behaviour in mice 
+      with differential abundance of S. aureus. Further homology and mutational 
+      analysis uncovered an S. aureus sex hormone-degrading enzyme, 17b-hydroxysteroid 
+      dehydrogenase (Hsd12), which degraded testosterone and estradiol in mice, leading 
+      to lower levels of dopamine and serotonin in the murine brain. These findings 
+      reveal a nasal commensal that influences depressive behaviour and provides 
+      insights into the nose-brain axis.
+CI  - © 2025. This is a U.S. Government work and not under copyright protection in the 
+      US; foreign copyright protection may apply.
+FAU - Xiang, Guoxiu
+AU  - Xiang G
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Wang, Yanan
+AU  - Wang Y
+AUID- ORCID: 0000-0002-8864-5609
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Ni, Kaiji
+AU  - Ni K
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Luo, Huoqing
+AU  - Luo H
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China.
+FAU - Liu, Qian
+AU  - Liu Q
+AUID- ORCID: 0000-0001-8897-5117
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Song, Yan
+AU  - Song Y
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Miao, Ping
+AU  - Miao P
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - He, Lei
+AU  - He L
+AUID- ORCID: 0000-0003-4679-5462
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Jian, Ying
+AU  - Jian Y
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Yang, Ziyu
+AU  - Yang Z
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Chen, Tianchi
+AU  - Chen T
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Xu, Ke
+AU  - Xu K
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Sun, Xia
+AU  - Sun X
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Shen, Zhen
+AU  - Shen Z
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - Ji, Chenfeng
+AU  - Ji C
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Zhao, Na
+AU  - Zhao N
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China.
+FAU - He, Mengxin
+AU  - He M
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Pan, Yan
+AU  - Pan Y
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Luo, Yanli
+AU  - Luo Y
+AUID- ORCID: 0000-0002-6824-6686
+AD  - Department of Psychological Medicine, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China. luoluoyanli@163.com.
+FAU - Hu, Ji
+AU  - Hu J
+AUID- ORCID: 0000-0001-7930-2316
+AD  - School of Life Science and Technology, ShanghaiTech University, Shanghai, China. 
+      huji@shanghaitech.edu.cn.
+FAU - Otto, Michael
+AU  - Otto M
+AUID- ORCID: 0000-0002-2222-4115
+AD  - Pathogen Molecular Genetics Section, Laboratory of Bacteriology, Division of 
+      Intramural Research, National Institute of Allergy and Infectious Diseases, US 
+      National Institutes of Health, Bethesda, MD, USA. motto@niaid.nih.gov.
+FAU - Li, Min
+AU  - Li M
+AUID- ORCID: 0000-0002-8571-2909
+AD  - Department of Laboratory Medicine, Renji Hospital, School of Medicine, Shanghai 
+      Jiao Tong University, Shanghai, China. rjlimin@shsmu.edu.cn.
+AD  - School of Nursing, Shanghai Jiao Tong University, Shanghai, China. 
+      rjlimin@shsmu.edu.cn.
+LA  - eng
+GR  - AI000904/Division of Intramural Research, National Institute of Allergy and 
+      Infectious Diseases (Division of Intramural Research of the NIAID)/
+GR  - 82472288/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82302595/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82172325/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Microbiol
+JT  - Nature microbiology
+JID - 101674869
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:20
+PHST- 2024/08/15 00:00 [received]
+PHST- 2025/08/14 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:20 [entrez]
+AID - 10.1038/s41564-025-02120-6 [pii]
+AID - 10.1038/s41564-025-02120-6 [doi]
+PST - aheadofprint
+SO  - Nat Microbiol. 2025 Sep 22. doi: 10.1038/s41564-025-02120-6.

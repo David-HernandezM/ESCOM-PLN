@@ -1,0 +1,103 @@
+PMID- 40974336
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1756-5391 (Electronic)
+IS  - 1756-5391 (Linking)
+DP  - 2025 Sep 20
+TI  - Disease Burden of Gastrointestinal Tumors in China From 1990 to 2021, an Analysis 
+      for the Global Burden of Disease Study 2021.
+PG  - e70072
+LID - 10.1111/jebm.70072 [doi]
+AB  - OBJECTIVE: China faces a significant burden of gastrointestinal tumors driven by 
+      socioeconomic, environmental, and lifestyle factors. Using GBD2021 data, this 
+      study analyses epidemiological trends and disease burden for six major 
+      gastrointestinal tumor cancers (esophagus, gastric, colorectum, liver, pancreas, 
+      gallbladder and biliary tract) in China (1990-2021). METHODS: The GBD 2021 was 
+      used to extract the incidence, mortality, and disability-adjusted life years 
+      (DALYs) data of gastrointestinal tumors in China. Age-standardized rates (ASRs) 
+      and 95% uncertainty intervals (UIs) were calculated. Temporal trends were 
+      assessed by joinpoint regression analysis, and average annual percent change 
+      (AAPC) and annual percentage change (APC) were calculated and analyzed stratified 
+      by gender and age group. RESULTS: In 2021, China recorded 1.96 million new 
+      gastrointestinal cancer cases, with 1.35 million deaths and 33.07 million DALYs. 
+      Gastric cancer led in mortality, and colorectal cancer demonstrated the most 
+      rapid incidence growth (AAPC = 1.68). Significant reductions were observed in 
+      gastric cancer age-standardized mortality rates (ASMR) (AAPC = -2.44) and 
+      esophageal cancer age-standardized disability-adjusted life year rates (ASDR) 
+      (AAPC = -2.31). Gender disparities were particularly pronounced in esophageal 
+      cancer, with the male-to-female mortality ratio (M/F) escalating from 2.50 (1990) 
+      to 4.12 (2021). The age group with the highest mortality burden was 70-74, while 
+      the age group with the most significant loss of DALYs was 65-69. CONCLUSION: 
+      China has significantly reduced gastrointestinal cancer burden, but gender and 
+      age disparities persist, necessitating targeted interventions. Future efforts 
+      should focus on tertiary prevention for high-risk groups, especially males and 
+      the elderly, while enhancing molecular subtyping and regional data stratification 
+      for precision cancer control.
+CI  - © 2025 The Author(s). Journal of Evidence‐Based Medicine published by Chinese 
+      Cochrane Center, West China Hospital of Sichuan University and John Wiley & Sons 
+      Australia, Ltd.
+FAU - Guo, Lanwei
+AU  - Guo L
+AUID- ORCID: 0000-0002-0822-2578
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+AD  - Department of Epidemiology, School of Public Health, Zhengzhou University, 
+      Zhengzhou, China.
+FAU - Yuan, Jiani
+AU  - Yuan J
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+AD  - Department of Epidemiology, School of Public Health, Zhengzhou University, 
+      Zhengzhou, China.
+FAU - Cai, Lin
+AU  - Cai L
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+AD  - Department of Epidemiology, School of Public Health, Zhengzhou University, 
+      Zhengzhou, China.
+FAU - Zhu, Chenxin
+AU  - Zhu C
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+AD  - Department of Epidemiology, School of Public Health, Zhengzhou University, 
+      Zhengzhou, China.
+FAU - Zheng, Yan
+AU  - Zheng Y
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+FAU - Yang, Haiyan
+AU  - Yang H
+AD  - Department of Epidemiology, School of Public Health, Zhengzhou University, 
+      Zhengzhou, China.
+FAU - Liu, Yanyan
+AU  - Liu Y
+AD  - Department of Clinical Research Management, The Affiliated Cancer Hospital of 
+      Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China.
+LA  - eng
+GR  - YXKC2022045/Training Project for Young and Middle-aged Excellent Talents in 
+      Health Science and Technology Innovation of Henan Province/
+GR  - ITTA2416/Investigator-initiated Clinical Trial and Transformation of Scientific 
+      Achievements, Henan Cancer Hospital/
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - J Evid Based Med
+JT  - Journal of evidence-based medicine
+JID - 101497477
+SB  - IM
+OTO - NOTNLM
+OT  - burden
+OT  - gastrointestinal tumors
+OT  - trends
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:32
+CRDT- 2025/09/20 10:27
+PHST- 2025/05/20 00:00 [received]
+PHST- 2025/09/09 00:00 [accepted]
+PHST- 2025/09/20 12:32 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 10:27 [entrez]
+AID - 10.1111/jebm.70072 [doi]
+PST - aheadofprint
+SO  - J Evid Based Med. 2025 Sep 20:e70072. doi: 10.1111/jebm.70072.

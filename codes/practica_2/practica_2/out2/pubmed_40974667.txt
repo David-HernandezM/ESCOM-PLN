@@ -1,0 +1,130 @@
+PMID- 40974667
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1090-2414 (Electronic)
+IS  - 0147-6513 (Linking)
+VI  - 304
+DP  - 2025 Sep 19
+TI  - Environmental cadmium exposure promotes lung cancer via DHX34: A molecular 
+      toxicology perspective.
+PG  - 119087
+LID - S0147-6513(25)01432-0 [pii]
+LID - 10.1016/j.ecoenv.2025.119087 [doi]
+AB  - Although cadmium (Cd) exposure has been implicated in lung cancer development, 
+      systematic investigations into its association with cancer mortality, 
+      particularly lung cancer mortality remain limited, and the molecular mechanisms 
+      driving Cd-induced tumor progression are not fully understood. In this study, we 
+      first conducted a meta-analysis of existing cohort studies to quantitatively 
+      assess the association between Cd exposure and cancer- and lung cancer-specific 
+      mortality. We then employed an integrative approach combining bioinformatics 
+      analyses, LASSO regression, and Mendelian randomization to identify and validate 
+      DHX34 as a key gene implicated in Cd-related lung carcinogenesis. These findings 
+      were further supported by molecular docking, molecular dynamics simulations, in 
+      vitro functional assays, and in vivo tumor models. Our meta-analysis showed that 
+      long-term Cd exposure significantly increased cancer mortality risk, especially 
+      in males (RR = 1.49, 95 % CI: 1.13-1.96) and in lung cancer (RR = 1.86, 95 % CI: 
+      1.36-2.54). Integration of GSE165549 and TCGA data identified 36 Cd-related genes 
+      enriched in tumor associated pathways including cell cycle and DNA replication. 
+      LASSO regression and Mendelian randomization suggested a causal role of DHX34 in 
+      lung cancer. Molecular docking demonstrated a strong binding affinity between 
+      Cd(2 +) and DHX34 (binding free energy = -5.34 kcal/mol), and molecular dynamics 
+      simulations confirmed the stability of this complex. Functional assays further 
+      showed that CdCl(2) exposure upregulated DHX34, thereby promoting lung cancer 
+      cell proliferation and tumor growth both in vitro and in vivo. Together, these 
+      findings provide multi-level evidence that DHX34 mediates Cd-induced lung cancer 
+      progression, highlighting the carcinogenic potential of environmental heavy metal 
+      exposure and offering new insights into molecular targets for early prevention, 
+      risk stratification, and therapeutic intervention.
+CI  - Copyright © 2025. Published by Elsevier Inc.
+FAU - Lu, Yongbin
+AU  - Lu Y
+AD  - Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+      University, Lanzhou, Gansu, China; Evidence-Based Social Science Research Center, 
+      Health Technology Assessment Center, School of Public Health, Lanzhou University, 
+      Lanzhou, Gansu, China; Gansu Key Laboratory of Evidence-Based Medicine, Lanzhou, 
+      Gansu, China.
+FAU - Kong, Weize
+AU  - Kong W
+AD  - Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+      University, Lanzhou, Gansu, China; Evidence-Based Social Science Research Center, 
+      Health Technology Assessment Center, School of Public Health, Lanzhou University, 
+      Lanzhou, Gansu, China; Gansu Key Laboratory of Evidence-Based Medicine, Lanzhou, 
+      Gansu, China.
+FAU - Wang, Kaiwen
+AU  - Wang K
+AD  - The First Clinical Medical College of Lanzhou University, Lanzhou University, 
+      Lanzhou, Gansu, China.
+FAU - Shao, Zicong
+AU  - Shao Z
+AD  - School of Public Health, Lanzhou University, Lanzhou, Gansu, China.
+FAU - Hui, Xu
+AU  - Hui X
+AD  - Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+      University, Lanzhou, Gansu, China; Evidence-Based Social Science Research Center, 
+      Health Technology Assessment Center, School of Public Health, Lanzhou University, 
+      Lanzhou, Gansu, China; Gansu Key Laboratory of Evidence-Based Medicine, Lanzhou, 
+      Gansu, China.
+FAU - Song, Xuping
+AU  - Song X
+AD  - Evidence-Based Social Science Research Center, Health Technology Assessment 
+      Center, School of Public Health, Lanzhou University, Lanzhou, Gansu, China; 
+      School of Public Health, Lanzhou University, Lanzhou, Gansu, China.
+FAU - Zhang, Siyu
+AU  - Zhang S
+AD  - National Institute for Occupational Health and Poison Control, Chinese Center for 
+      Disease Control and Prevention, Beijing, China.
+FAU - Ma, Li
+AU  - Ma L
+AD  - School of Public Health, Lanzhou University, Lanzhou, Gansu, China.
+FAU - Cheng, Zhiyuan
+AU  - Cheng Z
+AD  - School of public Health, Sun Yat-sen University, Shenzhen, Guangzhou, China.
+FAU - Su, Fei
+AU  - Su F
+AD  - The First Clinical Medical College of Lanzhou University, Lanzhou University, 
+      Lanzhou, Gansu, China; Department of Oncology, The First Hospital of Lanzhou 
+      University, Lanzhou, Gansu, China. Electronic address: sufei19881216@163.com.
+FAU - Zhang, Tao
+AU  - Zhang T
+AD  - The First Clinical Medical College of Lanzhou University, Lanzhou University, 
+      Lanzhou, Gansu, China; Department of Oncology, The First Hospital of Lanzhou 
+      University, Lanzhou, Gansu, China. Electronic address: zhangtao578@163.com.
+FAU - Yang, Kehu
+AU  - Yang K
+AD  - Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+      University, Lanzhou, Gansu, China; Evidence-Based Social Science Research Center, 
+      Health Technology Assessment Center, School of Public Health, Lanzhou University, 
+      Lanzhou, Gansu, China; Gansu Key Laboratory of Evidence-Based Medicine, Lanzhou, 
+      Gansu, China. Electronic address: Yangkh@lzu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - Netherlands
+TA  - Ecotoxicol Environ Saf
+JT  - Ecotoxicology and environmental safety
+JID - 7805381
+SB  - IM
+OTO - NOTNLM
+OT  - Cadmium
+OT  - DHX34
+OT  - Lung cancer
+OT  - Mendelian randomization
+OT  - Molecular docking
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:03
+PHST- 2025/06/06 00:00 [received]
+PHST- 2025/09/01 00:00 [revised]
+PHST- 2025/09/17 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:03 [entrez]
+AID - S0147-6513(25)01432-0 [pii]
+AID - 10.1016/j.ecoenv.2025.119087 [doi]
+PST - aheadofprint
+SO  - Ecotoxicol Environ Saf. 2025 Sep 19;304:119087. doi: 
+      10.1016/j.ecoenv.2025.119087.

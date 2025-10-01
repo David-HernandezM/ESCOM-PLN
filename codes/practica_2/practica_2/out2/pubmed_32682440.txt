@@ -1,0 +1,76 @@
+PMID- 32682440
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200722
+LR  - 20231111
+IS  - 1466-609X (Electronic)
+IS  - 1364-8535 (Print)
+IS  - 1364-8535 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2020 Jul 18
+TI  - Blocking IL-1 to prevent respiratory failure in COVID-19.
+PG  - 445
+LID - 10.1186/s13054-020-03166-0 [doi]
+LID - 445
+AB  - COVID-19 is an emerging disease that can manifest itself as asymptomatic or mild 
+      respiratory tract infection in the majority of individuals, but in some, it can 
+      progress into severe pneumonia and acute respiratory distress syndrome (ARDS). 
+      Inflammation is known to play a crucial role in the pathogenesis of severe 
+      infections and ARDS and evidence is emerging that the IL-1/IL-6 pathway is highly 
+      upregulated in patients with severe disease. These findings open new avenues for 
+      host-directed therapies in patients with symptomatic SARS-CoV-2 infection and 
+      might in addition to antiviral treatment be enough to curb the currently 
+      unacceptably high morbidity and mortality associated with COVID-19.
+FAU - van de Veerdonk, Frank L
+AU  - van de Veerdonk FL
+AUID- ORCID: 0000-0002-1121-4894
+AD  - Department of Internal Medicine and Radboud Center for Infectious Diseases, 
+      Radboud University Medical Center, 6500HB, Nijmegen, The Netherlands. 
+      frank.vandeveerdonk@radboudumc.nl.
+FAU - Netea, Mihai G
+AU  - Netea MG
+AD  - Department of Internal Medicine and Radboud Center for Infectious Diseases, 
+      Radboud University Medical Center, 6500HB, Nijmegen, The Netherlands. 
+      mihai.netea@radboudumc.nl.
+AD  - Immunology and Metabolism, Life & Medical Sciences Institute, University of Bonn, 
+      53115, Bonn, Germany. mihai.netea@radboudumc.nl.
+LA  - eng
+GR  - 833247/ERC Advanced grant/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20200718
+PL  - England
+TA  - Crit Care
+JT  - Critical care (London, England)
+JID - 9801902
+RN  - 0 (Interleukin 1 Receptor Antagonist Protein)
+RN  - 0 (Interleukin-1)
+SB  - IM
+CIN - Crit Care. 2020 Oct 6;24(1):598. doi: 10.1186/s13054-020-03312-8. PMID: 33023646
+MH  - COVID-19
+MH  - Coronavirus Infections/complications/*drug therapy
+MH  - Humans
+MH  - Interleukin 1 Receptor Antagonist Protein/therapeutic use
+MH  - Interleukin-1/*antagonists & inhibitors
+MH  - Pandemics
+MH  - Pneumonia, Viral/complications/*drug therapy
+MH  - Respiratory Insufficiency/*prevention & control/virology
+PMC - PMC7411343
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/07/20 06:00
+MHDA- 2020/07/23 06:00
+PMCR- 2020/07/18
+CRDT- 2020/07/20 06:00
+PHST- 2020/06/26 00:00 [received]
+PHST- 2020/07/09 00:00 [accepted]
+PHST- 2020/07/20 06:00 [entrez]
+PHST- 2020/07/20 06:00 [pubmed]
+PHST- 2020/07/23 06:00 [medline]
+PHST- 2020/07/18 00:00 [pmc-release]
+AID - 10.1186/s13054-020-03166-0 [pii]
+AID - 3166 [pii]
+AID - 10.1186/s13054-020-03166-0 [doi]
+PST - epublish
+SO  - Crit Care. 2020 Jul 18;24(1):445. doi: 10.1186/s13054-020-03166-0.

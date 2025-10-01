@@ -1,0 +1,82 @@
+PMID- 40976463
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1096-1186 (Electronic)
+IS  - 1043-6618 (Linking)
+DP  - 2025 Sep 19
+TI  - Interleukin-11: A Central Integrative Hub Driving Pathological Progression from 
+      Pulmonary Inflammation and Fibrosis to Cancer.
+PG  - 107966
+LID - S1043-6618(25)00391-3 [pii]
+LID - 10.1016/j.phrs.2025.107966 [doi]
+AB  - Interleukin-11 (IL-11), a member of the IL-6 cytokine family, plays a pivotal 
+      role in driving pulmonary inflammation, fibrosis, and cancer progression. As a 
+      distinct regulator, IL-11 exerts contrasting effects depending on the disease 
+      context. During acute inflammation, IL-11 maintains alveolar integrity, mitigates 
+      oxidative stress, and modulates immune responses. However, chronic IL-11 
+      signaling promotes airway remodeling and fibrosis in diseases such as asthma, 
+      chronic obstructive pulmonary disease (COPD), and idiopathic pulmonary fibrosis 
+      (IPF). We propose an ecological model in which IL-11 acts as a "keystone species" 
+      within interconnected pulmonary niches-epithelial, stromal, and immune cells-that 
+      collectively facilitate the transition from inflammation to fibrosis and 
+      ultimately to cancer. Targeted therapeutic strategies against IL-11 signaling are 
+      emerging, including neutralizing antibodies, receptor antagonists, engineered 
+      decoy ligands, and IL-11Rα-directed fusion toxins. Additionally, RNA interference 
+      (RNAi)-based approaches and small-molecule inhibitors targeting downstream IL-11 
+      pathways (e.g., JAK/STAT3, MEK/ERK) have demonstrated substantial preclinical 
+      efficacy. This review underscores IL-11's critical role in pulmonary disease 
+      pathogenesis and highlights its potential as a therapeutic target. Further 
+      clinical validation and biomarker development are essential to translate these 
+      insights into personalized treatment strategies for diseases spanning 
+      inflammation, fibrosis, and cancer.
+CI  - Copyright © 2025. Published by Elsevier Ltd.
+FAU - Yu, Jinglu
+AU  - Yu J
+AD  - Pudong New Area Hospital of Traditional Chinese Medicine Affiliated to Shanghai 
+      University of Traditional Chinese Medicine, Shanghai, China.
+FAU - Qi, Jialong
+AU  - Qi J
+AD  - Pudong New Area Hospital of Traditional Chinese Medicine Affiliated to Shanghai 
+      University of Traditional Chinese Medicine, Shanghai, China.
+FAU - Kong, Xiaoni
+AU  - Kong X
+AD  - Central Laboratory, Shuguang Hospital Affiliated to Shanghai University of 
+      Traditional Chinese Medicine, Shanghai, China. Electronic address: 
+      xiaoni-kong@126.com.
+FAU - Feng, Yu
+AU  - Feng Y
+AD  - Pudong New Area Hospital of Traditional Chinese Medicine Affiliated to Shanghai 
+      University of Traditional Chinese Medicine, Shanghai, China. Electronic address: 
+      fengyushtcm@126.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - Netherlands
+TA  - Pharmacol Res
+JT  - Pharmacological research
+JID - 8907422
+SB  - IM
+OTO - NOTNLM
+OT  - Inflammation–fibrosis–cancer continuum
+OT  - Integrated ecological model
+OT  - Interleukin-11
+OT  - Keystone cytokine
+OT  - Translational therapeutic strategies
+COIS- Declaration of Competing Interests The authors declare that they have no 
+      competing interests. Competing interests The authors declare that they have no 
+      competing interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 19:55
+PHST- 2025/07/18 00:00 [received]
+PHST- 2025/09/17 00:00 [revised]
+PHST- 2025/09/18 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 19:55 [entrez]
+AID - S1043-6618(25)00391-3 [pii]
+AID - 10.1016/j.phrs.2025.107966 [doi]
+PST - aheadofprint
+SO  - Pharmacol Res. 2025 Sep 19:107966. doi: 10.1016/j.phrs.2025.107966.

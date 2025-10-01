@@ -1,0 +1,1655 @@
+PMID- 40972623
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2214-109X (Electronic)
+IS  - 2214-109X (Linking)
+DP  - 2025 Sep 16
+TI  - Global variation in patient factors, interventions, and postoperative outcomes 
+      for those undergoing trauma laparotomy: an international, prospective, 
+      observational cohort study.
+LID - S2214-109X(25)00303-1 [pii]
+LID - 10.1016/S2214-109X(25)00303-1 [doi]
+AB  - BACKGROUND: The trauma laparotomy is a definitive intervention for 
+      life-threatening abdominal injuries and a cornerstone of trauma care globally. 
+      The ability to perform an emergency laparotomy is a recognised marker of safe and 
+      effective surgical care within a health system. However, the global variation in 
+      the provision, context, and outcomes of the trauma laparotomy is unknown. This 
+      study aimed to identify the variation in patient factors, interventions, and 
+      postoperative outcomes of those undergoing a trauma laparotomy worldwide. 
+      METHODS: We conducted a prospective international observational study in 187 
+      hospitals across 51 countries between April 1 and Dec 31, 2024. Patients who 
+      presented with a blunt or penetrating traumatic injury and underwent a laparotomy 
+      within 5 days of presentation were eligible, with information on presentation, 
+      interventions, and outcomes collected. Countries were stratified by Human 
+      Development Index (HDI) tertile and the primary outcome measure was postoperative 
+      in-hospital mortality, measured to 30 days. Adjusted mortality risk was 
+      calculated using logistic regression analysis. The study was registered to 
+      ClinicalTrials.gov (NCT06180668). FINDINGS: We included 1769 patients, comprising 
+      563 patients (31·8%) from the lower HDI tertile, 714 patients (40·4%) from the 
+      middle HDI tertile, and 492 patients (27·8%) from the upper HDI tertile. Median 
+      age was 30 years (IQR 23-43) and 1512 patients (85·5%) were male. Patients from 
+      upper-HDI countries had a higher Injury Severity Score compared with those in 
+      middle-HDI or lower-HDI countries (median 16 [IQR 9-27] vs 9 [8-22] and 9 [4-16], 
+      respectively; p<0·0001). Crude mortality was similar across HDI tertiles, with 
+      195 patients (11·0%) overall dying in hospital within 30 days of surgery. After 
+      adjustment, we observed higher mortality risk in the lower HDI tertile (odds 
+      ratio [OR] 3·57, 95% CI 1·78-7·28, p<0·001) and middle HDI tertile (OR 1·89, 
+      1·06-3·43, p=0·033), compared with the upper HDI tertile. INTERPRETATION: 
+      Patients undergoing a trauma laparotomy in lower-HDI settings were less severely 
+      injured and had a higher risk of postoperative death compared with those in 
+      higher-HDI settings. There remains an opportunity to improve trauma care globally 
+      and expanding access must be matched by the development of quality services. 
+      FUNDING: Royal College of Surgeons Ratanji Dalal Research Fellowship and 
+      Engineering and Physical Sciences Research Council.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights 
+      reserved.
+FAU - Bath, Michael F
+AU  - Bath MF
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK. Electronic address: mb2583@cam.ac.uk.
+FAU - Amoako, Joachim
+AU  - Amoako J
+AD  - University of Ghana Medical School, Accra, Ghana; Department of Surgery, Korle Bu 
+      Teaching Hospital, Accra, Ghana.
+FAU - Kohler, Katharina
+AU  - Kohler K
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK; Department of Anaesthesia, Cambridge University 
+      Hospitals NHS Foundation Trust, Cambridge, UK.
+FAU - Hashi, Abdullahi Said
+AU  - Hashi AS
+AD  - Department of Anesthesiology and Reanimation, Mogadishu Somali-Türkiye Recep 
+      Tayyip Erdoğan Training and Research Hospital, Mogadishu, Somalia.
+FAU - Zhang, Zhongheng
+AU  - Zhang Z
+AD  - Department of Emergency Medicine, Sir Run Run Shaw Hospital, Zhejiang University 
+      School of Medicine, Hangzhou, China; Provincial Key Laboratory of Precise 
+      Diagnosis and Treatment of Abdominal Infection, Sir Run Run Shaw Hospital, 
+      Zhejiang University School of Medicine, Hangzhou, China; School of Medicine, 
+      Shaoxing University, Shaoxing, China; Longquan Industrial Innovation Research 
+      Institute, Lishui, China.
+FAU - Baderhabusha, Daniel U
+AU  - Baderhabusha DU
+AD  - Hôpital de Kyeshero, Goma, North Kivu, Democratic Republic of the Congo.
+FAU - Cáceres, Eder
+AU  - Cáceres E
+AD  - Critical Care Department, Clínica Universidad de la Sabana, Chía, Cundinamarca, 
+      Colombia.
+FAU - Nuño-Guzmán, Carlos M
+AU  - Nuño-Guzmán CM
+AD  - Hospital Civil de Guadalajara Fray Antonio Alcalde, Guadalajara, Jalisco, Mexico; 
+      Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, 
+      Guadalajara, Jalisco, Mexico.
+FAU - Marsden, Max
+AU  - Marsden M
+AD  - Major Trauma Service, Royal London Hospital, Barts Health NHS Trust, London, UK.
+FAU - Carenzo, Luca
+AU  - Carenzo L
+AD  - IRCCS Istituto Clinico Humanitas, Milan, Italy.
+FAU - Khajanchi, Monty
+AU  - Khajanchi M
+AD  - Seth Gordhandas Sunderdas Medical College and King Edward Memorial Hospital, 
+      Mumbai, India.
+FAU - Saleh, Raoof
+AU  - Saleh R
+AD  - Médicins Sans Frontières Medical Unit, Berlin, Germany.
+FAU - Edmiston, Thomas
+AU  - Edmiston T
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK.
+FAU - Hammer, Charlotte
+AU  - Hammer C
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK; Centre for the Study of Existential Risk, Institute for 
+      Technology and Humanity, University of Cambridge, Cambridge, UK.
+FAU - Hobbs, Laura
+AU  - Hobbs L
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK; Department of Anaesthesia, East & North Hertfordshire 
+      NHS Trust, Stevenage, UK; NIHR Global Health Research Group on Acquired Brain and 
+      Spine Injury, Cambridge, UK.
+FAU - Smith, Brandon G
+AU  - Smith BG
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK.
+FAU - Hutchinson, Peter
+AU  - Hutchinson P
+AD  - Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK; 
+      NIHR Global Health Research Group on Acquired Brain and Spine Injury, Cambridge, 
+      UK.
+FAU - Weiser, Thomas G
+AU  - Weiser TG
+AD  - Department of Surgery, Stanford University, Palo Alto, CA, USA.
+FAU - Perkins, Zane B
+AU  - Perkins ZB
+AD  - Major Trauma Service, Royal London Hospital, Barts Health NHS Trust, London, UK; 
+      Centre for Trauma Sciences, Blizard Institute, Queen Mary University of London, 
+      London, UK.
+FAU - Hardcastle, Timothy C
+AU  - Hardcastle TC
+AD  - Trauma and Burns Unit, Inkosi Albert Luthuli Central Hospital, KwaZulu-Natal 
+      Department of Health, Durban, South Africa; Department of Surgical Sciences, 
+      Nelson R Mandela School of Clinical Medicine (NRMSM), University of 
+      KwaZulu-Natal, Durban, South Africa.
+FAU - Bashford, Tom
+AU  - Bashford T
+AD  - International Health Systems Group, Department of Engineering, University of 
+      Cambridge, Cambridge, UK; Department of Anaesthesia, Cambridge University 
+      Hospitals NHS Foundation Trust, Cambridge, UK.
+CN  - GOAL-Trauma Collaborative
+LA  - eng
+SI  - ClinicalTrials.gov/NCT06180668
+PT  - Journal Article
+DEP - 20250916
+PL  - England
+TA  - Lancet Glob Health
+JT  - The Lancet. Global health
+JID - 101613665
+SB  - IM
+COIS- Declaration of interests We declare no competing interests.
+FIR - Abbott, Ivan
+IR  - Abbott I
+FIR - Abboud, Ward
+IR  - Abboud W
+FIR - Abdalazeez, Anwar Abdalla Mohamed
+IR  - Abdalazeez AAM
+FIR - Abdalla, Mohamed Abdalla Mohamed
+IR  - Abdalla MAM
+FIR - Abdallah, Mojtaba Mohammed Almamoon
+IR  - Abdallah MMA
+FIR - Abdelaal, Sondous
+IR  - Abdelaal S
+FIR - Abdelfattah, Omar
+IR  - Abdelfattah O
+FIR - Abdelhady, Hossam Ibrahim
+IR  - Abdelhady HI
+FIR - Abdelhady, Mohamed
+IR  - Abdelhady M
+FIR - Abdelmohsen, Sarah Magdy
+IR  - Abdelmohsen SM
+FIR - Abdi, Abdishakur Mohamed
+IR  - Abdi AM
+FIR - Abdishakur, Abdihakim Elmi
+IR  - Abdishakur AE
+FIR - Abdulazeez, Akanni Bolaji
+IR  - Abdulazeez AB
+FIR - Abdulkareem, Marwa
+IR  - Abdulkareem M
+FIR - Abdull-Karim, Iddrisu Tidoo
+IR  - Abdull-Karim IT
+FIR - Abdulla, Ali Hasan
+IR  - Abdulla AH
+FIR - Aboelfadl, Hager Adly Mohamed
+IR  - Aboelfadl HAM
+FIR - Abou Chaar, Mohamad K
+IR  - Abou Chaar MK
+FIR - Abouammar, Alaa Abdeltawab
+IR  - Abouammar AA
+FIR - Abouelnaga, Ahmed
+IR  - Abouelnaga A
+FIR - Abouelnagah, Galal
+IR  - Abouelnagah G
+FIR - Abu-Arish, Hamdoon
+IR  - Abu-Arish H
+FIR - AbuSuliman, Amr Salah
+IR  - AbuSuliman AS
+FIR - Acar, Ömer Faruk
+IR  - Acar ÖF
+FIR - Acquah, Emmanuel
+IR  - Acquah E
+FIR - Adam, Salma
+IR  - Adam S
+FIR - Adamu, Auwal
+IR  - Adamu A
+FIR - Adebayo, Bashiru Mutiu
+IR  - Adebayo BM
+FIR - Adel, Abanob
+IR  - Adel A
+FIR - Adepoju, Olalekan
+IR  - Adepoju O
+FIR - Adu-Aryee, Nii Ama
+IR  - Adu-Aryee NA
+FIR - Agarwal, Suresh
+IR  - Agarwal S
+FIR - Agyen, Thomas
+IR  - Agyen T
+FIR - Agyen-Mensah, Kwasi
+IR  - Agyen-Mensah K
+FIR - Ahmed, Marta Seid
+IR  - Ahmed MS
+FIR - Ahmed, Mohamed Sheikh Hassan Sh
+IR  - Ahmed MSHS
+FIR - Ahmed, Ibrahim Mutwakil Gamal
+IR  - Ahmed IMG
+FIR - Ahmed, Elaf
+IR  - Ahmed E
+FIR - Ahmed, Nazir
+IR  - Ahmed N
+FIR - Ahmed, Shahzad
+IR  - Ahmed S
+FIR - Ahmed, Gamal Mutwakil Gamal
+IR  - Ahmed GMG
+FIR - Ahmed, Malaz Khalid Yousif
+IR  - Ahmed MKY
+FIR - Ahmed, Abdulrhman Abdulmoneim Khalifa
+IR  - Ahmed AAK
+FIR - Ahmed Farrag, Ayatallah
+IR  - Ahmed Farrag A
+FIR - Akpo, Emmanuel
+IR  - Akpo E
+FIR - Aktas, Merve
+IR  - Aktas M
+FIR - Al Ahmad, Mohammad
+IR  - Al Ahmad M
+FIR - Al Azzawi, Yassir
+IR  - Al Azzawi Y
+FIR - Al Shaqran, Osama
+IR  - Al Shaqran O
+FIR - Al Wageeh, Saleh
+IR  - Al Wageeh S
+FIR - Al Yafrosi, Azhar Ali Hamoud Abdo
+IR  - Al Yafrosi AAHA
+FIR - Alabide, Arwa S
+IR  - Alabide AS
+FIR - Aladawi, Mohannad Marouf
+IR  - Aladawi MM
+FIR - Albasha Hejazi, Asmaa Maher
+IR  - Albasha Hejazi AM
+FIR - Aldeligan, Saleh Husam
+IR  - Aldeligan SH
+FIR - Aldirani, Alaa Nasib
+IR  - Aldirani AN
+FIR - Alfa-Wali, Maryam
+IR  - Alfa-Wali M
+FIR - Alfandi, Abdullah
+IR  - Alfandi A
+FIR - Alhadi, Mahamad Ahmed Adam
+IR  - Alhadi MAA
+FIR - Ali, Mohamed Sherif
+IR  - Ali MS
+FIR - Alici, Gokhan
+IR  - Alici G
+FIR - Alkas, Bilal
+IR  - Alkas B
+FIR - Almadi, Nawaf Hamad
+IR  - Almadi NH
+FIR - Almahjaa, Ahmad
+IR  - Almahjaa A
+FIR - Alnaser, Bayan Mohammad
+IR  - Alnaser BM
+FIR - Alnaser, Amran Mohammad
+IR  - Alnaser AM
+FIR - Alotaibi, Abdulaziz Mohammed
+IR  - Alotaibi AM
+FIR - Aloys, Essiane Meva'a
+IR  - Aloys EM
+FIR - Alrwais, Abdulaziz M
+IR  - Alrwais AM
+FIR - AlShahwan, Nawaf
+IR  - AlShahwan N
+FIR - Alsharif, Malak M A
+IR  - Alsharif MMA
+FIR - Alshraiedeh, Mohammad
+IR  - Alshraiedeh M
+FIR - Alsubaie, Norah Mihmas
+IR  - Alsubaie NM
+FIR - Altinel, Yuksel
+IR  - Altinel Y
+FIR - Altomare, Michele
+IR  - Altomare M
+FIR - Alves, Sara Madalena Correia
+IR  - Alves SMC
+FIR - Alyahya, Reem
+IR  - Alyahya R
+FIR - Amasha, Mohamed Adel
+IR  - Amasha MA
+FIR - Amgad, Ahmed
+IR  - Amgad A
+FIR - Amoako, Joachim
+IR  - Amoako J
+FIR - Amoako-Boateng, Mabel
+IR  - Amoako-Boateng M
+FIR - Anis, Hasnaoui
+IR  - Anis H
+FIR - Arias, Carolina Picasso
+IR  - Arias CP
+FIR - Armento, Isabella
+IR  - Armento I
+FIR - Arthur, Douglas
+IR  - Arthur D
+FIR - Aryee, George
+IR  - Aryee G
+FIR - Ashour, Ahmed Samy
+IR  - Ashour AS
+FIR - Atef, Maha
+IR  - Atef M
+FIR - Avalos, Martín
+IR  - Avalos M
+FIR - Awad, Nashwa Awad Eltom
+IR  - Awad NAE
+FIR - Aydoğdu, Yunushan Furkan
+IR  - Aydoğdu YF
+FIR - Aziz, Ibrahim Adel Hamdoun
+IR  - Aziz IAH
+FIR - Aziz, Elaf Adel Hamdoun
+IR  - Aziz EAH
+FIR - Babiker, Ahmed Yahia Mahadi
+IR  - Babiker AYM
+FIR - Baderhabusha, Daniel U
+IR  - Baderhabusha DU
+FIR - Baderhabusha, Daniel Umugisha
+IR  - Baderhabusha DU
+FIR - Badr, Mohamed Amgad
+IR  - Badr MA
+FIR - Baidoo, Richard Ogirma
+IR  - Baidoo RO
+FIR - Bains, Lovenish
+IR  - Bains L
+FIR - Bakhit, Samir Albaseer Habiballh
+IR  - Bakhit SAH
+FIR - Balasubramaniam, Sunder
+IR  - Balasubramaniam S
+FIR - Ballan, Khuder Omar
+IR  - Ballan KO
+FIR - Baloyiannis, Ioannis
+IR  - Baloyiannis I
+FIR - Baltazar, Gerard
+IR  - Baltazar G
+FIR - Ban, Ee Jun
+IR  - Ban EJ
+FIR - Bandara, Lasantha
+IR  - Bandara L
+FIR - Barcin, Ahmet
+IR  - Barcin A
+FIR - Barnes, Emilie
+IR  - Barnes E
+FIR - Bashford, Tom
+IR  - Bashford T
+FIR - Bass, Gary
+IR  - Bass G
+FIR - Bath, Michael F
+IR  - Bath MF
+FIR - Battle, Ceri
+IR  - Battle C
+FIR - Bayır, Çisil
+IR  - Bayır Ç
+FIR - Bayleyegn, Nebiyou Simegnew
+IR  - Bayleyegn NS
+FIR - Bediako Bowan, Antoinette
+IR  - Bediako Bowan A
+FIR - Bekhit, Dina
+IR  - Bekhit D
+FIR - Belhaj, Anis
+IR  - Belhaj A
+FIR - Benediktsdottir, Sigrun
+IR  - Benediktsdottir S
+FIR - Bereshchenko, Valentin
+IR  - Bereshchenko V
+FIR - Bernstein, Andrew
+IR  - Bernstein A
+FIR - Birindwa, Josué Rhukuze
+IR  - Birindwa JR
+FIR - Blackburn, Lauren
+IR  - Blackburn L
+FIR - Bodur, Muhammed Selim
+IR  - Bodur MS
+FIR - Bogiages, Irini
+IR  - Bogiages I
+FIR - Bollino, Ruggero
+IR  - Bollino R
+FIR - Bottari, Andrea
+IR  - Bottari A
+FIR - Bouchagier, Konstantinos
+IR  - Bouchagier K
+FIR - Bouzid, Ahmed
+IR  - Bouzid A
+FIR - Bozlakoğlu, Emre
+IR  - Bozlakoğlu E
+FIR - Brady, Jessica L
+IR  - Brady JL
+FIR - Braun, Olivia
+IR  - Braun O
+FIR - Bregaj, Elma
+IR  - Bregaj E
+FIR - Brooks, Adam
+IR  - Brooks A
+FIR - Brown, Joshua B
+IR  - Brown JB
+FIR - Bugdayci, Nihat
+IR  - Bugdayci N
+FIR - Buitendag, Johannes Jacobus Petrus
+IR  - Buitendag JJP
+FIR - Büyükkasap, Çağrı
+IR  - Büyükkasap Ç
+FIR - Caceres, Eder
+IR  - Caceres E
+FIR - Caceres Reatiga, Eder Leonardo
+IR  - Caceres Reatiga EL
+FIR - Cakir, Onur
+IR  - Cakir O
+FIR - Caldani, Elena Guillermina
+IR  - Caldani EG
+FIR - Calik, Adnan
+IR  - Calik A
+FIR - Calini, Giacomo
+IR  - Calini G
+FIR - Cammelli, Francesca
+IR  - Cammelli F
+FIR - Campos-Serra, Andrea
+IR  - Campos-Serra A
+FIR - Canakci, Burcu
+IR  - Canakci B
+FIR - Cardelli, Stefano
+IR  - Cardelli S
+FIR - Carenzo, Luca
+IR  - Carenzo L
+FIR - Carneros, Clara López de Lerma Martínez de
+IR  - Carneros CLLM
+FIR - Carrington-Windo, Eliot
+IR  - Carrington-Windo E
+FIR - Cekic, Arif Burak
+IR  - Cekic AB
+FIR - Chandacham, Kamtone
+IR  - Chandacham K
+FIR - Chang, Allison
+IR  - Chang A
+FIR - Chavez, Diego
+IR  - Chavez D
+FIR - Chen, Tianqi
+IR  - Chen T
+FIR - Chen Rouwen, Lecia
+IR  - Chen Rouwen L
+FIR - Cheng, Chen
+IR  - Cheng C
+FIR - Chernock, Brad
+IR  - Chernock B
+FIR - Chotirosniramit, Narain
+IR  - Chotirosniramit N
+FIR - Chukwu, Isaac
+IR  - Chukwu I
+FIR - Citgez, Bulent
+IR  - Citgez B
+FIR - Clarke, David
+IR  - Clarke D
+FIR - Coates, Rachel
+IR  - Coates R
+FIR - Conway-Morris, Andy
+IR  - Conway-Morris A
+FIR - Cook, John Kyle
+IR  - Cook JK
+FIR - Cordero Bermudez, Katherine
+IR  - Cordero Bermudez K
+FIR - Crawford, Richard
+IR  - Crawford R
+FIR - Creed, Matt
+IR  - Creed M
+FIR - Crudge, Lizzie
+IR  - Crudge L
+FIR - Cruz, Diogo Lebreiro Moreira da
+IR  - Cruz DLMD
+FIR - Cruzado, Laura Fernandez-Gomez
+IR  - Cruzado LF
+FIR - Çuhadar, Merve
+IR  - Çuhadar M
+FIR - Cummine, Rhona
+IR  - Cummine R
+FIR - Dada, Oluwasina
+IR  - Dada O
+FIR - Daffalla, Ayat Mohamed Abdalziz
+IR  - Daffalla AMA
+FIR - Daniyan, Muhammad
+IR  - Daniyan M
+FIR - Davalan, William
+IR  - Davalan W
+FIR - Davenport, Ross
+IR  - Davenport R
+FIR - Davies, Justin
+IR  - Davies J
+FIR - Davydova, Olga E
+IR  - Davydova OE
+FIR - de Kock, Karien
+IR  - de Kock K
+FIR - Dedefo Buta, Leta
+IR  - Dedefo Buta L
+FIR - Dedey, Florence
+IR  - Dedey F
+FIR - Delgado, Edward
+IR  - Delgado E
+FIR - Demirpolat, Muhammed Taha
+IR  - Demirpolat MT
+FIR - Desman, Chammika
+IR  - Desman C
+FIR - Dikmen, Kürşat
+IR  - Dikmen K
+FIR - Doçi, Klevis
+IR  - Doçi K
+FIR - Dodgion, Christopher
+IR  - Dodgion C
+FIR - Dogjani, Agron
+IR  - Dogjani A
+FIR - Dong, Jiangnan
+IR  - Dong J
+FIR - Doonan, Reece
+IR  - Doonan R
+FIR - Dowel, Hannah
+IR  - Dowel H
+FIR - Du, Hang
+IR  - Du H
+FIR - Dumitru, Elena
+IR  - Dumitru E
+FIR - Dundar, Nurseda
+IR  - Dundar N
+FIR - Edmiston, Tom
+IR  - Edmiston T
+FIR - Edris, Montha
+IR  - Edris M
+FIR - Eglinton, Andy
+IR  - Eglinton A
+FIR - Egodage, Tanya
+IR  - Egodage T
+FIR - Ekor, Oluwayemisi E
+IR  - Ekor OE
+FIR - El Boghdady, Michael
+IR  - El Boghdady M
+FIR - El Mahrouki, Moustafa
+IR  - El Mahrouki M
+FIR - El-Borollosy, Ahmed
+IR  - El-Borollosy A
+FIR - Elasad, Ahmed
+IR  - Elasad A
+FIR - Elbadrawy, Alaa
+IR  - Elbadrawy A
+FIR - Elbashier, Mohanad Elsafi Mossaad
+IR  - Elbashier MEM
+FIR - Elbashir, Ali Abdelmonim Mohamed Elhassan
+IR  - Elbashir AAME
+FIR - Elboraay, Toka
+IR  - Elboraay T
+FIR - Eldoadoa, Mohammed
+IR  - Eldoadoa M
+FIR - Elfadali, Mohamed Attia
+IR  - Elfadali MA
+FIR - Elgendy, Mohamed S
+IR  - Elgendy MS
+FIR - Elgliand, Mariam Hatem
+IR  - Elgliand MH
+FIR - Elhadidi, Hazem
+IR  - Elhadidi H
+FIR - Eljizoly, Ola Abdallah
+IR  - Eljizoly OA
+FIR - Elkhouly, Abdallah
+IR  - Elkhouly A
+FIR - Elkoury, Engy
+IR  - Elkoury E
+FIR - Elmagdoub, Dina
+IR  - Elmagdoub D
+FIR - Elmorshdy, Abdelrahman
+IR  - Elmorshdy A
+FIR - Elmorshdy, Asmaa
+IR  - Elmorshdy A
+FIR - Elmorshdy, Aesha
+IR  - Elmorshdy A
+FIR - Elmorshdy, Sara
+IR  - Elmorshdy S
+FIR - Elnadi, Mahmoud Saad
+IR  - Elnadi MS
+FIR - Elnour, Mohey Aldien Ahmed Elamin
+IR  - Elnour MAAE
+FIR - Elnour, Roba Osama Mukhtar
+IR  - Elnour ROM
+FIR - Elsaied, Farah
+IR  - Elsaied F
+FIR - Elsayed, Mahmoud M
+IR  - Elsayed MM
+FIR - Elshaboury, Ahmed
+IR  - Elshaboury A
+FIR - Elshal, Abdalla Magdi
+IR  - Elshal AM
+FIR - Elsheikh, Sara
+IR  - Elsheikh S
+FIR - Eltahir, Mohammed Tageldin Elhadi
+IR  - Eltahir MTE
+FIR - Englert, Zachary
+IR  - Englert Z
+FIR - Ercan, Gülçin
+IR  - Ercan G
+FIR - Erdem, Beyza Izem
+IR  - Erdem BI
+FIR - Ergenç, Muhammer
+IR  - Ergenç M
+FIR - Ergin, Ahmet Sencer
+IR  - Ergin AS
+FIR - Erhabor, Joshua
+IR  - Erhabor J
+FIR - Ersavas, Cenk
+IR  - Ersavas C
+FIR - Essam, Manar
+IR  - Essam M
+FIR - Estraviz-Mateos, Begoña
+IR  - Estraviz-Mateos B
+FIR - Eyuboglu, Kayahan
+IR  - Eyuboglu K
+FIR - Ezz, Mohamed R
+IR  - Ezz MR
+FIR - Faheem, Komal
+IR  - Faheem K
+FIR - Fakhri, Gihad Shaman
+IR  - Fakhri GS
+FIR - Faktor, Kara
+IR  - Faktor K
+FIR - Falade, Oluleke
+IR  - Falade O
+FIR - Fangxia, Ge
+IR  - Fangxia G
+FIR - Farash, Raneen
+IR  - Farash R
+FIR - Faraz, Ahmad
+IR  - Faraz A
+FIR - Fareed, Fay Fathima Imtiaz
+IR  - Fareed FFI
+FIR - Farsak, Sunguralp
+IR  - Farsak S
+FIR - Fedi, Massimo
+IR  - Fedi M
+FIR - Feliciano, Filipa Carvas
+IR  - Feliciano FC
+FIR - Feratoglu, Fatih
+IR  - Feratoglu F
+FIR - Filho, Rogério Bellini Figueiredo
+IR  - Filho RBF
+FIR - Fleres, Francesco
+IR  - Fleres F
+FIR - Fouda, Eslam
+IR  - Fouda E
+FIR - Fu, Haoya
+IR  - Fu H
+FIR - Fyfe, Jade
+IR  - Fyfe J
+FIR - Gaber, Yasmena
+IR  - Gaber Y
+FIR - Gaidi, Oussama
+IR  - Gaidi O
+FIR - Ganchi, Feroz
+IR  - Ganchi F
+FIR - Gao, Fei
+IR  - Gao F
+FIR - Garcia Domínguez, Amaia
+IR  - Garcia Domínguez A
+FIR - Gasson, Sophie
+IR  - Gasson S
+FIR - Gatta, Nuno
+IR  - Gatta N
+FIR - Gbadegesin, Opeyemi
+IR  - Gbadegesin O
+FIR - Gbenga, Olaogun Julius
+IR  - Gbenga OJ
+FIR - Gebremedhin, Bisrat Kidane
+IR  - Gebremedhin BK
+FIR - Gellings, Jaclyn
+IR  - Gellings J
+FIR - Gelvez, Sandra
+IR  - Gelvez S
+FIR - Gemechu, Lidya
+IR  - Gemechu L
+FIR - Getachew Mideksa, Adugna
+IR  - Getachew Mideksa A
+FIR - Ghandi, Nirav
+IR  - Ghandi N
+FIR - Giavarini, Angeles
+IR  - Giavarini A
+FIR - Girma Gemechu, Tigist
+IR  - Girma Gemechu T
+FIR - Göbüt, Hüseyin
+IR  - Göbüt H
+FIR - Gohar, Ahmed K
+IR  - Gohar AK
+FIR - Gomes, Inês Carolino
+IR  - Gomes IC
+FIR - Gonsalves, Maria
+IR  - Gonsalves M
+FIR - González-Ojeda, Alejandro
+IR  - González-Ojeda A
+FIR - Göret, Nuri Emrah
+IR  - Göret NE
+FIR - Gourgiotis, Stavros
+IR  - Gourgiotis S
+FIR - Groombridge, Chris
+IR  - Groombridge C
+FIR - Grushka, Jeremy
+IR  - Grushka J
+FIR - Gudugbe, Senyo
+IR  - Gudugbe S
+FIR - Gul, Ayaz
+IR  - Gul A
+FIR - Gulcicek, Osman Bilgin
+IR  - Gulcicek OB
+FIR - Gulsen, Taygun
+IR  - Gulsen T
+FIR - Gulzar, Sidra
+IR  - Gulzar S
+FIR - Gunarathne, Kanchana
+IR  - Gunarathne K
+FIR - Gunasekara, Kosala
+IR  - Gunasekara K
+FIR - Gunasekaran, Sivaraj
+IR  - Gunasekaran S
+FIR - Gündal, Muhammet
+IR  - Gündal M
+FIR - Guner, Ali
+IR  - Guner A
+FIR - Guo, Xuchang
+IR  - Guo X
+FIR - Gyabaah, Emmanuel Yeboah
+IR  - Gyabaah EY
+FIR - Hafiz, Musab
+IR  - Hafiz M
+FIR - Haider, Fayza
+IR  - Haider F
+FIR - Hall, Lucy
+IR  - Hall L
+FIR - Hamad, Sedra
+IR  - Hamad S
+FIR - Hamdan, Ali
+IR  - Hamdan A
+FIR - Hamed, Mohamed Eldiasti
+IR  - Hamed ME
+FIR - Hammer, Charlotte
+IR  - Hammer C
+FIR - Hany, Nada
+IR  - Hany N
+FIR - Hardcastle, Tim
+IR  - Hardcastle T
+FIR - Hardcastle, Timothy
+IR  - Hardcastle T
+FIR - Harikrishanth, Shanmugaraj
+IR  - Harikrishanth S
+FIR - Hasan, Lilav
+IR  - Hasan L
+FIR - Hashi, Abdullahi Said
+IR  - Hashi AS
+FIR - Hassan Elmi, Ayub
+IR  - Hassan Elmi A
+FIR - Hegazi, Ammar
+IR  - Hegazi A
+FIR - Henry, Abiyere
+IR  - Henry A
+FIR - Hobbs, Laura
+IR  - Hobbs L
+FIR - Holt, Lauren
+IR  - Holt L
+FIR - Homchan, Ob-Uea
+IR  - Homchan OU
+FIR - Homida, Moataz Osman Mahjoub
+IR  - Homida MOM
+FIR - Hoque-Uddin, Mohammed
+IR  - Hoque-Uddin M
+FIR - Horne, Sara-Jane
+IR  - Horne SJ
+FIR - Horner, Daniel
+IR  - Horner D
+FIR - Hu, Parker
+IR  - Hu P
+FIR - Huaroto Landeo, César F
+IR  - Huaroto Landeo CF
+FIR - Hughes, Michael
+IR  - Hughes M
+FIR - Hussein, Halil
+IR  - Hussein H
+FIR - Hutchinson, Peter
+IR  - Hutchinson P
+FIR - Ibrahim, Awab Hamdi Dyaaeldin
+IR  - Ibrahim AHD
+FIR - Ibrahim, Noon
+IR  - Ibrahim N
+FIR - Ibrahim, Mohamed Abd El-Rahman Mohamed
+IR  - Ibrahim MAEM
+FIR - Ibrahim, Ahmed
+IR  - Ibrahim A
+FIR - Ibrahim, Shaker Abaker Adam
+IR  - Ibrahim SAA
+FIR - Ihedoro, Ifeanyichukwu Emmanuel
+IR  - Ihedoro IE
+FIR - Ikwutah, Emmanuel
+IR  - Ikwutah E
+FIR - Ioannidis, Aris
+IR  - Ioannidis A
+FIR - Ismail, Rami
+IR  - Ismail R
+FIR - Issak, Mohamed Abdihafid
+IR  - Issak MA
+FIR - Itaimi, Ahmed
+IR  - Itaimi A
+FIR - Ivan, Parkhomenko
+IR  - Ivan P
+FIR - Iwao, Yasuhito
+IR  - Iwao Y
+FIR - Jabari, Rasha
+IR  - Jabari R
+FIR - Jaber Amin, Jaber Hamad
+IR  - Jaber Amin JH
+FIR - Jaber Amin, Mohammed Hammad
+IR  - Jaber Amin MH
+FIR - Jacks, Gavin Rubin
+IR  - Jacks GR
+FIR - Jaffer, Zeeshan Muhammad
+IR  - Jaffer ZM
+FIR - Jamil, Sarah
+IR  - Jamil S
+FIR - Jay, Sharon
+IR  - Jay S
+FIR - Jayarathne, Gayan
+IR  - Jayarathne G
+FIR - Jayasundara, Bingumal
+IR  - Jayasundara B
+FIR - Jayasuriya, Kamal
+IR  - Jayasuriya K
+FIR - Jenkinson, Hollie
+IR  - Jenkinson H
+FIR - Jeyaruban, Jeyapalan
+IR  - Jeyaruban J
+FIR - Jian, Guan
+IR  - Jian G
+FIR - Jin Keat, Daniel Lee
+IR  - Jin Keat DL
+FIR - Jingwen, Lee
+IR  - Jingwen L
+FIR - Jirapongcharoenlap, Tidarat
+IR  - Jirapongcharoenlap T
+FIR - Jodlowski, Tomasz
+IR  - Jodlowski T
+FIR - Joha, Hala Samira Mhd Othman
+IR  - Joha HSMO
+FIR - Johan, Muhammad Nur Syamim Bin Che
+IR  - Johan MNSBC
+FIR - Kallas, Ehdaa
+IR  - Kallas E
+FIR - Kamil Noureldin, Abeer
+IR  - Kamil Noureldin A
+FIR - Karaaslan, Atahan
+IR  - Karaaslan A
+FIR - Karakullukcu, Haluk Kerim
+IR  - Karakullukcu HK
+FIR - Kassis, Sarah
+IR  - Kassis S
+FIR - Katorkin, Sergei
+IR  - Katorkin S
+FIR - Kavar Ağcabay, Rona Cansu
+IR  - Kavar Ağcabay RC
+FIR - Ke, Yang
+IR  - Ke Y
+FIR - Kebapçı, Eyüp
+IR  - Kebapçı E
+FIR - Khajanchi, Monty
+IR  - Khajanchi M
+FIR - Khalf, Elnageh
+IR  - Khalf E
+FIR - Khalil, Omar
+IR  - Khalil O
+FIR - Khalil, Mariam
+IR  - Khalil M
+FIR - Khan, Tariq Hayat
+IR  - Khan TH
+FIR - Khan, Ghulam Younis
+IR  - Khan GY
+FIR - Khan, Muhammad Faisal
+IR  - Khan MF
+FIR - Khelili, Rached
+IR  - Khelili R
+FIR - Khidri, Feriha Fatima
+IR  - Khidri FF
+FIR - Kian, Tiong Chiong
+IR  - Kian TC
+FIR - Kiliç Aydoğdu, Gizem
+IR  - Kiliç Aydoğdu G
+FIR - Koch, Rachel
+IR  - Koch R
+FIR - Kodalak, Anil Taha
+IR  - Kodalak AT
+FIR - Kohler, Katharina
+IR  - Kohler K
+FIR - Kollind, Malin
+IR  - Kollind M
+FIR - Kostiantyn, Prokopenko
+IR  - Kostiantyn P
+FIR - Krizo, Jessica
+IR  - Krizo J
+FIR - Kruger, Hendrik Johannes
+IR  - Kruger HJ
+FIR - Kudoh, Vincent
+IR  - Kudoh V
+FIR - Kumar, Yogesh
+IR  - Kumar Y
+FIR - Kumassah, Philemon
+IR  - Kumassah P
+FIR - Kwizera, Arthur
+IR  - Kwizera A
+FIR - Kyaw, Crystal
+IR  - Kyaw C
+FIR - Kyrylo, Parkhomenko
+IR  - Kyrylo P
+FIR - Laher, Naadiyah
+IR  - Laher N
+FIR - Lakhoo, Kokila
+IR  - Lakhoo K
+FIR - Landaluce-Olavarria, Aitor
+IR  - Landaluce-Olavarria A
+FIR - Laney, Estelle
+IR  - Laney E
+FIR - Leather, Andrew
+IR  - Leather A
+FIR - Lee, Quinston
+IR  - Lee Q
+FIR - Lemessa Bayissa, Bekena
+IR  - Lemessa Bayissa B
+FIR - Lemma Eticha, Abdi
+IR  - Lemma Eticha A
+FIR - Leon, David
+IR  - Leon D
+FIR - Leshikar, David
+IR  - Leshikar D
+FIR - Li, Yu-Kai
+IR  - Li YK
+FIR - Li, Jin
+IR  - Li J
+FIR - Li Tserng, Teo
+IR  - Li Tserng T
+FIR - Lichman, Leonid A
+IR  - Lichman LA
+FIR - Lim, Yee Siew
+IR  - Lim YS
+FIR - Lima, Rayssa Eduarda de Moura
+IR  - Lima REM
+FIR - Ling, Sylvia
+IR  - Ling S
+FIR - Litvin, Andrey
+IR  - Litvin A
+FIR - Liu, Songqiao
+IR  - Liu S
+FIR - Liu, Jie
+IR  - Liu J
+FIR - Liyana Arachchi, Yasantha
+IR  - Liyana Arachchi Y
+FIR - Lizarazu Perez, Aintzane
+IR  - Lizarazu Perez A
+FIR - Llaquet-Bayo, Heura
+IR  - Llaquet-Bayo H
+FIR - Lopes Moreira, Claudia Cristina
+IR  - Lopes Moreira CC
+FIR - Lopez, Jose Maria
+IR  - Lopez JM
+FIR - Lu, Kai
+IR  - Lu K
+FIR - Lu, Yanqiu
+IR  - Lu Y
+FIR - Lu, Qi-Yu
+IR  - Lu QY
+FIR - Luo, Qiancheng
+IR  - Luo Q
+FIR - Luo, Wan-Ling
+IR  - Luo WL
+FIR - Lusawana, Ongeziwe
+IR  - Lusawana O
+FIR - Luvisetto, Federico
+IR  - Luvisetto F
+FIR - Mackie, Simone
+IR  - Mackie S
+FIR - Madany, Mohie El-Din Mostafa
+IR  - Madany MEM
+FIR - Mahmoud, Ahmed Awadelkareem Omer
+IR  - Mahmoud AAO
+FIR - Makhadi, Shumani
+IR  - Makhadi S
+FIR - Makki, Hana Waleed
+IR  - Makki HW
+FIR - Mamdouh, Remon
+IR  - Mamdouh R
+FIR - Manivannan, Thamaneeyan
+IR  - Manivannan T
+FIR - Mansour, Nawar
+IR  - Mansour N
+FIR - Mansour, Hazem Reyad
+IR  - Mansour HR
+FIR - Mansouri, Juba
+IR  - Mansouri J
+FIR - Mantle, Orla
+IR  - Mantle O
+FIR - Marchesi, Silvia
+IR  - Marchesi S
+FIR - Marcos, Isabela de Almeida
+IR  - Marcos IA
+FIR - Marecos, Rodrigo Salvador Pederzoli
+IR  - Marecos RSP
+FIR - Marei, Mohamed Ezzat
+IR  - Marei ME
+FIR - Markos, Fady
+IR  - Markos F
+FIR - Marsden, Max
+IR  - Marsden M
+FIR - Marshall, Elizabeth
+IR  - Marshall E
+FIR - Martínez Pardavila, Roberto
+IR  - Martínez Pardavila R
+FIR - Mathibela, Setoni
+IR  - Mathibela S
+FIR - Matter, Reem Hani
+IR  - Matter RH
+FIR - Matzakanis, Georgios
+IR  - Matzakanis G
+FIR - Mazzoleni, Adele
+IR  - Mazzoleni A
+FIR - McClure, Iain
+IR  - McClure I
+FIR - McKenna, Matt
+IR  - McKenna M
+FIR - McKnight, Gerard
+IR  - McKnight G
+FIR - Mefreh Mahfouz, Hussayn
+IR  - Mefreh Mahfouz H
+FIR - Melia, Georgia
+IR  - Melia G
+FIR - Méndez Rivera, Mario Napoleón
+IR  - Méndez Rivera MN
+FIR - Meng, Wong Chiew
+IR  - Meng WC
+FIR - Menif, Ahmed
+IR  - Menif A
+FIR - Mensah, Philip
+IR  - Mensah P
+FIR - Merchant, Taher
+IR  - Merchant T
+FIR - Merene, Minale Mengiste
+IR  - Merene MM
+FIR - Meric, Serhat
+IR  - Meric S
+FIR - Meselhi, Amr
+IR  - Meselhi A
+FIR - Mian, Areeb
+IR  - Mian A
+FIR - Mingjun, Du
+IR  - Mingjun D
+FIR - Minthor, Louvenser
+IR  - Minthor L
+FIR - Mirindi, Antoine Mulungano
+IR  - Mirindi AM
+FIR - Mitchell, Nathan
+IR  - Mitchell N
+FIR - Mithushan, Jesuthasan
+IR  - Mithushan J
+FIR - Moeng, Maeyane
+IR  - Moeng M
+FIR - Mohamadin, Abd Elrahim
+IR  - Mohamadin AE
+FIR - Mohamed, Suleyman Abdullahi
+IR  - Mohamed SA
+FIR - Mohamed, Ola
+IR  - Mohamed O
+FIR - Mohamed, Rashad G
+IR  - Mohamed RG
+FIR - Mohamed, Amr
+IR  - Mohamed A
+FIR - Mohamed, Basmala
+IR  - Mohamed B
+FIR - Mohamed, Abdulkadir Nor
+IR  - Mohamed AN
+FIR - Mohamed, Aya Mustafa Ahmed
+IR  - Mohamed AMA
+FIR - Mohamed, Mohamed Elobeid Elamin
+IR  - Mohamed MEE
+FIR - Mohamed Gomaa, Rawan
+IR  - Mohamed Gomaa R
+FIR - Mohamed Mahdi, Fatima Salaheldin
+IR  - Mohamed Mahdi FS
+FIR - Mohamed Sherif, Mai
+IR  - Mohamed Sherif M
+FIR - Mohamed Zeid, Alaa
+IR  - Mohamed Zeid A
+FIR - Mohammad, Ali H J
+IR  - Mohammad AHJ
+FIR - Mohammed, Lugen Osama Yousef
+IR  - Mohammed LOY
+FIR - Mohammed, Mariam M
+IR  - Mohammed MM
+FIR - Mohammed, Feroza
+IR  - Mohammed F
+FIR - Mohammed, Mahmoud Essam Sayed
+IR  - Mohammed MES
+FIR - Mohammed, Ibrahim Awad Osman
+IR  - Mohammed IAO
+FIR - Mohammed, Alaa Mohammed Ali
+IR  - Mohammed AMA
+FIR - Mohammed, Ahmed Tahir Badri
+IR  - Mohammed ATB
+FIR - Mohandas, Shailesh
+IR  - Mohandas S
+FIR - Mohlala, Lebone
+IR  - Mohlala L
+FIR - Moko, Lilamarie
+IR  - Moko L
+FIR - Molinari, Jenna
+IR  - Molinari J
+FIR - Monteiro, Diogo Lopes
+IR  - Monteiro DL
+FIR - Moodley, Kirusha
+IR  - Moodley K
+FIR - Moonesinghe, Ramani
+IR  - Moonesinghe R
+FIR - Moris, Dimitrios
+IR  - Moris D
+FIR - Morna, Martin Tangnaa
+IR  - Morna MT
+FIR - Mostafa, Mohammed Elsaid Elseir
+IR  - Mostafa MEE
+FIR - Muhoza, Josias Nshimiye
+IR  - Muhoza JN
+FIR - Mulita, Francesk
+IR  - Mulita F
+FIR - Mundell, Sophie
+IR  - Mundell S
+FIR - Muñoz-Campaña, Anna
+IR  - Muñoz-Campaña A
+FIR - Musa, Razaz Mahde Esmaeel
+IR  - Musa RME
+FIR - Musa, Abdelnour Ali Ahmed
+IR  - Musa AAA
+FIR - Musbahi, Aya
+IR  - Musbahi A
+FIR - Mushtaq, Asad
+IR  - Mushtaq A
+FIR - Mwinyi, Adam Rajab
+IR  - Mwinyi AR
+FIR - Naalene, Narious
+IR  - Naalene N
+FIR - Nadeem, Sumbul
+IR  - Nadeem S
+FIR - Nafees, Rubab
+IR  - Nafees R
+FIR - Naidoo, Ravi
+IR  - Naidoo R
+FIR - Naidoo, Shanisa
+IR  - Naidoo S
+FIR - Naqi, Syed Ali
+IR  - Naqi SA
+FIR - Nasser Eldiasti, Abdalla
+IR  - Nasser Eldiasti A
+FIR - Nassif, Mohammed
+IR  - Nassif M
+FIR - Negoi, Ionut
+IR  - Negoi I
+FIR - Nevins, Edward J
+IR  - Nevins EJ
+FIR - Ni, YiJiang
+IR  - Ni Y
+FIR - Ni, Hongying
+IR  - Ni H
+FIR - Nicholson, Phifer
+IR  - Nicholson P
+FIR - Nicol, Laura
+IR  - Nicol L
+FIR - Nishijima, Daniel
+IR  - Nishijima D
+FIR - Nomayo-Oriabure, Believe Ozioma
+IR  - Nomayo-Oriabure BO
+FIR - Nortey, Michael
+IR  - Nortey M
+FIR - Nortjie, Alisia
+IR  - Nortjie A
+FIR - Nsaful, Josephine
+IR  - Nsaful J
+FIR - Numbe, Bachelard Cissa Wa
+IR  - Numbe BCW
+FIR - Nuño-Guzmán, Carlos M
+IR  - Nuño-Guzmán CM
+FIR - Nuño-Guzmán, Carlos M
+IR  - Nuño-Guzmán CM
+FIR - Nwenasi, Nchomboh McRyan
+IR  - Nwenasi NM
+FIR - Nyatsambo, Chido
+IR  - Nyatsambo C
+FIR - O'Flynn, Conor
+IR  - O'Flynn C
+FIR - Obaid, Maaz
+IR  - Obaid M
+FIR - Omar, Abdirahman Ahmed
+IR  - Omar AA
+FIR - Omer, Ahmed Moawia Basher
+IR  - Omer AMB
+FIR - Oosthuizen, George
+IR  - Oosthuizen G
+FIR - Oprita, Bogdan
+IR  - Oprita B
+FIR - Orchard, Philippa
+IR  - Orchard P
+FIR - Oriabure, Emmanuel Osamwonyi
+IR  - Oriabure EO
+FIR - Oruc, Ahmet Batuhan
+IR  - Oruc AB
+FIR - Osman, Abdulrahman
+IR  - Osman A
+FIR - Oweidat, Majd
+IR  - Oweidat M
+FIR - Owen-Smith, Sam
+IR  - Owen-Smith S
+FIR - Owusu Ofori, Emmanuel
+IR  - Owusu Ofori E
+FIR - Özkan, Ömer Faruk
+IR  - Özkan ÖF
+FIR - Özpek, Adnan
+IR  - Özpek A
+FIR - Ozsahin, Hamdi
+IR  - Ozsahin H
+FIR - Parker, Robert
+IR  - Parker R
+FIR - Parker, Muzaffar
+IR  - Parker M
+FIR - Parry, Dan
+IR  - Parry D
+FIR - Patel, Mohamed Quraish
+IR  - Patel MQ
+FIR - Paulo, Stavro
+IR  - Paulo S
+FIR - Pearce, Phil
+IR  - Pearce P
+FIR - Pehlivan, Dilan
+IR  - Pehlivan D
+FIR - Perkins, Zane
+IR  - Perkins Z
+FIR - Piccolo, Annalisa
+IR  - Piccolo A
+FIR - Pienovi, Agustina
+IR  - Pienovi A
+FIR - Pilasi Menichetti, Carlos
+IR  - Pilasi Menichetti C
+FIR - Pino O, Luis Fernando
+IR  - Pino O LF
+FIR - Pirhay, Hassan
+IR  - Pirhay H
+FIR - Pirozzi, Noah
+IR  - Pirozzi N
+FIR - Polat, Nami Ünal
+IR  - Polat NÜ
+FIR - Ponce, Iñigo Augusto
+IR  - Ponce IA
+FIR - Powar, Michael
+IR  - Powar M
+FIR - Poyrazoğlu, Yavuz
+IR  - Poyrazoğlu Y
+FIR - Pratheepan, Ponnuthurai
+IR  - Pratheepan P
+FIR - Pratt, Tiffany L
+IR  - Pratt TL
+FIR - Preda, Nick
+IR  - Preda N
+FIR - Pretorius, Riaan
+IR  - Pretorius R
+FIR - Priyangani, Mihiri
+IR  - Priyangani M
+FIR - Provencher, Sarah
+IR  - Provencher S
+FIR - Pswarayi, Rudo
+IR  - Pswarayi R
+FIR - Qi, Zhang
+IR  - Qi Z
+FIR - Qneiby, Bayan
+IR  - Qneiby B
+FIR - Quartson, Elizabeth
+IR  - Quartson E
+FIR - Quenin, Francis
+IR  - Quenin F
+FIR - Quinn, Olivia
+IR  - Quinn O
+FIR - Quinto Llopis, Saray
+IR  - Quinto Llopis S
+FIR - Rahimi, Muhammed Ali
+IR  - Rahimi MA
+FIR - Rahman, Ganiyu Adebisi
+IR  - Rahman GA
+FIR - Ramsay, George
+IR  - Ramsay G
+FIR - Ranathunga, Sajith
+IR  - Ranathunga S
+FIR - Rawal, Aman
+IR  - Rawal A
+FIR - Read, Howard
+IR  - Read H
+FIR - Reddy, Nicolas Jokshan
+IR  - Reddy NJ
+FIR - Régis, Frédeline Immacula
+IR  - Régis FI
+FIR - Reyes, Luis F
+IR  - Reyes LF
+FIR - Reyes, Karyna
+IR  - Reyes K
+FIR - Riahi, Wassim
+IR  - Riahi W
+FIR - Riley, Claire Victoria
+IR  - Riley CV
+FIR - Rizaoglu, İnas
+IR  - Rizaoglu İ
+FIR - Robinson, Jacob
+IR  - Robinson J
+FIR - Rodríguez Gutiérrez, Araceli
+IR  - Rodríguez Gutiérrez A
+FIR - Rohana, Viraj
+IR  - Rohana V
+FIR - Roocroft, Harrison
+IR  - Roocroft H
+FIR - Ruilan, Wang
+IR  - Ruilan W
+FIR - Saadawi, Mostafa Foly
+IR  - Saadawi MF
+FIR - Saber, Esraa
+IR  - Saber E
+FIR - Saidani, Ahmed
+IR  - Saidani A
+FIR - Sainz-Lete, Aitor
+IR  - Sainz-Lete A
+FIR - Salad, Abdurrahman Hashi
+IR  - Salad AH
+FIR - Salah, Mohamed
+IR  - Salah M
+FIR - Saleh, Raoof
+IR  - Saleh R
+FIR - Salem, Esraa Y
+IR  - Salem EY
+FIR - Sánchez, María Paula
+IR  - Sánchez MP
+FIR - Sánchez-Thompson, Natalia
+IR  - Sánchez-Thompson N
+FIR - Sandouk, Joudy
+IR  - Sandouk J
+FIR - Şanli, Ahmet Necati
+IR  - Şanli AN
+FIR - Santos, Leonor de Costa Lourenço E Ávila Dos
+IR  - Santos LCLEÁD
+FIR - Saqib, Imad-Ud-Din
+IR  - Saqib IU
+FIR - Sara, Samer
+IR  - Sara S
+FIR - Saraçoğlu, Kemal Tolga
+IR  - Saraçoğlu KT
+FIR - Sarhan, Khalid
+IR  - Sarhan K
+FIR - Sartarelli, Lodovico
+IR  - Sartarelli L
+FIR - Sayar, Alperen Ibrahim
+IR  - Sayar AI
+FIR - Sayed, Noureldin Mahmoud
+IR  - Sayed NM
+FIR - Saylar, Alparslan
+IR  - Saylar A
+FIR - Scurr, Cosmo
+IR  - Scurr C
+FIR - Seidu-Aroza, Hakeem
+IR  - Seidu-Aroza H
+FIR - Selim, Ziad
+IR  - Selim Z
+FIR - Senbu, Mekonnen Feyissa
+IR  - Senbu MF
+FIR - Sergeevich, Andreev Pavel
+IR  - Sergeevich AP
+FIR - Serrano-Navidad, Mónica
+IR  - Serrano-Navidad M
+FIR - Servín, Yannick Nordín
+IR  - Servín YN
+FIR - Shaapan, Mohamed Magdy
+IR  - Shaapan MM
+FIR - Shafique, Mahruhk
+IR  - Shafique M
+FIR - Shaldan, Mariam Anwer
+IR  - Shaldan MA
+FIR - Sharaf, Omar A
+IR  - Sharaf OA
+FIR - Sharaf Eldin, Basma
+IR  - Sharaf Eldin B
+FIR - Shehada, Wafaa
+IR  - Shehada W
+FIR - Shehada, Munther D M
+IR  - Shehada MDM
+FIR - Shehzad, Nirman
+IR  - Shehzad N
+FIR - Shenkutie, Wegene Tadesse
+IR  - Shenkutie WT
+FIR - Shiferaw Degefu, Yisihak
+IR  - Shiferaw Degefu Y
+FIR - Shinwari, Hussayn
+IR  - Shinwari H
+FIR - Smith, Brandon G
+IR  - Smith BG
+FIR - Smoliar, Stanislav
+IR  - Smoliar S
+FIR - Sönmez, Yalçın
+IR  - Sönmez Y
+FIR - Sousa, André Luis Silva de
+IR  - Sousa ALS
+FIR - Stafford, Annabel
+IR  - Stafford A
+FIR - Starr, Nichole
+IR  - Starr N
+FIR - Stephane, Eya Mvondo
+IR  - Stephane EM
+FIR - Stephens, Daniel
+IR  - Stephens D
+FIR - Strong, Christopher Michael Francisco
+IR  - Strong CMF
+FIR - Strong, Paula
+IR  - Strong P
+FIR - Subasinghe, Duminda
+IR  - Subasinghe D
+FIR - Sweeney, Fiona
+IR  - Sweeney F
+FIR - Tabeti, Benali
+IR  - Tabeti B
+FIR - Taha, Hosam Ibrahim Abdelhamid
+IR  - Taha HIA
+FIR - Taher, Heba
+IR  - Taher H
+FIR - Takyi, Collins
+IR  - Takyi C
+FIR - Tan, Jay Roe
+IR  - Tan JR
+FIR - Tanas, Yousef
+IR  - Tanas Y
+FIR - Tang, Jiyan
+IR  - Tang J
+FIR - Tariq, Saad
+IR  - Tariq S
+FIR - Tasew, Birhanu
+IR  - Tasew B
+FIR - Taylor, John
+IR  - Taylor J
+FIR - Teichman, Amanda
+IR  - Teichman A
+FIR - Tekcan, Ramazan Kubilay
+IR  - Tekcan RK
+FIR - Tekel, Erdinç
+IR  - Tekel E
+FIR - Tereshchenko, Pavel
+IR  - Tereshchenko P
+FIR - Thavayogan, Rachel
+IR  - Thavayogan R
+FIR - Tidjane, Anisse
+IR  - Tidjane A
+FIR - Tientcheu, Tim Fabrice
+IR  - Tientcheu TF
+FIR - Tilahun, Osias
+IR  - Tilahun O
+FIR - Tiong Thye, Jerry Goo
+IR  - Tiong Thye JG
+FIR - Titarelli, Maximiliano
+IR  - Titarelli M
+FIR - Tolba, Khalid
+IR  - Tolba K
+FIR - Toledo, Larissa Cristina Soares Barboza de
+IR  - Toledo LCSB
+FIR - Topaloglu, Serdar
+IR  - Topaloglu S
+FIR - Tosun, Hüsna
+IR  - Tosun H
+FIR - Trigui, Racem
+IR  - Trigui R
+FIR - Tsongo, David Keya
+IR  - Tsongo DK
+FIR - Tuğmen, Cem
+IR  - Tuğmen C
+FIR - Tuncer, Korhan
+IR  - Tuncer K
+FIR - Tuncer, Gizem Kılınç
+IR  - Tuncer GK
+FIR - Tweneboah Enti, Donald
+IR  - Tweneboah Enti D
+FIR - Uchino, Hayaki
+IR  - Uchino H
+FIR - Ugas, Omar
+IR  - Ugas O
+FIR - Uhlich, Rindi
+IR  - Uhlich R
+FIR - Ulusahin, Mehmet
+IR  - Ulusahin M
+FIR - Ünlü, Serdar
+IR  - Ünlü S
+FIR - Uprak, Tevfik Kıvılcım
+IR  - Uprak TK
+FIR - Urgessa, Kisi
+IR  - Urgessa K
+FIR - Usta, Mehmet Arif
+IR  - Usta MA
+FIR - Vélez, Sebastián E
+IR  - Vélez SE
+FIR - Viljoen, Francois
+IR  - Viljoen F
+FIR - Visconti, Diego
+IR  - Visconti D
+FIR - Vulliamy, Paul
+IR  - Vulliamy P
+FIR - Wael, Rodayna
+IR  - Wael R
+FIR - Wain, Howard
+IR  - Wain H
+FIR - Wakeman, Christopher
+IR  - Wakeman C
+FIR - Walker, Laura
+IR  - Walker L
+FIR - Wang, Jing
+IR  - Wang J
+FIR - Wang, Zhengquan
+IR  - Wang Z
+FIR - Wang, Nan
+IR  - Wang N
+FIR - Wang, Shengfeng
+IR  - Wang S
+FIR - Wang, Qing-Bo
+IR  - Wang QB
+FIR - Wang, Kaixuan
+IR  - Wang K
+FIR - Waryah, Ali Muhammad
+IR  - Waryah AM
+FIR - Weijie, Marc Ong
+IR  - Weijie MO
+FIR - Weiser, Thomas G
+IR  - Weiser TG
+FIR - Wilson, Lauren
+IR  - Wilson L
+FIR - Wimalasena, Githma
+IR  - Wimalasena G
+FIR - Wimalge, Sagara
+IR  - Wimalge S
+FIR - Wineberg, Devorah
+IR  - Wineberg D
+FIR - Woan Wui, Lim
+IR  - Woan Wui L
+FIR - Wohlgemut, Jared
+IR  - Wohlgemut J
+FIR - Wolff, Christopher
+IR  - Wolff C
+FIR - Wondewosen Tilahun, Abel
+IR  - Wondewosen Tilahun A
+FIR - Wong, Evan
+IR  - Wong E
+FIR - Wong, Yen Sin
+IR  - Wong YS
+FIR - Wordui, Theodore
+IR  - Wordui T
+FIR - Wu, Changde
+IR  - Wu C
+FIR - Xiao, Liu
+IR  - Xiao L
+FIR - Xie, Keliang
+IR  - Xie K
+FIR - Xingming, Fang
+IR  - Xingming F
+FIR - Xuan, Teoh Chia
+IR  - Xuan TC
+FIR - Xueqi, Li
+IR  - Xueqi L
+FIR - Yassin, Mohamed Musa
+IR  - Yassin MM
+FIR - Yavuz, Erkan
+IR  - Yavuz E
+FIR - Yavuz, Aydın
+IR  - Yavuz A
+FIR - Yeşilova, Büşra
+IR  - Yeşilova B
+FIR - Yigit, Banu
+IR  - Yigit B
+FIR - Yildirim, Ali Cihat
+IR  - Yildirim AC
+FIR - Yilma, Yonas
+IR  - Yilma Y
+FIR - Yilmaz, Mehmet
+IR  - Yilmaz M
+FIR - Yıldırım, Mehmet Arda
+IR  - Yıldırım MA
+FIR - Yoong, Susan
+IR  - Yoong S
+FIR - Younes, Omar Tarek
+IR  - Younes OT
+FIR - Younes, Ibrahim Mohamed
+IR  - Younes IM
+FIR - Youssef, Mariam
+IR  - Youssef M
+FIR - Yung, Ewan
+IR  - Yung E
+FIR - Zahran, Dina
+IR  - Zahran D
+FIR - Zakaria, Andee Dzulkarnaen
+IR  - Zakaria AD
+FIR - Zeballos, Julio
+IR  - Zeballos J
+FIR - Zebda, Helmi
+IR  - Zebda H
+FIR - Zeinalabedeen, Lamees Adil Abdulbaqi
+IR  - Zeinalabedeen LAA
+FIR - Zenciroglu, Mahmut
+IR  - Zenciroglu M
+FIR - Zeren, Sezgin
+IR  - Zeren S
+FIR - Zhang, Zheqing
+IR  - Zhang Z
+FIR - Zhang, Jun
+IR  - Zhang J
+FIR - Zhang, Zhongheng
+IR  - Zhang Z
+FIR - Zhang, Haoyue
+IR  - Zhang H
+FIR - Zhaoxing, Tian
+IR  - Zhaoxing T
+FIR - Zhou, Mingkai
+IR  - Zhou M
+FIR - Ziada, Aya
+IR  - Ziada A
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 18:53
+PHST- 2025/05/16 00:00 [received]
+PHST- 2025/07/09 00:00 [revised]
+PHST- 2025/07/17 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 18:53 [entrez]
+AID - S2214-109X(25)00303-1 [pii]
+AID - 10.1016/S2214-109X(25)00303-1 [doi]
+PST - aheadofprint
+SO  - Lancet Glob Health. 2025 Sep 16:S2214-109X(25)00303-1. doi: 
+      10.1016/S2214-109X(25)00303-1.

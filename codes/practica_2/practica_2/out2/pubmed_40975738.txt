@@ -1,0 +1,90 @@
+PMID- 40975738
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1534-4681 (Electronic)
+IS  - 1068-9265 (Linking)
+DP  - 2025 Sep 20
+TI  - Neoadjuvant Endocrine Therapy Use in Estrogen Receptor Positive Breast Cancer: 
+      Insights from Practice Shifts During the COVID-19 Pandemic.
+LID - 10.1245/s10434-025-18307-4 [doi]
+AB  - BACKGROUND: The COVID-19 pandemic restricted operating room availability, 
+      prompting the Pandemic Breast Cancer Consortium to issue guidelines on deferring 
+      non-urgent surgical procedures. This led to an increased use of neoadjuvant 
+      endocrine therapy (NET) for estrogen-receptor positive (ER+) breast cancers. 
+      Irrespective of the pandemic, the ACOSOG Z1031 trial demonstrated that NET was 
+      effective at downstaging 51% of patients initially ineligible for breast 
+      conserving surgery (BCS). Despite this, NET utilization remains low. This study 
+      investigates NET use and related outcomes before, during, and after the pandemic. 
+      METHODS: Patients aged ≥ 18 with clinical T1-T4c, N0-3, ER+/HER2- breast cancers 
+      were selected from the National Cancer Database and stratified into two groups: 
+      NET versus surgery first. The study analyzed trends from 2019 (pre-pandemic) to 
+      2021 (tail-end-pandemic). Logistic regression identified factors associated with 
+      NET utilization. RESULTS: Results showed that 10,935 (3.9%) patients received NET 
+      and 272,546 (96.1%) underwent surgery first. NET use peaked in 2020 at 6.4% (vs. 
+      2019 2.3% and 2021 3.2%, P = 0.001). Median time from diagnosis to treatment was 
+      significantly shorter in the NET group (1.02 vs. 1.35 months, P = 0.001). 
+      Patients with clinical T3-4 disease who received NET versus surgery first had 
+      similar rates of BCS and were less likely to receive chemotherapy. CONCLUSION: 
+      The use of NET nearly tripled during the COVID-19 pandemic and was associated 
+      with decreased time to treatment and less use of adjuvant chemotherapy. NET could 
+      be considered for patients requiring a delay to surgery or for those with higher 
+      T-category who desire BCS or are unable to tolerate chemotherapy.
+CI  - © 2025. This is a U.S. Government work and not under copyright protection in the 
+      US; foreign copyright protection may apply.
+FAU - Douglas, Sasha R
+AU  - Douglas SR
+AD  - Department of Surgery, Duke University Medical Center, Durham, USA.
+FAU - Thomas, Samantha M
+AU  - Thomas SM
+AD  - DCI Biostatistics, Duke University, Durham, USA.
+FAU - van den Bruele, Astrid Botty
+AU  - van den Bruele AB
+AD  - Department of Surgery, Duke University Hospital, Durham, USA.
+FAU - Wang, Ton
+AU  - Wang T
+AD  - Duke University Medical Center, Durham, USA.
+FAU - Parrish, Kendra M
+AU  - Parrish KM
+AD  - Division of Surgical Oncology, Department of Surgery, Duke University Medical 
+      Center, Durham, USA.
+FAU - Rosenberger, Laura H
+AU  - Rosenberger LH
+AD  - Department of Surgery, Duke University, Durham, USA.
+FAU - Plichta, Jennifer K
+AU  - Plichta JK
+AD  - Department of Surgery, Duke University School of Medicine, Durham, USA.
+FAU - DiNome, Maggie L
+AU  - DiNome ML
+AD  - Duke University Medical Center, Durham, NC, USA.
+FAU - Chiba, Akiko
+AU  - Chiba A
+AD  - Duke University Medical Center, Durham, NC, USA. akiko.chiba@duke.edu.
+LA  - eng
+GR  - K12AR084231/GF/NIH HHS/United States
+GR  - P30CA014236/GF/NIH HHS/United States
+PT  - Journal Article
+DEP - 20250920
+PL  - United States
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+JID - 9420840
+SB  - IM
+OTO - NOTNLM
+OT  - Breast cancer
+OT  - COVID-19 pandemic
+OT  - Estrogen-receptor positive
+OT  - Neoadjuvant endocrine therapy
+OT  - Surgical delays
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 23:15
+PHST- 2025/07/14 00:00 [received]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 23:15 [entrez]
+AID - 10.1245/s10434-025-18307-4 [pii]
+AID - 10.1245/s10434-025-18307-4 [doi]
+PST - aheadofprint
+SO  - Ann Surg Oncol. 2025 Sep 20. doi: 10.1245/s10434-025-18307-4.

@@ -1,0 +1,117 @@
+PMID- 40973951
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250923
+IS  - 1476-511X (Electronic)
+IS  - 1476-511X (Linking)
+VI  - 24
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Sex-stratified and ascorbic acid intake-modified associations between body 
+      roundness index and biological aging: a NHANES-based study on interactions and 
+      mediation.
+PG  - 281
+LID - 10.1186/s12944-025-02708-1 [doi]
+LID - 281
+AB  - BACKGROUND: Biological aging, defined as the biological age (BA) or phenotypic 
+      age (PA) exceeding the chronological age (CA), is a key indicator of premature 
+      aging. Obesity accelerates aging; however, the effect of Body Roundness Index 
+      (BRI), an indicator of abdominal obesity, combined with sex or Ascorbic acid 
+      (Asc), on biological aging remains unclear. This study examined the association 
+      between BRI and biological aging, its interaction with sex and Asc intake, and 
+      its mediating mechanisms. METHODS: Data from the 1999-2018 U.S. National Health 
+      and Nutrition Examination Survey (NHANES) formed the basis of this study. 
+      Biological aging is characterized by BA or PA surpassing CA. Association between 
+      the BRI and biological aging was evaluated using multivariable-adjusted weighted 
+      regression. To assess for nonlinearity, restricted cubic splines were utilized, 
+      while interactions were investigated through both additive and multiplicative 
+      analyses. The bootstrap method was used to examine the potential mediating 
+      effects of biomarkers of metabolic dysfunction, oxidative stress, and protective 
+      pathways. RESULTS: The final analysis included 14,337 U.S. adults (mean age 
+      47.5 years; 50.27% women). A total of 49.32% of the participants showed signs of 
+      biological aging, with BRI being positively associated with biological aging in a 
+      nonlinear manner, including a threshold effect. The increase in the risk per BRI 
+      unit was more significant in women, and high doses of Asc reduced the risk of 
+      biological aging associated with increased BRI. Mediation analysis indicated that 
+      the association between BRI and accelerated aging was partly mediated by 
+      metabolic dysfunction (mediated by the triglyceride-glucose index [18.73%] and by 
+      triglycerides [9.21%], oxidative stress mediated by uric acid [17.92%] and by 
+      white blood cell count [5.80%], and depletion of protective factors mediated by 
+      vitamin D [- 3.85%] and by high-density lipoprotein [- 4.24%]). A sensitivity 
+      analysis confirmed the reliability of the findings. CONCLUSIONS: A higher BRI 
+      showed a nonlinear positive association with accelerated biological aging, a 
+      relationship that appears to be modified by female sex and Asc intake. Clinical 
+      approaches targeting metabolic dysfunction, oxidative stress, and antioxidant and 
+      vasoprotective reserves may help combat obesity-related aging. BRI thresholds 
+      enable early identification of individuals at high risk for personalized 
+      interventions.
+CI  - © 2025. The Author(s).
+FAU - Wang, Xinxing
+AU  - Wang X
+AD  - Department of Clinical Laboratory, Chengdu BOE Hospital, Chengdu, 610000, 
+      Sichuan, China.
+FAU - Qu, Xiaoxiao
+AU  - Qu X
+AD  - Department of Clinical Laboratory, The Second Affiliated Hospital & Yuying 
+      Children's Hospital of Wenzhou Medical University, Wenzhou, 325000, Zhejiang, 
+      China.
+FAU - Jiang, Guosong
+AU  - Jiang G
+AUID- ORCID: 0009-0009-2367-4079
+AD  - Department of Pulmonary and Critical Care Medicine, The Frist People's Hospital 
+      of Zhaotong &Zhaotong Hospital Affiliated to Kunming Medical University, 
+      Zhaotong, 657000, Yunnan, China. jiangguosong@kmmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Lipids Health Dis
+JT  - Lipids in health and disease
+JID - 101147696
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Humans
+MH  - *Ascorbic Acid/administration & dosage
+MH  - Female
+MH  - Middle Aged
+MH  - Male
+MH  - *Aging/drug effects/physiology
+MH  - Adult
+MH  - Nutrition Surveys
+MH  - Oxidative Stress/drug effects
+MH  - Sex Factors
+MH  - Aged
+MH  - Obesity, Abdominal
+MH  - Biomarkers/blood
+PMC - PMC12447621
+OTO - NOTNLM
+OT  - Ascorbic acid
+OT  - Biological aging
+OT  - Body roundness index
+OT  - Interaction analysis
+OT  - Mediation analysis
+OT  - Sex differences
+COIS- Declarations. Ethics approval and consent to participate: The NHANES was 
+      conducted by the Centers for Disease Control and Prevention (CDC) in 
+      collaboration with the National Center for Health Statistics (NCHS). The NHANES 
+      study protocol was reviewed and approved by the National Health and NCHS Research 
+      Ethics Review Committee. Written informed consent was obtained from all the 
+      participants. Consent for publication: Not applicable. Competing interests: The 
+      authors declare no competing interests.
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:32
+PMCR- 2025/09/19
+CRDT- 2025/09/20 00:42
+PHST- 2025/06/12 00:00 [received]
+PHST- 2025/08/18 00:00 [accepted]
+PHST- 2025/09/20 06:32 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 00:42 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1186/s12944-025-02708-1 [pii]
+AID - 2708 [pii]
+AID - 10.1186/s12944-025-02708-1 [doi]
+PST - epublish
+SO  - Lipids Health Dis. 2025 Sep 19;24(1):281. doi: 10.1186/s12944-025-02708-1.

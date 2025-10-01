@@ -1,0 +1,115 @@
+PMID- 40975040
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 12
+TI  - Integrative multi-omics reveals that Salvia miltiorrhiza active fraction 
+      ameliorates rheumatoid arthritis in rats via inhibiting inflammation and 
+      ferroptosis.
+PG  - 157258
+LID - S0944-7113(25)00897-9 [pii]
+LID - 10.1016/j.phymed.2025.157258 [doi]
+AB  - BACKGROUND: Rheumatoid arthritis (RA) is a chronic, highly disabling autoimmune 
+      disease requiring lifelong management, yet current therapies carry substantial 
+      long-term toxicity and high costs. Salvia miltiorrhiza is used clinically in the 
+      treatment of RA due to its pharmacological properties such as promoting blood 
+      circulation, removing blood stasis, and anti-inflammatory effects. However, the 
+      specific active fraction of Salvia miltiorrhiza responsible for its therapeutic 
+      effect on RA and the underlying mechanism remains unclear. OBJECTIVE: To explore 
+      active fraction from Salvia miltiorrhiza for the treatment of RA and elucidate 
+      their underlying mechanisms. METHODS: The active fraction of Salvia miltiorrhiza 
+      was screened via in vitro anti-inflammatory assay and in vivo pharmacokinetic 
+      evaluation. The composition was analyzed using UHPLC-Q Exactive-MS/MS and HPLC. 
+      An in vivo model of RA was established in rats using the collagen-induced 
+      arthritis (CIA) method. Therapeutic effects were assessed by RT-qPCR, Western 
+      Blot, and ELISA. Mechanisms were predicted via multi-omics analysis and validated 
+      using Western Blot, immunofluorescence, RT-qPCR, and fluorescent probes. RESULTS: 
+      One ethyl acetate extract (named ET) was identified as the active fraction from 
+      Salvia miltiorrhiza. In RA rats, ET treatment significantly delayed disease 
+      progression and alleviated pathological manifestations. Multi-omics analysis 
+      revealed ET modulated amino acid pathways, and impacted macrophage metabolic, 
+      inflammation and ferroptosis pathways. Western Blot, immunofluorescence, and 
+      RT-qPCR showed that ET not only directly inhibited macrophage inflammatory 
+      responses but also indirectly suppressed the activation of fibroblast-like 
+      synoviocytes by regulating macrophages. At the same time, ET effectively blocks 
+      the ferroptosis process by simultaneously regulating lipid peroxidation and 
+      antioxidant signaling. Furthermore, ET's five principal compounds, salvianolic 
+      acid B (SalB), dihydrotanshinone I (DIH), cryptotanshinone (CTS), tanshinone I 
+      (TanI), and tanshinone IIA (TanIIA), demonstrated inhibitory effects on both 
+      inflammation and ferroptosis. CONCLUSION: The Salvia miltiorrhiza active fraction 
+      ET ameliorates RA pathology by simultaneously regulating inflammation, 
+      ferroptosis, amino acid metabolism and synoviocyte dysregulation, demonstrating 
+      significant therapeutic potential for RA treatment.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Yin, Zhaokun
+AU  - Yin Z
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Luo, Shiqi
+AU  - Luo S
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Qin, Zhiyan
+AU  - Qin Z
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Song, Jianxun
+AU  - Song J
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Zhang, Lei
+AU  - Zhang L
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Zhang, Gengyi
+AU  - Zhang G
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Ning, Fangqing
+AU  - Ning F
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China.
+FAU - Huang, Min
+AU  - Huang M
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China. 
+      Electronic address: huangmin@mail.sysu.edu.cn.
+FAU - Jin, Jing
+AU  - Jin J
+AD  - Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, School of 
+      Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou 510006, China. 
+      Electronic address: jinjing@mail.sysu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250912
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - Ferroptosis
+OT  - Inflammation
+OT  - Multi-omics
+OT  - Pharmacodynamics
+OT  - Rheumatoid arthritis
+OT  - Salvia miltiorrhiza
+COIS- Declaration of competing interest The authors declared that they do not have 
+      anything to disclose regarding funding or conflict of interest with respect to 
+      this manuscript.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:13
+PHST- 2025/06/02 00:00 [received]
+PHST- 2025/09/03 00:00 [revised]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00897-9 [pii]
+AID - 10.1016/j.phymed.2025.157258 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 12;148:157258. doi: 10.1016/j.phymed.2025.157258.

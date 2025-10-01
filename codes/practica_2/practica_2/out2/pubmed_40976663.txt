@@ -1,0 +1,142 @@
+PMID- 40976663
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250922
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2025 Sep 21
+TI  - Cardiovascular effects of incretin-based drugs in patients with and without a 
+      history of heart failure: a protocol for a systematic review, meta-analysis and 
+      trial sequential analysis of randomised controlled trials.
+PG  - e103668
+LID - 10.1136/bmjopen-2025-103668 [doi]
+AB  - BACKGROUND: Incretin-based drugs, including glucagon-like peptide-1 (GLP-1) 
+      receptor agonists (RAs) and dual glucose-dependent insulinotropic polypeptide 
+      (GIP)/GLP-1 RAs, are increasingly used in the management of type 2 diabetes 
+      mellitus and obesity. While these agents have shown cardiovascular benefits, 
+      their effects on both cardiovascular outcomes and cardiac structure and function 
+      remain uncertain-particularly in patients with and without a history of heart 
+      failure (HF). METHODS AND ANALYSIS: We will conduct a systematic review and 
+      search major medical databases (Cochrane Central Register of Controlled Trials 
+      (CENTRAL), Medical Literature Analysis and Retrieval System Online (MEDLINE), 
+      Excerpta Medica Database (EMBASE), Latin American and Caribbean Health Sciences 
+      Literature (LILACS), Science Citation Index Expanded (SCI-EXPANDED) and 
+      Conference Proceedings Citation Index-Science (CPCI-S)), as well as clinical 
+      trial registries from their inception and onwards to identify relevant randomised 
+      trials. The literature search is scheduled for July 2025. Two review authors will 
+      independently extract data and assess risk of bias. We will include randomised 
+      controlled trials assessing the effects of cagrilintide/semaglutide, liraglutide, 
+      semaglutide and tirzepatide in patients with and without a history of HF. The 
+      primary outcome will be cardiovascular mortality. Secondary outcomes will include 
+      HF hospitalisation, myocardial infarction, stroke, heart rate, systolic blood 
+      pressure, N-terminal pro B-type natriuretic peptide, left ventricular ejection 
+      fraction, left ventricular end-diastolic volume and left ventricular end-systolic 
+      volume. Data will be synthesised by aggregate data meta-analyses and trial 
+      sequential analysis. Risk of bias will be assessed with the Cochrane Risk of Bias 
+      tool, version 2, and the certainty of the evidence will be assessed by Grading of 
+      Recommendations, Assessment, Development and Evaluations (GRADE). ETHICS AND 
+      DISSEMINATION: As this study is a systematic review based on secondary analysis 
+      of published data, ethical approval is not required. Findings will be published 
+      in international peer-reviewed scientific journals. PROSPERO REGISTRATION NUMBER: 
+      CRD420251003374.
+CI  - © Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ Group.
+FAU - El-Sheikh, Mohammed
+AU  - El-Sheikh M
+AUID- ORCID: 0000-0003-0549-2203
+AD  - Department of Cardiology, Copenhagen University Hospital, Amager and Hvidovre 
+      Hospital, Hvidovre, Denmark, Hvidovre Hospital, Hvidovre, Denmark 
+      mo-sheikh@hotmail.com.
+FAU - Sillassen, Christina Dam Bjerregaard
+AU  - Sillassen CDB
+AUID- ORCID: 0009-0004-9247-5245
+AD  - Copenhagen Trial Unit, Centre for Clinical Intervention Research, The Capital 
+      Region, Copenhagen University Hospital ̶ Rigshospitalet, Copenhagen, Denmark, 
+      Rigshospitalet, Copenhagen, Denmark.
+AD  - Department of Cardiology and Endocrinology, Slagelse Hospital, Slagelse, Denmark.
+AD  - Department of Regional Health Research, The Faculty of Health Sciences, 
+      University of Southern Denmark, Odense, Denmark, University of Southern Denmark, 
+      Odense, Denmark.
+FAU - Wisborg, Frederik Dencker
+AU  - Wisborg FD
+AD  - Department of Cardiology, Copenhagen University Hospital, Amager and Hvidovre 
+      Hospital, Hvidovre, Denmark, Hvidovre Hospital, Hvidovre, Denmark.
+FAU - Hove, Jens Dahlgaard
+AU  - Hove JD
+AD  - Department of Cardiology, Copenhagen University Hospital, Amager and Hvidovre 
+      Hospital, Hvidovre, Denmark, Hvidovre Hospital, Hvidovre, Denmark.
+FAU - Dirksen, Carsten
+AU  - Dirksen C
+AD  - Department of Respiratory Diseases and Endocrinology, Copenhagen University 
+      Hospital - Amager and Hvidovre, Hvidovre, Denmark, Hvidovre Hospital, Hvidovre, 
+      Denmark.
+AD  - Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+      University of Copenhagen, Copenhagen, Denmark, Hvidovre Hospital, Hvidovre, 
+      Denmark.
+FAU - Lee, Matthew Meng Yang
+AU  - Lee MMY
+AD  - School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, 
+      United Kingdom, University of Glasgow, Glasgow, UK.
+FAU - Jakobsen, Janus C
+AU  - Jakobsen JC
+AD  - Copenhagen Trial Unit, Centre for Clinical Intervention Research, The Capital 
+      Region, Copenhagen University Hospital ̶ Rigshospitalet, Copenhagen, Denmark, 
+      Rigshospitalet, Copenhagen, Denmark.
+AD  - Department of Regional Health Research, The Faculty of Health Sciences, 
+      University of Southern Denmark, Odense, Denmark, University of Southern Denmark, 
+      Odense, Denmark.
+FAU - Grand, Johannes
+AU  - Grand J
+AUID- ORCID: 0000-0002-5511-4668
+AD  - Department of Cardiology, Copenhagen University Hospital, Amager and Hvidovre 
+      Hospital, Hvidovre, Denmark, Hvidovre Hospital, Hvidovre, Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+RN  - 0 (Incretins)
+RN  - 0 (Glucagon-Like Peptide-1 Receptor Agonists)
+SB  - IM
+MH  - Humans
+MH  - *Heart Failure/drug therapy/complications
+MH  - Systematic Reviews as Topic
+MH  - *Incretins/therapeutic use/pharmacology
+MH  - Randomized Controlled Trials as Topic
+MH  - Meta-Analysis as Topic
+MH  - *Diabetes Mellitus, Type 2/drug therapy/complications
+MH  - Research Design
+MH  - Glucagon-Like Peptide-1 Receptor Agonists
+OTO - NOTNLM
+OT  - Cardiovascular Disease
+OT  - Drug Therapy
+OT  - Heart failure
+OT  - Meta-Analysis
+OT  - Safety
+OT  - Systematic Review
+COIS- Competing interests: ME-S and JDH have received lecture fees from Novo Nordisk. 
+      CDBS’s husband was employed at Novo Nordisk, Kalundborg site, as a sprinkler 
+      technician from September 1, 2024, to August 31, 2025. CD has received research 
+      funding from the Novo Nordisk Foundation, and over the past three years received 
+      personal fees (lecturer, consultant) from Novo Nordisk, AstraZeneca and Amylyx, 
+      and served in various unpaid roles (lecturer, chairperson, investigator) for Novo 
+      Nordisk, Amgen, AstraZeneca and Eli Lilly. MMYL has received research grants 
+      through his institution, the University of Glasgow, from AstraZeneca, Boehringer 
+      Ingelheim and Roche Diagnostics; is a member of Trial Steering Committees for 
+      Amgen and Cytokinetics; and Clinical Event Committees for Bayer and GSK. All 
+      other authors have no known competing interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:31
+CRDT- 2025/09/21 21:53
+PHST- 2025/09/22 00:31 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 21:53 [entrez]
+AID - bmjopen-2025-103668 [pii]
+AID - 10.1136/bmjopen-2025-103668 [doi]
+PST - epublish
+SO  - BMJ Open. 2025 Sep 21;15(9):e103668. doi: 10.1136/bmjopen-2025-103668.

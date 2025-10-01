@@ -1,0 +1,133 @@
+PMID- 40961446
+OWN - NLM
+STAT- Publisher
+LR  - 20250917
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+DP  - 2025 Sep 17
+TI  - Clesrovimab for Prevention of RSV Disease in Healthy Infants.
+LID - 10.1056/NEJMoa2502984 [doi]
+AB  - BACKGROUND: Clesrovimab is a long-acting investigational monoclonal antibody 
+      against site IV of the respiratory syncytial virus (RSV) fusion protein. Data 
+      regarding the safety and efficacy of clesrovimab in healthy infants are needed. 
+      METHODS: We randomly assigned healthy preterm and full-term infants entering 
+      their first RSV season in a 2:1 ratio to receive one intramuscular 105-mg dose of 
+      clesrovimab or placebo. The primary efficacy end point was RSV-associated 
+      medically attended lower respiratory infection (including at least one indicator 
+      of lower respiratory infection or disease severity) through 150 days after 
+      injection. A key secondary efficacy end point was RSV-associated hospitalization 
+      during the same period. RESULTS: A total of 3614 infants received an injection: 
+      2412 infants received clesrovimab, and 1202 infants received placebo. Through day 
+      150 after injection, RSV-associated medically attended lower respiratory 
+      infection occurred in 60 of 2398 infants in the clesrovimab group (incidence rate 
+      over 5-month period, 2.6%) and in 74 of 1201 infants in the placebo group 
+      (incidence rate over 5-month period, 6.5%), for an efficacy of 60.4% (95% 
+      confidence interval [CI], 44.1 to 71.9; P<0.001). RSV-associated hospitalization 
+      within 150 days was reported in 9 of 2398 infants in the clesrovimab group and in 
+      28 of 1201 infants in the placebo group, for an efficacy of 84.2% (95% CI, 66.6 
+      to 92.6; P<0.001). Serious adverse events were reported in 278 of 2409 infants 
+      (11.5%) in the clesrovimab group and 149 of 1202 infants (12.4%) in the placebo 
+      group. CONCLUSIONS: In healthy preterm and full-term infants, a single dose of 
+      clesrovimab reduced the incidence of RSV-associated medically attended lower 
+      respiratory infection and RSV-associated hospitalization, with a safety profile 
+      similar to that of placebo. (Funded by Merck Sharp and Dohme; CLEVER 
+      ClinicalTrials.gov number, NCT04767373.).
+CI  - Copyright © 2025 Massachusetts Medical Society.
+FAU - Zar, Heather J
+AU  - Zar HJ
+AUID- ORCID: 0000-0002-9046-759X
+AD  - Department of Pediatrics and Child Health and Medical Research Council Unit on 
+      Child and Adolescent Health, University of Cape Town, Cape Town, South Africa.
+FAU - Simões, Eric A F
+AU  - Simões EAF
+AD  - Children's Hospital Colorado and the University of Colorado School of Medicine, 
+      Aurora.
+FAU - Madhi, Shabir A
+AU  - Madhi SA
+AUID- ORCID: 0000-0002-7629-0636
+AD  - South African Medical Research Council: Vaccines and Infectious Diseases 
+      Analytics Unit, Faculty of Health Sciences, University of the Witwatersrand, 
+      Johannesburg.
+FAU - Ramilo, Octavio
+AU  - Ramilo O
+AD  - St. Jude Children's Research Hospital, Memphis, TN.
+FAU - Senders, Shelly D
+AU  - Senders SD
+AD  - Senders Pediatrics, Cleveland.
+FAU - Shepard, Julie S
+AU  - Shepard JS
+AD  - Ohio Pediatric Research Association, Dayton.
+FAU - Laoprasopwattana, Kamolwish
+AU  - Laoprasopwattana K
+AD  - Prince of Songkla University, Songkhla, Thailand.
+FAU - Piedrahita, Jorge
+AU  - Piedrahita J
+AD  - Clínica de la Costa, Barranquilla, Colombia.
+FAU - Novoa, Jose M
+AU  - Novoa JM
+AD  - Hospital Padre Alberto Hurtado, Santiago, Chile.
+FAU - Vargas, Sergio L
+AU  - Vargas SL
+AD  - Biomedical Sciences Institute, University of Chile School of Medicine, Santiago.
+FAU - Dionne, Marc
+AU  - Dionne M
+AD  - Centre Hospitalier Universitaire de Québec-Université Laval, Québec City, Canada.
+FAU - Jackowska, Teresa
+AU  - Jackowska T
+AD  - Center of Postgraduate Medical Education and Bielanski Hospital, Warsaw, Poland.
+FAU - Liu, Enmei
+AU  - Liu E
+AD  - Children's Hospital of Chongqing Medical University, Chongqing, China.
+FAU - Ishihara, Yasunori
+AU  - Ishihara Y
+AD  - Fukui Aiiku Hospital, Fukui, Japan.
+FAU - Ikeda, Kazushige
+AU  - Ikeda K
+AD  - Saitama City Hospital, Saitama, Japan.
+FAU - Zhang, Ying
+AU  - Zhang Y
+AD  - Merck, Rahway, NJ.
+FAU - Railkar, Radha A
+AU  - Railkar RA
+AD  - Merck, Rahway, NJ.
+FAU - Lutkiewicz, Jeannine
+AU  - Lutkiewicz J
+AD  - Merck, Rahway, NJ.
+FAU - Vora, Kalpit A
+AU  - Vora KA
+AD  - Merck, Rahway, NJ.
+FAU - Zang, Xiaowei
+AU  - Zang X
+AD  - Merck, Rahway, NJ.
+FAU - Maas, Brian M
+AU  - Maas BM
+AUID- ORCID: 0000-0002-2410-4379
+AD  - Merck, Rahway, NJ.
+FAU - Lee, Andrew W
+AU  - Lee AW
+AD  - Merck, Rahway, NJ.
+FAU - Guerra, Andrea
+AU  - Guerra A
+AD  - MSD, London.
+FAU - Sinha, Anushua
+AU  - Sinha A
+AD  - Merck, Rahway, NJ.
+CN  - CLEVER (MK-1654-004) Study Group
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04767373
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+EDAT- 2025/09/17 18:31
+MHDA- 2025/09/17 18:31
+CRDT- 2025/09/17 16:13
+PHST- 2025/09/17 18:31 [medline]
+PHST- 2025/09/17 18:31 [pubmed]
+PHST- 2025/09/17 16:13 [entrez]
+AID - 10.1056/NEJMoa2502984 [doi]
+PST - aheadofprint
+SO  - N Engl J Med. 2025 Sep 17. doi: 10.1056/NEJMoa2502984.

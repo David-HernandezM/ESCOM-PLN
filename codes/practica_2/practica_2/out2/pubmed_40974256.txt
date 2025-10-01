@@ -1,0 +1,183 @@
+PMID- 40974256
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1523-5866 (Electronic)
+IS  - 1522-8517 (Linking)
+DP  - 2025 Sep 20
+TI  - Single-cell profiling of peripheral and local immune compartments reveal unique 
+      genotype-independent prognostic immune signatures across IDH-stratified glioma.
+LID - noaf206 [pii]
+LID - 10.1093/neuonc/noaf206 [doi]
+AB  - BACKGROUND: Solid tumor immune suppression requires cooperation of tumor cells, 
+      local immune cells, peripheral circulating immune cells, and evolution of immune 
+      cell trajectories between peripheral and local environments. This study addresses 
+      a significant knowledge gap by characterizing peripheral and local immune 
+      environments in IDH Mutant (IDH-Mut) and IDH wildtype (IDH-WT) gliomas and 
+      defines novel immunological states with prognostic relevance across the glioma 
+      landscape. METHODS: We analyzed local and peripheral immune phenotypes in a 
+      cohort of 18 (6 IDH-Mut and 12 IDH-WT) gliomas with distinct genetic 
+      characteristics using paired human tumor and peripheral blood mononuclear cells 
+      (PBMCs) with single-cell RNA-sequencing (scRNA-seq). RESULTS: Our analyses 
+      revealed unique intratumoral and peripheral immune cellular ontogenies, including 
+      naïve CD4+ T cell enrichment in the IDH-Mut peripheral immune compartment, 
+      monocyte enrichment in IDH-WT glioma PBMCs, and emergence of a unique population 
+      of GZMH+ CD8+ T cells preferentially in the IDH-Mut microenvironment. 
+      Additionally, we found upregulation of TNF-α signaling and inflammatory response 
+      pathways in IDH-Mut-glioma-associated peripheral lymphoid cells versus IDH-WT 
+      tumors and identified a novel population of microglia-like cells in the 
+      peripheral blood of glioma patients with complement-interfacing characteristics. 
+      Applying intratumoral transcriptomic deconvolution via The Cancer Genome Atlas 
+      revealed genotype-independent, prognostic immune signatures across the malignant 
+      glioma landscape. CONCLUSIONS: This study reveals variable expression of immune 
+      phenotypes in adult gliomas stratified by IDH status and characterizes immune 
+      compartment and genotype-dependent differences in the immunologic glioma 
+      landscape. These genotype-dependent, tumor and circulating immune ontogenies 
+      should guide future diagnostic and immunotherapeutic considerations in malignant 
+      glioma.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Society for Neuro-Oncology.
+FAU - Sussman, Jonathan H
+AU  - Sussman JH
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+AD  - Graduate Group in Genomics and Computational Biology, Perelman School of 
+      Medicine, University of Pennsylvania, Philadelphia, PA.
+FAU - Cillo, Anthony R
+AU  - Cillo AR
+AD  - Department of Immunology, School of Medicine, University of Pittsburgh, 
+      Pittsburgh, PA.
+AD  - Tumor Microenvironment Center, UPMC Hillman Cancer Center, Pittsburgh, PA.
+AD  - Cancer Immunology and Immunotherapy Program, UPMC Hillman Cancer Center, 
+      Pittsburgh, PA.
+AD  - Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA.
+FAU - Kohli, Sajeev
+AU  - Kohli S
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+AD  - Graduate, Group in Cellular and Molecular Biology, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, PA.
+FAU - Cardello, Carly
+AU  - Cardello C
+AD  - Department of Immunology, School of Medicine, University of Pittsburgh, 
+      Pittsburgh, PA.
+AD  - Tumor Microenvironment Center, UPMC Hillman Cancer Center, Pittsburgh, PA.
+FAU - Patterson, Jonathan
+AU  - Patterson J
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Akca, Ebrar
+AU  - Akca E
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Angione, Angelo
+AU  - Angione A
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Moon, David
+AU  - Moon D
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+AD  - Graduate, Group in Cellular and Molecular Biology, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, PA.
+FAU - Krueger, Katharine
+AU  - Krueger K
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Ghamari, Ali
+AU  - Ghamari A
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Xu, Emily
+AU  - Xu E
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Xu, Jessica
+AU  - Xu J
+AD  - Graduate Group in Genomics and Computational Biology, Perelman School of 
+      Medicine, University of Pennsylvania, Philadelphia, PA.
+AD  - Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA.
+FAU - Tarbay, Antonio C
+AU  - Tarbay AC
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Li, Alex
+AU  - Li A
+AD  - Graduate Group in Genomics and Computational Biology, Perelman School of 
+      Medicine, University of Pennsylvania, Philadelphia, PA.
+AD  - Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA.
+FAU - Budihal, Bhargavi R
+AU  - Budihal BR
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+AD  - BGS Global Institute of Medical Sciences, Bengaluru, India.
+FAU - Zhang, Xiaoran
+AU  - Zhang X
+AD  - Department of Immunology, School of Medicine, University of Pittsburgh, 
+      Pittsburgh, PA.
+AD  - Tumor Microenvironment Center, UPMC Hillman Cancer Center, Pittsburgh, PA.
+FAU - Elghawy, Omar
+AU  - Elghawy O
+AD  - Department of Medicine, Perelman School of Medicine, University of Pennsylvania, 
+      Philadelphia, PA.
+FAU - Panek, Wojciech K
+AU  - Panek WK
+AD  - Department of Clinical Sciences and Advanced Medicine, School of Veterinary 
+      Medicine, University of Pennsylvania, Philadelphia, PA.
+FAU - Rajappa, Prajwal
+AU  - Rajappa P
+AD  - Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, Ohio.
+AD  - Department of Pediatrics, The Ohio State Wexner Medical Center, Columbus, Ohio.
+AD  - Department of Neurological Surgery, The Ohio State Wexner Medical Center, 
+      Columbus, Ohio.
+FAU - Tan, Kai
+AU  - Tan K
+AD  - Department of Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA.
+AD  - Center for Childhood Cancer Research, Children's Hospital of Philadelphia, 
+      Philadelphia, PA.
+FAU - Vignali, Dario A A
+AU  - Vignali DAA
+AD  - Department of Immunology, School of Medicine, University of Pittsburgh, 
+      Pittsburgh, PA.
+AD  - Tumor Microenvironment Center, UPMC Hillman Cancer Center, Pittsburgh, PA.
+AD  - Cancer Immunology and Immunotherapy Program, UPMC Hillman Cancer Center, 
+      Pittsburgh, PA.
+FAU - Bruno, Tullia C
+AU  - Bruno TC
+AD  - Department of Immunology, School of Medicine, University of Pittsburgh, 
+      Pittsburgh, PA.
+AD  - Tumor Microenvironment Center, UPMC Hillman Cancer Center, Pittsburgh, PA.
+AD  - Cancer Immunology and Immunotherapy Program, UPMC Hillman Cancer Center, 
+      Pittsburgh, PA.
+FAU - Amankulor, Nduka M
+AU  - Amankulor NM
+AD  - Department of Neurosurgery, Hospital of the, University of Pennsylvania, 
+      Philadelphia, PA.
+AD  - Penn Brain Tumor Center, Abramson Cancer Center, Perelman School of Medicine, 
+      University of Pennsylvania, Philadelphia, PA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250920
+PL  - England
+TA  - Neuro Oncol
+JT  - Neuro-oncology
+JID - 100887420
+SB  - IM
+OTO - NOTNLM
+OT  - IDH Mutant glioma
+OT  - circulating immune cells
+OT  - immunotherapy
+OT  - single-cell sequencing
+OT  - tumor immune microenvironment
+EDAT- 2025/09/20 12:32
+MHDA- 2025/09/20 12:32
+CRDT- 2025/09/20 07:04
+PHST- 2025/05/12 00:00 [received]
+PHST- 2025/09/05 00:00 [accepted]
+PHST- 2025/09/20 12:32 [medline]
+PHST- 2025/09/20 12:32 [pubmed]
+PHST- 2025/09/20 07:04 [entrez]
+AID - 8259693 [pii]
+AID - 10.1093/neuonc/noaf206 [doi]
+PST - aheadofprint
+SO  - Neuro Oncol. 2025 Sep 20:noaf206. doi: 10.1093/neuonc/noaf206.

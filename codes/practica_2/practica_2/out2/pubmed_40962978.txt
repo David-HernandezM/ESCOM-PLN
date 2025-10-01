@@ -1,0 +1,657 @@
+PMID- 40962978
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250917
+LR  - 20250920
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
+IS  - 0028-0836 (Linking)
+VI  - 645
+IP  - 8081
+DP  - 2025 Sep
+TI  - DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning.
+PG  - 633-638
+LID - 10.1038/s41586-025-09422-z [doi]
+AB  - General reasoning represents a long-standing and formidable challenge in 
+      artificial intelligence (AI). Recent breakthroughs, exemplified by large language 
+      models (LLMs)(1,2) and chain-of-thought (CoT) prompting(3), have achieved 
+      considerable success on foundational reasoning tasks. However, this success is 
+      heavily contingent on extensive human-annotated demonstrations and the 
+      capabilities of models are still insufficient for more complex problems. Here we 
+      show that the reasoning abilities of LLMs can be incentivized through pure 
+      reinforcement learning (RL), obviating the need for human-labelled reasoning 
+      trajectories. The proposed RL framework facilitates the emergent development of 
+      advanced reasoning patterns, such as self-reflection, verification and dynamic 
+      strategy adaptation. Consequently, the trained model achieves superior 
+      performance on verifiable tasks such as mathematics, coding competitions and STEM 
+      fields, surpassing its counterparts trained through conventional supervised 
+      learning on human demonstrations. Moreover, the emergent reasoning patterns 
+      exhibited by these large-scale models can be systematically used to guide and 
+      enhance the reasoning capabilities of smaller models.
+CI  - © 2025. The Author(s).
+FAU - Guo, Daya
+AU  - Guo D
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yang, Dejian
+AU  - Yang D
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Haowei
+AU  - Zhang H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Song, Junxiao
+AU  - Song J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Peiyi
+AU  - Wang P
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhu, Qihao
+AU  - Zhu Q
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Runxin
+AU  - Xu R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Ruoyu
+AU  - Zhang R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ma, Shirong
+AU  - Ma S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Bi, Xiao
+AU  - Bi X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Xiaokang
+AU  - Zhang X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yu, Xingkai
+AU  - Yu X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wu, Yu
+AU  - Wu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wu, Z F
+AU  - Wu ZF
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gou, Zhibin
+AU  - Gou Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Shao, Zhihong
+AU  - Shao Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Zhuoshu
+AU  - Li Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gao, Ziyi
+AU  - Gao Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Aixin
+AU  - Liu A
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xue, Bing
+AU  - Xue B
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Bingxuan
+AU  - Wang B
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wu, Bochao
+AU  - Wu B
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Feng, Bei
+AU  - Feng B
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Lu, Chengda
+AU  - Lu C
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhao, Chenggang
+AU  - Zhao C
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Deng, Chengqi
+AU  - Deng C
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ruan, Chong
+AU  - Ruan C
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Dai, Damai
+AU  - Dai D
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Deli
+AU  - Chen D
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ji, Dongjie
+AU  - Ji D
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Erhang
+AU  - Li E
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Lin, Fangyun
+AU  - Lin F
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Dai, Fucong
+AU  - Dai F
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Luo, Fuli
+AU  - Luo F
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Individual Researcher, Beijing, China.
+FAU - Hao, Guangbo
+AU  - Hao G
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Guanting
+AU  - Chen G
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Guowei
+AU  - Li G
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, H
+AU  - Zhang H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Hanwei
+AU  - Xu H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ding, Honghui
+AU  - Ding H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gao, Huazuo
+AU  - Gao H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Qu, Hui
+AU  - Qu H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Hui
+AU  - Li H
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Guo, Jianzhong
+AU  - Guo J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Jiashi
+AU  - Li J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Jingchang
+AU  - Chen J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yuan, Jingyang
+AU  - Yuan J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Tu, Jinhao
+AU  - Tu J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Jianping High School, Shanghai, China.
+FAU - Qiu, Junjie
+AU  - Qiu J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Junlong
+AU  - Li J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Cai, J L
+AU  - Cai JL
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ni, Jiaqi
+AU  - Ni J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liang, Jian
+AU  - Liang J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Jin
+AU  - Chen J
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Dong, Kai
+AU  - Dong K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Hu, Kai
+AU  - Hu K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - University of Science and Technology of China, Hefei, China.
+FAU - You, Kaichao
+AU  - You K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gao, Kaige
+AU  - Gao K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Guan, Kang
+AU  - Guan K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Huang, Kexin
+AU  - Huang K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Peking University, Beijing, China.
+FAU - Yu, Kuai
+AU  - Yu K
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Lean
+AU  - Wang L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Lecong
+AU  - Zhang L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhao, Liang
+AU  - Zhao L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Litong
+AU  - Wang L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Liyue
+AU  - Zhang L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Lei
+AU  - Xu L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xia, Leyi
+AU  - Xia L
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Mingchuan
+AU  - Zhang M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Minghua
+AU  - Zhang M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Tang, Minghui
+AU  - Tang M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Mingxu
+AU  - Zhou M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Meng
+AU  - Li M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Miaojun
+AU  - Wang M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Mingming
+AU  - Li M
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Tian, Ning
+AU  - Tian N
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Huang, Panpan
+AU  - Huang P
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Peng
+AU  - Zhang P
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Qiancheng
+AU  - Wang Q
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Qinyu
+AU  - Chen Q
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Du, Qiushi
+AU  - Du Q
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ge, Ruiqi
+AU  - Ge R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Ruisong
+AU  - Zhang R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Pan, Ruizhe
+AU  - Pan R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Runji
+AU  - Wang R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, R J
+AU  - Chen RJ
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Jin, R L
+AU  - Jin RL
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Ruyi
+AU  - Chen R
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Lu, Shanghao
+AU  - Lu S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Shangyan
+AU  - Zhou S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Shanhuang
+AU  - Chen S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ye, Shengfeng
+AU  - Ye S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Shiyu
+AU  - Wang S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yu, Shuiping
+AU  - Yu S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Shunfeng
+AU  - Zhou S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Pan, Shuting
+AU  - Pan S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, S S
+AU  - Li SS
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Shuang
+AU  - Zhou S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wu, Shaoqing
+AU  - Wu S
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yun, Tao
+AU  - Yun T
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Pei, Tian
+AU  - Pei T
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Sun, Tianyu
+AU  - Sun T
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, T
+AU  - Wang T
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zeng, Wangding
+AU  - Zeng W
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liang, Wenfeng
+AU  - Liang W
+AD  - DeepSeek-AI Team, Hangzhou, China. wenfeng.liang@deepseek.com.
+FAU - Gao, Wenjun
+AU  - Gao W
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yu, Wenqin
+AU  - Yu W
+AUID- ORCID: 0000-0002-5715-3011
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Peking University, Beijing, China.
+FAU - Zhang, Wentao
+AU  - Zhang W
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xiao, W L
+AU  - Xiao WL
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - An, Wei
+AU  - An W
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Xiaodong
+AU  - Liu X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Xiaohan
+AU  - Wang X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Xiaokang
+AU  - Chen X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Nie, Xiaotao
+AU  - Nie X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Cheng, Xin
+AU  - Cheng X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Xin
+AU  - Liu X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xie, Xin
+AU  - Xie X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Xingchao
+AU  - Liu X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yang, Xinyu
+AU  - Yang X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Xinyuan
+AU  - Li X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Peking University, Beijing, China.
+FAU - Su, Xuecheng
+AU  - Su X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Lin, Xuheng
+AU  - Lin X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, X Q
+AU  - Li XQ
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Jin, Xiangyue
+AU  - Jin X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Shen, Xiaojin
+AU  - Shen X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Chen, Xiaosha
+AU  - Chen X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Sun, Xiaowen
+AU  - Sun X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Xiaoxiang
+AU  - Wang X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Song, Xinnan
+AU  - Song X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Xinyi
+AU  - Zhou X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Xianzu
+AU  - Wang X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Shan, Xinxia
+AU  - Shan X
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Y K
+AU  - Li YK
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Y Q
+AU  - Wang YQ
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wei, Y X
+AU  - Wei YX
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Yang
+AU  - Zhang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Yanhong
+AU  - Xu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Yao
+AU  - Li Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhao, Yao
+AU  - Zhao Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Sun, Yaofeng
+AU  - Sun Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Yaohui
+AU  - Wang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yu, Yi
+AU  - Yu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Yichao
+AU  - Zhang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Shi, Yifan
+AU  - Shi Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xiong, Yiliang
+AU  - Xiong Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - He, Ying
+AU  - He Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Piao, Yishi
+AU  - Piao Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Yisong
+AU  - Wang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Tan, Yixuan
+AU  - Tan Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ma, Yiyang
+AU  - Ma Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Yiyuan
+AU  - Liu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Guo, Yongqiang
+AU  - Guo Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ou, Yuan
+AU  - Ou Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wang, Yuduan
+AU  - Wang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gong, Yue
+AU  - Gong Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Peking University, Beijing, China.
+FAU - Zou, Yuheng
+AU  - Zou Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - He, Yujia
+AU  - He Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Peking University, Beijing, China.
+FAU - Xiong, Yunfan
+AU  - Xiong Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Luo, Yuxiang
+AU  - Luo Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - You, Yuxiang
+AU  - You Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Yuxuan
+AU  - Liu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhou, Yuyang
+AU  - Zhou Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhu, Y X
+AU  - Zhu YX
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Huang, Yanping
+AU  - Huang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Li, Yaohui
+AU  - Li Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zheng, Yi
+AU  - Zheng Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhu, Yuchen
+AU  - Zhu Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ma, Yunxian
+AU  - Ma Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Tang, Ying
+AU  - Tang Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zha, Yukun
+AU  - Zha Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yan, Yuting
+AU  - Yan Y
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ren, Z Z
+AU  - Ren ZZ
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ren, Zehui
+AU  - Ren Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Sha, Zhangli
+AU  - Sha Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Fu, Zhe
+AU  - Fu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Zhean
+AU  - Xu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xie, Zhenda
+AU  - Xie Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Zhengyan
+AU  - Zhang Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Hao, Zhewen
+AU  - Hao Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Ma, Zhicheng
+AU  - Ma Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Yan, Zhigang
+AU  - Yan Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Wu, Zhiyu
+AU  - Wu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Gu, Zihui
+AU  - Gu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhu, Zijia
+AU  - Zhu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Liu, Zijun
+AU  - Liu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Tsinghua University, Beijing, China.
+FAU - Li, Zilin
+AU  - Li Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xie, Ziwei
+AU  - Xie Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Song, Ziyang
+AU  - Song Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+AD  - Citadel Securities, Hong Kong SAR, China.
+FAU - Pan, Zizheng
+AU  - Pan Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Huang, Zhen
+AU  - Huang Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Xu, Zhipeng
+AU  - Xu Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Zhongyu
+AU  - Zhang Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+FAU - Zhang, Zhen
+AU  - Zhang Z
+AD  - DeepSeek-AI Team, Hangzhou, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Motivation
+MH  - Reinforcement, Psychology
+MH  - Thinking
+MH  - *Large Language Models
+PMC - PMC12443585
+COIS- Competing interests: The authors declare no competing interests and will not file 
+      patents related to the content of this manuscript.
+EDAT- 2025/09/18 00:31
+MHDA- 2025/09/18 00:32
+PMCR- 2025/09/17
+CRDT- 2025/09/17 23:21
+PHST- 2025/02/14 00:00 [received]
+PHST- 2025/07/17 00:00 [accepted]
+PHST- 2025/09/18 00:32 [medline]
+PHST- 2025/09/18 00:31 [pubmed]
+PHST- 2025/09/17 23:21 [entrez]
+PHST- 2025/09/17 00:00 [pmc-release]
+AID - 10.1038/s41586-025-09422-z [pii]
+AID - 9422 [pii]
+AID - 10.1038/s41586-025-09422-z [doi]
+PST - ppublish
+SO  - Nature. 2025 Sep;645(8081):633-638. doi: 10.1038/s41586-025-09422-z. Epub 2025 
+      Sep 17.

@@ -1,0 +1,126 @@
+PMID- 40974012
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1460-2156 (Electronic)
+IS  - 0006-8950 (Linking)
+DP  - 2025 Sep 19
+TI  - Staging Alzheimer's disease through amyloid and tau PET.
+LID - awaf346 [pii]
+LID - 10.1093/brain/awaf346 [doi]
+AB  - A workgroup assembled by the Alzheimer's Association recently described a 
+      conceptual framework for Alzheimer's disease biological staging based on amyloid 
+      and tau positron emission tomography (PET) imaging. However, specific tau PET cut 
+      points were left to be determined, a step necessary prior to clinical 
+      application. We sought to operationalize and evaluate Alzheimer's disease 
+      biological staging by identifying meaningful tau PET cut points to define the 
+      four biological stages in a well-characterized participant cohort and describe 
+      the features of individuals placed into the different biological stages. The 
+      primary analysis included 896 participants in the Mayo Clinic Study of Aging or 
+      the Mayo Clinic Alzheimer's Disease Research Center longitudinal cohorts. A 
+      validation cohort consisted of 328 participants in the Alzheimer's Disease 
+      Neuroimaging Initiative. Both cognitively normal and impaired individuals with 
+      positive amyloid PET and evaluable tau PET imaging were included. Tau PET cut 
+      points were identified with Gaussian Mixture Models to characterize Alzheimer's 
+      disease biological stage in study participants with different clinical diagnoses 
+      and objective degrees of cognitive impairment as measured by Mini-Mental State 
+      Examination. A tau PET cut point in the medial temporal region and two cut points 
+      in the temporoparietal region were identified to collectively produce the four 
+      Alzheimer's disease biological stages described in the revised criteria. 
+      Increasing stage was associated with greater likelihood of mild cognitive 
+      impairment and dementia diagnosis and worsening cognitive performance on 
+      Mini-Mental State Examination and Clinical Dementia Rating Sum of Boxes, a result 
+      that was reproduced in the independent Alzheimer's Disease Neuroimaging 
+      Initiative cohort. This study provided empiric validation for the concept of 
+      using amyloid PET and tau PET to separate subjects with biomarker-proven 
+      Alzheimer's disease into four biological stages with distinct characteristics.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Guarantors of Brain.
+FAU - Johnson, Derek R
+AU  - Johnson DR
+AUID- ORCID: 0000-0002-4217-5517
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Wiste, Heather J
+AU  - Wiste HJ
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, 
+      USA.
+FAU - Lowe, Val
+AU  - Lowe V
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Schwarz, Christopher G
+AU  - Schwarz CG
+AUID- ORCID: 0000-0002-1466-8357
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Knopman, David S
+AU  - Knopman DS
+AUID- ORCID: 0000-0002-6544-066X
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Vemuri, Prashanthi
+AU  - Vemuri P
+AUID- ORCID: 0000-0003-4286-0589
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Kantarci, Kejal
+AU  - Kantarci K
+AUID- ORCID: 0000-0002-8001-2081
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Boeve, Bradley F
+AU  - Boeve BF
+AUID- ORCID: 0000-0002-4153-8187
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Graff-Radford, Jonathan
+AU  - Graff-Radford J
+AUID- ORCID: 0000-0003-2770-0691
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Cogswell, Petrice M
+AU  - Cogswell PM
+AUID- ORCID: 0000-0002-8128-4476
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Senjem, Matthew C
+AU  - Senjem MC
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+AD  - Department of Information Technology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Therneau, Terry M
+AU  - Therneau TM
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, 
+      USA.
+FAU - Griswold, Michael E
+AU  - Griswold ME
+AD  - Department of Data Science, University of Mississippi Medical Center, Jackson, MS 
+      39216, USA.
+FAU - Hu, Mingzhao
+AU  - Hu M
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, 
+      USA.
+FAU - Petersen, Ronald C
+AU  - Petersen RC
+AD  - Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN 55905, 
+      USA.
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN 55905, USA.
+FAU - Jack, Clifford R
+AU  - Jack CR
+AUID- ORCID: 0000-0001-7916-622X
+AD  - Department of Radiology, Mayo Clinic, Rochester, MN 55905, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Brain
+JT  - Brain : a journal of neurology
+JID - 0372537
+SB  - IM
+OTO - NOTNLM
+OT  - biomarkers
+OT  - dementia
+OT  - neuroimaging
+EDAT- 2025/09/20 06:31
+MHDA- 2025/09/20 06:31
+CRDT- 2025/09/20 01:07
+PHST- 2025/03/23 00:00 [received]
+PHST- 2025/07/11 00:00 [revised]
+PHST- 2025/09/20 06:31 [medline]
+PHST- 2025/09/20 06:31 [pubmed]
+PHST- 2025/09/20 01:07 [entrez]
+AID - 8259577 [pii]
+AID - 10.1093/brain/awaf346 [doi]
+PST - aheadofprint
+SO  - Brain. 2025 Sep 19:awaf346. doi: 10.1093/brain/awaf346.

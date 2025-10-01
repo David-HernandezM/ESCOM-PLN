@@ -1,0 +1,116 @@
+PMID- 40973181
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1523-5866 (Electronic)
+IS  - 1522-8517 (Linking)
+DP  - 2025 Sep 18
+TI  - SPP1+ macrophages polarized by lactate confer the progression of hypoxic adaptive 
+      tumor cells in brain.
+LID - noaf208 [pii]
+LID - 10.1093/neuonc/noaf208 [doi]
+AB  - BACKGROUND: Brain malignancies originating from the central nervous system and 
+      metastasizing from extracerebral tumors remain incurable, while the underlying 
+      mechanisms remain unclear. In this study, we comprehensively investigated the 
+      pan-brain tumor microenvironment. METHODS: We employed transgenic mice, 
+      stereotactic brain injections, flow cytometry, CRISPR/Cas9 gene editing, 
+      immunohistochemistry, immunofluorescence, quantitative reverse 
+      transcription-polymerase chain reaction, western blotting, 
+      co-immunoprecipitation, DNA pulldown assays, and chromatin immunoprecipitation. 
+      RESULTS: We constructed single-cell RNA sequencing and spatial transcriptome 
+      profiles of pan-brain tumors and identified the enhanced hypoxia-inducible factor 
+      1 (HIF-1) signaling in the intracerebral metastases compared with extracerebral 
+      parts, as well as in mesenchymal-subtype glioblastomas. Hypoxic adaptability 
+      mediated by HIF-1 signaling confers a tumor growth advantage in the brain. 
+      Integrated analysis and experimental models revealed the co-localization and 
+      mutual dependence between brain tumor hypoxic adaptability and macrophage 
+      infiltration. Hypoxic adaptive tumor cells recruit macrophages via galectin 1 
+      (LGALS1) and induce differentiation toward the secreted phosphoprotein 1 (SPP1) + 
+      subpopulation via lactate mediated histone lactylation. SPP1 directly activates 
+      mitogen-activated protein kinase (MAPK) signaling in tumor cells to promote tumor 
+      growth and inhibits the cytotoxic activity of CD8+ T cells. Genetic SPP1 
+      deficiency in macrophages delays hypoxic adaptive tumor growth in the brain and 
+      enhances the tumor response to anti-programmed cell death-1 (anti-PD-1) therapy. 
+      Preclinically, targeting lactate dehydrogenase A (LDHA) by stiripentol with 
+      blood-brain barrier permeability impedes brain tumor progression and synergizes 
+      with anti-PD-1 therapy. CONCLUSIONS: The interrelationship between hypoxic 
+      adaptive tumor cells and macrophages in the brain highlights the possibility of 
+      SPP1+ macrophage-based microenvironment remodeling in brain tumor therapy.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Society for Neuro-Oncology. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Zhang, Jianlei
+AU  - Zhang J
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+AD  - Laboratory of Molecular Biology, and Department of Biochemistry, Anhui Medical 
+      University, Hefei, Anhui, 230032, China.
+FAU - Li, Zhihui
+AU  - Li Z
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+AD  - Department of Genetics, School of Life Science, Anhui Medical University, Hefei, 
+      Anhui, 230031, China.
+FAU - Yin, Jiang
+AU  - Yin J
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Fan, Weina
+AU  - Fan W
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Liao, Hongfan
+AU  - Liao H
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Dong, Jing
+AU  - Dong J
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Yu, Xianfeng
+AU  - Yu X
+AD  - Department of Neurology, the First Affiliated Hospital of Anhui Medical 
+      University, Hefei, 230022, China.
+FAU - Cao, Yabing
+AU  - Cao Y
+AD  - Kiang Wu Hospital, Macau (SAR), China.
+FAU - Zhang, Qiong
+AU  - Zhang Q
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Zheng, Guopei
+AU  - Zheng G
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+FAU - Yao, Qianming
+AU  - Yao Q
+AD  - Guangzhou Institute of Cancer Research, the Affiliated Cancer Hospital, Guangzhou 
+      Medical University, Hengzhigang Road 78#, Guangzhou, Guangdong, 510095, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Neuro Oncol
+JT  - Neuro-oncology
+JID - 100887420
+SB  - IM
+OTO - NOTNLM
+OT  - SPP1+ macrophage
+OT  - brain tumor
+OT  - histone lactylation
+OT  - immunotherapy
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 20:43
+PHST- 2024/12/13 00:00 [received]
+PHST- 2025/09/08 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 20:43 [entrez]
+AID - 8257592 [pii]
+AID - 10.1093/neuonc/noaf208 [doi]
+PST - aheadofprint
+SO  - Neuro Oncol. 2025 Sep 18:noaf208. doi: 10.1093/neuonc/noaf208.

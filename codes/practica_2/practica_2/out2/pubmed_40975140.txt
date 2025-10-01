@@ -1,0 +1,91 @@
+PMID- 40975140
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1532-3064 (Electronic)
+IS  - 0954-6111 (Linking)
+DP  - 2025 Sep 18
+TI  - Drug-induced cough risk: A pharmacovigilance study of FDA adverse event reporting 
+      system database.
+PG  - 108367
+LID - S0954-6111(25)00430-5 [pii]
+LID - 10.1016/j.rmed.2025.108367 [doi]
+AB  - BACKGROUND: Drug-induced cough is a prevalent adverse drug reaction; however, the 
+      risk of cough associated with various drug classes in real-world settings has not 
+      been thoroughly elucidated. OBJECTIVES: This study aims to systematically 
+      identify drug risk signals that are significantly associated with cough through 
+      the FAERS database, covering data from the first quarter of 2004 to the fourth 
+      quarter of 2024. The findings will provide evidence-based support for clinical 
+      medication safety and individualized monitoring. METHODS: We extracted reports in 
+      which cough was identified as the primary adverse event (AE) from the FAERS 
+      database. After data cleaning to exclude duplicate and non-drug-related records, 
+      use the Reporting Odds Ratio (ROR) and Proportional Reporting Ratio (PRR) for 
+      disproportionality analysis. Standardize the Preferred Term (PT) for cough using 
+      MedDRA 27.1. Additionally, classify each drug using the World Health 
+      Organization's Anatomical Therapeutic Chemical (ATC) classification system. 
+      RESULTS: This study identified 1,951 drugs associated with the AE of "cough," 
+      affecting a total of 247,158 patients. The drug categories most commonly linked 
+      to cough included antineoplastic and immunomodulating agents, respiratory system 
+      medications, and cardiovascular system medications. The drugs (primary suspect) 
+      with the highest number of reported cough cases were adalimumab, etanercept, and 
+      sacubitril/valsartan. CONCLUSION: This study is the first to systematically 
+      reveal the strength of association and baseline characteristics between multiple 
+      categories of drugs and the risk of cough, confirming the high efficiency and 
+      sensitivity of the FAERS database in pharmacovigilance. The findings of this 
+      study provide an important basis for drug risk assessment and clinical 
+      intervention.
+CI  - Copyright © 2025. Published by Elsevier Ltd.
+FAU - Rui, Yang
+AU  - Rui Y
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China.
+FAU - Xin, Tianyuan
+AU  - Xin T
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China.
+FAU - Chen, Yu
+AU  - Chen Y
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China.
+FAU - Xiang, Beiyi
+AU  - Xiang B
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China.
+FAU - Chen, Changwen
+AU  - Chen C
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China.
+FAU - Chen, Zhe
+AU  - Chen Z
+AD  - Laboratory of Cough, Affiliated Kunshan Hospital of Jiangsu University; Kunshan 
+      Key Laboratory of Chronic Cough, Suzhou, China. Electronic address: 
+      z.chen@vip.163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Respir Med
+JT  - Respiratory medicine
+JID - 8908438
+SB  - IM
+OTO - NOTNLM
+OT  - Adverse events
+OT  - Drug-Induced Cough
+OT  - FAERS
+OT  - Pharmacovigilance
+COIS- Declaration of Competing Interest ☒ The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 19:36
+PHST- 2025/05/08 00:00 [received]
+PHST- 2025/08/20 00:00 [revised]
+PHST- 2025/09/18 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 19:36 [entrez]
+AID - S0954-6111(25)00430-5 [pii]
+AID - 10.1016/j.rmed.2025.108367 [doi]
+PST - aheadofprint
+SO  - Respir Med. 2025 Sep 18:108367. doi: 10.1016/j.rmed.2025.108367.

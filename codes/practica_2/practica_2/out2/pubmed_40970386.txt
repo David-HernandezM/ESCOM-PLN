@@ -1,0 +1,168 @@
+PMID- 40970386
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250922
+IS  - 2050-084X (Electronic)
+IS  - 2050-084X (Linking)
+VI  - 14
+DP  - 2025 Sep 19
+TI  - Maintenance of neuronal TDP-43 expression requires axonal lysosome transport.
+LID - 10.7554/eLife.104057 [doi]
+LID - RP104057
+AB  - TDP-43 mislocalization and pathology occurs across a range of neurodegenerative 
+      diseases, but the pathways that modulate TDP-43 in neurons are not well 
+      understood. We generated a Halo-TDP-43 knock-in human induced pluripotent stem 
+      cell (iPSC) line and performed a genome-wide CRISPR interference FACS-based 
+      screen to identify modifiers of TDP-43 levels in neurons. A meta-analysis of our 
+      screen and publicly available screens identified both specific hits and pathways 
+      present across multiple screens, the latter likely responsible for generic 
+      protein level maintenance. We identified BORC, a complex required for anterograde 
+      lysosome transport, as a specific modifier of TDP-43 protein, but not mRNA, 
+      levels in neurons. BORC loss led to longer half-life of TDP-43 and other 
+      proteins, suggesting lysosome location is required for proper protein turnover. 
+      As such, lysosome location and function are crucial for maintaining TDP-43 
+      protein levels in neurons.
+FAU - Ryan, Veronica H
+AU  - Ryan VH
+AUID- ORCID: 0000-0001-5121-4672
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+FAU - Lawton, Sydney
+AU  - Lawton S
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Reyes, Joel F
+AU  - Reyes JF
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Hawrot, James
+AU  - Hawrot J
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Frankenfield, Ashley M
+AU  - Frankenfield AM
+AUID- ORCID: 0000-0001-9311-4194
+AD  - Department of Chemistry, George Washington University, Washington, DC, United 
+      States.
+FAU - Seddighi, Sahba
+AU  - Seddighi S
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Ramos, Daniel M
+AU  - Ramos DM
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+FAU - Epstein, Jacob
+AU  - Epstein J
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+FAU - Faghri, Faraz
+AU  - Faghri F
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+AD  - DataTecnica, Washington, DC, United States.
+FAU - Johnson, Nicholas L
+AU  - Johnson NL
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+AD  - DataTecnica, Washington, DC, United States.
+FAU - Zou, Jizhong
+AU  - Zou J
+AD  - National Heart, Lung, and Blood Institute, National Institutes of Health, 
+      Bethesda, United States.
+FAU - Kampmann, Martin
+AU  - Kampmann M
+AUID- ORCID: 0000-0002-3819-7019
+AD  - Institute for Neurodegenerative Diseases, Weill Institute for Neurosciences, and 
+      Department of Biochemistry and Biophysics, University of California, San 
+      Francisco, San Francisco, United States.
+FAU - Replogle, John
+AU  - Replogle J
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Qi, Yue Andy
+AU  - Qi YA
+AUID- ORCID: 0000-0003-1914-8710
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+FAU - Yuan, Hebao
+AU  - Yuan H
+AUID- ORCID: 0000-0003-4425-3678
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Johnson, Kory
+AU  - Johnson K
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Maric, Dragan
+AU  - Maric D
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+FAU - Hao, Ling
+AU  - Hao L
+AD  - Department of Chemistry and Biochemistry, University of Maryland, College Park, 
+      United States.
+FAU - Nalls, Mike A
+AU  - Nalls MA
+AD  - Center for Alzheimer's and Related Dementias, National Institute on Aging, 
+      National Institutes of Health, Bethesda, United States.
+AD  - DataTecnica, Washington, DC, United States.
+FAU - Ward, Michael Emmerson
+AU  - Ward ME
+AUID- ORCID: 0000-0002-5296-8051
+AD  - National Institute of Neurological Disorders and Stroke, National Institutes of 
+      Health, Bethesda, United States.
+LA  - eng
+SI  - GEO/GSE299976
+GR  - Intramural Research Program/AG/NIA NIH HHS/United States
+GR  - R01NS121608/NS/NINDS NIH HHS/United States
+GR  - R01 NS121608/NS/NINDS NIH HHS/United States
+GR  - Intramural Research Program/NS/NINDS NIH HHS/United States
+GR  - Fi2GM142475/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Elife
+JT  - eLife
+JID - 101579614
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (TARDBP protein, human)
+SB  - IM
+UOF - bioRxiv. 2025 Jun 30:2024.09.30.615241. doi: 10.1101/2024.09.30.615241. PMID: 
+      39803527
+MH  - *Lysosomes/metabolism
+MH  - Humans
+MH  - *DNA-Binding Proteins/metabolism/genetics
+MH  - *Neurons/metabolism
+MH  - Induced Pluripotent Stem Cells/metabolism
+MH  - *Axons/metabolism
+MH  - *Axonal Transport
+PMC - PMC12448747
+OTO - NOTNLM
+OT  - BORC
+OT  - CRISPRi screen
+OT  - TDP-43
+OT  - cell biology
+OT  - human
+OT  - iNeuron
+OT  - lysosome
+OT  - neuroscience
+COIS- VR, SL, JR, JH, AF, SS, DR, JE, JZ, MK, JR, YQ, HY, KJ, DM, LH, MW No competing 
+      interests declared, FF, NJ, MN Participation in this project was part of a 
+      competitive contract awarded to DataTecnica LLC by the National Institutes of 
+      Health to support open science research
+EDAT- 2025/09/19 06:31
+MHDA- 2025/09/19 12:51
+PMCR- 2025/09/19
+CRDT- 2025/09/19 05:53
+PHST- 2025/09/19 12:51 [medline]
+PHST- 2025/09/19 06:31 [pubmed]
+PHST- 2025/09/19 05:53 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 104057 [pii]
+AID - 10.7554/eLife.104057 [doi]
+PST - epublish
+SO  - Elife. 2025 Sep 19;14:RP104057. doi: 10.7554/eLife.104057.

@@ -1,0 +1,155 @@
+PMID- 34293314
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211117
+LR  - 20211117
+IS  - 1096-0953 (Electronic)
+IS  - 0013-9351 (Linking)
+VI  - 202
+DP  - 2021 Nov
+TI  - Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and associations 
+      with attention-deficit/hyperactivity disorder and autism spectrum disorder in 
+      children.
+PG  - 111692
+LID - S0013-9351(21)00986-5 [pii]
+LID - 10.1016/j.envres.2021.111692 [doi]
+AB  - BACKGROUND: Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) may 
+      be a risk factor for neurodevelopmental deficits and disorders, but evidence is 
+      inconsistent. OBJECTIVES: We investigated whether prenatal exposure to PFAS were 
+      associated with childhood diagnosis of attention-deficit/hyperactivity disorder 
+      (ADHD) or autism spectrum disorder (ASD). METHODS: This study was based on the 
+      Norwegian Mother, Father and Child Cohort Study and included n = 821 ADHD cases, 
+      n = 400 ASD cases and n = 980 controls. Diagnostic cases were identified by 
+      linkage with the Norwegian Patient Registry. In addition, we used data from the 
+      Medical Birth Registry of Norway. The study included the following PFAS measured 
+      in maternal plasma sampled mid-pregnancy: Perfluorooctanoic acid (PFOA), 
+      perfluorononanoic acid (PFNA), perfluorodecanoic acid (PFDA), perfluoroundecanoic 
+      acid (PFUnDA), perfluorohexane sulfonate (PFHxS), perfluoroheptanesulfonic acid 
+      (PFHpS), and perfluorooctane sulfonate (PFOS). Relationships between individual 
+      PFAS and ADHD or ASD diagnoses were examined using multivariable adjusted 
+      logistic regression models. We also tested for possible non-linear 
+      exposure-outcome associations. Further, we investigated the PFAS mixture 
+      associations with ASD and ADHD diagnoses using a quantile-based g-computation 
+      approach. RESULTS: Odds of ASD was significantly elevated in PFOA quartile 2 
+      [OR = 1.71 (95% CI: 1.20, 2.45)] compared to quartile 1, and PFOA appeared to 
+      have a non-linear, inverted U-shaped dose-response relationship with ASD. PFOA 
+      was also associated with increased odds of ADHD, mainly in quartile 2 [OR = 1.54 
+      (95% CI: 1.16, 2.04)] compared to quartile 1, and displayed a non-linear 
+      relationship in the restricted cubic spline model. Several PFAS (PFUnDA, PFDA, 
+      and PFOS) were inversely associated with odds of ADHD and/or ASD. Some of the 
+      associations were modified by child sex and maternal education. The overall PFAS 
+      mixture was inversely associated with ASD [OR = 0.76 (95% CI: 0.64, 0.90)] as 
+      well as the carboxylate mixture [OR = 0.79 (95% CI: 0.68, 0.93)] and the 
+      sulfonate mixture [OR = 0.84 (95% CI: 0.73, 0.96)]. CONCLUSION: Prenatal exposure 
+      to PFOA was associated with increased risk of ASD and ADHD in children. For some 
+      PFAS, as well as their mixtures, there were inverse associations with ASD and/or 
+      ADHD. However, the inverse associations reported herein should not be interpreted 
+      as protective effects, but rather that there could be some unresolved confounding 
+      for these relationships. The epidemiologic literature linking PFAS exposures with 
+      neurodevelopmental outcomes is still inconclusive, suggesting the need for more 
+      research to elucidate the neurotoxicological potential of PFAS during early 
+      development.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Skogheim, Thea S
+AU  - Skogheim TS
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway. Electronic address: thea.skogheim@fhi.no.
+FAU - Weyde, Kjell Vegard F
+AU  - Weyde KVF
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Aase, Heidi
+AU  - Aase H
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Engel, Stephanie M
+AU  - Engel SM
+AD  - Gillings School of Global Public Health, University of North Carolina at Chapel 
+      Hill, 135 Dauer Drive, Campus Box 7435, Chapel Hill, NC, 27599-7435, USA.
+FAU - Surén, Pål
+AU  - Surén P
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Øie, Merete G
+AU  - Øie MG
+AD  - Department of Psychology, University of Oslo, PO Box 1094, Blindern, N-0317, 
+      Oslo, Norway.
+FAU - Biele, Guido
+AU  - Biele G
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Reichborn-Kjennerud, Ted
+AU  - Reichborn-Kjennerud T
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway; Institute of Clinical Medicine, University 
+      of Oslo, PO Box 1171, Blindern, N-0318, Oslo, Norway.
+FAU - Brantsæter, Anne Lise
+AU  - Brantsæter AL
+AD  - Division of Infection Control and Environmental Health, Norwegian Institute of 
+      Public Health, PO Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Haug, Line S
+AU  - Haug LS
+AD  - Division of Infection Control and Environmental Health, Norwegian Institute of 
+      Public Health, PO Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Sabaredzovic, Azemira
+AU  - Sabaredzovic A
+AD  - Division of Infection Control and Environmental Health, Norwegian Institute of 
+      Public Health, PO Box 222, Skøyen, N-0213, Oslo, Norway.
+FAU - Auyeung, Bonnie
+AU  - Auyeung B
+AD  - Department of Psychology, School of Philosophy, Psychology and Language Sciences, 
+      University of Edinburgh, 7 George Square, Edinburgh, EH8 9JZ, UK; Department of 
+      Psychiatry, Autism Research Centre, University of Cambridge, Douglas House, 18b 
+      Trumpington Road, Cambridge, CB2 8AH, UK.
+FAU - Villanger, Gro D
+AU  - Villanger GD
+AD  - Division of Mental and Physical Health, Norwegian Institute of Public Health, PO 
+      Box 222, Skøyen, N-0213, Oslo, Norway.
+LA  - eng
+GR  - R01 ES021777/ES/NIEHS NIH HHS/United States
+GR  - P30 ES010126/ES/NIEHS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210719
+PL  - Netherlands
+TA  - Environ Res
+JT  - Environmental research
+JID - 0147621
+RN  - 0 (Alkanesulfonic Acids)
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Fluorocarbons)
+SB  - IM
+MH  - *Alkanesulfonic Acids/toxicity
+MH  - *Attention Deficit Disorder with Hyperactivity/chemically induced/epidemiology
+MH  - *Autism Spectrum Disorder/chemically induced/epidemiology
+MH  - Child
+MH  - Cohort Studies
+MH  - *Environmental Pollutants/toxicity
+MH  - Female
+MH  - *Fluorocarbons/toxicity
+MH  - Humans
+MH  - Mothers
+MH  - Pregnancy
+MH  - *Prenatal Exposure Delayed Effects/chemically induced/epidemiology
+OTO - NOTNLM
+OT  - Attention-deficit/hyperactivity disorder (ADHD)
+OT  - Autism spectrum disorder (ASD)
+OT  - Father and child cohort study (MoBa)
+OT  - Medical birth registry of Norway (MBRN)
+OT  - Per- and polyfluoroalkyl substances (PFAS)
+OT  - The Norwegian mother
+EDAT- 2021/07/23 06:00
+MHDA- 2021/11/18 06:00
+CRDT- 2021/07/22 20:10
+PHST- 2021/03/12 00:00 [received]
+PHST- 2021/07/10 00:00 [revised]
+PHST- 2021/07/11 00:00 [accepted]
+PHST- 2021/07/23 06:00 [pubmed]
+PHST- 2021/11/18 06:00 [medline]
+PHST- 2021/07/22 20:10 [entrez]
+AID - S0013-9351(21)00986-5 [pii]
+AID - 10.1016/j.envres.2021.111692 [doi]
+PST - ppublish
+SO  - Environ Res. 2021 Nov;202:111692. doi: 10.1016/j.envres.2021.111692. Epub 2021 
+      Jul 19.

@@ -1,0 +1,150 @@
+PMID- 40976786
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1460-2075 (Electronic)
+IS  - 0261-4189 (Linking)
+DP  - 2025 Sep 21
+TI  - Telomeric DNA damage response mediates neurotoxicity of Aβ42 oligomers in 
+      Alzheimer's disease.
+LID - 10.1038/s44318-025-00521-1 [doi]
+AB  - Ageing is the major risk factor for Alzheimer's disease (AD), the most common 
+      neurodegenerative disorder. DNA damage is a hallmark of ageing, particularly when 
+      occurring at telomeres, genomic regions vulnerable to oxidative damage and often 
+      challenging for the cell to repair. Here, we show that brains of 3xTg-AD mice, an 
+      established AD model characterized by amyloid-β (Aβ)-induced pathology, exhibit 
+      increased activation of DNA damage response (DDR) pathways at telomeres. Exposure 
+      of mouse primary hippocampal neurons to 42-residue Aβ (Aβ42) oligomers, a 
+      significant pathogenetic contributor to AD, triggers telomeric DDR by increasing 
+      the levels of reactive oxygen species caused by calcium imbalance. Antisense 
+      oligonucleotides targeting non-coding RNAs generated at damaged telomeres in vivo 
+      (in 3xTg-AD mice) and in vitro reduce neurotoxicity in iPSC-derived human 
+      cortical neurons and mouse primary neurons while inhibiting Aβ42-induced 
+      telomeric DDR, and restore transcriptional pathways altered by Aβ and found 
+      dysregulated in AD patients. These results unveil an unexpected role of telomeric 
+      DNA damage responses in Alzheimer's disease pathogenesis, and suggest a novel 
+      target for the development of RNA-based therapies.
+CI  - © 2025. The Author(s).
+FAU - Sepe, Sara
+AU  - Sepe S
+AUID- ORCID: 0000-0002-9884-9189
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Rey, Federica
+AU  - Rey F
+AUID- ORCID: 0000-0001-7944-3143
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Mancheno-Ferris, Alexandra
+AU  - Mancheno-Ferris A
+AUID- ORCID: 0000-0002-2689-8483
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Bigi, Alessandra
+AU  - Bigi A
+AUID- ORCID: 0000-0002-1067-6288
+AD  - Department of Experimental and Clinical Biomedical Sciences, Section of 
+      Biochemistry, University of Florence, Florence, Italy.
+FAU - Fani, Giulia
+AU  - Fani G
+AD  - Department of Experimental and Clinical Biomedical Sciences, Section of 
+      Biochemistry, University of Florence, Florence, Italy.
+FAU - Damiani, Devid
+AU  - Damiani D
+AD  - Center for Human Technologies, Non-coding RNAs and RNA-based Therapeutics, 
+      Istituto Italiano di Tecnologia (IIT), Genova, Italy.
+FAU - Cabrini, Matteo
+AU  - Cabrini M
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+AD  - Institute of Molecular Genetics (IGM), National Research Institute (CNR), Pavia, 
+      Italy.
+FAU - Marinelli, Eugenia
+AU  - Marinelli E
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Aguado, Julio
+AU  - Aguado J
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+AD  - University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+FAU - Contu, Liliana
+AU  - Contu L
+AD  - Center for Human Technologies, Non-coding RNAs and RNA-based Therapeutics, 
+      Istituto Italiano di Tecnologia (IIT), Genova, Italy.
+FAU - di Lillo, Alessia
+AU  - di Lillo A
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Boggio, Sara
+AU  - Boggio S
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Tavella, Sara
+AU  - Tavella S
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+AD  - Institute of Molecular Genetics (IGM), National Research Institute (CNR), Pavia, 
+      Italy.
+FAU - Rosso, Ilaria
+AU  - Rosso I
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy.
+FAU - Gustincich, Stefano
+AU  - Gustincich S
+AD  - Center for Human Technologies, Non-coding RNAs and RNA-based Therapeutics, 
+      Istituto Italiano di Tecnologia (IIT), Genova, Italy.
+FAU - Chiti, Fabrizio
+AU  - Chiti F
+AUID- ORCID: 0000-0002-1330-1289
+AD  - Department of Experimental and Clinical Biomedical Sciences, Section of 
+      Biochemistry, University of Florence, Florence, Italy.
+FAU - d'Adda di Fagagna, Fabrizio
+AU  - d'Adda di Fagagna F
+AUID- ORCID: 0000-0002-9603-5966
+AD  - IFOM ETS - The AIRC Institute of Molecular Oncology, Milan, Italy. 
+      fabrizio.dadda@igm.cnr.it.
+AD  - Institute of Molecular Genetics (IGM), National Research Institute (CNR), Pavia, 
+      Italy. fabrizio.dadda@igm.cnr.it.
+LA  - eng
+GR  - ERC advanced grant -TELORNAGING-835103/EC | European Research Council (ERC)/
+GR  - ERC POC TELOVACCINE - 101113229/EC | European Research Council (ERC)/
+GR  - GMR23T2007/Fondazione Telethon (FT)/
+GR  - GMR23T2007/Fondazione Telethon (FT)/
+GR  - (PRIN) 2020CXFL4T/Ministero dell'Università e della Ricerca (MUR)/
+GR  - (PRIN) 2022R7LH5T/Ministero dell'Università e della Ricerca (MUR)/
+GR  - FG_24/2020/Fondazione Italiana di Ricerca per la Sclerosi Laterale Amiotrofica 
+      (AriSLA)/
+GR  - FG_24_2020/Fondazione Italiana di Ricerca per la Sclerosi Laterale Amiotrofica 
+      (AriSLA)/
+GR  - AIRC-IG 30471/Fondazione AIRC per la ricerca sul cancro ETS (AIRC)/
+GR  - AIRC-IG 21762/Fondazione AIRC per la ricerca sul cancro ETS (AIRC)/
+GR  - AIRC 5×1000 21091/Fondazione AIRC per la ricerca sul cancro ETS (AIRC)/
+GR  - Next generation EU,PE8 Project Age-It/European Commission (EC)/
+GR  - Next generation EU,PE8 Project Age-It/European Commission (EC)/
+GR  - Investment CN3 National Center for Gene Therapy and Drugs based on RNA 
+      Technology/European Commission (EC)/
+GR  - NEXTGENERATIONEU/European Commission (EC)/
+GR  - DSB.AD004.294/POR FESR InterSLA/
+GR  - EJPRD19-206 PROGERIA,GA 825575/Fondazione Regionale per la Ricerca Biomedica 
+      (Regione Lombardia)/
+PT  - Journal Article
+DEP - 20250921
+PL  - England
+TA  - EMBO J
+JT  - The EMBO journal
+JID - 8208664
+SB  - IM
+OTO - NOTNLM
+OT  - ASO
+OT  - Aging
+OT  - Alzheimer’s disease (AD)
+OT  - DNA damage response (DDR)
+OT  - Telomeres
+COIS- Disclosure and competing interest statement. F.d’A.d.F. is an inventor on the 
+      patent applications RNA products and uses thereof (PCT/EP2013/ 059753) and 
+      therapeutic oligonucleotides (PCT/EP2016/068162). F.d’A.d.F. is a shareholder of 
+      TAG Therapeutics. The remaining authors declare no competing interests.
+EDAT- 2025/09/22 00:30
+MHDA- 2025/09/22 00:30
+CRDT- 2025/09/21 23:12
+PHST- 2024/11/18 00:00 [received]
+PHST- 2025/07/04 00:00 [accepted]
+PHST- 2025/07/01 00:00 [revised]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:30 [pubmed]
+PHST- 2025/09/21 23:12 [entrez]
+AID - 10.1038/s44318-025-00521-1 [pii]
+AID - 10.1038/s44318-025-00521-1 [doi]
+PST - aheadofprint
+SO  - EMBO J. 2025 Sep 21. doi: 10.1038/s44318-025-00521-1.

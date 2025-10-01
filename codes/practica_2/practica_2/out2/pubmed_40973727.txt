@@ -1,0 +1,140 @@
+PMID- 40973727
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250919
+LR  - 20250923
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 19
+TI  - Spindle-localized F-actin regulates polar MTOC organization and the fidelity of 
+      meiotic spindle formation.
+PG  - 8323
+LID - 10.1038/s41467-025-63586-w [doi]
+LID - 8323
+AB  - Mammalian oocytes are notoriously prone to chromosome segregation errors leading 
+      to aneuploidy. The spindle provides the machinery for accurate chromosome 
+      segregation during cell division. Mammalian oocytes lack centrioles and, 
+      therefore, mouse meiotic spindle relies on the organization of numerous 
+      acentriolar microtubule organizing centers into two poles (polar microtubule 
+      organizing centers, pMTOCs). The traditional view is that, in mammalian oocytes, 
+      microtubules are the sole cytoskeletal component responsible for regulating pMTOC 
+      organization and spindle assembly. We identify a previously unrecognized F-actin 
+      pool that surrounds pMTOCs, forming F-actin cage-like structure. We demonstrate 
+      that F-actin localization on the spindle depends on unconventional myosins X and 
+      VIIb. Selective disruption of spindle-localized F-actin, using myosin X/VIIb 
+      knockdown oocytes or photoswitchable Optojasp-1, perturbs pMTOC organization, 
+      leading to unfocused spindle poles and chromosome missegregation. Here, we unveil 
+      an important function of spindle-localized F-actin in regulating pMTOC 
+      organization, a critical process for ensuring the fidelity of meiotic spindle 
+      formation and proper chromosome segregation.
+CI  - © 2025. The Author(s).
+FAU - Soto-Moreno, Edgar J
+AU  - Soto-Moreno EJ
+AD  - Division of Animal Sciences, University of Missouri, Columbia, MO, USA.
+FAU - Ali, Nourhan N
+AU  - Ali NN
+AD  - Division of Animal Sciences, University of Missouri, Columbia, MO, USA.
+FAU - Küllmer, Florian
+AU  - Küllmer F
+AUID- ORCID: 0000-0002-0671-1546
+AD  - Friedrich-Schiller-Universität (FSU), Institut für Organische Chemie und 
+      Makromolekulare Chemie, Jena, Germany.
+FAU - Nasufovic, Veselin
+AU  - Nasufovic V
+AUID- ORCID: 0000-0001-6812-637X
+AD  - Friedrich-Schiller-Universität (FSU), Institut für Organische Chemie und 
+      Makromolekulare Chemie, Jena, Germany.
+FAU - Frolikova, Michaela
+AU  - Frolikova M
+AUID- ORCID: 0000-0002-9834-8405
+AD  - Laboratory of Reproductive Biology, Institute of Biotechnology of the Czech 
+      Academy of Sciences, BIOCEV, Vestec, Czech Republic.
+FAU - Tepla, Olga
+AU  - Tepla O
+AD  - Laboratory of Reproductive Biology, Institute of Biotechnology of the Czech 
+      Academy of Sciences, BIOCEV, Vestec, Czech Republic.
+AD  - Department of Gynaecology, Obstetrics and Neonatology, First Faculty of Medicine, 
+      Charles University and General University Hospital in Prague, Prague, Czech 
+      Republic.
+FAU - Masata, Jaromir
+AU  - Masata J
+AD  - Department of Gynaecology, Obstetrics and Neonatology, First Faculty of Medicine, 
+      Charles University and General University Hospital in Prague, Prague, Czech 
+      Republic.
+FAU - Trauner, Dirk
+AU  - Trauner D
+AUID- ORCID: 0000-0002-6782-6056
+AD  - Department of Chemistry, University of Pennsylvania, Philadelphia, PA, USA.
+FAU - Patterson, Amanda A
+AU  - Patterson AA
+AD  - Division of Animal Sciences, University of Missouri, Columbia, MO, USA.
+FAU - Arndt, Hans-Dieter
+AU  - Arndt HD
+AUID- ORCID: 0000-0002-0792-1422
+AD  - Friedrich-Schiller-Universität (FSU), Institut für Organische Chemie und 
+      Makromolekulare Chemie, Jena, Germany.
+FAU - Komrskova, Katerina
+AU  - Komrskova K
+AUID- ORCID: 0000-0002-6837-2148
+AD  - Laboratory of Reproductive Biology, Institute of Biotechnology of the Czech 
+      Academy of Sciences, BIOCEV, Vestec, Czech Republic.
+AD  - Department of Zoology, Faculty of Science, Charles University, Prague, Czech 
+      Republic.
+FAU - Zernicka-Goetz, Magdalena
+AU  - Zernicka-Goetz M
+AUID- ORCID: 0000-0002-7004-2471
+AD  - Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA, USA.
+FAU - Glover, David M
+AU  - Glover DM
+AUID- ORCID: 0000-0003-0956-0103
+AD  - Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA, USA.
+FAU - Balboula, Ahmed Z
+AU  - Balboula AZ
+AUID- ORCID: 0000-0001-9663-6262
+AD  - Division of Animal Sciences, University of Missouri, Columbia, MO, USA. 
+      abalboula@missouri.edu.
+LA  - eng
+GR  - R35 GM142537/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Actins)
+RN  - EC 3.6.4.1 (Myosins)
+SB  - IM
+UOF - bioRxiv. 2025 May 11:2025.05.07.652730. doi: 10.1101/2025.05.07.652730. PMID: 
+      40654736
+MH  - Animals
+MH  - *Actins/metabolism
+MH  - Mice
+MH  - *Meiosis/physiology
+MH  - Chromosome Segregation
+MH  - *Spindle Apparatus/metabolism
+MH  - *Oocytes/metabolism/cytology
+MH  - *Microtubule-Organizing Center/metabolism
+MH  - Female
+MH  - Myosins/metabolism/genetics
+MH  - Microtubules/metabolism
+PMC - PMC12449456
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:33
+PMCR- 2025/09/19
+CRDT- 2025/09/19 23:27
+PHST- 2024/12/19 00:00 [received]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2025/09/20 00:33 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:27 [entrez]
+PHST- 2025/09/19 00:00 [pmc-release]
+AID - 10.1038/s41467-025-63586-w [pii]
+AID - 63586 [pii]
+AID - 10.1038/s41467-025-63586-w [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 19;16(1):8323. doi: 10.1038/s41467-025-63586-w.

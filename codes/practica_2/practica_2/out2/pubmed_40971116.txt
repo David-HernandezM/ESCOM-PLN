@@ -1,0 +1,130 @@
+PMID- 40971116
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2509-2723 (Electronic)
+IS  - 2509-2723 (Linking)
+DP  - 2025 Sep 19
+TI  - Association between periodontal disease and intrinsic capacity in older adults: 
+      insights from NHANES 2009-2014.
+LID - 10.1007/s11357-025-01884-3 [doi]
+AB  - Periodontal disease (PD) is a chronic inflammatory condition linked to systemic 
+      health issues, yet its relationship with intrinsic capacity (IC)-a key 
+      determinant of healthy aging-remained underexplored. The present study 
+      investigated the associations between moderate/severe PD and IC domains in older 
+      adults in a cross-sectional analysis from the National Health and Nutrition 
+      Examination Survey (NHANES) 2009-2014. From the 30,468 NHANES subjects, we 
+      included participants aged ≥ 60 years with available PD and IC data. IC was 
+      assessed across five domains: locomotion, cognition, psychological well-being 
+      (depressive symptoms/anhedonia), sensory function (vision/hearing), and vitality 
+      (nutrition/weight loss). PD was classified as moderate or severe using CDC/AAP 
+      criteria. After applying exclusion criteria, 551 participants were included in 
+      the analyses. The prevalence of PD was 68.97% (moderate PD:51.91%/severe 
+      PD:15.06%). Severe PD was associated with reduced locomotion [odds 
+      ratio(OR):2.30, 95% confidence interval(CI):1.27-4.16), impaired psychological 
+      well-being (depressive symptoms) (OR:1.79, 95%CI:1.01-3.16), and sensory function 
+      (vision) (OR:2.37, 95%CI:1.24-4.56), while moderate PD was linked to reduced 
+      locomotion (OR:1.66, 95%CI:1.06-2.66) and impaired sensory function (hearing) 
+      (OR:1.93, 95%CI:1.04-3.75). Higher mean clinical attachment loss and probing 
+      pocket depth (PPD) were associated with reduced locomotion (OR:1.15, 
+      95%CI:1.00-1.31 and OR:1.35, 95%CI:1.05-1.73, respectively). Mediation analysis 
+      indicated that multimorbidity had minimal influence on these associations, except 
+      for stroke, accounting for 13.3% of the relationship between mean PPD and 
+      locomotion. The present findings highlighted the potential role of periodontal 
+      health in maintaining overall functional capacity in older adults, underscoring 
+      the need for integrated oral and systemic health strategies in aging populations.
+CI  - © 2025. The Author(s), under exclusive licence to American Aging Association.
+FAU - Dibello, Vittorio
+AU  - Dibello V
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy. vittoriodibello1@gmail.com.
+AD  - Department of Orofacial Pain and Dysfunction, Academic Centre for Dentistry 
+      Amsterdam (ACTA), University of Amsterdam and Vrije Universiteit Amsterdam, 
+      Amsterdam, The Netherlands. vittoriodibello1@gmail.com.
+FAU - Quarto, Silvano
+AU  - Quarto S
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy.
+FAU - Cavalcanti, Raffaele
+AU  - Cavalcanti R
+AD  - Campus Biomedico University, Rome, Italy.
+FAU - Custodero, Carlo
+AU  - Custodero C
+AD  - Department of Precision and Regenerative Medicine and Ionian Area (DiMePrev-J), 
+      Clinica Medica A. Murri, University of Bari Aldo Moro, Bari, Italy.
+FAU - Chiapparino, Claudia
+AU  - Chiapparino C
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy.
+FAU - Lozupone, Madia
+AU  - Lozupone M
+AD  - Department of Translational Biomedicine and Neuroscience "DiBrain", University of 
+      Bari Aldo Moro, Bari, Italy.
+FAU - Lafornara, Domenico
+AU  - Lafornara D
+AD  - Division of Diagnostic Imaging, Department of Surgical and Biomedical Sciences, 
+      Santa Maria Della Misericordia Hospital, University of Perugia, Perugia, Italy.
+FAU - Castellana, Fabio
+AU  - Castellana F
+AD  - Department of Interdisciplinary Medicine (DIM), University of Bari Aldo Moro, 
+      Piazza Giulio Cesare 11, 70100, Bari, Italy.
+FAU - Zupo, Roberta
+AU  - Zupo R
+AD  - Department of Interdisciplinary Medicine (DIM), University of Bari Aldo Moro, 
+      Piazza Giulio Cesare 11, 70100, Bari, Italy.
+FAU - Pistoia, Giuseppe
+AU  - Pistoia G
+AD  - Local Healthcare Authority of Bari, Bari, Italy.
+FAU - Dibello, Antonio
+AU  - Dibello A
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy.
+FAU - Daniele, Antonio
+AU  - Daniele A
+AD  - Department of Neuroscience, Catholic University of Sacred Heart, Rome, Italy.
+AD  - Neurology Unit, IRCCS Fondazione Policlinico Universitario A. Gemelli, Rome, 
+      Italy.
+FAU - Panza, Francesco
+AU  - Panza F
+AUID- ORCID: 0000-0002-7220-0656
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy. f_panza@hotmail.com.
+FAU - Solfrizzi, Vincenzo
+AU  - Solfrizzi V
+AUID- ORCID: 0000-0002-9880-0481
+AD  - Cesare Frugoni Internal and Geriatric Medicine and Memory Unit, University of 
+      Bari Aldo Moro, Bari, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - Switzerland
+TA  - Geroscience
+JT  - GeroScience
+JID - 101686284
+SB  - IM
+OTO - NOTNLM
+OT  - Cognition
+OT  - Depression
+OT  - Hearing
+OT  - Intrinsic capacity
+OT  - Locomotion
+OT  - Nutrition
+OT  - Periodontal disease
+OT  - Psychological well-being
+OT  - Sensory function
+OT  - Vision
+OT  - Vitality
+OT  - Weight loss
+COIS- Declarations. Conflict of interest: None reported.
+EDAT- 2025/09/19 12:51
+MHDA- 2025/09/19 12:51
+CRDT- 2025/09/19 11:24
+PHST- 2025/05/25 00:00 [received]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/19 12:51 [medline]
+PHST- 2025/09/19 12:51 [pubmed]
+PHST- 2025/09/19 11:24 [entrez]
+AID - 10.1007/s11357-025-01884-3 [pii]
+AID - 10.1007/s11357-025-01884-3 [doi]
+PST - aheadofprint
+SO  - Geroscience. 2025 Sep 19. doi: 10.1007/s11357-025-01884-3.

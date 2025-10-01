@@ -1,0 +1,124 @@
+PMID- 40977978
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2296-861X (Print)
+IS  - 2296-861X (Electronic)
+IS  - 2296-861X (Linking)
+VI  - 12
+DP  - 2025
+TI  - Advanced lung cancer inflammation index as a new predictor for colon cancer in 
+      elderly patients: an NHANES-based study.
+PG  - 1642913
+LID - 10.3389/fnut.2025.1642913 [doi]
+LID - 1642913
+AB  - BACKGROUND: Nutritional and inflammatory status have both been implicated in 
+      colon cancer risk. The advanced lung cancer inflammation index (ALI) is a 
+      composite prognostic index that incorporates body mass index (BMI), serum 
+      albumin, and neutrophil-to-lymphocyte ratio (NLR), reflecting both nutritional 
+      and systemic inflammatory states. However, its role in predicting colon cancer 
+      prevalence in elderly individuals remains unclear. METHODS: We used the ALI as a 
+      composite marker reflecting both inflammation status and nutritional health. The 
+      ALI is calculated as BMI × serum albumin/NLR, where higher values indicate better 
+      nutritional status and lower systemic inflammation. To evaluate the association 
+      between ALI and colon cancer prevalence, we conducted multivariate logistic 
+      regression, applied an Extreme Gradient Boosting (XGBoost) machine learning 
+      model, and performed subgroup analyses. Additionally, a smoothed two-piece 
+      logistic regression model was used to identify the ALI threshold predictive of 
+      colon cancer. RESULTS: The study included 10,137 elderly participants, with a 
+      colon cancer prevalence of 2.45%. The ALI was significantly lower in the colon 
+      cancer group compared to those without (p < 0.001). Multivariable logistic 
+      regression revealed a significant inverse association between ALI and colon 
+      cancer (p < 0.05), with individuals in the highest ALI tertile experiencing a 67% 
+      lower risk compared to those in the lowest tertile (p for trend = 0.008). 
+      Generalized additive models showed a linear relationship, identifying an 
+      inflection point at 4.73 and a predictive threshold of 113.3. Sensitivity 
+      analyses confirmed the robustness of these findings, particularly among 
+      individuals aged over 70 years, females, unmarried individuals, alcohol 
+      consumers, and those with a BMI below 30. In the XGBoost model, ALI demonstrated 
+      the highest predictive value for colon cancer (AUC = 0.717), outperforming 
+      traditional demographic and clinical variables such as age and BMI. Furthermore, 
+      ALI showed a positive association with dietary health status (p < 0.05) but was 
+      not significantly related to bowel habits. CONCLUSION: This study demonstrated 
+      that ALI, a nutritional-inflammation prognostic index, is significantly and 
+      inversely associated with the risk of colon cancer in older adults. Thus, ALI may 
+      serve as a promising, non-invasive biomarker for risk stratification, 
+      particularly among high-risk subgroups such as unmarried females, alcohol 
+      consumers, and those with lower BMI. Its strong predictive value, confirmed by 
+      machine learning, supports its potential role in personalized prevention. Further 
+      studies are required to explore underlying mechanisms, including dietary and 
+      microbial factors.
+CI  - Copyright © 2025 Zhong, Chen, Wu, Liu, Fan, Liu, Lin, Wan and He.
+FAU - Zhong, Hangyan
+AU  - Zhong H
+AD  - Laboratory of General Surgery, The First Affiliated Hospital, Sun Yat-Sen 
+      University, Guangzhou, China.
+AD  - Department of Proctology, Shanghang Hospital of Traditional Chinese Medicine, 
+      Longyan, Fujian Province, China.
+FAU - Chen, Yisheng
+AU  - Chen Y
+AD  - Department of Neurology, Shanghang County Hospital, Longyan, Fujian Province, 
+      China.
+FAU - Wu, Weigen
+AU  - Wu W
+AD  - Laboratory of General Surgery, The First Affiliated Hospital, Sun Yat-Sen 
+      University, Guangzhou, China.
+AD  - Center of Hepato-Pancreato-Biliary Surgery, The First Affiliated Hospital, Sun 
+      Yat-sen University, Guangzhou, China.
+FAU - Liu, Suhua
+AU  - Liu S
+AD  - Department of Neurology, Shanghang County Hospital, Longyan, Fujian Province, 
+      China.
+FAU - Fan, Youlong
+AU  - Fan Y
+AD  - Department of Internal Medicine, Shanghang Hospital of Traditional Chinese 
+      Medicine, Longyan, Fujian Province, China.
+FAU - Liu, Haiqin
+AU  - Liu H
+AD  - Department of Internal Medicine, Shanghai Seventh People's Hospital, Shanghai, 
+      China.
+FAU - Lin, Rongqi
+AU  - Lin R
+AD  - Department of Pharmacy, Shanghang County Hospital, Longyan, Fujian Province, 
+      China.
+FAU - Wan, Junjie
+AU  - Wan J
+AD  - National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+      Hospital and Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking 
+      Union Medical College, Shenzhen, China.
+FAU - He, Meifang
+AU  - He M
+AD  - Laboratory of General Surgery, The First Affiliated Hospital, Sun Yat-Sen 
+      University, Guangzhou, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250904
+PL  - Switzerland
+TA  - Front Nutr
+JT  - Frontiers in nutrition
+JID - 101642264
+PMC - PMC12445050
+OTO - NOTNLM
+OT  - NHANES
+OT  - colon cancer
+OT  - inflammation
+OT  - inflammation index of advanced cancer
+OT  - nutrition
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/09/22 12:46
+MHDA- 2025/09/22 12:47
+PMCR- 2025/09/04
+CRDT- 2025/09/22 07:41
+PHST- 2025/06/07 00:00 [received]
+PHST- 2025/08/11 00:00 [accepted]
+PHST- 2025/09/22 12:47 [medline]
+PHST- 2025/09/22 12:46 [pubmed]
+PHST- 2025/09/22 07:41 [entrez]
+PHST- 2025/09/04 00:00 [pmc-release]
+AID - 10.3389/fnut.2025.1642913 [doi]
+PST - epublish
+SO  - Front Nutr. 2025 Sep 4;12:1642913. doi: 10.3389/fnut.2025.1642913. eCollection 
+      2025.

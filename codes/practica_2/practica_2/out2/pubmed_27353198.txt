@@ -1,0 +1,148 @@
+PMID- 27353198
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180212
+LR  - 20220408
+IS  - 1464-3685 (Electronic)
+IS  - 0300-5771 (Linking)
+VI  - 45
+IP  - 6
+DP  - 2016 Dec 1
+TI  - Acetaminophen use in pregnancy and neurodevelopment: attention function and 
+      autism spectrum symptoms.
+PG  - 1987-1996
+LID - 10.1093/ije/dyw115 [doi]
+AB  - BACKGROUND: Acetaminophen is extensively used during pregnancy. But there is a 
+      lack of population-representative cohort studies evaluating its effects on a 
+      range of neuropsychological and behavioural endpoints. We aimed to assess whether 
+      prenatal exposure to acetaminophen is adversely associated with 
+      neurodevelopmental outcomes at 1 and 5 years of age. METHODS: This Spanish birth 
+      cohort study included 2644 mother-child pairs recruited during pregnancy. The 
+      proportion of liveborn participants evaluated at 1 and 5 years was 88.8% and 
+      79.9%, respectively. Use of acetaminophen was evaluated prospectively in two 
+      structured interviews. Ever/never use and frequency of use (never, sporadic, 
+      persistent) were measured. Main neurodevelopment outcomes were assessed using 
+      Childhood Autism Spectrum Test (CAST), Conner's Kiddie Continuous Performance 
+      Test (K-CPT) and ADHD-DSM-IV form list. Regression models were adjusted for 
+      social determinants and co-morbidities. RESULTS: Over 40% of mothers reported 
+      using acetaminophen. Ever-exposed offspring had higher risks of presenting more 
+      hyperactivity/impulsivity symptoms [incidence rate ratio (IRR) = 1.41, 95% 
+      confidence interval (CI) 1.01-1.98), K-CPT commission errors (IRR = 1.10, 
+      1.03-1.17), and lower detectability scores (coefficient β = -0.75, -0.13--0.02). 
+      CAST scores were increased in ever-exposed males (β = 0.63, 0.09-1.18). Increased 
+      effect sizes of risks by frequency of use were observed for 
+      hyperactivity/impulsivity symptoms (IRR = 2.01, 0.95-4.24) in all children, K-CPT 
+      commission errors (IRR = 1.32, 1.05-1.66) and detectability (β = -0.18, 
+      -0.36-0.00) in females, and CAST scores in males (β = 1.91, 0.44-3.38). 
+      CONCLUSIONS: Prenatal acetaminophen exposure was associated with a greater number 
+      of autism spectrum symptoms in males and showed adverse effects on 
+      attention-related outcomes for both genders. These associations seem to be 
+      dependent on the frequency of exposure.
+CI  - © The Author 2016; all rights reserved. Published by Oxford University Press on 
+      behalf of the International Epidemiological Association
+FAU - Avella-Garcia, Claudia B
+AU  - Avella-Garcia CB
+AD  - Center for Research in Environmental Epidemiology (CREAL).
+AD  - Unitat Docent de Medicina Preventiva i Salut Publica H. Mar-UPF-ASPB.
+AD  - IMIM (Hospital del Mar Medical Research Institute).
+AD  - Universitat Pompeu Fabra (UPF).
+AD  - Universitat Autònoma de Barcelona, Barcelona, Spain.
+FAU - Julvez, Jordi
+AU  - Julvez J
+AD  - Center for Research in Environmental Epidemiology (CREAL).
+AD  - IMIM (Hospital del Mar Medical Research Institute).
+AD  - CIBER Epidemiología y Salud Pública (CIBERESP), Spain.
+FAU - Fortuny, Joan
+AU  - Fortuny J
+AD  - RTI Health Solutions, Barcelona, Spain.
+FAU - Rebordosa, Cristina
+AU  - Rebordosa C
+AD  - RTI Health Solutions, Barcelona, Spain.
+FAU - García-Esteban, Raquel
+AU  - García-Esteban R
+AD  - Center for Research in Environmental Epidemiology (CREAL).
+AD  - IMIM (Hospital del Mar Medical Research Institute).
+AD  - CIBER Epidemiología y Salud Pública (CIBERESP), Spain.
+FAU - Galán, Isolina Riaño
+AU  - Galán IR
+AD  - Servicio de Pediatria, Hospital San Agustin, Aviles Asturias, Spain.
+FAU - Tardón, Adonina
+AU  - Tardón A
+AD  - CIBER Epidemiología y Salud Pública (CIBERESP), Spain.
+AD  - Public Health Department, University of Oviedo, Oviedo, Spain.
+FAU - Rodríguez-Bernal, Clara L
+AU  - Rodríguez-Bernal CL
+AD  - Environment and Health Area, CSISP-FISABIO-REDISSEC, Valencia, Spain.
+FAU - Iñiguez, Carmen
+AU  - Iñiguez C
+AD  - Environment and Health Area, CSISP-FISABIO-REDISSEC, Valencia, Spain.
+FAU - Andiarena, Ainara
+AU  - Andiarena A
+AD  - Basic Psychological Processes and Development Department, Faculty of Psychology, 
+      University of the Basque Country, Gipuzkoa.
+AD  - Health Research Institute, Biodonostia, San Sebastián, Spain.
+FAU - Santa-Marina, Loreto
+AU  - Santa-Marina L
+AD  - CIBER Epidemiología y Salud Pública (CIBERESP), Spain.
+AD  - Health Research Institute, Biodonostia, San Sebastián, Spain.
+AD  - Public Health Division of Gipuzkoa, Gipuzkoa, Basque Government, Spain.
+FAU - Sunyer, Jordi
+AU  - Sunyer J
+AD  - Center for Research in Environmental Epidemiology (CREAL).
+AD  - IMIM (Hospital del Mar Medical Research Institute).
+AD  - Universitat Pompeu Fabra (UPF).
+AD  - Universitat Autònoma de Barcelona, Barcelona, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Int J Epidemiol
+JT  - International journal of epidemiology
+JID - 7802871
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CIN - Int J Epidemiol. 2016 Dec 1;45(6):1996-1997. doi: 10.1093/ije/dyw169. PMID: 
+      27401730
+CIN - Int J Epidemiol. 2017 Jun 1;46(3):1079-1080. doi: 10.1093/ije/dyx049. PMID: 
+      28402424
+CIN - Int J Epidemiol. 2017 Jun 1;46(3):1077-1079. doi: 10.1093/ije/dyx048. PMID: 
+      28402483
+MH  - Acetaminophen/*adverse effects
+MH  - Adult
+MH  - Analgesics, Non-Narcotic/*adverse effects
+MH  - Attention
+MH  - Autism Spectrum Disorder/*chemically induced/epidemiology
+MH  - *Child Development
+MH  - Child, Preschool
+MH  - Cohort Studies
+MH  - Diagnostic and Statistical Manual of Mental Disorders
+MH  - Female
+MH  - Humans
+MH  - Impulsive Behavior
+MH  - Male
+MH  - Multivariate Analysis
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/*chemically induced/epidemiology
+MH  - Psychiatric Status Rating Scales
+MH  - Regression Analysis
+MH  - Sex Factors
+MH  - Spain
+OTO - NOTNLM
+OT  - Acetaminophen
+OT  - attention function
+OT  - autism spectrum symptoms
+OT  - neurodevelopment
+OT  - paracetamol
+OT  - pregnancy
+EDAT- 2016/06/30 06:00
+MHDA- 2018/02/13 06:00
+CRDT- 2016/06/30 06:00
+PHST- 2016/04/13 00:00 [accepted]
+PHST- 2016/06/30 06:00 [pubmed]
+PHST- 2018/02/13 06:00 [medline]
+PHST- 2016/06/30 06:00 [entrez]
+AID - dyw115 [pii]
+AID - 10.1093/ije/dyw115 [doi]
+PST - ppublish
+SO  - Int J Epidemiol. 2016 Dec 1;45(6):1987-1996. doi: 10.1093/ije/dyw115.

@@ -1,0 +1,115 @@
+PMID- 33766112
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210328
+IS  - 2052-1847 (Print)
+IS  - 2052-1847 (Electronic)
+IS  - 2052-1847 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2021 Mar 25
+TI  - The influence of athletic performance on the highest positions of the final 
+      ranking during 2017/2018 Serie A season.
+PG  - 32
+LID - 10.1186/s13102-021-00259-3 [doi]
+LID - 32
+AB  - BACKGROUND: Our previous study on the 2016/2017 Serie A season showed that a 
+      greater likelihood of reaching the top positions in the Italian league "Serie A" 
+      seemed to be mainly related to sprint activity, goal attempts, total throws, 
+      target shots and assists. Therefore, we aim to evaluate the following season data 
+      in the same league to compare, confirm, and improve these results. METHODS: The 
+      data of all the matches played during the "Serie A" 2017-2018 season were 
+      obtained from the Italian soccer league. The teams' analysis was performed in 
+      terms of total distance covered in km, jogging, running and sprint activities, 
+      average speed, and match statistics (total shots, shots on target, goal attempts, 
+      assists, turnovers, and steals). RESULTS: Teams that reached the first four 
+      positions revealed a lower percentage of running (65.98 ± 1.51 vs. 66.84 ± 2.18; 
+      p < 0.001), a higher percentage of jogging (25.61 ± 1.71 vs. 25.30 ± 1.97; 
+      p = 0.037) and sprint activities (8.41 ± 1.04 vs. 7.86 ± 0.82; p < 0.001). Match 
+      statistics seem to be statistically different between the first four teams the 
+      other teams. The total goals are strongly associated both with the total score at 
+      the end of the championship (R = 0.906; p < 0.001) and with the position in the 
+      final ranking (R = 0.850; p < 0.001). CONCLUSIONS: Our results suggest that 
+      high-level teams have a lower running rate and a higher percentage of jogging and 
+      sprinting than other teams.
+FAU - Longo, Umile Giuseppe
+AU  - Longo UG
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. g.longo@unicampus.it.
+AD  - Centro Integrato di Ricerca (CIR), Campus Bio-Medico University, Rome, Italy. 
+      g.longo@unicampus.it.
+FAU - Sofi, Francesco
+AU  - Sofi F
+AD  - Department of Experimental and Clinical Medicine, University of Florence, 
+      Florence, Italy. francesco.sofi@unifi.it.
+AD  - Don Carlo Gnocchi Foundation, Onlus IRCCS, Florence, Italy. 
+      francesco.sofi@unifi.it.
+FAU - Candela, Vincenzo
+AU  - Candela V
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. v.candela@unicampus.it.
+FAU - Risi Ambrogioni, Laura
+AU  - Risi Ambrogioni L
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. 
+      laura.ambrogioni@gmail.com.
+FAU - Pagliai, Giuditta
+AU  - Pagliai G
+AD  - Department of Experimental and Clinical Medicine, University of Florence, 
+      Florence, Italy. giuditta.pagliai@gmail.com.
+FAU - Massaroni, Carlo
+AU  - Massaroni C
+AD  - Unit of Measurements and Biomedical Instrumentation, Department of Engineering, 
+      Campus Bio-Medico University, Rome, Italy. c.massaroni@unicampus.it.
+FAU - Schena, Emiliano
+AU  - Schena E
+AD  - Unit of Measurements and Biomedical Instrumentation, Department of Engineering, 
+      Campus Bio-Medico University, Rome, Italy. e.schena@unicampus.it.
+FAU - Cimmino, Matteo
+AU  - Cimmino M
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. cimmino.cbm@gmail.com.
+FAU - D'Ancona, Fabrizio
+AU  - D'Ancona F
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. dancona.cbm@gmail.com.
+FAU - Denaro, Vincenzo
+AU  - Denaro V
+AD  - Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, Via 
+      Alvaro del Portillo, 200, Trigoria,, 00128, Rome, Italy. denaro.cbm@gmail.com.
+AD  - Centro Integrato di Ricerca (CIR), Campus Bio-Medico University, Rome, Italy. 
+      denaro.cbm@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20210325
+PL  - England
+TA  - BMC Sports Sci Med Rehabil
+JT  - BMC sports science, medicine & rehabilitation
+JID - 101605016
+PMC - PMC7992946
+OTO - NOTNLM
+OT  - Elite football
+OT  - Football
+OT  - Match statistics
+OT  - Performance analysis
+OT  - Serie A
+OT  - Soccer
+OT  - Sport
+COIS- UGL is a member of the Editorial Board of BMC Musculoskeletal Disorders. The 
+      remaining authors declare that they have no conflict of interest.
+EDAT- 2021/03/27 06:00
+MHDA- 2021/03/27 06:01
+PMCR- 2021/03/25
+CRDT- 2021/03/26 05:48
+PHST- 2020/10/26 00:00 [received]
+PHST- 2021/03/15 00:00 [accepted]
+PHST- 2021/03/26 05:48 [entrez]
+PHST- 2021/03/27 06:00 [pubmed]
+PHST- 2021/03/27 06:01 [medline]
+PHST- 2021/03/25 00:00 [pmc-release]
+AID - 10.1186/s13102-021-00259-3 [pii]
+AID - 259 [pii]
+AID - 10.1186/s13102-021-00259-3 [doi]
+PST - epublish
+SO  - BMC Sports Sci Med Rehabil. 2021 Mar 25;13(1):32. doi: 
+      10.1186/s13102-021-00259-3.

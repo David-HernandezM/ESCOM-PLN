@@ -1,0 +1,108 @@
+PMID- 30325529
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200615
+LR  - 20200615
+IS  - 1651-2227 (Electronic)
+IS  - 0803-5253 (Linking)
+VI  - 108
+IP  - 3
+DP  - 2019 Mar
+TI  - Follow-up study of the early, randomised paracetamol trial to preterm infants, 
+      found no adverse reactions at the two-years corrected age.
+PG  - 452-458
+LID - 10.1111/apa.14614 [doi]
+AB  - AIM: We examined the long-term outcomes and safety of early intravenous 
+      paracetamol for ductus arteriosus closure at a corrected age of two years. 
+      METHODS: This was a follow-up of the 2013-2014 randomised, double-blind Preterm 
+      Infant's Paracetamol Study at Oulu University Hospital, Finland, which recruited 
+      48 very preterm infants within 24 hours of birth. They received intravenous 
+      paracetamol or a placebo for four days. In 2015-2017, we followed up 44 infants 
+      (92%) at two years of corrected age. This included clinical and 
+      neurodevelopmental assessments and a parental medical history questionnaire. 
+      RESULTS: The 44 infants (55% boys) were born at 23(5) -31(6) weeks of gestation. 
+      No differences in the cardiac parameters, including blood pressures and 
+      ultrasound scan results, were found. Neurodevelopmental stages, as quantified by 
+      the Griffiths test, were similar. No signs of autism were reported. Asthma 
+      medication was more common in the control group, but the difference was not 
+      significant. Atopy scores, numbers of infections and the use of public health 
+      services were similar between the two groups. CONCLUSION: No long-term adverse 
+      reactions of early intravenous paracetamol were detected two years later. Larger 
+      trials are needed on the safety and efficacy of paracetamol prophylaxis for early 
+      ductal closure in very preterm infants.
+CI  - ©2018 Foundation Acta Paediatrica. Published by John Wiley & Sons Ltd.
+FAU - Juujärvi, S
+AU  - Juujärvi S
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Kallankari, H
+AU  - Kallankari H
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Pätsi, P
+AU  - Pätsi P
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Leskinen, M
+AU  - Leskinen M
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Saarela, T
+AU  - Saarela T
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Hallman, M
+AU  - Hallman M
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+FAU - Aikio, O
+AU  - Aikio O
+AUID- ORCID: 0000-0001-8267-8621
+AD  - PEDEGO Research Center and MRC Oulu, University of Oulu, Oulu, Finland.
+AD  - Department of Children and Adolescents, Oulu University Hospital, Oulu, Finland.
+LA  - eng
+GR  - Finnish Medical Foundation/International
+GR  - Foundation for Pediatric Research/International
+GR  - Alma and K.A. Snellman Foundation/International
+GR  - Sigrid Jusélius Foundation/International
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181112
+PL  - Norway
+TA  - Acta Paediatr
+JT  - Acta paediatrica (Oslo, Norway : 1992)
+JID - 9205968
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 362O9ITL9D (Acetaminophen)
+SB  - IM
+CIN - Acta Paediatr. 2019 Mar;108(3):459. doi: 10.1111/apa.14637. PMID: 30415510
+MH  - Acetaminophen/*adverse effects
+MH  - Administration, Intravenous
+MH  - Analgesics, Non-Narcotic/*adverse effects
+MH  - Child, Preschool
+MH  - Double-Blind Method
+MH  - Ductus Arteriosus, Patent/*drug therapy
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Infant, Premature
+OTO - NOTNLM
+OT  - Acetaminophen
+OT  - Asthma
+OT  - Neurodevelopment
+OT  - Patent ductus arteriosus
+OT  - Premature infant
+EDAT- 2018/10/17 06:00
+MHDA- 2020/06/17 06:00
+CRDT- 2018/10/17 06:00
+PHST- 2018/09/14 00:00 [received]
+PHST- 2018/10/02 00:00 [revised]
+PHST- 2018/10/11 00:00 [accepted]
+PHST- 2018/10/17 06:00 [pubmed]
+PHST- 2020/06/17 06:00 [medline]
+PHST- 2018/10/17 06:00 [entrez]
+AID - 10.1111/apa.14614 [doi]
+PST - ppublish
+SO  - Acta Paediatr. 2019 Mar;108(3):452-458. doi: 10.1111/apa.14614. Epub 2018 Nov 12.

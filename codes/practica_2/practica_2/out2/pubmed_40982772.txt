@@ -1,0 +1,115 @@
+PMID- 40982772
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1526-632X (Electronic)
+IS  - 0028-3878 (Linking)
+VI  - 105
+IP  - 8
+DP  - 2025 Oct 21
+TI  - Intrinsic Capacity Defined Using 4 Domains, Genetic Risk, and Incident Parkinson 
+      Disease: A Prospective Cohort Study.
+PG  - e214144
+LID - 10.1212/WNL.0000000000214144 [doi]
+AB  - BACKGROUND AND OBJECTIVES: Intrinsic capacity (IC), a World Health 
+      Organization-defined measure of healthy aging, has been linked to several 
+      neurologic disorders but has not been extrapolated to Parkinson disease (PD). The 
+      study aimed to explore the association between IC and incident PD and whether 
+      genetic risk modulated this association. METHODS: This longitudinal analysis used 
+      data from the UK Biobank, a prospective cohort study designed to investigate the 
+      impact of genetic and environmental factors on health outcomes. Participants were 
+      voluntarily recruited from 22 assessment centers across the United Kingdom 
+      between 2006 and 2010. Individuals with IC component data and without 
+      pre-existing PD or dementia at baseline were included. The IC deficit score was 
+      derived from 4 domains: psychological (exhaustion and sleep duration), sensory 
+      (visual and hearing impairments), vitality (grip strength and weight loss), and 
+      locomotor function (walking speed), while the cognitive domain was not assessed. 
+      Genetic risk was estimated by polygenic risk score, and incident PD was 
+      identified using an algorithm. Cox proportional hazard models were used to 
+      calculate the hazard ratios (HRs) and 95% CIs. RESULTS: Of the 401,791 
+      participants (mean age [SD], 56.6 [8.0] years; 53.8% female) included, 2,763 
+      (0.69%) developed PD during a median follow-up of 12.3 years. The HR (95% CI) for 
+      incident PD was 1.82 (1.50-2.20) in individuals with IC deficit scores of 4+ 
+      compared with those with 0. Each 1-point increment in IC deficit was associated 
+      with a 16% (95% CI 12%-20%) increased risk of PD. Low IC was associated with a 
+      68% (95% CI 48%-91%) higher risk of incident PD. Individuals with low IC and high 
+      genetic risk were at the highest PD risk (HR = 3.01; 95% CI 2.40-3.78). High 
+      genetic risk attenuated the protective role of high IC (HR [95% CI]: 0.45 
+      [0.35-0.58] in low risk vs 0.72 [0.59-0.88] in high risk; P for interaction = 
+      0.002), but high IC was still associated with a diminished risk of PD in the 
+      high-risk group. DISCUSSION: High IC was associated with a decreased risk of PD, 
+      even in genetically high-risk individuals. The absence of the cognitive domain 
+      may limit understanding of the association.
+FAU - Hu, Wei
+AU  - Hu W
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Tian, Ge
+AU  - Tian G
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Wang, Jia-Ning
+AU  - Wang JN
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Ma, Yu-Bin
+AU  - Ma YB
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Zheng, Zi-Ang
+AU  - Zheng ZA
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Feng, Tong-Jie
+AU  - Feng TJ
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Niu, Xiao-Xin
+AU  - Niu XX
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Yan, Yi-Ning
+AU  - Yan YN
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Liu, Bao-Peng
+AU  - Liu BP
+AUID- ORCID: 0000-0003-1277-7397
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+FAU - Jia, Cun-Xian
+AU  - Jia CX
+AD  - From the Department of Epidemiology, School of Public Health, Cheeloo College of 
+      Medicine, Shandong University, Jinan, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+SB  - IM
+MH  - Humans
+MH  - *Parkinson Disease/genetics/epidemiology/physiopathology
+MH  - Female
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Aged
+MH  - United Kingdom/epidemiology
+MH  - Incidence
+MH  - *Genetic Predisposition to Disease
+MH  - Longitudinal Studies
+MH  - Cohort Studies
+MH  - Risk Factors
+EDAT- 2025/09/22 18:37
+MHDA- 2025/09/22 18:38
+CRDT- 2025/09/22 16:03
+PHST- 2025/09/22 18:38 [medline]
+PHST- 2025/09/22 18:37 [pubmed]
+PHST- 2025/09/22 16:03 [entrez]
+AID - 10.1212/WNL.0000000000214144 [doi]
+PST - ppublish
+SO  - Neurology. 2025 Oct 21;105(8):e214144. doi: 10.1212/WNL.0000000000214144. Epub 
+      2025 Sep 22.

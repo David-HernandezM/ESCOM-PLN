@@ -1,0 +1,85 @@
+PMID- 40974815
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1873-491X (Electronic)
+IS  - 0020-7489 (Linking)
+VI  - 172
+DP  - 2025 Sep 12
+TI  - Vulnerability and core intervention targets in the symptom burden for 
+      personalized symptom management in hemodialysis care: A computational simulation 
+      modeling study.
+PG  - 105210
+LID - S0020-7489(25)00220-2 [pii]
+LID - 10.1016/j.ijnurstu.2025.105210 [doi]
+AB  - BACKGROUND: End-stage kidney disease (ESKD) patients on hemodialysis (HD) endure 
+      a high symptom burden. Despite the clinical importance of symptom management, 
+      traditional methods fail to predict intervention effects or identify optimal 
+      targets due to limited consideration of symptom interactions. Computational 
+      simulations with symptom network analysis to identify core intervention targets 
+      for personalized care is needed. DESIGN: Computational simulated modeling study 
+      using cross-sectional observational data. SETTING: Across five regions of 
+      China-northern, southern, western, eastern, and central. PARTICIPANTS: A total of 
+      1866 hemodialysis patients participated in the study. METHODS: A combination of 
+      variable-centered and person-centered approaches was used to simplify the 
+      symptoms measured by real patient-reported data, followed by latent profile 
+      analysis to classify patients into symptom burden profiles. In silico 
+      interventions were performed using the NodeIdentifyR algorithm to simulate the 
+      effects of alleviating and aggravating interventions on the symptom network. 
+      RESULTS: Four symptom clusters were identified: uremic toxin, water-electrolyte, 
+      psychological, and gastrointestinal. Latent profile analysis revealed two 
+      distinct patient profiles: severe and mild symptom groups. Network analysis 
+      highlighted key symptoms such as pruritus, fatigue, anxiety, and easy awakening 
+      as central nodes. The in silico interventions in overall groups showed that 
+      alleviating interventions targeting easy awakening, fatigue and pruritus as core 
+      targets. Treating these may reduce the symptom burden by 10.25 %, 10.00 % and 
+      9.82 %. Aggravating interventions identified pruritus, dry skin and easy 
+      awakening as pivotal targets. Preventing the presence of these may separately 
+      reduce the symptom burden by 24.69 %, 23.05 % and 22.21 %. CONCLUSION: This study 
+      provides critical insights into the symptom burden of hemodialysis patients, 
+      offering potential targets for personalized care plans for nurses. The results of 
+      computational simulations, if go through further longitudinal study for 
+      verification, the study has potential to advance the development of more tailored 
+      and effective symptom management care approaches, which could enhance patient 
+      care and quality of life.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved.
+FAU - Zheng, Xutong
+AU  - Zheng X
+AD  - Department of Public Service, The First Affiliated Hospital of China Medical 
+      University, Shenyang, China. Electronic address: mmdzxt@outlook.com.
+FAU - Wang, Aiping
+AU  - Wang A
+AD  - Department of Public Service, The First Affiliated Hospital of China Medical 
+      University, Shenyang, China. Electronic address: aipingwang_cmu@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20250912
+PL  - England
+TA  - Int J Nurs Stud
+JT  - International journal of nursing studies
+JID - 0400675
+SB  - IM
+OTO - NOTNLM
+OT  - Computational simulated intervention
+OT  - Hemodialysis
+OT  - Intervention targets
+OT  - Latent profile analysis
+OT  - Network analysis
+OT  - Personalized care
+OT  - Symptom burden
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:06
+PHST- 2025/04/14 00:00 [received]
+PHST- 2025/08/28 00:00 [revised]
+PHST- 2025/09/05 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:06 [entrez]
+AID - S0020-7489(25)00220-2 [pii]
+AID - 10.1016/j.ijnurstu.2025.105210 [doi]
+PST - aheadofprint
+SO  - Int J Nurs Stud. 2025 Sep 12;172:105210. doi: 10.1016/j.ijnurstu.2025.105210.

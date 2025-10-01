@@ -1,0 +1,102 @@
+PMID- 40975041
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1618-095X (Electronic)
+IS  - 0944-7113 (Linking)
+VI  - 148
+DP  - 2025 Sep 15
+TI  - Atraric acid attenuates chronic intermittent hypoxia-induced brain injury via 
+      AMPK-mediated Nrf2 and FoxO3a antioxidant pathway activation.
+PG  - 157261
+LID - S0944-7113(25)00900-6 [pii]
+LID - 10.1016/j.phymed.2025.157261 [doi]
+AB  - BACKGROUND: Obstructive sleep apnea syndrome (OSAS), a chronic disorder affecting 
+      approximately 10 % of adults worldwide with heightened prevalence in males and 
+      obese populations, induces irreversible neurocognitive impairment. Atraric Acid 
+      (AA), a natural depside compound derived from lichens, exhibits dual functional 
+      properties through its molecular groups capable of free radical scavenging and 
+      metal chelation. However, its therapeutic potential in OSAS-related pathologies 
+      remains unexplored. OBJECTIVE: This study aims to investigate the neuroprotective 
+      effects and molecular mechanisms of AA against CIH-induced neuronal damage. 
+      METHODS: CIH mouse models and hypoxic injury models in HT22 neurons were 
+      established. AA was administered to mice at doses of 5, 10, and 20 mg/kg 
+      (selected based on literature references and preliminary experiments), and to 
+      cells at an optimal concentration of 20 μM (determined by CCK-8 assays). 
+      Therapeutic efficacy was evaluated through behavioral tests including the Morris 
+      Water Maze, Elevated Plus Maze, and Open Field Test. Neuroprotective effects were 
+      assessed via histopathological examination (e.g., neuronal survival in 
+      hippocampal CA3 and DG sub-regions) and detection of oxidative stress/ferroptosis 
+      markers (e.g., MDA levels, GPX4 expression, and related biomarkers). 
+      Transcriptomic sequencing and molecular docking analyses were employed to 
+      investigate differentially expressed genes, pathway enrichment, and underlying 
+      mechanisms. RESULTS: In vivo and in vitro experiments demonstrated that AA 
+      significantly alleviated neuronal damage in CIH mice and enhanced HT22 cell 
+      viability. AA down-regulated oxidative stress- and ferroptosis-related gene 
+      expression. Transcriptomic sequencing identified AMPK signaling as a key target. 
+      Combined AMPK inhibitor (Compound C) and nuclear-cytoplasmic fractionation 
+      experiments confirmed that AA synergistically regulates dual antioxidant pathways 
+      (Nrf2/HO-1 and FoxO3a/SOD2) via AMPK activation. CONCLUSION: AA mitigates 
+      CIH-induced neurocognitive impairment by AMPK-dependent activation of the 
+      Nrf2/HO-1 and FoxO3a/SOD2 axes, establishing a dual antioxidant-ferroptosis 
+      defense barrier. This study is the first to systematically elucidate AA's 
+      molecular mechanisms using transcriptomics data integrated with computational 
+      simulations, providing novel therapeutic targets and a translational paradigm for 
+      developing natural compound-based therapies for OSAS.
+CI  - Copyright © 2025 Elsevier GmbH. All rights reserved.
+FAU - Li, Mengxin
+AU  - Li M
+AD  - Jiangsu Marine Pharmaceutical Resources Development Engineering Research Center, 
+      Jiangsu Key Laboratory of Marine Pharmaceutical Compound Screening, College of 
+      Pharmacy, Jiangsu Ocean University, Lianyungang 222005, China.
+FAU - Wang, Jun
+AU  - Wang J
+AD  - Jiangsu Marine Pharmaceutical Resources Development Engineering Research Center, 
+      Jiangsu Key Laboratory of Marine Pharmaceutical Compound Screening, College of 
+      Pharmacy, Jiangsu Ocean University, Lianyungang 222005, China.
+FAU - Xu, Zihan
+AU  - Xu Z
+AD  - Jiangsu Marine Pharmaceutical Resources Development Engineering Research Center, 
+      Jiangsu Key Laboratory of Marine Pharmaceutical Compound Screening, College of 
+      Pharmacy, Jiangsu Ocean University, Lianyungang 222005, China.
+FAU - Lin, Yue
+AU  - Lin Y
+AD  - Jiangsu Marine Pharmaceutical Resources Development Engineering Research Center, 
+      Jiangsu Key Laboratory of Marine Pharmaceutical Compound Screening, College of 
+      Pharmacy, Jiangsu Ocean University, Lianyungang 222005, China.
+FAU - Dong, Jingquan
+AU  - Dong J
+AD  - Jiangsu Marine Pharmaceutical Resources Development Engineering Research Center, 
+      Jiangsu Key Laboratory of Marine Pharmaceutical Compound Screening, College of 
+      Pharmacy, Jiangsu Ocean University, Lianyungang 222005, China. Electronic 
+      address: 2018000029@jou.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250915
+PL  - Germany
+TA  - Phytomedicine
+JT  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+JID - 9438794
+SB  - IM
+OTO - NOTNLM
+OT  - AMPK
+OT  - Atraric acid
+OT  - Chronic intermittent hypoxia
+OT  - Neuronal injury
+OT  - Oxidative stress
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 18:13
+PHST- 2025/04/27 00:00 [received]
+PHST- 2025/09/06 00:00 [revised]
+PHST- 2025/09/14 00:00 [accepted]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:13 [entrez]
+AID - S0944-7113(25)00900-6 [pii]
+AID - 10.1016/j.phymed.2025.157261 [doi]
+PST - aheadofprint
+SO  - Phytomedicine. 2025 Sep 15;148:157261. doi: 10.1016/j.phymed.2025.157261.

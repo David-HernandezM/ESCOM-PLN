@@ -1,0 +1,142 @@
+PMID- 40961449
+OWN - NLM
+STAT- Publisher
+LR  - 20250921
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+DP  - 2025 Sep 17
+TI  - Medical Imaging and Pediatric and Adolescent Hematologic Cancer Risk.
+LID - 10.1056/NEJMoa2502098 [doi]
+AB  - BACKGROUND: Assessing the risk of radiation-induced hematologic cancer from 
+      medical imaging in children and adolescents might support informed decisions on 
+      the use of imaging. METHODS: We followed a retrospective cohort of 3,724,623 
+      children born between 1996 and 2016 in six U.S. health care systems and Ontario, 
+      Canada, until the earliest of cancer or benign-tumor diagnosis, death, end of 
+      health care coverage, an age of 21 years, or December 31, 2017. Radiation doses 
+      to active bone marrow from medical imaging were quantified. Associations between 
+      hematologic cancers and cumulative radiation exposure (vs. no exposure), with a 
+      lag of 6 months, were estimated with the use of continuous-time hazards models. 
+      RESULTS: During 35,715,325 person-years of follow-up (mean, 10.1 years per 
+      person), 2961 hematologic cancers were diagnosed, primarily lymphoid cancers 
+      (2349 [79.3%]), myeloid cancers or acute leukemia (460 [15.5%]), and histiocytic- 
+      or dendritic-cell cancers (129 [4.4%]). The mean (±SD) exposure among children 
+      exposed to at least 1 mGy was 14.0±23.1 mGy overall (for comparison, 13.7 mGy was 
+      the exposure from one computed tomographic [CT] scan of the head) and 24.5±36.4 
+      mGy among children with hematologic cancer. Cancer risk increased with cumulative 
+      dose, with a relative risk (vs. no exposure) of 1.41 (95% confidence interval 
+      [CI], 1.11 to 1.78) for 1 to less than 5 mGy, 1.82 (95% CI, 1.33 to 2.43) for 15 
+      to less than 20 mGy, and 3.59 (95% CI, 2.22 to 5.44) for 50 to less than 100 mGy. 
+      The cumulative radiation dose to bone marrow was associated with an increased 
+      risk of all hematologic cancers (excess relative risk per 100 mGy, 2.54 [95% CI, 
+      1.70 to 3.51; P<0.001]; relative risk for 30 vs. 0 mGy, 1.76 [95% CI, 1.51 to 
+      2.05]) and most tumor subtypes. The excess cumulative incidence of hematologic 
+      cancers by 21 years of age among children exposed to at least 30 mGy (mean, 57 
+      mGy) was 25.6 per 10,000. We estimated that, in our cohort, 10.1% (95% CI, 5.8 to 
+      14.2) of hematologic cancers may have been attributable to radiation exposure 
+      from medical imaging, with higher risks from the higher-dose medical-imaging 
+      tests such as CT. CONCLUSIONS: Our study suggests an association between exposure 
+      to radiation from medical imaging and a small but significantly increased risk of 
+      hematologic cancer among children and adolescents. (Funded by the National Cancer 
+      Institute and others.).
+CI  - Copyright © 2025 Massachusetts Medical Society.
+FAU - Smith-Bindman, Rebecca
+AU  - Smith-Bindman R
+AD  - Department of Epidemiology and Biostatistics, University of California, San 
+      Francisco, San Francisco.
+AD  - Department of Obstetrics, Gynecology, and Reproductive Sciences, University of 
+      California, San Francisco, San Francisco.
+AD  - Philip R. Lee Institute for Health Policy Studies, University of California, San 
+      Francisco, San Francisco.
+FAU - Alber, Susan A
+AU  - Alber SA
+AD  - Department of Public Health Sciences, University of California, Davis, Davis.
+FAU - Kwan, Marilyn L
+AU  - Kwan ML
+AD  - Division of Research, Kaiser Permanente Northern California, Pleasanton.
+FAU - Pequeno, Priscila
+AU  - Pequeno P
+AD  - Institute for Clinical Evaluative Sciences, Toronto.
+FAU - Bolch, Wesley E
+AU  - Bolch WE
+AD  - J. Crayton Pruitt Family Department of Biomedical Engineering, University of 
+      Florida, Gainesville.
+FAU - Bowles, Erin J A
+AU  - Bowles EJA
+AD  - Kaiser Permanente Washington Health Research Institute, Kaiser Permanente 
+      Washington, Seattle.
+FAU - Greenlee, Robert T
+AU  - Greenlee RT
+AD  - Marshfield Clinic Research Institute, Marshfield Clinic Health System, 
+      Marshfield, WI.
+FAU - Stout, Natasha K
+AU  - Stout NK
+AD  - Department of Population Medicine, Harvard Pilgrim Health Care Institute, Boston.
+AD  - Department of Population Medicine, Harvard Medical School, Boston.
+FAU - Weinmann, Sheila
+AU  - Weinmann S
+AD  - Kaiser Permanente Center for Health Research, Portland, OR.
+AD  - Center for Integrated Health Research, Kaiser Permanente Hawaii, Honolulu.
+FAU - Moy, Lisa M
+AU  - Moy LM
+AD  - Division of Research, Kaiser Permanente Northern California, Pleasanton.
+FAU - Stewart, Carly
+AU  - Stewart C
+AD  - Department of Epidemiology and Biostatistics, University of California, San 
+      Francisco, San Francisco.
+FAU - Francisco, Melanie
+AU  - Francisco M
+AD  - Kaiser Permanente Center for Health Research, Portland, OR.
+FAU - Kofler, Cameron
+AU  - Kofler C
+AD  - Department of Radiology, University of Chicago, Chicago.
+FAU - Duncan, James R
+AU  - Duncan JR
+AD  - Interventional Radiology Section, Washington University in St. Louis, St. Louis.
+FAU - Ducore, Jonathan
+AU  - Ducore J
+AD  - Department of Pediatrics, University of California, Davis, Davis.
+FAU - Mahendra, Malini
+AU  - Mahendra M
+AD  - Philip R. Lee Institute for Health Policy Studies, University of California, San 
+      Francisco, San Francisco.
+AD  - Department of Pediatrics, University of California, San Francisco, San Francisco.
+FAU - Pole, Jason D
+AU  - Pole JD
+AD  - Institute for Clinical Evaluative Sciences, Toronto.
+AD  - Dalla Lana School of Public Health, University of Toronto, Toronto.
+AD  - Centre for Health Services Research, University of Queensland, Brisbane, 
+      Australia.
+FAU - Miglioretti, Diana L
+AU  - Miglioretti DL
+AD  - Department of Public Health Sciences, University of California, Davis, Davis.
+AD  - Kaiser Permanente Washington Health Research Institute, Kaiser Permanente 
+      Washington, Seattle.
+AD  - Comprehensive Cancer Center, University of California, Davis, Davis.
+LA  - eng
+GR  - R01 CA185687/CA/NCI NIH HHS/United States
+GR  - NU58DP006344/DP/NCCDPHP CDC HHS/United States
+GR  - 75N95021D00011/DA/NIDA NIH HHS/United States
+GR  - 75N92021D00011/HL/NHLBI NIH HHS/United States
+GR  - R50 CA211115/CA/NCI NIH HHS/United States
+GR  - NCI R01CA185687 and NCI R50CA211115/NH/NIH HHS/United States
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+PMC - PMC12445590
+MID - NIHMS2094790
+EDAT- 2025/09/17 18:31
+MHDA- 2025/09/17 18:31
+PMCR- 2025/09/18
+CRDT- 2025/09/17 16:13
+PHST- 2025/09/17 18:31 [medline]
+PHST- 2025/09/17 18:31 [pubmed]
+PHST- 2025/09/17 16:13 [entrez]
+PHST- 2025/09/18 00:00 [pmc-release]
+AID - 10.1056/NEJMoa2502098 [doi]
+PST - aheadofprint
+SO  - N Engl J Med. 2025 Sep 17:10.1056/NEJMoa2502098. doi: 10.1056/NEJMoa2502098.

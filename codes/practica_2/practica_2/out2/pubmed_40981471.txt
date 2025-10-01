@@ -1,0 +1,110 @@
+PMID- 40981471
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+DP  - 2025 Sep 22
+TI  - Polyethylene terephthalate microplastics exposure enhances the risk of ulcerative 
+      colitis: insights from multi-omics integration, machine learning, and molecular 
+      docking reveal intestinal toxicity mechanisms.
+LID - 10.1097/JS9.0000000000003476 [doi]
+AB  - BACKGROUND: In recent decades, the widespread use of polyethylene terephthalate 
+      (PET) has led to the proliferation of PET microplastics (PET-MPs) in the 
+      environment, posing potential threats to human health, including ulcerative 
+      colitis (UC). However, the underlying molecular mechanisms remain unclear. 
+      METHODS: Data sourced from public databases were harnessed to predict the targets 
+      of PET-MPs and identify UC-related differentially expressed genes. Functional 
+      enrichment analyses were conducted to uncover relevant biological pathways. Three 
+      machine learning algorithms were utilized to screen for hub genes associated with 
+      PET-MPs-induced UC, followed by the evaluation of these hub genes using eight 
+      machine learning algorithms via SHAP analysis. Subsequently, a nomogram was 
+      constructed and validated based on a Risk prediction model, and single-cell 
+      sequencing analysis and molecular docking were performed. An animal model was 
+      established via co-administration of 3% dextran sulfate sodium (DSS) and PET-MPs. 
+      Western blot analysis was employed to verify the protein expression levels in 
+      intestinal tissues. RESULTS: Eleven potential targets related to PET-MPs-induced 
+      UC toxicity were identified. Four hub genes (CTSK, NAAA, PDE4B, and PFKFB3) were 
+      successfully screened out, exhibiting significant expression disparities in UC 
+      samples. The constructed Risk prediction model demonstrated high prediction 
+      accuracy. Single-cell analysis revealed distinct expression patterns of the hub 
+      genes across different cell types, and molecular docking confirmed strong binding 
+      affinities between PET-MPs and these genes. Animal experiments revealed that the 
+      expression levels of CTSK, PDE4B, and PFKFB3 in the DSS + PET-MPs group were 
+      significantly upregulated, while the expression level of NAAA was significantly 
+      downregulated, compared with the DSS group. CONCLUSION: This study offers 
+      valuable insights into the molecular mechanisms by which PET-MPs may induce UC, 
+      providing a theoretical foundation for understanding the potential health risks 
+      associated with PET-MPs exposure.
+CI  - Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.
+FAU - Yang, Xueli
+AU  - Yang X
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+FAU - Yan, Bo
+AU  - Yan B
+AD  - Department of Gastroenterology, The Central Hospital of Enshi Tujia and Miao 
+      Autonomous Prefecture, Enshi, hubei, China.
+FAU - Zhao, Yu
+AU  - Zhao Y
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+FAU - Zhou, Linxiang
+AU  - Zhou L
+AD  - Department of Gastroenterology, Xiangya Hospital, Central South University, 
+      Changsha, Hunan, China.
+FAU - Liu, Miao
+AU  - Liu M
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+FAU - Chen, Gong
+AU  - Chen G
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+FAU - Shen, Lei
+AU  - Shen L
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+FAU - Deng, Tao
+AU  - Deng T
+AD  - Department of Gastroenterology, Renmin Hospital of Wuhan University, Wuhan, 
+      hubei, China.
+AD  - Renmin Hospital of Wuhan University, Hubei Key Laboratory of Digestive System 
+      Disease, Wuhan, hubei, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+SB  - IM
+OTO - NOTNLM
+OT  - PET-mPs
+OT  - machine learning
+OT  - molecular docking
+OT  - multi - omics
+OT  - network toxicology
+OT  - ulcerative colitis
+EDAT- 2025/09/22 12:45
+MHDA- 2025/09/22 12:45
+CRDT- 2025/09/22 09:04
+PHST- 2025/06/26 00:00 [received]
+PHST- 2025/08/29 00:00 [accepted]
+PHST- 2025/09/22 12:45 [medline]
+PHST- 2025/09/22 12:45 [pubmed]
+PHST- 2025/09/22 09:04 [entrez]
+AID - 01279778-990000000-03283 [pii]
+AID - 10.1097/JS9.0000000000003476 [doi]
+PST - aheadofprint
+SO  - Int J Surg. 2025 Sep 22. doi: 10.1097/JS9.0000000000003476.

@@ -1,0 +1,109 @@
+PMID- 40968736
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1743-9159 (Electronic)
+IS  - 1743-9159 (Linking)
+DP  - 2025 Sep 19
+TI  - Association of Albumin Trajectories and Cumulative Exposure With In-Hospital 
+      Mortality in Acute Pancreatitis: A Retrospective Cohort Study.
+LID - 10.1097/JS9.0000000000003354 [doi]
+AB  - BACKGROUND: Hypoalbuminemia is common in acute pancreatitis (AP) and associated 
+      with poor outcomes, but its cumulative and dynamic impacts are not well 
+      characterized. METHODS: This study included 3,214 AP patients (2005-2023). 
+      Cumulative albumin exposure (CumALB) was calculated over the first 7 days using 
+      the trapezoidal method. Latent class mixed modeling (LCMM) identified distinct 
+      albumin trajectories. Multivariable logistic regression and restricted cubic 
+      splines (RCS) assessed associations between CumALB and in-hospital mortality. 
+      Kaplan-Meier curves compared survival across trajectories. A simplified nomogram 
+      was developed using predictors selected via Boruta and LASSO algorithms, with 
+      performance assessed by AUC, calibration, and decision curves. Validation was 
+      conducted in three cohorts: the MIMIC-IV database (n = 514), the eICU-CRD 
+      database (n = 211), and the local cohort from 2024 (n = 880). RESULTS: Patients 
+      in the lowest CumALB tertile had significantly higher mortality (11.0%) than 
+      those in the highest tertile (1.3%, P<0.001). Each 1-SD increase in CumALB 
+      reduced mortality risk by 42% (adjusted OR = 0.58, 95% CI: 0.44-0.76, P<0.001), 
+      with RCS confirming a linear inverse relationship. CumALB outperformed single-day 
+      albumin in mortality prediction. LCMM identified four trajectories; low-stable 
+      (LS-T1) had highest mortality (17.7%), whereas low-increasing (LI-T4) had lower 
+      mortality (8.6%). Compared with LS-T1, high-stable (HS-T2) and LI-T4 groups had 
+      reduced risks (adjusted OR = 0.16 and 0.49, respectively; P<0.05). The 
+      CumALB-based nomogram achieved an AUC of 0.836 in the training set (70%) and 
+      0.864 in the internal test set (30%), outperforming APACHE II (AUC = 0.76), SIRS 
+      (AUC = 0.72), Ranson (AUC = 0.72), and BISAP (AUC = 0.80). Validation was 
+      conducted using three independent cohorts: the MIMIC-IV cohort (AUC = 0.631), the 
+      eICU-CRD cohort (AUC = 0.681), and the local cohort from 2024 (AUC = 0.844). 
+      Sensitivity analyses further confirmed the robustness of these results. 
+      CONCLUSION: CumALB may provide a useful measure of the cumulative burden of 
+      hypoalbuminemia in patients with acute pancreatitis, and albumin trajectories 
+      could help capture its dynamic changes. The CumALB-based predictive model 
+      demonstrated good performance in predicting mortality risk, potentially assisting 
+      clinicians in early risk stratification and clinical decision-making for 
+      high-risk patients within heterogeneous populations. However, prospective 
+      validation is warranted before clinical implementation.
+CI  - Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.
+FAU - Zou, Yaoyu
+AU  - Zou Y
+AD  - Department of Gastroenterology, Jiangxi Provincial Key Laboratory of Digestive 
+      Diseases, Jiangxi Clinical Research Center for Gastroenterology, Digestive 
+      Disease Hospital, The First Affiliated Hospital, Jiangxi Medical College, 
+      Nanchang University, Nanchang, Jiangxi, China.
+FAU - Kuang, Maobin
+AU  - Kuang M
+FAU - Xiong, Shixuan
+AU  - Xiong S
+FAU - Xu, Xin
+AU  - Xu X
+FAU - Li, Xueyang
+AU  - Li X
+FAU - Ding, Ling
+AU  - Ding L
+FAU - He, Cong
+AU  - He C
+FAU - Li, Nianshuang
+AU  - Li N
+FAU - Ke, Huajing
+AU  - Ke H
+FAU - Huang, Xin
+AU  - Huang X
+FAU - Lei, Yupeng
+AU  - Lei Y
+FAU - Xiong, Huifang
+AU  - Xiong H
+FAU - He, Wenhua
+AU  - He W
+FAU - Luo, Lingyu
+AU  - Luo L
+FAU - Xia, Liang
+AU  - Xia L
+FAU - Lu, Nonghua
+AU  - Lu N
+FAU - Wan, Jianhua
+AU  - Wan J
+FAU - Zhu, Yin
+AU  - Zhu Y
+LA  - eng
+PT  - Journal Article
+DEP - 20250919
+PL  - United States
+TA  - Int J Surg
+JT  - International journal of surgery (London, England)
+JID - 101228232
+SB  - IM
+OTO - NOTNLM
+OT  - acute pancreatitis
+OT  - albumin trajectory
+OT  - cumulative albumin exposure
+OT  - in-hospital mortality
+EDAT- 2025/09/19 06:33
+MHDA- 2025/09/19 06:33
+CRDT- 2025/09/19 04:03
+PHST- 2025/04/30 00:00 [received]
+PHST- 2025/08/23 00:00 [accepted]
+PHST- 2025/09/19 06:33 [medline]
+PHST- 2025/09/19 06:33 [pubmed]
+PHST- 2025/09/19 04:03 [entrez]
+AID - 01279778-990000000-03276 [pii]
+AID - 10.1097/JS9.0000000000003354 [doi]
+PST - aheadofprint
+SO  - Int J Surg. 2025 Sep 19. doi: 10.1097/JS9.0000000000003354.

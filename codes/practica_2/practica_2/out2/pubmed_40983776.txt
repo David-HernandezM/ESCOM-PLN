@@ -1,0 +1,123 @@
+PMID- 40983776
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1759-4766 (Electronic)
+IS  - 1759-4758 (Linking)
+DP  - 2025 Sep 22
+TI  - Progress and challenges in sporadic late-onset cerebellar ataxias.
+LID - 10.1038/s41582-025-01136-0 [doi]
+AB  - Sporadic late-onset cerebellar ataxia (SLOCA) is a syndrome defined by subacute 
+      or chronic and progressive ataxia occurring after the age of 40 years in 
+      individuals without a family history of ataxia. The 2022 publication of revised 
+      consensus diagnostic criteria for multiple system atrophy and the emergence of 
+      promising biomarkers provides a thorough diagnostic framework that now enables 
+      the diagnosis of numerous acquired causes of SLOCA, including autoimmune 
+      disorders and neurodegenerative diseases. The ongoing development and increased 
+      availability of DNA sequencing technology have uncovered several molecular causes 
+      of SLOCA besides spastic paraplegia type 7 and very late-onset Friedreich ataxia. 
+      These additional causes include sporadic genetic disorders, such as 
+      spinocerebellar atrophy type 27B, caused by GAA expansion in the FGF14 gene, and 
+      cerebellar ataxia with neuropathy and vestibular areflexia syndrome (CANVAS), 
+      caused by biallelic expansions in the RFC1 gene. This Review presents an updated 
+      clinical approach to the diagnosis and management of SLOCA that focuses on the 
+      most important developments in this field. Future challenges are also discussed, 
+      including the identification of additional missing genetic causes of SLOCA, 
+      especially via the use of long-read genome sequencing, improvements in SLOCA 
+      prognostication and the implementation of clinical trials of neuroprotective 
+      interventions.
+CI  - © 2025. Springer Nature Limited.
+FAU - Wirth, Thomas
+AU  - Wirth T
+AUID- ORCID: 0000-0002-4427-5765
+AD  - Department of Neurology, University Hospital of Strasbourg, Strasbourg, France.
+AD  - Strasbourg Neuroscience Institute, Strasbourg University, Strasbourg, France.
+AD  - Institute of Genetics and Cellular and Molecular Biology, INSERM-U964, 
+      CNRS-UMR7104, University of Strasbourg, Illkirch-Graffenstaden, France.
+FAU - Faber, Jennifer
+AU  - Faber J
+AUID- ORCID: 0000-0003-3265-0262
+AD  - Center of Neurology, University Hospital Bonn, Bonn, Germany.
+AD  - German Center for Neurodegenerative Diseases (DZNE), Bonn, Germany.
+FAU - Depienne, Christel
+AU  - Depienne C
+AUID- ORCID: 0000-0002-7212-9554
+AD  - Institute of Human Genetics, Essen University Hospital, University of 
+      Duisburg-Essen, Essen, Germany.
+FAU - Roze, Emmanuel
+AU  - Roze E
+AD  - Département de Neurologie, Hôpital de la Pitié Salpêtrière, Assistance 
+      Publique-Hôpitaux de Paris, Institut du Cerveau, Sorbonne Universités 
+      INSERM-U1127, CNRS-UMR7225, Paris, France.
+FAU - Honnorat, Jérôme
+AU  - Honnorat J
+AUID- ORCID: 0000-0002-4721-5952
+AD  - French Reference Center on Paraneoplastic Neurological Syndromes and Autoimmune 
+      Encephalitis, Hospices Civils de Lyon, Lyon, France.
+AD  - MeLiS Institute, INSERM-U1314, CNRS-UMR5284, Université Claude Bernard Lyon 1, 
+      Lyon, France.
+FAU - Meissner, Wassilios G
+AU  - Meissner WG
+AUID- ORCID: 0000-0003-2172-7527
+AD  - Centre Hospitalo-Universitaire de Bordeaux, Service de Neurologie - Maladies 
+      Neurodégénératives, Centre de Référence Maladies Rares Atrophie 
+      Multisystématisée, Bordeaux, France.
+AD  - Institut des Maladies Neurodégénératives Cliniques, Université de Bordeaux, 
+      CNRS-UMR5293, Bordeaux, France.
+AD  - Department of Medicine, University of Otago, Christchurch, New Zealand.
+AD  - New Zealand Brain Research Institute, Christchurch, New Zealand.
+FAU - Giunti, Paola
+AU  - Giunti P
+AD  - Ataxia Centre, Department of Clinical and Movement Neurosciences, University 
+      College London (UCL) Queen Square Institute of Neurology, London, UK.
+AD  - National Hospital for Neurology and Neurosurgery, University College London 
+      Hospitals NHS Foundation Trust, London, UK.
+FAU - Tranchant, Christine
+AU  - Tranchant C
+AD  - Department of Neurology, University Hospital of Strasbourg, Strasbourg, France.
+AD  - Strasbourg Neuroscience Institute, Strasbourg University, Strasbourg, France.
+AD  - Institute of Genetics and Cellular and Molecular Biology, INSERM-U964, 
+      CNRS-UMR7104, University of Strasbourg, Illkirch-Graffenstaden, France.
+FAU - Klockgether, Thomas
+AU  - Klockgether T
+AUID- ORCID: 0000-0001-6174-5442
+AD  - Center of Neurology, University Hospital Bonn, Bonn, Germany.
+AD  - German Center for Neurodegenerative Diseases (DZNE), Bonn, Germany.
+FAU - Anheim, Mathieu
+AU  - Anheim M
+AUID- ORCID: 0000-0001-8121-0605
+AD  - Department of Neurology, University Hospital of Strasbourg, Strasbourg, France. 
+      mathieu.anheim@chru-strasbourg.fr.
+AD  - Strasbourg Neuroscience Institute, Strasbourg University, Strasbourg, France. 
+      mathieu.anheim@chru-strasbourg.fr.
+AD  - Institute of Genetics and Cellular and Molecular Biology, INSERM-U964, 
+      CNRS-UMR7104, University of Strasbourg, Illkirch-Graffenstaden, France. 
+      mathieu.anheim@chru-strasbourg.fr.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250922
+PL  - England
+TA  - Nat Rev Neurol
+JT  - Nature reviews. Neurology
+JID - 101500072
+SB  - IM
+COIS- Competing interests: T.W. declares that he has received honoraria from Abbvie, 
+      Edimark and Ipsen; research grants from APTES, Fondation Planiol, the France 
+      Parkinson organizations and Revue Neurologique; prize money from the Société 
+      Française de Neurologie; and travel funding from Homeperf, Lübeck, LVL Medical 
+      and the Movement Disorder Society. C.T. declares that she has received honoraria 
+      from Abbvie, Biogen, Ipsen and Lynde. M.A. declares that he has received 
+      honoraria from Abbvie, Aguettant, Asdia Biogen, Ever Pharma, Ipsen, Merz, Orkyn, 
+      Reata Pharmaceuticals and Teva. The other authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:22
+PHST- 2025/08/27 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:22 [entrez]
+AID - 10.1038/s41582-025-01136-0 [pii]
+AID - 10.1038/s41582-025-01136-0 [doi]
+PST - aheadofprint
+SO  - Nat Rev Neurol. 2025 Sep 22. doi: 10.1038/s41582-025-01136-0.

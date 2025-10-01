@@ -1,0 +1,127 @@
+PMID- 33749704
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220120
+LR  - 20220120
+IS  - 2168-6211 (Electronic)
+IS  - 2168-6203 (Print)
+IS  - 2168-6203 (Linking)
+VI  - 175
+IP  - 6
+DP  - 2021 Jun 1
+TI  - Association Between Hypertensive Disorders of Pregnancy and Neurodevelopmental 
+      Outcomes Among Offspring.
+PG  - 577-585
+LID - 10.1001/jamapediatrics.2020.6856 [doi]
+AB  - IMPORTANCE: Hypertensive disorders of pregnancy (HDP) have been associated with 
+      poorer neurodevelopmental outcomes in offspring, but the role of familial 
+      confounding in these associations is unclear. OBJECTIVE: To investigate 
+      associations of maternal HDP with risks in offspring of autism spectrum disorders 
+      (ASDs), attention-deficit/hyperactivity disorder (ADHD), and intellectual 
+      disability (ID), as well as variation in overall cognitive performance in 
+      offspring. DESIGN, SETTING, AND PARTICIPANTS: This Swedish register-based study 
+      used data from a birth cohort divided into 1 085 024 individuals born between 
+      1987 and 1996 and followed up until December 31, 2014, and 285 901 men born 
+      between 1982 and 1992 who attended assessments for military conscription, 
+      including a cognitive function test. Statistical analysis was performed from 
+      April 1, 2019, to June 1, 2020. EXPOSURES: Diagnoses of HDP, which were provided 
+      by the Medical Birth Register. MAIN OUTCOMES AND MEASURES: Diagnoses of ASDs, 
+      ADHD, and ID were extracted from the National Patient Register. Cognitive 
+      function was assessed using written tests and summarized as a single 9-point 
+      score. Whole-cohort and within-sibship analyses were performed; the latter 
+      accounted for unmeasured familial confounding factors shared by siblings. 
+      RESULTS: The study included 1 085 024 individuals (556 912 male participants 
+      [51.3%]) born between 1987 and 1996 and 285 901 men born between 1982 and 1992 
+      who attended assessments for military conscription. The prevalence of maternal 
+      HDP was 4.0% in the 1987-1996 birth cohort (n = 42 980) and 5.1% in the military 
+      conscription cohort (n = 14 515). A total of 15 858 participants received a 
+      diagnosis of ASD, 36 852 received a diagnosis of ADHD, and 8454 received a 
+      diagnosis of ID. The mean (SD) cognitive score among the men in the conscription 
+      cohort was 5.1 (1.9). In whole-cohort analyses with multivariable adjustment, HDP 
+      were associated with offspring ASDs (hazard ratio [HR], 1.22; 95% CI, 1.13-1.31), 
+      ADHD (HR, 1.10; 95% CI, 1.05-1.16), and ID (HR, 1.39; 95% CI, 1.27-1.53). 
+      Analyses comparing siblings discordant for HDP were less statistically powered 
+      but indicated estimates of similar magnitude for ASDs (HR, 1.19; 95% CI, 
+      1.00-1.42) and possibly ADHD (HR, 1.09; 95% CI, 0.95-1.24), but not for ID (HR, 
+      1.04; 95% CI, 0.83-1.29). Hypertensive disorders of pregnancy were associated 
+      with somewhat lower cognitive scores in whole-cohort analysis (mean difference 
+      comparing offspring exposed with those unexposed, -0.10; 95% CI, -0.13 to -0.07), 
+      but in within-sibship analysis, the association was null (mean difference, 0.00; 
+      95% CI, -0.09 to 0.08). CONCLUSIONS AND RELEVANCE: The study results suggest that 
+      HDP are associated with small increased risks of ASDs and possibly ADHD in 
+      offspring, whereas associations with ID and cognitive performance are likely 
+      confounded by shared familial (environmental or genetic) factors.
+FAU - Brand, Judith S
+AU  - Brand JS
+AD  - Clinical Epidemiology and Biostatistics, School of Medical Sciences, Örebro 
+      University, Örebro, Sweden.
+AD  - Medical Research Council Integrative Epidemiology Unit, University of Bristol, 
+      Bristol, United Kingdom.
+AD  - Population Health Sciences, Bristol Medical School, Bristol, United Kingdom.
+FAU - Lawlor, Deborah A
+AU  - Lawlor DA
+AD  - Medical Research Council Integrative Epidemiology Unit, University of Bristol, 
+      Bristol, United Kingdom.
+AD  - Population Health Sciences, Bristol Medical School, Bristol, United Kingdom.
+FAU - Larsson, Henrik
+AU  - Larsson H
+AD  - School of Medical Sciences, Örebro University, Örebro, Sweden.
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+      Stockholm, Sweden.
+FAU - Montgomery, Scott
+AU  - Montgomery S
+AD  - Clinical Epidemiology and Biostatistics, School of Medical Sciences, Örebro 
+      University, Örebro, Sweden.
+AD  - Clinical Epidemiology Division, Department of Medicine, Solna, Karolinska 
+      Institutet, Stockholm, Sweden.
+AD  - Department of Epidemiology and Public Health, University College London, London, 
+      United Kingdom.
+LA  - eng
+GR  - MC_UU_00011/3/MRC_/Medical Research Council/United Kingdom
+GR  - MC_UU_00011/6/MRC_/Medical Research Council/United Kingdom
+GR  - NF-0616-10102/DH_/Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - JAMA Pediatr
+JT  - JAMA pediatrics
+JID - 101589544
+SB  - IM
+CIN - JAMA Pediatr. 2021 Oct 1;175(10):1081-1082. doi: 
+      10.1001/jamapediatrics.2021.2074. PMID: 34251407
+CIN - JAMA Pediatr. 2021 Oct 1;175(10):1082. doi: 10.1001/jamapediatrics.2021.2071. 
+      PMID: 34251410
+MH  - Attention Deficit Disorder with Hyperactivity/epidemiology
+MH  - Autism Spectrum Disorder/epidemiology
+MH  - Cohort Studies
+MH  - Female
+MH  - Humans
+MH  - Hypertension, Pregnancy-Induced/*epidemiology
+MH  - Intellectual Disability/epidemiology
+MH  - Male
+MH  - Neurodevelopmental Disorders/*epidemiology
+MH  - Pregnancy
+MH  - Prenatal Exposure Delayed Effects/epidemiology
+MH  - Prevalence
+MH  - Registries
+MH  - Sweden/epidemiology
+MH  - Young Adult
+PMC - PMC7985818
+COIS- Conflict of Interest Disclosures: Dr Lawlor reported receiving grants from Roche 
+      Diagnostic and Medtronic Ltd during the conduct of the study. Dr Larsson reported 
+      receiving personal fees from Evolan and grants and personal fees from 
+      Shire/Takeda outside the submitted work. No other disclosures were reported.
+EDAT- 2021/03/23 06:00
+MHDA- 2022/01/21 06:00
+PMCR- 2021/03/22
+CRDT- 2021/03/22 12:46
+PHST- 2021/03/23 06:00 [pubmed]
+PHST- 2022/01/21 06:00 [medline]
+PHST- 2021/03/22 12:46 [entrez]
+PHST- 2021/03/22 00:00 [pmc-release]
+AID - 2777593 [pii]
+AID - poi200106 [pii]
+AID - 10.1001/jamapediatrics.2020.6856 [doi]
+PST - ppublish
+SO  - JAMA Pediatr. 2021 Jun 1;175(6):577-585. doi: 10.1001/jamapediatrics.2020.6856.

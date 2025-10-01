@@ -1,0 +1,53 @@
+PMID- 40975564
+OWN - NLM
+STAT- In-Process
+LR  - 20250920
+IS  - 1523-1755 (Electronic)
+IS  - 0085-2538 (Linking)
+VI  - 108
+IP  - 4S
+DP  - 2025 Oct
+TI  - KDIGO 2025 Clinical Practice Guideline for the Management of Immunoglobulin A 
+      Nephropathy (IgAN) and Immunoglobulin A Vasculitis (IgAV).
+PG  - S1-S71
+LID - S0085-2538(25)00279-0 [pii]
+LID - 10.1016/j.kint.2025.04.004 [doi]
+CN  - Kidney Disease: Improving Global Outcomes (KDIGO) IgAN and IgAV Work Group
+FAU - Rovin, Brad H
+AU  - Rovin BH
+FAU - Barratt, Jonathan
+AU  - Barratt J
+FAU - Cook, H Terence
+AU  - Cook HT
+FAU - Noronha, Irene L
+AU  - Noronha IL
+FAU - Reich, Heather N
+AU  - Reich HN
+FAU - Suzuki, Yusuke
+AU  - Suzuki Y
+FAU - Tang, Sydney C W
+AU  - Tang SCW
+FAU - Trimarch, Hernán
+AU  - Trimarch H
+FAU - Floege, Jürgen
+AU  - Floege J
+LA  - eng
+PT  - Journal Article
+PT  - Practice Guideline
+PL  - United States
+TA  - Kidney Int
+JT  - Kidney international
+JID - 0323470
+SB  - IM
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 20:57
+PHST- 2025/04/07 00:00 [received]
+PHST- 2025/04/07 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 20:57 [entrez]
+AID - S0085-2538(25)00279-0 [pii]
+AID - 10.1016/j.kint.2025.04.004 [doi]
+PST - ppublish
+SO  - Kidney Int. 2025 Oct;108(4S):S1-S71. doi: 10.1016/j.kint.2025.04.004.

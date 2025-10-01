@@ -1,0 +1,68 @@
+PMID- 8792501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961213
+LR  - 20190515
+IS  - 0281-3432 (Print)
+IS  - 0281-3432 (Linking)
+VI  - 14
+IP  - 2
+DP  - 1996 Jun
+TI  - Is there an increased lability in parents' smoking behaviour after a childbirth?
+PG  - 86-91
+AB  - OBJECTIVE: To test our hypothesis that there is an increased lability in parents' 
+      smoking behaviour after a childbirth, and to search for demographic factors 
+      associated with lability in parents' smoking behaviour. DESIGN: A one month, 
+      prospective questionnaire study. SETTING: Maternal and child health centres in 
+      Oslo, Norway. SAMPLE: 222 families in which at least one adult was smoking were 
+      enrolled in the study. 37 families dropped out (16.7%) and 185 families completed 
+      both questionnaires. MEASUREMENTS: Changes in daily smoking, smoking quantity, 
+      and practical measures to prevent passive smoking by the children, as assessed by 
+      parental reports. RESULTS: Families with a child aged less than one year (infant) 
+      were more likely to make one or another positive change (quit, reduce, stop 
+      smoking indoors, stop smoking in living rooms) than families with only older 
+      children. There was a trend for families with an infant to make negative changes 
+      more often (start smoking, increase) as well. Older parents made positive changes 
+      more often than younger ones. Single parents were less likely to make positive 
+      changes. CONCLUSIONS: The study indicates that there is an increased lability in 
+      parents' smoking behaviour after a childbirth.
+FAU - Eriksen, W
+AU  - Eriksen W
+AD  - Department of Community Medicine and General Practice, University of Oslo, 
+      Norway.
+FAU - Sørum, K
+AU  - Sørum K
+FAU - Bruusgaard, D
+AU  - Bruusgaard D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Scand J Prim Health Care
+JT  - Scandinavian journal of primary health care
+JID - 8510679
+RN  - 0 (Tobacco Smoke Pollution)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Child, Preschool
+MH  - Humans
+MH  - Infant
+MH  - Logistic Models
+MH  - *Maternal Behavior
+MH  - *Paternal Behavior
+MH  - Prospective Studies
+MH  - Smoking/epidemiology/*psychology
+MH  - Smoking Cessation
+MH  - Surveys and Questionnaires
+MH  - Tobacco Smoke Pollution
+EDAT- 1996/06/01 00:00
+MHDA- 1996/06/01 00:01
+CRDT- 1996/06/01 00:00
+PHST- 1996/06/01 00:00 [pubmed]
+PHST- 1996/06/01 00:01 [medline]
+PHST- 1996/06/01 00:00 [entrez]
+AID - 10.3109/02813439608997076 [doi]
+PST - ppublish
+SO  - Scand J Prim Health Care. 1996 Jun;14(2):86-91. doi: 10.3109/02813439608997076.

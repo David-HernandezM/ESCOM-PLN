@@ -1,0 +1,119 @@
+PMID- 34537069
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220406
+LR  - 20231107
+IS  - 2040-2392 (Electronic)
+VI  - 12
+IP  - 1
+DP  - 2021 Sep 18
+TI  - Fever during pregnancy as a risk factor for neurodevelopmental disorders: results 
+      from a systematic review and meta-analysis.
+PG  - 60
+LID - 10.1186/s13229-021-00464-4 [doi]
+LID - 60
+AB  - BACKGROUND: Fever during pregnancy is a relatively common and most often trivial 
+      event. However, under specific conditions, it could affect significantly fetal 
+      brain development. Few studies, with inconsistent results, investigated whether 
+      fever, regardless the pathogen, could represent a risk factor for 
+      neurodevelopmental disorders (NDD) in the offspring. We aimed to explore further 
+      this question by performing a systematic review and meta-analysis. METHODS: 
+      Peer-reviewed studies exploring the occurrence of NDD in offspring after a fetal 
+      exposure to maternal fever were included. We specifically considered the impact 
+      of fever severity and duration, taking into consideration some confounding 
+      variables such as the use of antipyretic during pregnancy, the trimester in which 
+      the fever arose, the maternal age or smoking at time of gestation. MEDLINE, 
+      EMBASE, PsycINFO, Cochrane and Web of Science were searched without language 
+      restriction. PRISMA recommendations were followed. Odds ratio (OR) were pooled 
+      using random-effects meta-analysis. Heterogeneity in effect size across studies 
+      was studied using random-effects meta-regression analysis. (PROSPERO 
+      CRD42020182801). RESULTS: We finally considered ten studies gathering a total of 
+      10,304 children with NDD. Among them, 1394 were exposed to fever during 
+      pregnancy. The selected studies were divided into 5 case-control studies and 5 
+      cohort studies. Maternal exposure to fever during pregnancy increased the risk of 
+      NDD in offspring with an OR of 1.24 [95% CI: 1.12-1.38]. Secondary analysis 
+      revealed an increased risk for NDD when fever occurred during the first trimester 
+      of gestation [OR 1.13-95% CI: 1.02-1.26]. LIMITATIONS: We excluded studies that 
+      considered infections with no evidence of fever. Another potential limitation may 
+      be the possible heterogeneity between study designs (cohorts and case-control). 
+      CONCLUSION: Additional evidence supported the association between fever during 
+      pregnancy and increased risk for NDD in offspring. Careful monitoring should be 
+      considered for children born from mothers with a febrile episode during pregnancy 
+      (specifically during the first trimester).
+CI  - © 2021. The Author(s).
+FAU - Antoun, Stephanie
+AU  - Antoun S
+AUID- ORCID: 0000-0002-2911-1607
+AD  - Child and Adolescent Psychiatry Department, Robert Debré Hospital, APHP, Paris 
+      University, Paris, France. stephanie.antoun@aphp.fr.
+FAU - Ellul, Pierre
+AU  - Ellul P
+AD  - Child and Adolescent Psychiatry Department, Robert Debré Hospital, APHP, Paris 
+      University, Paris, France.
+AD  - Immunology-Immunopathology-Immunotherapy (i3), INSERM U959, Sorbonne University, 
+      Paris, France.
+FAU - Peyre, Hugo
+AU  - Peyre H
+AD  - Child and Adolescent Psychiatry Department, Robert Debré Hospital, APHP, Paris 
+      University, Paris, France.
+AD  - Université de Paris, Inserm UMR, 1141 NeuroDiderot, Paris, France.
+FAU - Rosenzwajg, Michelle
+AU  - Rosenzwajg M
+AD  - Immunology-Immunopathology-Immunotherapy (i3), INSERM U959, Sorbonne University, 
+      Paris, France.
+FAU - Gressens, Pierre
+AU  - Gressens P
+AD  - Université de Paris, Inserm UMR, 1141 NeuroDiderot, Paris, France.
+AD  - Centre for the Developing Brain, Division of Imaging Sciences and Biomedical 
+      Engineering, King's College London, King's Health Partners, St. Thomas' Hospital, 
+      London, UK.
+FAU - Klatzmann, David
+AU  - Klatzmann D
+AD  - Immunology-Immunopathology-Immunotherapy (i3), INSERM U959, Sorbonne University, 
+      Paris, France.
+FAU - Delorme, Richard
+AU  - Delorme R
+AD  - Child and Adolescent Psychiatry Department, Robert Debré Hospital, APHP, Paris 
+      University, Paris, France.
+AD  - Human Genetics and Cognitive Functions, Institut Pasteur, Paris, France.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20210918
+PL  - England
+TA  - Mol Autism
+JT  - Molecular autism
+JID - 101534222
+SB  - IM
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Mothers
+MH  - *Neurodevelopmental Disorders/epidemiology/etiology
+MH  - Pregnancy
+MH  - *Pregnancy Complications
+MH  - Pregnancy Trimester, First
+MH  - Risk Factors
+PMC - PMC8449704
+OTO - NOTNLM
+OT  - Autism
+OT  - Children
+OT  - Immunology
+OT  - Maternal immune activation
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/09/20 06:00
+MHDA- 2022/04/07 06:00
+PMCR- 2021/09/18
+CRDT- 2021/09/19 20:21
+PHST- 2021/02/01 00:00 [received]
+PHST- 2021/08/06 00:00 [accepted]
+PHST- 2021/09/19 20:21 [entrez]
+PHST- 2021/09/20 06:00 [pubmed]
+PHST- 2022/04/07 06:00 [medline]
+PHST- 2021/09/18 00:00 [pmc-release]
+AID - 10.1186/s13229-021-00464-4 [pii]
+AID - 464 [pii]
+AID - 10.1186/s13229-021-00464-4 [doi]
+PST - epublish
+SO  - Mol Autism. 2021 Sep 18;12(1):60. doi: 10.1186/s13229-021-00464-4.

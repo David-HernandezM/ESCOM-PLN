@@ -1,0 +1,531 @@
+PMID- 40973832
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2025 Sep 19
+TI  - Publisher Correction: Functional synapses between neurons and small cell lung 
+      cancer.
+LID - 10.1038/s41586-025-09638-z [doi]
+FAU - Sakthivelu, Vignesh
+AU  - Sakthivelu V
+AUID- ORCID: 0009-0000-1652-0850
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Schmitt, Anna
+AU  - Schmitt A
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Institute of Virology, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Odenthal, Franka
+AU  - Odenthal F
+AUID- ORCID: 0000-0003-4138-121X
+AD  - Institute of Biochemistry, University of Cologne, Cologne, Germany.
+FAU - Ndoci, Kristiano
+AU  - Ndoci K
+AUID- ORCID: 0000-0002-9896-8196
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Touet, Marian
+AU  - Touet M
+AUID- ORCID: 0009-0004-7875-1880
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department of Hematology and Stem Cell Transplantation, University Hospital 
+      Essen, Essen, Germany.
+FAU - Shaib, Ali H
+AU  - Shaib AH
+AD  - Department of Neuro- and Sensory Physiology, University Medical Center Göttingen, 
+      Göttingen, Germany.
+FAU - Chihab, Abdulla
+AU  - Chihab A
+AUID- ORCID: 0009-0002-1237-0087
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Wani, Gulzar A
+AU  - Wani GA
+AUID- ORCID: 0000-0003-2380-5816
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Nieper, Pascal
+AU  - Nieper P
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+FAU - Hartmann, Griffin G
+AU  - Hartmann GG
+AUID- ORCID: 0000-0001-9213-8995
+AD  - Department of Pediatrics, Stanford University, Stanford, CA, USA.
+AD  - Department of Genetics, Stanford University, Stanford, CA, USA.
+FAU - Pintelon, Isabel
+AU  - Pintelon I
+AD  - Laboratory of Cell Biology and Histology, Department of Veterinary Sciences, 
+      University of Antwerp, Antwerp, Belgium.
+AD  - Antwerp Centre for Advanced Microscopy (ACAM), University of Antwerp, Antwerp, 
+      Belgium.
+FAU - Kisis, Ilmars
+AU  - Kisis I
+AUID- ORCID: 0000-0001-6207-3991
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Boecker, Maike
+AU  - Boecker M
+AUID- ORCID: 0009-0008-0595-8599
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Eckert, Naja M
+AU  - Eckert NM
+AUID- ORCID: 0009-0007-2888-0280
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+FAU - Iannicelli Caiaffa, Manoela
+AU  - Iannicelli Caiaffa M
+AUID- ORCID: 0009-0007-0704-0397
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Ibruli, Olta
+AU  - Ibruli O
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+FAU - Weber, Julia
+AU  - Weber J
+AD  - Institute of Molecular Oncology and Functional Genomics, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+FAU - Maresch, Roman
+AU  - Maresch R
+AUID- ORCID: 0000-0003-3393-8882
+AD  - Institute of Molecular Oncology and Functional Genomics, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+FAU - Bebber, Christina M
+AU  - Bebber CM
+AUID- ORCID: 0000-0002-7841-7493
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Chitsaz, Ali
+AU  - Chitsaz A
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Lütz, Anna
+AU  - Lütz A
+AUID- ORCID: 0009-0000-2891-7038
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Kim Alves Carpinteiro, Mira
+AU  - Kim Alves Carpinteiro M
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Morris, Kaylee M
+AU  - Morris KM
+AD  - Institute of Biochemistry, University of Cologne, Cologne, Germany.
+FAU - Franchino, Camilla A
+AU  - Franchino CA
+AD  - Institute of Biochemistry, University of Cologne, Cologne, Germany.
+FAU - Benz, Jonas
+AU  - Benz J
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Pérez-Revuelta, Laura
+AU  - Pérez-Revuelta L
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Soriano-Campos, Jorge A
+AU  - Soriano-Campos JA
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Huetzen, Maxim A
+AU  - Huetzen MA
+AUID- ORCID: 0009-0008-2217-813X
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Max Planck Institute for Biology of Ageing, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Goergens, Jonas
+AU  - Goergens J
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Max Planck Institute for Biology of Ageing, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Jevtic, Milica
+AU  - Jevtic M
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Jahn-Kelleter, Hannah M
+AU  - Jahn-Kelleter HM
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Zempel, Hans
+AU  - Zempel H
+AUID- ORCID: 0000-0002-7510-3077
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+AD  - Institute of Human Genetics, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Placzek, Aleksandra
+AU  - Placzek A
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Hennrich, Alexandru A
+AU  - Hennrich AA
+AUID- ORCID: 0000-0002-3233-6145
+AD  - Virology, Max von Pettenkofer Institute, Faculty of Medicine and Gene Center, 
+      Ludwig Maximilians University, Munich, Germany.
+FAU - Conzelmann, Karl-Klaus
+AU  - Conzelmann KK
+AUID- ORCID: 0000-0002-8614-3656
+AD  - Virology, Max von Pettenkofer Institute, Faculty of Medicine and Gene Center, 
+      Ludwig Maximilians University, Munich, Germany.
+FAU - Tumbrink, Hannah L
+AU  - Tumbrink HL
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Molecular Pathology, Institute of Pathology, Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Hunold, Pascal
+AU  - Hunold P
+AUID- ORCID: 0000-0002-7087-5908
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Isensee, Joerg
+AU  - Isensee J
+AUID- ORCID: 0000-0002-3390-0051
+AD  - Translational Pain Research, Department of Anesthesiology and Intensive Care 
+      Medicine, Faculty of Medicine and University Hospital Cologne, University of 
+      Cologne, Cologne, Germany.
+AD  - Pain Center, Department of Anesthesiology and Intensive Care Medicine, Faculty of 
+      Medicine and University Hospital Cologne, University of Cologne, Cologne, 
+      Germany.
+FAU - Werr, Lisa
+AU  - Werr L
+AUID- ORCID: 0000-0002-3697-4136
+AD  - Department of Experimental Pediatric Oncology, University Children's Hospital of 
+      Cologne, Medical Faculty, University of Cologne, Cologne, Germany.
+FAU - Gaedke, Felix
+AU  - Gaedke F
+AUID- ORCID: 0000-0002-7744-4940
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Schauss, Astrid
+AU  - Schauss A
+AUID- ORCID: 0000-0002-6658-2192
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+FAU - Minère, Marielle
+AU  - Minère M
+AUID- ORCID: 0000-0001-7889-9771
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Research Group Synaptic Transmission in Energy Homeostasis, Max Planck Institute 
+      for Metabolism Research, Cologne, Germany.
+FAU - Müller, Marie
+AU  - Müller M
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Research Group Synaptic Transmission in Energy Homeostasis, Max Planck Institute 
+      for Metabolism Research, Cologne, Germany.
+FAU - Fenselau, Henning
+AU  - Fenselau H
+AUID- ORCID: 0000-0001-7136-9751
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Research Group Synaptic Transmission in Energy Homeostasis, Max Planck Institute 
+      for Metabolism Research, Cologne, Germany.
+AD  - Policlinic for Endocrinology, Diabetes and Preventive Medicine, University 
+      Hospital Cologne, Cologne, Germany.
+FAU - Liu, Yin
+AU  - Liu Y
+AUID- ORCID: 0000-0002-2377-2703
+AD  - Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, USA.
+FAU - Heimsoeth, Alena
+AU  - Heimsoeth A
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+AD  - Molecular Pathology, Institute of Pathology, Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Gülcüler Balta, Gülce S
+AU  - Gülcüler Balta GS
+AUID- ORCID: 0000-0002-3626-007X
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+FAU - Walczak, Henning
+AU  - Walczak H
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Cell Death, Inflammation and Immunity Laboratory, Institute of Biochemistry I, 
+      Center for Biochemistry, Faculty of Medicine, University of Cologne, Cologne, 
+      Germany.
+AD  - Centre for Cell Death, Cancer and Inflammation, UCL Cancer Institute, University 
+      College London, London, UK.
+FAU - Frezza, Christian
+AU  - Frezza C
+AUID- ORCID: 0000-0002-3293-7397
+AD  - Institute for Metabolomics in Ageing, University of Cologne, Faculty of Medicine 
+      and University Hospital Cologne, Cologne Excellence Cluster on Cellular Stress 
+      Responses in Aging-Associated Diseases (CECAD), Cologne, Germany.
+AD  - Institute of Genetics, University of Cologne, Faculty of Mathematics and Natural 
+      Sciences, Cologne Excellence Cluster on Cellular Stress Responses in 
+      Aging-Associated Diseases (CECAD), Cologne, Germany.
+FAU - Jachimowicz, Ron D
+AU  - Jachimowicz RD
+AUID- ORCID: 0000-0001-9522-7061
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Max Planck Institute for Biology of Ageing, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - George, Julie
+AU  - George J
+AUID- ORCID: 0000-0002-4272-3683
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+      Cologne, Cologne, Germany.
+FAU - Schmiel, Marcel
+AU  - Schmiel M
+AD  - Institute of Pathology, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Brägelmann, Johannes
+AU  - Brägelmann J
+AUID- ORCID: 0000-0002-1306-2169
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Hucho, Tim
+AU  - Hucho T
+AUID- ORCID: 0000-0002-4147-9308
+AD  - Translational Pain Research, Department of Anesthesiology and Intensive Care 
+      Medicine, Faculty of Medicine and University Hospital Cologne, University of 
+      Cologne, Cologne, Germany.
+AD  - Pain Center, Department of Anesthesiology and Intensive Care Medicine, Faculty of 
+      Medicine and University Hospital Cologne, University of Cologne, Cologne, 
+      Germany.
+FAU - von Karstedt, Silvia
+AU  - von Karstedt S
+AUID- ORCID: 0000-0002-7816-5919
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Peifer, Martin
+AU  - Peifer M
+AUID- ORCID: 0000-0002-5243-5503
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Annibaldi, Alessandro
+AU  - Annibaldi A
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Hänsel-Hertsch, Robert
+AU  - Hänsel-Hertsch R
+AUID- ORCID: 0000-0002-2835-4471
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+AD  - Institute of Human Genetics, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Persigehl, Thorsten
+AU  - Persigehl T
+AD  - Institute for Diagnostic and Interventional Radiology, Faculty of Medicine and 
+      University Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Grüll, Holger
+AU  - Grüll H
+AD  - Institute for Diagnostic and Interventional Radiology, Faculty of Medicine and 
+      University Hospital Cologne, University of Cologne, Cologne, Germany.
+FAU - Sos, Martin L
+AU  - Sos ML
+AUID- ORCID: 0000-0002-2868-100X
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Department of Translational Oncology, German Cancer Consortium (DKTK), partner 
+      site Munich, a partnership between DKFZ and Ludwig-Maximilians-Universität 
+      München (LMU), Munich, Germany.
+AD  - Department of Medicine III, LMU University Hospital Munich, Munich, Germany.
+FAU - Reifenberger, Guido
+AU  - Reifenberger G
+AD  - Institute of Neuropathology, Medical Faculty, Heinrich Heine University and 
+      University Hospital Düsseldorf, Düsseldorf, Germany.
+FAU - Fischer, Matthias
+AU  - Fischer M
+AUID- ORCID: 0000-0003-1363-1242
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany.
+AD  - Department of Experimental Pediatric Oncology, University Children's Hospital of 
+      Cologne, Medical Faculty, University of Cologne, Cologne, Germany.
+FAU - Adriaensen, Dirk
+AU  - Adriaensen D
+AD  - Laboratory of Cell Biology and Histology, Department of Veterinary Sciences, 
+      University of Antwerp, Antwerp, Belgium.
+FAU - Büttner, Reinhard
+AU  - Büttner R
+AUID- ORCID: 0000-0001-8806-4786
+AD  - Institute of Pathology, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Sage, Julien
+AU  - Sage J
+AUID- ORCID: 0000-0002-8928-9968
+AD  - Department of Pediatrics, Stanford University, Stanford, CA, USA.
+AD  - Department of Genetics, Stanford University, Stanford, CA, USA.
+FAU - Brouns, Inge
+AU  - Brouns I
+AD  - Laboratory of Cell Biology and Histology, Department of Veterinary Sciences, 
+      University of Antwerp, Antwerp, Belgium.
+FAU - Rad, Roland
+AU  - Rad R
+AUID- ORCID: 0000-0002-6849-9659
+AD  - Institute of Molecular Oncology and Functional Genomics, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+FAU - Thomas, Roman K
+AU  - Thomas RK
+AUID- ORCID: 0000-0001-9132-4876
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany.
+AD  - Institute of Pathology, Faculty of Medicine and University Hospital Cologne, 
+      University of Cologne, Cologne, Germany.
+FAU - Anstötz, Max
+AU  - Anstötz M
+AUID- ORCID: 0000-0003-3071-5835
+AD  - Institute of Anatomy II, Medical Faculty, University Hospital Düsseldorf, 
+      Heinrich Heine University, Düsseldorf, Germany. max.anstoetz@hhu.de.
+FAU - Rizzoli, Silvio O
+AU  - Rizzoli SO
+AUID- ORCID: 0000-0002-1667-7839
+AD  - Department of Neuro- and Sensory Physiology, University Medical Center Göttingen, 
+      Göttingen, Germany. srizzol@gwdg.de.
+AD  - Center for Biostructural Imaging of Neurodegeneration, University Medical Center 
+      Göttingen, Göttingen, Germany. srizzol@gwdg.de.
+AD  - Cluster of Excellence 'Multiscale Bioimaging: from Molecular Machines to Networks 
+      of Excitable Cells' (MBExC), University of Göttingen, Göttingen, Germany. 
+      srizzol@gwdg.de.
+FAU - Bergami, Matteo
+AU  - Bergami M
+AUID- ORCID: 0000-0001-5525-5025
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany. 
+      matteo.bergami@uk-koeln.de.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany. 
+      matteo.bergami@uk-koeln.de.
+AD  - Institute of Genetics, University of Cologne, Cologne, Germany. 
+      matteo.bergami@uk-koeln.de.
+AD  - Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany. matteo.bergami@uk-koeln.de.
+FAU - Motori, Elisa
+AU  - Motori E
+AUID- ORCID: 0000-0001-5997-6866
+AD  - Institute of Biochemistry, University of Cologne, Cologne, Germany. 
+      elisa.motori@uni-koeln.de.
+AD  - Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated 
+      Diseases (CECAD), University of Cologne, Cologne, Germany. 
+      elisa.motori@uni-koeln.de.
+AD  - Center for Molecular Medicine Cologne (CMMC), Faculty of Medicine and University 
+      Hospital Cologne, University of Cologne, Cologne, Germany. 
+      elisa.motori@uni-koeln.de.
+FAU - Reinhardt, Hans Christian
+AU  - Reinhardt HC
+AUID- ORCID: 0000-0001-5706-9349
+AD  - Department of Hematology and Stem Cell Transplantation, University Hospital 
+      Essen, Essen, Germany. christian.reinhardt@uk-essen.de.
+AD  - West German Cancer Center, University Hospital Essen, Essen, Germany. 
+      christian.reinhardt@uk-essen.de.
+AD  - DKTK, partner site Essen, University Hospital Essen, Essen, Germany. 
+      christian.reinhardt@uk-essen.de.
+AD  - Center for Molecular Biotechnology, University Hospital Essen, Essen, Germany. 
+      christian.reinhardt@uk-essen.de.
+FAU - Beleggia, Filippo
+AU  - Beleggia F
+AUID- ORCID: 0000-0003-0234-7094
+AD  - Department of Translational Genomics, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany. filippo.beleggia@uk-koeln.de.
+AD  - Department I of Internal Medicine, Faculty of Medicine and University Hospital 
+      Cologne, University of Cologne, Cologne, Germany. filippo.beleggia@uk-koeln.de.
+AD  - Mildred Scheel School of Oncology Aachen Bonn Cologne Düsseldorf (MSSO ABCD), 
+      Faculty of Medicine and University Hospital Cologne, University of Cologne, 
+      Cologne, Germany. filippo.beleggia@uk-koeln.de.
+LA  - eng
+PT  - Published Erratum
+DEP - 20250919
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+EFR - Nature. 2025 Sep 10. doi: 10.1038/s41586-025-09434-9. PMID: 40931078
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 23:59
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:59 [entrez]
+AID - 10.1038/s41586-025-09638-z [pii]
+AID - 10.1038/s41586-025-09638-z [doi]
+PST - aheadofprint
+SO  - Nature. 2025 Sep 19. doi: 10.1038/s41586-025-09638-z.

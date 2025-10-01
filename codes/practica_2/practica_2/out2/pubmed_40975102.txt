@@ -1,0 +1,380 @@
+PMID- 40975102
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250920
+IS  - 1474-4465 (Electronic)
+IS  - 1474-4422 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2025 Oct
+TI  - 2024 MAGNIMS-CMSC-NAIMS consensus recommendations on the use of MRI for the 
+      diagnosis of multiple sclerosis.
+PG  - 866-879
+LID - S1474-4422(25)00304-7 [pii]
+LID - 10.1016/S1474-4422(25)00304-7 [doi]
+AB  - MRI plays an increasingly important role in the diagnosis of multiple sclerosis. 
+      We discuss the expanded role of MRI in the 2024 McDonald diagnostic criteria for 
+      multiple sclerosis, which include the optic nerve as a fifth anatomical location, 
+      in addition to the periventricular, juxtacortical or cortical, infratentorial, 
+      and spinal cord regions. The diagnosis of multiple sclerosis can now be confirmed 
+      when the criteria of dissemination in space are fulfilled with the detection of 
+      typical lesions in at least four locations without additional evidence. We 
+      recommend appropriate imaging strategies and MRI acquisition protocols for all 
+      aspects of multiple sclerosis diagnosis, including fat-saturated sequences for 
+      detection of symptomatic optic nerve lesions. Diagnostic imaging should always 
+      cover the brain and spinal cord and include susceptibility-sensitive sequences 
+      for the assessment of the central vein sign and paramagnetic rim lesions, which 
+      can be especially helpful in cases when conventional imaging findings are 
+      insufficient to establish a diagnosis. We discuss how to handle the diagnosis of 
+      radiologically isolated presentations of multiple sclerosis, which are included 
+      in the 2024 criteria. We present recommendations for image interpretation and 
+      avoidance of misdiagnosis, and extend the recommendations to the use of MRI in 
+      the diagnosis of multiple sclerosis in older people, children, people with 
+      vascular comorbidities or migraine, and people living outside Europe and North 
+      America. Finally, we provide recommendations for standardisation of MRI 
+      acquisition and communication of results to enable an earlier diagnosis while 
+      maintaining high diagnostic specificity.
+CI  - Copyright © 2025 Elsevier Ltd. All rights reserved, including those for text and 
+      data mining, AI training, and similar technologies.
+FAU - Barkhof, Frederik
+AU  - Barkhof F
+AD  - Department of Radiology and Nuclear Medicine, Amsterdam UMC, Vrije Universiteit, 
+      Amsterdam, Netherlands; Queen Square Institute of Neurology, University College 
+      London, UK; Hawkes Institute, University College London, UK; Amsterdam 
+      Neuroscience, Amsterdam UMC, Amsterdam, Netherlands. Electronic address: 
+      f.barkhof@amsterdamumc.nl.
+FAU - Reich, Daniel S
+AU  - Reich DS
+AD  - Translational Neuroradiology Section, National Institute of Neurological 
+      Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.
+FAU - Oh, Jiwon
+AU  - Oh J
+AD  - Division of Neurology, Department of Medicine, St Michael's Hospital, University 
+      of Toronto, Toronto, ON, Canada.
+FAU - Rocca, Maria A
+AU  - Rocca MA
+AD  - Neurology Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy; 
+      Vita-Salute San Raffaele University, Milan, Italy.
+FAU - Li, David K B
+AU  - Li DKB
+AD  - Departments of Radiology and Medicine (Neurology), University of British 
+      Columbia, Vancouver, BC, Canada.
+FAU - Sati, Pascal
+AU  - Sati P
+AD  - Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+FAU - Azevedo, Christina J
+AU  - Azevedo CJ
+AD  - Department of Neurology, Keck School of Medicine, University of Southern 
+      California, Los Angeles, CA, USA.
+FAU - Bagnato, Francesca
+AU  - Bagnato F
+AD  - Neurology Department, Nashville Veteran Affairs Medical Center, Nashville, TN, 
+      USA; Neuroimaging Unit, Neuroimmunology Division, Neurology Department, 
+      Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Calabresi, Peter A
+AU  - Calabresi PA
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA.
+FAU - Ciccarelli, Olga
+AU  - Ciccarelli O
+AD  - Queen Square Institute of Neurology, University College London, UK; Queen Square 
+      MS Centre, Department of Neuroinflammation, Queen Square Institute of Neurology, 
+      London, UK; National Institute for Health and Care Research University College 
+      London Hospitals Biomedical Research Centre, London, UK.
+FAU - Dwyer, Michael G
+AU  - Dwyer MG
+AD  - Department of Neurology, Jacobs School of Medicine, State University of New York 
+      at Buffalo, Buffalo, NY, USA.
+FAU - DeLuca, Gabriele C
+AU  - DeLuca GC
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.
+FAU - De Stefano, Nicola
+AU  - De Stefano N
+AD  - Department of Medicine, Surgery and Neuroscience, University of Siena, Siena, 
+      Italy.
+FAU - Enzinger, Christian
+AU  - Enzinger C
+AD  - Department of Neurology, Medical University of Graz, Graz, Austria.
+FAU - Filippi, Massimo
+AU  - Filippi M
+AD  - Neurology Unit, IRCCS San Raffaele Scientific Institute, Milan, Italy; 
+      Vita-Salute San Raffaele University, Milan, Italy.
+FAU - Granziera, Cristina
+AU  - Granziera C
+AD  - Department of Neurology, University Hospital and University of Basel, Basel, 
+      Switzerland; Research Center for Clinical Neuroimmunology and Neuroscience Basel, 
+      University Hospital, University of Basel, Basel, Switzerland; Translational 
+      Imaging in Neurology Basel, Department of Biomedical Engineering, Faculty of 
+      Medicine, University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Halper, June
+AU  - Halper J
+AD  - Consortium of MS Centers, Hackensack, NJ, USA.
+FAU - Henry, Roland G
+AU  - Henry RG
+AD  - Departments of Neurology, Radiology and Biomedical Imaging, Weill Institute for 
+      Neurosciences, University of California, San Francisco, CA, USA.
+FAU - Gasperini, Claudio
+AU  - Gasperini C
+AD  - Department of Neuroscience, S Camillo Forlanini Hospital, Rome, Italy.
+FAU - Gauthier, Susan
+AU  - Gauthier S
+AD  - Department of Neurology, Weill Cornell Medicine, New York, NY, USA.
+FAU - Kappos, Ludwig
+AU  - Kappos L
+AD  - Department of Neurology, University Hospital and University of Basel, Basel, 
+      Switzerland; Research Center for Clinical Neuroimmunology and Neuroscience Basel, 
+      University Hospital, University of Basel, Basel, Switzerland; Translational 
+      Imaging in Neurology Basel, Department of Biomedical Engineering, Faculty of 
+      Medicine, University Hospital Basel and University of Basel, Basel, Switzerland.
+FAU - Laule, Cornelia
+AU  - Laule C
+AD  - Departments of Radiology, Pathology & Laboratory Medicine, Physics & Astronomy, 
+      International Collaboration on Repair Discoveries, University of British 
+      Columbia, Vancouver, BC, Canada.
+FAU - Newsome, Scott D
+AU  - Newsome SD
+AD  - Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD, USA.
+FAU - Montalban, Xavier
+AU  - Montalban X
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain; 
+      Department of Neurology, Universitat de Vic/Central de Catalunya, Barcelona, 
+      Spain.
+FAU - Morrow, Sarah A
+AU  - Morrow SA
+AD  - Department of Clinical Neurosciences, University of Calgary, Hotchkiss Brain 
+      Institute, Calgary, AB, Canada.
+FAU - Schoonheim, Menno M
+AU  - Schoonheim MM
+AD  - MS Center Amsterdam, Anatomy and Neurosciences, Vrije Universiteit Amsterdam, 
+      Amsterdam, Netherlands; Amsterdam Neuroscience, Amsterdam UMC, Amsterdam, 
+      Netherlands.
+FAU - Sicotte, Nancy
+AU  - Sicotte N
+AD  - Department of Neurology, Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+FAU - Toosy, Ahmed
+AU  - Toosy A
+AD  - Queen Square MS Centre, Department of Neuroinflammation, Queen Square Institute 
+      of Neurology, London, UK; Institute of Neurology, Faculty of Brain Sciences, 
+      University College London, London, UK.
+FAU - Wilken, Jeffrey
+AU  - Wilken J
+AD  - Department of Neurology, Georgetown University, Washington, DC, USA; Washington 
+      Neuropsychology Research Group, USA.
+FAU - Yousry, Tarek
+AU  - Yousry T
+AD  - Lysholm Department of Neuroradiology, University College London Hospitals, 
+      National Hospital for Neurology and Neurosurgery, Neuroradiological Academic 
+      Unit, University College London, Institute of Neurology, London, UK.
+FAU - Sastre-Garriga, Jaume
+AU  - Sastre-Garriga J
+AD  - Multiple Sclerosis Centre of Catalonia and Department of Neurology Hospital 
+      Universitari Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain; 
+      Department of Neurology, Universitat de Vic/Central de Catalunya, Barcelona, 
+      Spain.
+FAU - Traboulsee, Anthony
+AU  - Traboulsee A
+AD  - Department of Medicine (Neurology), University of British Columbia, Vancouver, 
+      BC, Canada.
+FAU - Ontaneda, Daniel
+AU  - Ontaneda D
+AD  - Mellen Center for Multiple Sclerosis, Department of Neurology, Cleveland Clinic 
+      Lerner College of Medicine of Case Western Reserve University, Cleveland, OH, 
+      USA.
+FAU - Rovira, Àlex
+AU  - Rovira À
+AD  - Section of Neuroradiology, Department of Radiology, Hospital Universitari Vall 
+      d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+CN  - Magnetic Resonance Imaging Network in Multiple Sclerosis
+CN  - Consortium of Multiple Sclerosis Centers
+CN  - North American Imaging in Multiple Sclerosis Cooperative MRI guidelines working 
+      group
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Lancet Neurol
+JT  - The Lancet. Neurology
+JID - 101139309
+SB  - IM
+MH  - Humans
+MH  - *Multiple Sclerosis/diagnostic imaging
+MH  - *Magnetic Resonance Imaging/standards/methods
+MH  - Consensus
+MH  - Brain/diagnostic imaging
+COIS- Declaration of interests FBar is supported by European Commission, Medical 
+      Research Council, NIHR Biomedical Research Centre at University College London 
+      Hospitals, GE Healthcare, Roche, and Alzheimer's Disease Data Initiative (paid to 
+      institution); is a consultant for Combinostics, IXICO, and Roche; and 
+      participates in Steering Committees or Data safety Monitoring Boards for EISAI, 
+      Biogen, Prothena, and Merck. DSR is supported by the Intramural Research Program 
+      of the National Institute of Neurological Disorders and Stroke, US National 
+      Institutes of Health (NIH); and he has received research support from Abata 
+      Therapeutics and Sanofi. JO holds the Waugh Family Chair in MS Research at St 
+      Michael's Hospital, University of Toronto; has received grant funding from MS 
+      Canada, Brain Canada, the National MS Society, Biogen-Idec, Roche, and 
+      EMD-Serono; and has received personal compensation for consulting or speaking 
+      from Biogen-Idec, BMS, EMD-Serono, Eli Lilly, Horizon Therapeutics, Novartis, 
+      Roche, and Sanofi-Genzyme. MAR received consulting fees from Biogen, Bristol 
+      Myers Squibb, Eli Lilly, Janssen, and Roche; received speaker honoraria from 
+      Astra-Zeneca, Biogen, Bristol Myers Squibb, Bromatech, Celgene, Genzyme, Horizon 
+      Therapeutics Italy, Merck Serono SpA, Novartis, Roche, Sanofi, and Teva; and 
+      declares research support from the MS Society of Canada, the Italian Ministry of 
+      Health, the Italian Ministry of University and Research, and Fondazione Italiana 
+      Sclerosi Multipla. DKBL is Emeritus Director of the UBC MS/MRI Research Group, 
+      which has received grant support for investigator-initiated studies from Genzyme 
+      and Roche; and has given lectures, supported by non-restricted education grants 
+      from Academy of Health Care Learning, Biogen, Novartis, Consortium of MS Centers, 
+      and Sanofi-Genzyme. PS receives research support from the National Institutes of 
+      Health, the National Multiple Sclerosis Society, the Department of Defense, and 
+      the Erwin Rautenberg Foundation. CJA receives grant support from the National MS 
+      Society, the National Institutes of Health, and the Keck School of Medicine; has 
+      received consulting honoraria for participation in advisory boards, data safety 
+      monitoring committee from MRI Adjudication Committee for Horizon Therapeutics, TG 
+      Therapeutics, EMD Serono, Genentech, and Zenas Biopharma; and for participation 
+      in educational events for Sanofi Genzyme, MJH Life Sciences, Efficient, and Spire 
+      Learning. FBag is supported by the National Institute of Health, The VA 
+      Healthcare Administration, the National MS Society and the Voros Innovation and 
+      Impact Funds; is a consultant for Sanofi; and participates in Steering Committee 
+      and Advisory Boards for Merck-Serono and Sanofi. PAC has received grant funding 
+      from the NIH, National Multiple Sclerosis Society, US Department of Defense, 
+      Genentech, and the Myelin Repair Foundation; and has received consulting 
+      honoraria for serving on scientific advisory boards for Novartis, Idorsia, and 
+      Elli Lilly. OC has received grant funding from National Institute for Health and 
+      Care Research, UK MS Society, Medical Research Council, and Rosetrees Trust; and 
+      has received personal compensation for consulting or speaking from Novartis, 
+      Roche, and Biogen. MGD received grant support from Novartis, Bristol Myers 
+      Squibb, Mapi Pharma, and Merck Serono; and declares consulting fees from Bristol 
+      Myers Squibb and Mapi Pharma. GCD has received research funding from the Oxford 
+      Biomedical Research Centre, Medical Research Council (UK), National Health and 
+      Medical Research Council, UK MS Society, Department of Defense, 
+      Oxford-Quinnipiac-Trinity Health Of New England Partnership, Rosetrees Trust, and 
+      the Multiple sclerosis Research, Treatment, and Education; and has received 
+      honoraria for consulting or speaking for Novartis, Merck, the MS Academy, 
+      American Academy of Neurology, and the Wellcome Trust. NDS has received honoraria 
+      from Biogen, Celgene (Bristol Myers Squibb), EMD Serono, Genzyme, Immunic, 
+      Novartis, Roche, and Teva for consulting services, speaking, and travel support; 
+      serves on advisory boards for Biogen, Genzyme, Immunic (the healthcare business 
+      of Merck), Darmstadt, Germany, Novartis, and Roche; has received research grant 
+      support from the Italian MS Society; and is co-founder of Siena Imaging. CE has 
+      received funding for travel and speaker honoraria from Biogen, Bayer, Celgene, 
+      Merck, Novartis, Roche, Shire, Genzyme and Teva Pharmaceutical 
+      Industries/Sanofi-Aventis; received research support from Merck Serono, Biogen, 
+      and Teva Pharmaceutical Industries/Aanofi-Aventis; and has served on scientific 
+      advisory boards for Bayer, Biogen, Celgene, Merck, Novartis, Roche, and Teva 
+      Pharmaceutical Industries/Sanofi-Aventis. MF received compensation for consulting 
+      services from Alexion, Almirall, Biogen, Merck, Novartis, Roche, and Sanofi; 
+      declares speaking activities from Bayer, Biogen, Celgene, Chiesi Italia SpA, Eli 
+      Lilly, Genzyme, Janssen, Merck-Serono, Neopharmed Gentili, Novartis, Novo 
+      Nordisk, Roche, Sanofi, Takeda, and TEVA; participation in Advisory Boards for 
+      Alexion, Biogen, Bristol-Myers Squibb, Merck, Novartis, Roche, Sanofi, 
+      Sanofi-Aventis, Sanofi-Genzyme, and Takeda; scientific direction of educational 
+      events for Biogen, Merck, Roche, Celgene, Bristol-Myers Squibb, Lilly, Novartis, 
+      and Sanofi-Genzyme; and receives research support from Biogen, Merck-Serono, 
+      Novartis, Roche, the Italian Ministry of Health, the Italian Ministry of 
+      University and Research, and Fondazione Italiana Sclerosi Multipla. CGo is 
+      supported by the Swiss National Science Foundationgrant (PP00P3_176984), the 
+      Stiftung zur Förderung der gastroenterologischen und allgemeinen klinischen 
+      Forschung, University Hospital Basel, and the Research Center for Clinical 
+      neuroimmunology and Neuroscience; the employers of Cristina Granziera have 
+      received the fees (used exclusively for research support) from Siemens, GeNeuro, 
+      Genzyme-Sanofi, Biogen, Novartis, and Hoffmann La Roche; the employers of 
+      Cristina Granziera also have received advisory board and consultancy fees from 
+      Actelion, Genzyme-Sanofi, Novartis, GeNeuro, Merck, Biogen, and Hoffmann La 
+      Roche, as well as speaker fees from Genzyme-Sanofi, Novartis, GeNeuro, Merck, 
+      Biogen, and Hoffmann La Roche. RGH has received consulting fees from Roche, 
+      Novartis, QIA Consulting, Sanofi, and Boston Pharma; and research funding from 
+      Roche, Genentech, and Atara. CGa has received fees as a speaker or as an advisory 
+      board member from Almirall, Biogen, Merck, Roche, Novartis, Sandoz, AstraZeneca, 
+      Viatris, Sanofi, Jansen, and Bristol Myers Squibb. SG has received grant funding 
+      from the National Institutes of Health, National Multiple Sclerosis Society, and 
+      Genentech; and has received consulting fees from Contineum Therapeutics and 
+      Kiniksa Pharmaceuticals. LK received research support to the institution 
+      (University Hospital Basel, Basel, Switzerland) including steering committee, 
+      advisory board, and consultancy fees from Actelion (Janssen), Bayer, Biogen, 
+      Bristol Myers Squibb, GSK, Janssen, Japan Tobacco, Merck, Novartis, Roche, 
+      Sanofi, Santhera, and Shionogi, and TG Therapeutics; speaker fees from Bayer, 
+      Biogen, Merck, Novartis, Roche, and Sanofi; support of educational activities 
+      from Allergan, Bayer, Biogen, CSL Behring, Desitin, Merck, Novartis, Pfizer, 
+      Roche, Sanofi, Shire, and Teva; license fees for Neurostatus platform access; and 
+      grants from Bayer, Biogen, EU, InnoSwiss, Merck, Novartis, Roche, Swiss Multiple 
+      Sclerosis Society, and Swiss National Research Foundation. CL reports funding 
+      support from the Natural Sciences and Engineering Research Council of Canada, the 
+      Craig H. Neilsen Foundation, the International Collaboration on Repair 
+      Discoveries, and the University of British Columbia. SDN reports grants or 
+      contracts from Biogen, Roche, Genentech, Lunbeck, Sanofi, National Multiple 
+      Sclerosis Society, Department of Defense, and Patient Centered Outcomes Research 
+      Institute; personal compensation for consulting from Biogen, Roche, Genentech, 
+      Bristol Myers Squibb, Novartis, and TG Therapeutics; is the study lead PI for a 
+      Roche clinical trial program; and reports research support from the Stiff Person 
+      Syndrome Research Foundation. XM's institution has received compensation for 
+      lecture honoraria and travel expenses, participation in scientific meetings, 
+      clinical trial steering committee membership, or clinical advisory board 
+      participation in recent years from Abbvie, Actelion, Alexion, Bial PD, Biogen, 
+      Bristol-Myers Squibb/Celgene, EMD Serono, Genzyme, Hoffmann-La Roche, Immunic 
+      Therapeutics, Janssen Pharmaceuticals, Medday, Merck, Mylan, Nervgen, 
+      Neuraxpharm, Novartis, Peervoice, Samsung-Biosys, Sandoz, Sanofi-Genzyme, Teva 
+      Pharmaceutical, TG Therapeutics, Excemed, Medscape, European Committee for 
+      Treatment and Research in Multiple Sclerosis, Multiple Sclerosis International 
+      Federation, and National Multiple Sclerosis Society or any of their affiliates. 
+      In the last 3 years, SAM has served as an advisory board member or received 
+      consulting fees from Biogen Idec, BMS/Celgene, EMD Serono, Novartis, Roche, and 
+      Sanofi Genzyme; participated in a speaker's bureau for Biogen Idec, BMS/Celgene, 
+      EMD Serono, Novartis, Roche, and Sanofi; has received research support from 
+      Biogen Idec EMD Serono, Novartis, Roche, Sanofi Genzyme, MS Canada, Canadian 
+      Institute of Health Research, and National Multiple Sclerosis Society; has 
+      participated as a site investigator in clinical trials sponsored by BMS/Celgene, 
+      EMD Serono, Novartis, Roche, and Sanofi; and has acted as site PI for 
+      multi-center trials funded by BMS/Celgene, EMD Serono, Novartis, Roche, and 
+      Sanofi Genzyme. MMS serves on the editorial board of Neurology, Multiple 
+      Sclerosis Journal, and Frontiers in Neurology; receives research support from the 
+      Dutch MS Research Foundation, Eurostars-EUREKA, Association pur la Recherche sur 
+      la Sclerose en Plaque, Amsterdam Neuroscience, MAGNIMS, and ZonMW (Vidi grant, 
+      project number 09150172010056); and has served as a consultant for or received 
+      research support from Atara Biotherapeutics, Biogen, Celgene/Bristol Meyers 
+      Squibb, EIP, Sanofi, MedDay, and Merck. NS receives research funding from the 
+      NIH, National MS Society, and Patient Centered Outcomes Research Institute. ATo 
+      has been supported by recent grants from the Medical Research Council 
+      (MR/S026088/1National Institute for Health and Care Research Biomedical Research 
+      Centre (541/CAP/OC/818837), and RoseTrees Trust (A1332 and PGL21/10079); speaker 
+      honoraria from Merck, Biomedia, Sereno Symposia International Foundation, Bayer, 
+      and At the Limits; was reimbursed for meeting expenses from Merck, Biogen Idec, 
+      and Novartis; and was the UK PI for two clinical trials sponsored by MEDDAY 
+      pharmaceutical company (MD1003 in optic neuropathy [MS-ON - NCT02220244] and 
+      progressive MS [MS-SPI2 - NCT02936037]). JW has research support from Biogen; is 
+      a consultant for BMS; and has been a speaker for Biogen, EMD Serono, and Sanofi. 
+      JS-G received compensation in the last 24 months for consulting services and 
+      speaking honoraria from BMS, Sanofi, Merck, and Roche; is scientific director of 
+      Revista de Neurología and member of the editorial committee of Multiple Sclerosis 
+      Journal, for which he receives an honorarium; and he has received research 
+      support from Fondo de Investigación en Salud (PI19/00950 and PI22/00750) from 
+      Instituto de Salud Carlos III, Spain. ATr is the MS Canada Research Chair; has 
+      received honoraria from Sanofi for membership in data monitoring committee and 
+      clinical trial steering committee and from Roche for clinical trial steering 
+      committee membership; and declares research funding from Roche, NIH, and MS 
+      Society of Canada. DO has received research support from the National Institutes 
+      of Health, National Multiple Sclerosis Society, Patient Centered Outcomes 
+      Research Institute, Race to Erase MS Foundation, Genentech, Genzyme, Bristol 
+      Myers Squibb, and Novartis; and declares consulting fees from Bristol Myers 
+      Squibb, Genentech/Roche, Novartis, and Contineum Therapeutics. AR serves on 
+      scientific advisory boards for Novartis, Sanofi, Synthetic MR, Roche, and Biogen; 
+      has received speaker honoraria from Bayer, Sanofi-Genzyme, Merck-Serono, Teva 
+      Pharmaceutical Industries, Novartis, Roche, Bristol-Myers and Biogen; is the CMO 
+      and co-founder of TensorMedical; and receives research support from Fondo de 
+      Investigación en Salud (PI19/00950 and PI22/01589) from Instituto de Salud Carlos 
+      III, Spain. All other authors declare no competing interests.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/02/27 00:00 [received]
+PHST- 2025/07/28 00:00 [revised]
+PHST- 2025/08/04 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S1474-4422(25)00304-7 [pii]
+AID - 10.1016/S1474-4422(25)00304-7 [doi]
+PST - ppublish
+SO  - Lancet Neurol. 2025 Oct;24(10):866-879. doi: 10.1016/S1474-4422(25)00304-7.

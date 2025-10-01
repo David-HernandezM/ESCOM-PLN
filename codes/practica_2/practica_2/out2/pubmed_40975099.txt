@@ -1,0 +1,294 @@
+PMID- 40975099
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250920
+LR  - 20250922
+IS  - 1474-4465 (Electronic)
+IS  - 1474-4422 (Linking)
+VI  - 24
+IP  - 10
+DP  - 2025 Oct
+TI  - Association between the Edinburgh CT and genetic diagnostic criteria for cerebral 
+      amyloid angiopathy-associated lobar intracerebral haemorrhage and recurrent 
+      intracerebral haemorrhage: an individual patient data meta-analysis.
+PG  - 828-839
+LID - S1474-4422(25)00285-6 [pii]
+LID - 10.1016/S1474-4422(25)00285-6 [doi]
+AB  - BACKGROUND: Patients with lobar intracerebral haemorrhage and MRI biomarkers of 
+      cerebral amyloid angiopathy have a greater risk of recurrent intracerebral 
+      haemorrhage than patients without these biomarkers. However, access to MRI is 
+      limited. We aimed to determine whether the Edinburgh CT-only and CT-APOE 
+      diagnostic criteria for cerebral amyloid angiopathy-related lobar intracerebral 
+      haemorrhage are associated with recurrent intracerebral haemorrhage. METHODS: We 
+      did a meta-analysis of individual patient data from cohort studies identified at 
+      the 2018 International cerebral amyloid angiopathy conference in Lille, France, 
+      assessing patients with lobar intracerebral haemorrhage with available diagnostic 
+      CT imaging that had been, or could be, rated for the Edinburgh cerebral amyloid 
+      angiopathy criteria imaging features, and with follow-up data for recurrent 
+      intracerebral haemorrhage and death. Eligible patients were aged 16 years or 
+      older with first or recurrent spontaneous lobar intracerebral haemorrhage 
+      diagnosed by non-contrast brain CT, with no evidence of an underlying cause other 
+      than cerebral small vessel disease. Collaborators provided individual 
+      patient-level data. The primary outcome was first recurrent intracerebral 
+      haemorrhage occurring at least 30 days after the index event, analysed using 
+      primary two-stage (cohort-level) and secondary one-stage (pooled) meta-analyses 
+      with multivariable regression models with a competing risk of death, adjusted for 
+      age, sex, and CT small vessel disease score. Pooled analyses were adjusted for 
+      previous intracerebral haemorrhage, dementia, hypertension, and cohort 
+      clustering. All analyses were done in R Project for Statistical Computing 
+      (version 4.5.0). FINDINGS: We included eight cohorts from Austria, France, 
+      Germany, Italy, the UK, and the USA, with 1705 eligible patients for the CT-only 
+      criteria. In the primary two-stage meta-analysis of the CT-only criteria (562 
+      patients from three European cohorts, median age 76 years [IQR 68-82], 282 [50%] 
+      female and 280 [50%] male), 69 patients had a recurrent intracerebral haemorrhage 
+      over 1381 person-years' follow-up. The proportion with recurrent intracerebral 
+      haemorrhage during 5-year follow-up in the intermediate-risk and high-risk 
+      CT-only cerebral amyloid angiopathy criteria group was 48 (16%) of 307 patients 
+      compared with 21 (8%) of 255 patients in the low-risk group (adjusted 
+      sub-distribution hazard ratio [HR] 1·79, 95% CI 1·05-3·05, p=0·032). In the 
+      one-stage meta-analysis of the CT-only criteria (1620 patients with lobar 
+      intracerebral haemorrhage from eight cohorts, median age 73 years [IQR 62-80], 
+      763 [47%] female and 857 [53%] male), 171 patients had a recurrent intracerebral 
+      haemorrhage over 3208 person-years' follow-up. Cumulative 5-year incidence of 
+      recurrent intracerebral haemorrhage in the low-risk CT-only cerebral amyloid 
+      angiopathy criteria group was 45 (12%) of 727 patients compared with 54 (16%) of 
+      513 patients in the intermediate-risk group (adjusted sub-distribution HR 1·68, 
+      95% CI 1·21-2·32; p=0·0018), and 72 (26%) of 380 patients in the high-risk group 
+      (adjusted sub-distribution HR 2·97, 1·50-5·89, p=0·0018). We included six cohorts 
+      with 1021 eligible patients for the CT-APOE criteria; 15 patients with missing 
+      baseline data were excluded. There were insufficient outcomes in individual 
+      CT-APOE cohorts to do the two-stage meta-analysis. In the one-stage meta-analysis 
+      of the CT-APOE criteria (1006 patients, median age 71 years [IQR 58-79, 477 [47%] 
+      female and 529 [53%] male), 74 patients had a recurrent intracerebral haemorrhage 
+      over 1495 person-years' follow-up. Cumulative 3-year incidence of recurrent 
+      intracerebral haemorrhage was 34 (15%) of 320 patients in the high-risk CT-APOE 
+      cerebral amyloid angiopathy criteria group versus 14 (8%) of 322 patients in the 
+      low-risk group (adjusted sub-distribution HR 2·22 [95% CI 1·36-3·61], p=0·0014). 
+      INTERPRETATION: The Edinburgh CT-only and CT-APOE diagnostic criteria for 
+      cerebral amyloid angiopathy-associated lobar intracerebral haemorrhage were 
+      associated with a greater incidence of recurrent intracerebral haemorrhage. These 
+      findings could aid personalised prediction and targeted secondary prevention in 
+      standard clinical practice where brain CT is available. FUNDING: UK Medical 
+      Research Council, The Stroke Association, The Wellcome Trust, and The British 
+      Heart Foundation.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access 
+      article under the CC BY 4.0 license.
+FAU - Rodrigues, Mark A
+AU  - Rodrigues MA
+AD  - Institute for Neuroscience and Cardiovascular Research, The University of 
+      Edinburgh, Edinburgh, UK.
+FAU - Seiffge, David
+AU  - Seiffge D
+AD  - Department of Neurology, Inselspital University Hospital Bern and University of 
+      Bern, Bern, Switzerland.
+FAU - Samarasekera, Neshika
+AU  - Samarasekera N
+AD  - Institute for Neuroscience and Cardiovascular Research, The University of 
+      Edinburgh, Edinburgh, UK.
+FAU - Moullaali, Tom J
+AU  - Moullaali TJ
+AD  - Institute for Neuroscience and Cardiovascular Research, The University of 
+      Edinburgh, Edinburgh, UK.
+FAU - Wardlaw, Joanna M
+AU  - Wardlaw JM
+AD  - Institute for Neuroscience and Cardiovascular Research, The University of 
+      Edinburgh, Edinburgh, UK; UK Dementia Research Institute Centre at the University 
+      of Edinburgh, Edinburgh, Scotland, UK.
+FAU - Schreiber, Stefanie
+AU  - Schreiber S
+AD  - Department of Neurology, Otto-von-Guericke University Magdeburg & DZNE Magdeburg, 
+      Magdeburg, Germany.
+FAU - Behymer, Tyler P
+AU  - Behymer TP
+AD  - Department of Radiology, University of Cincinnati College of Medicine, 
+      Cincinnati, OH, USA.
+FAU - Khandwala, Vivek
+AU  - Khandwala V
+AD  - Department of Radiology, University of Cincinnati College of Medicine, 
+      Cincinnati, OH, USA.
+FAU - Stanton, Robert J
+AU  - Stanton RJ
+AD  - Department of Neurology, University of Cincinnati College of Medicine, 
+      Cincinnati, OH, USA.
+FAU - Vagal, Vaibhav
+AU  - Vagal V
+AD  - Department of Neurology, University of Cincinnati College of Medicine, 
+      Cincinnati, OH, USA.
+FAU - Woo, Daniel
+AU  - Woo D
+AD  - Neurology Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio 
+      Emilia, Italy.
+FAU - Zedde, Marialuisa
+AU  - Zedde M
+AD  - University at Buffalo, Jacobs School of Medicine and Biomedical Sciences, 
+      Buffalo, NY, USA.
+FAU - Pascarella, Rosario
+AU  - Pascarella R
+AD  - Neuroradiology Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, 
+      Reggio Emilia, Italy.
+FAU - Charidimou, Andreas
+AU  - Charidimou A
+AD  - Department of Neurology, Massachusetts General Hospital, Boston, MA, USA; 
+      Department of Neurology, Boston University Medical Center, Boston University 
+      School of Medicine, Boston, MA, USA.
+FAU - Warren, Andrew
+AU  - Warren A
+AD  - Department of Neurology, Massachusetts General Hospital, Boston, MA, USA.
+FAU - Greenberg, Steven M
+AU  - Greenberg SM
+AD  - Department of Neurology, Massachusetts General Hospital, Boston, MA, USA.
+FAU - Eppinger, Sebastian
+AU  - Eppinger S
+AD  - Department of Neurology and Division of Neuroradiology, Vascular and 
+      Interventional Radiology, Medical University of Graz, Graz, Austria.
+FAU - Gattringer, Thomas
+AU  - Gattringer T
+AD  - Department of Neurology and Division of Neuroradiology, Vascular and 
+      Interventional Radiology, Medical University of Graz, Graz, Austria.
+FAU - Casolla, Barbara
+AU  - Casolla B
+AD  - University of Lille, Inserm, CHU Lille, U1172-LilNCog-Lille Neuroscience & 
+      Cognition, Lille, France; Stroke Unit, CHU Pasteur 2, Université Côte d'Azur, 
+      UMR2CA-URRIS, Nice, France.
+FAU - Cordonnier, Charlotte
+AU  - Cordonnier C
+AD  - University of Lille, Inserm, CHU Lille, U1172-LilNCog-Lille Neuroscience & 
+      Cognition, Lille, France.
+FAU - Werring, David J
+AU  - Werring DJ
+AD  - Stroke Research Centre, UCL Queen Square Institute of Neurology, London, UK.
+FAU - Al-Shahi Salman, Rustam
+AU  - Al-Shahi Salman R
+AD  - Institute for Neuroscience and Cardiovascular Research, The University of 
+      Edinburgh, Edinburgh, UK. Electronic address: Rustam.Al-Shahi@ed.ac.uk.
+CN  - Edinburgh CAA criteria prognosis collaborators
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PL  - England
+TA  - Lancet Neurol
+JT  - The Lancet. Neurology
+JID - 101139309
+RN  - 0 (Apolipoproteins E)
+SB  - IM
+MH  - Humans
+MH  - *Cerebral Amyloid Angiopathy/genetics/diagnostic imaging/complications/diagnosis
+MH  - *Cerebral Hemorrhage/diagnostic imaging/genetics/etiology
+MH  - Recurrence
+MH  - Male
+MH  - Female
+MH  - *Tomography, X-Ray Computed
+MH  - Aged
+MH  - Middle Aged
+MH  - Cohort Studies
+MH  - Aged, 80 and over
+MH  - Apolipoproteins E/genetics
+COIS- Declaration of interests MAR reports a grant paid to their institution from The 
+      Wellcome Trust. DS reports grants from the Swiss Medical Science Foundation and 
+      Bangerter-Rhyner Foundation. TJM reports grants paid to their institution from 
+      the Chief Scientist Office, Scotland, and Scottish Heart and Arterial Risk 
+      Prevention. JMW reports grants paid to their institution from UK Dementia 
+      Research Institute funded by UK Medical Research Council, Alzheimer's Society, 
+      and Alzheimer's Research UK. RJS reports a grant paid to their institution from 
+      the National Institutes for Health (NIH). DW reports a grant paid to their 
+      institution from NIH. TG reports a grant paid to their institution from the 
+      Austrian Science Fund. BC reports grants from Regional GIRCI Méditerranée 
+      funding, Nice University Hospital, Acticor Biotech, Bayer, and Agence Nationale 
+      de la Recherche; honoraria from ACTICOR Biotech, University of Bern, 
+      Sanofi-Aventis France, and AMGEN; and support from European Stroke Organisation, 
+      French Neurovascular Society, Belgium Stroke Council, and French Neurology 
+      Society for attending meetings. CC reports grants from the French Ministry of 
+      Health and Agence Nationale de la Recherche and is on the International Trial 
+      Steering committee (ongoing) for Biogen (CHARM trial) and International Trial 
+      Steering committee (ongoing) for Bayer (Oceanic Stroke trial). DJW reports 
+      consulting fees from NovoNordisk, National Institute for Health and Clinical 
+      Excellence, and Alnylam; honoraria from NovoNordisk, Bayer, and AstraZeneca; 
+      participation on OXHARP trial data safety monitoring board; participation on 
+      MACE-ICH and PLINTH Steering Committee Chairs; and is President of British and 
+      Irish Association of Stroke Physicians. RASS reports grants paid to their 
+      institution from the Medical Research Council, The Stroke Association, British 
+      Heart Foundation Clinical Study Grant and Chief Scientist Office Health 
+      Improvement, Protection and Services Research Committee Project Grant; consulting 
+      fees paid to their institution from Recursion Pharmaceuticals; honoraria paid to 
+      their institution from European Stroke Masters (European Stroke Organisation); 
+      participation on Novo Nordisk NN9931-4553 and NN9931-4554 endpoint adjudication 
+      committee; and is clinical director of UK Clinical Research Collaboration network 
+      of registered Clinical Trials Units. NS, SS, TPB, VK, MZ, RP, AC, AW, SMG, SE 
+      declare no competing interests.
+FIR - Al-Shahi Salman, Rustam
+IR  - Al-Shahi Salman R
+FIR - Loan, James J M
+IR  - Loan JJM
+FIR - Moullaali, Tom J
+IR  - Moullaali TJ
+FIR - Rodrigues, Mark A
+IR  - Rodrigues MA
+FIR - Samarasekera, Neshika
+IR  - Samarasekera N
+FIR - Smith, Colin J
+IR  - Smith CJ
+FIR - Wardlaw, Joanna M
+IR  - Wardlaw JM
+FIR - Seiffge, David
+IR  - Seiffge D
+FIR - Werring, David J
+IR  - Werring DJ
+FIR - Arndt, Philipp
+IR  - Arndt P
+FIR - Schreiber, Frank
+IR  - Schreiber F
+FIR - Schreiber, Stefanie
+IR  - Schreiber S
+FIR - Pascarella, Rosario
+IR  - Pascarella R
+FIR - Zedde, Marialuisa
+IR  - Zedde M
+FIR - Charidimou, Andreas
+IR  - Charidimou A
+FIR - Greenberg, Steven M
+IR  - Greenberg SM
+FIR - Warren, Andrew
+IR  - Warren A
+FIR - Behymer, Tyler
+IR  - Behymer T
+FIR - Khandwala, Vivek
+IR  - Khandwala V
+FIR - Stanton, Robert
+IR  - Stanton R
+FIR - Vagal, Vaibhav
+IR  - Vagal V
+FIR - Woo, Daniel
+IR  - Woo D
+FIR - Eppinger, Sebastian
+IR  - Eppinger S
+FIR - Gattringer, Thomas
+IR  - Gattringer T
+FIR - Boulouis, Grégoire
+IR  - Boulouis G
+FIR - Caparros, François
+IR  - Caparros F
+FIR - Casolla, Barbara
+IR  - Casolla B
+FIR - Cordonnier, Charlotte
+IR  - Cordonnier C
+FIR - Dequatre-Ponchelle, Nelly
+IR  - Dequatre-Ponchelle N
+FIR - Hénon, Hilde
+IR  - Hénon H
+FIR - Puy, Laurent
+IR  - Puy L
+FIR - Rossi, Costanza
+IR  - Rossi C
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 18:53
+PHST- 2025/02/25 00:00 [received]
+PHST- 2025/07/25 00:00 [revised]
+PHST- 2025/07/28 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/20 18:53 [entrez]
+AID - S1474-4422(25)00285-6 [pii]
+AID - 10.1016/S1474-4422(25)00285-6 [doi]
+PST - ppublish
+SO  - Lancet Neurol. 2025 Oct;24(10):828-839. doi: 10.1016/S1474-4422(25)00285-6.

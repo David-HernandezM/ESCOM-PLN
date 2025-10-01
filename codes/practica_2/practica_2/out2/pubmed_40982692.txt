@@ -1,0 +1,190 @@
+PMID- 40982692
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 122
+IP  - 39
+DP  - 2025 Sep 30
+TI  - PPT1 is a negative regulator of STING signaling in cancer cells and its 
+      inhibition reactivates immune surveillance in cold tumors.
+PG  - e2514948122
+LID - 10.1073/pnas.2514948122 [doi]
+AB  - Immunotherapy modalities have revolutionized cancer treatment for a number of 
+      metastatic and treatment-refractory tumor types. Still, many malignancies that 
+      lack T cell infiltration and are termed immunologically "cold" fail to respond to 
+      these modalities. One approach to increase tumor immunogenicity has been to 
+      induce stimulator of interferon gene (STING) and downstream interferon signaling 
+      that is often dysregulated in cold tumors. Despite some early success of STING 
+      agonists in preclinical cancer models, these approaches have not been successful 
+      in the clinic due to poor tumor penetrance and systemic toxicities. Here, we 
+      performed a genome-wide CRISPR screen to uncover therapeutic targets to activate 
+      STING expression in human tumors. We identified the lysosomal hydrolase Palmitoyl 
+      Protein Thioesterase1 (PPT1) as a negative regulator of STING highly expressed in 
+      cold ovarian and prostate tumors. Genetic or pharmacological PPT1 suppression 
+      increased STING protein stability and its downstream activation of interferon and 
+      inflammatory cytokine signaling to enhance T cell migration. Treatment of 
+      preclinical prostate and ovarian cancer models expressing low levels of STING 
+      with the small molecule PPT1 inhibitor GNS561 enhanced STING expression and 
+      activation, leading to infiltration and activation of cytotoxic T cells that 
+      turned these tumors "hot" and reduced tumor growth, fibrosis, and dissemination 
+      without toxicity. Further analysis demonstrated that PPT1 is associated with 
+      reduced STING expression, CD8(+) T cell numbers, overall survival, and 
+      immunotherapy outcomes in ovarian and prostate cancer patients. Thus, PPT1 
+      inhibition may be a promising approach to activate STING and potentiate the 
+      effects of immunotherapy in cold tumors.
+FAU - Chowdhury, Shreya R
+AU  - Chowdhury SR
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Parikh, Chaitanya N
+AU  - Parikh CN
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Kaur, Arshia N
+AU  - Kaur AN
+AD  - Department of Systems Biology, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+FAU - DeMarco, Kelly D
+AU  - DeMarco KD
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Giwa, Hadiya K
+AU  - Giwa HK
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Mishra, Alok K
+AU  - Mishra AK
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Murphy, Katherine C
+AU  - Murphy KC
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Zhou, Lin
+AU  - Zhou L
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Ma, Boyang
+AU  - Ma B
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Ye, Tianyi
+AU  - Ye T
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Li, Junhui
+AU  - Li J
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Liu, Haibo
+AU  - Liu H
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Bai, Shi
+AU  - Bai S
+AD  - Department of Pathology, University of Massachusetts Medical Center, Worcester, 
+      MA 01605.
+FAU - Johnson, Calvin
+AU  - Johnson C
+AD  - Division of Hematology-Oncology, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+AD  - Department of Medicine, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+FAU - Simin, Karl
+AU  - Simin K
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Pitarresi, Jason R
+AU  - Pitarresi JR
+AD  - Division of Hematology-Oncology, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+AD  - Department of Medicine, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+FAU - Zhu, Lihua Julie
+AU  - Zhu LJ
+AUID- ORCID: 0000-0001-7416-0590
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+AD  - Program in Molecular Medicine, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+AD  - Department of Genomics and Computational Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Watson, Emma V
+AU  - Watson EV
+AD  - Department of Systems Biology, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+FAU - Kelliher, Michelle A
+AU  - Kelliher MA
+AUID- ORCID: 0000-0001-9211-3659
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Green, Michael R
+AU  - Green MR
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+FAU - Fitzgerald, Katherine A
+AU  - Fitzgerald KA
+AUID- ORCID: 0000-0003-3175-609X
+AD  - Department of Medicine, University of Massachusetts Chan Medical School, 
+      Worcester, MA 01605.
+FAU - Ruscetti, Marcus
+AU  - Ruscetti M
+AUID- ORCID: 0000-0002-4394-2087
+AD  - Department of Molecular, Cell, and Cancer Biology, University of Massachusetts 
+      Chan Medical School, Worcester, MA 01605.
+LA  - eng
+GR  - W81XWH-22-1-0505/DOD | MHS | CDMRP | DOD Prostate Cancer Research Program (PCRP)/
+GR  - UL1-TR001453/HHS | NIH | National Center for Advancing Translational Sciences 
+      (NCATS)/
+GR  - Young Investigator Award/Breast Cancer Alliance (BCA)/
+GR  - NIH T32 GM135751/HHS | NIH | National Institute of General Medical Sciences 
+      (NIGMS)/
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Membrane Proteins)
+RN  - 0 (STING1 protein, human)
+RN  - EC 3.1.2.- (Thiolester Hydrolases)
+RN  - EC 3.1.2.22 (palmitoyl-protein thioesterase)
+SB  - IM
+MH  - *Membrane Proteins/metabolism/genetics/immunology
+MH  - Humans
+MH  - Female
+MH  - Animals
+MH  - Signal Transduction
+MH  - *Thiolester Hydrolases/metabolism/genetics/antagonists & inhibitors
+MH  - Male
+MH  - Mice
+MH  - Cell Line, Tumor
+MH  - *Ovarian Neoplasms/immunology/pathology/genetics
+MH  - *Immunologic Surveillance
+MH  - *Prostatic Neoplasms/immunology/pathology/genetics
+MH  - Immunotherapy
+MH  - Gene Expression Regulation, Neoplastic
+OTO - NOTNLM
+OT  - Palmitoyl Protein Thioesterase 1
+OT  - STING
+OT  - cancer
+OT  - inflammatory
+COIS- Competing interests statement:K.A.F. is a member of the Scientific Advisory Board 
+      for Generation Bio, Janssen Immunology and NodThera Inc. She is also a scientific 
+      founder of Danger Bio, a related sciences company. She is also a paid consultant 
+      for Elicio Therapeutics, Jnana Therapeutics, Dong-A ST Co, Ltd and Moderna. M.R. 
+      and J.R.P. are consultants for Boehringer Ingelheim. None of the work in this 
+      study is related to any of these activities.
+EDAT- 2025/09/22 18:36
+MHDA- 2025/09/22 18:37
+CRDT- 2025/09/22 15:03
+PHST- 2025/09/22 18:37 [medline]
+PHST- 2025/09/22 18:36 [pubmed]
+PHST- 2025/09/22 15:03 [entrez]
+AID - 10.1073/pnas.2514948122 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2025 Sep 30;122(39):e2514948122. doi: 
+      10.1073/pnas.2514948122. Epub 2025 Sep 22.

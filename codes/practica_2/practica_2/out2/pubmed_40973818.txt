@@ -1,0 +1,214 @@
+PMID- 40973818
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 2522-5812 (Electronic)
+IS  - 2522-5812 (Linking)
+DP  - 2025 Sep 19
+TI  - Mapping the plasma metabolome to human health and disease in 274,241 adults.
+LID - 10.1038/s42255-025-01371-1 [doi]
+AB  - A systematic characterization of metabolic profiles in human health and disease 
+      enhances precision medicine. Here we present a comprehensive human 
+      metabolome-phenome atlas, using data from 274,241 UK Biobank participants with 
+      nuclear magnetic resonance metabolic measures. This atlas links 313 plasma 
+      metabolites to 1,386 diseases and 3,142 traits, with participants being 
+      prospectively followed for a median of 14.9 years. This atlas uncovered 52,836 
+      metabolite-disease and 73,639 metabolite-trait associations, where the ratio of 
+      cholesterol to total lipids in large low-density lipoprotein percentage was found 
+      as the metabolite associated with the highest number (n = 526) of diseases. In 
+      addition, we found that more than half (57.5%) of metabolites showed statistical 
+      variations from healthy individuals over a decade before disease onset. Combined 
+      with demographics, the machine-learning-based metabolic risk score signified the 
+      top 30 (around 10%) metabolites as biomarkers, yielding favourable classification 
+      performance (area under the curve > 0.8) for 94 prevalent and 81 incident 
+      diseases. Finally, Mendelian randomization analyses provided support for causal 
+      relationships of 454 metabolite-disease pairs, among which 402 exhibited shared 
+      genetic determinants. Additional insights can be gleaned via an accessible 
+      interactive resource ( https://metabolome-phenome-atlas.com/ ).
+CI  - © 2025. The Author(s).
+FAU - You, Jia
+AU  - You J
+AUID- ORCID: 0000-0002-7079-8041
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China.
+FAU - Cui, Xi-Han
+AU  - Cui XH
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Chen, Yi-Lin
+AU  - Chen YL
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Wang, Yi-Xuan
+AU  - Wang YX
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Li, Hai-Yun
+AU  - Li HY
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Qiang, Yi-Xuan
+AU  - Qiang YX
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Cheng, Ji-Yun
+AU  - Cheng JY
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Deng, Yue-Ting
+AU  - Deng YT
+AUID- ORCID: 0000-0002-9962-7860
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Guo, Yu
+AU  - Guo Y
+AUID- ORCID: 0009-0002-1747-4440
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Ren, Peng
+AU  - Ren P
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China.
+FAU - Zhang, Yi
+AU  - Zhang Y
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - He, Yu
+AU  - He Y
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - He, Xiao-Yu
+AU  - He XY
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Chen, Shi-Dong
+AU  - Chen SD
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Zhang, Ya-Ru
+AU  - Zhang YR
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Huang, Yu-Yuan
+AU  - Huang YY
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China.
+FAU - Mao, Ying
+AU  - Mao Y
+AUID- ORCID: 0000-0001-8055-115X
+AD  - Department of Neurosurgery, Huashan Hospital Fudan University, Shanghai, China.
+FAU - Feng, Jian-Feng
+AU  - Feng JF
+AUID- ORCID: 0000-0001-5987-2258
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China. jianfeng64@gmail.com.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China. jianfeng64@gmail.com.
+AD  - Department of Computer Science, University of Warwick, Coventry, UK. 
+      jianfeng64@gmail.com.
+FAU - Cheng, Wei
+AU  - Cheng W
+AUID- ORCID: 0000-0003-1118-1743
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China. wcheng.fdu@gmail.com.
+AD  - Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence, 
+      Fudan University, Ministry of Education, Shanghai, China. wcheng.fdu@gmail.com.
+FAU - Yu, Jin-Tai
+AU  - Yu JT
+AUID- ORCID: 0000-0002-2532-383X
+AD  - Department of Neurology and National Center for Neurological Disorders, Huashan 
+      Hospital, Institute of Science and Technology for Brain-Inspired Intelligence, 
+      State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain 
+      Science, Shanghai Academy of Natural Sciences (SANS), Shanghai Medical College, 
+      Fudan University, Shanghai, China. jintai_yu@fudan.edu.cn.
+LA  - eng
+GR  - 2023SHZDZX02/Science and Technology Commission of Shanghai Municipality (Shanghai 
+      Municipal Science and Technology Commission)/
+GR  - 82071201/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82271471/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 92249305/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82402381, 82471940/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82071997, 82472055/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250919
+PL  - Germany
+TA  - Nat Metab
+JT  - Nature metabolism
+JID - 101736592
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 23:56
+PHST- 2024/10/24 00:00 [received]
+PHST- 2025/08/11 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 23:56 [entrez]
+AID - 10.1038/s42255-025-01371-1 [pii]
+AID - 10.1038/s42255-025-01371-1 [doi]
+PST - aheadofprint
+SO  - Nat Metab. 2025 Sep 19. doi: 10.1038/s42255-025-01371-1.

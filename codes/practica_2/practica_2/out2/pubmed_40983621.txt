@@ -1,0 +1,284 @@
+PMID- 40983621
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2059-3635 (Electronic)
+IS  - 2059-3635 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2025 Sep 23
+TI  - Ninjurin-1 mediates cell lysis and detrimental inflammation of PANoptosis during 
+      influenza A virus infection.
+PG  - 307
+LID - 10.1038/s41392-025-02391-9 [doi]
+AB  - Influenza A virus (IAV) induces ZBP1-mediated PANoptosis, a form of lytic 
+      inflammatory cell death characterized by concurrent activation of the pyroptosis, 
+      necroptosis and apoptosis pathways. Ninjurin-1 (NINJ1) is a recently identified 
+      mediator of plasma membrane rupture but functions diversely in different types of 
+      cell death. However, little is known about the role of NINJ1 in IAV-induced 
+      PANoptosis and viral pneumonia. Here, we report that IAV infection triggered an 
+      increase in the expression of NINJ1, which then oligomerized and mediated cell 
+      lysis in infected macrophages. The deficiency of NINJ1 prevented plasma membrane 
+      rupture and the release of DAMPs and IL-1β without affecting the progression of 
+      cell death. Activation of any single PANoptosis pathway was sufficient to trigger 
+      the oligomerization of NINJ1 and robust cell lysis. Accordingly, only when all 
+      PANoptosis pathways were concurrently blocked could the oligomerization of NINJ1, 
+      cell death, and cell rupture be prevented. Ablation of NINJ1 in vivo also 
+      alleviated IAV-induced lung injury and mortality. Furthermore, we revealed an 
+      association between NINJ1 upregulation and poor outcomes in patients with 
+      COVID-19. Collectively, our findings indicate a pivotal role of NINJ1 in the 
+      immunopathology of IAV infection and its potential as a bioindicator of disease 
+      severity and prognosis in viral pneumonia and viral sepsis.
+CI  - © 2025. The Author(s).
+FAU - Xu, Yitian
+AU  - Xu Y
+AUID- ORCID: 0000-0003-0326-9251
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Zheng, Ying
+AU  - Zheng Y
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+AD  - Department of Pulmonary and Critical Care Medicine, China-Japan Friendship 
+      Hospital, Capital Medical University, Beijing, China.
+FAU - Liu, Yan
+AU  - Liu Y
+AD  - Department of Critical Care Medicine, Yantai Affiliated Hospital of Binzhou 
+      Medical University, Yantai, Shandong, China.
+FAU - Wei, Cheng
+AU  - Wei C
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Ren, Juan
+AU  - Ren J
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+AD  - Department of Pulmonary and Critical Care Medicine, The Second Affiliated 
+      Hospital of Harbin Medical University, Harbin, Heilongjiang, China.
+FAU - Zuo, Wenting
+AU  - Zuo W
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Gu, Runqing
+AU  - Gu R
+AD  - Medical Data and Medical Record Management Center, Huashan Hospital, Fudan 
+      University, Shanghai, China.
+FAU - Liu, Hongyu
+AU  - Liu H
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+AD  - Department of Pulmonary and Critical Care Medicine, China-Japan Friendship 
+      Hospital, Capital Medical University, Beijing, China.
+FAU - Deng, Xiaoyan
+AU  - Deng X
+AD  - Tsinghua University-Peking University Joint Centre for Life Sciences, Tsinghua 
+      University, Beijing, China.
+FAU - Liu, Yaxue
+AU  - Liu Y
+AD  - School of Basic Medical Sciences, Tsinghua University, Beijing, China.
+FAU - Shang, Xiao
+AU  - Shang X
+AD  - School of Basic Medical Sciences, Tsinghua University, Beijing, China.
+FAU - Ge, Weiwei
+AU  - Ge W
+AD  - Tsinghua University-Peking University Joint Centre for Life Sciences, Tsinghua 
+      University, Beijing, China.
+FAU - Li, Ziyao
+AU  - Li Z
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Huang, Yijiao
+AU  - Huang Y
+AD  - School of Basic Medical Sciences, Tsinghua University, Beijing, China.
+FAU - He, Di
+AU  - He D
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+AD  - Department of Pulmonary and Critical Care Medicine, China-Japan Friendship 
+      Hospital, Capital Medical University, Beijing, China.
+FAU - Shen, Xuhui
+AU  - Shen X
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Wang, Zeyi
+AU  - Wang Z
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Lyu, Chen
+AU  - Lyu C
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Wang, Zai
+AU  - Wang Z
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Mu, Yuxian
+AU  - Mu Y
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China.
+FAU - Zhang, Zihuan
+AU  - Zhang Z
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China.
+FAU - Wu, Hongping
+AU  - Wu H
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China. tsinghuavirgil@gmail.com.
+FAU - Li, Haibo
+AU  - Li H
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China. shrineswe@vip.qq.com.
+FAU - Cao, Bin
+AU  - Cao B
+AD  - China-Japan Friendship Hospital (Institute of Clinical Medical Sciences), Chinese 
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, China. 
+      caobin_ben@163.com.
+AD  - National Center for Respiratory Medicine; State Key Laboratory of Respiratory 
+      Health and Multimorbidity; National Clinical Research Center for Respiratory 
+      Diseases; Institute of Respiratory Medicine, Chinese Academy of Medical Sciences; 
+      Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research on 
+      Emerging Infectious Diseases; New Cornerstone Science Laboratory; Department of 
+      Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan 
+      Friendship Hospital, Beijing, China. caobin_ben@163.com.
+AD  - Department of Pulmonary and Critical Care Medicine, China-Japan Friendship 
+      Hospital, Capital Medical University, Beijing, China. caobin_ben@163.com.
+AD  - Department of Pulmonary and Critical Care Medicine, The Second Affiliated 
+      Hospital of Harbin Medical University, Harbin, Heilongjiang, China. 
+      caobin_ben@163.com.
+AD  - Tsinghua University-Peking University Joint Centre for Life Sciences, Tsinghua 
+      University, Beijing, China. caobin_ben@163.com.
+LA  - eng
+GR  - 82241056/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82100009/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+GR  - 82470007/National Natural Science Foundation of China (National Science 
+      Foundation of China)/
+PT  - Journal Article
+DEP - 20250923
+PL  - England
+TA  - Signal Transduct Target Ther
+JT  - Signal transduction and targeted therapy
+JID - 101676423
+RN  - 0 (Cell Adhesion Molecules, Neuronal)
+RN  - 0 (NINJ1 protein, human)
+RN  - 0 (Ninj1 protein, mouse)
+RN  - 0 (Interleukin-1beta)
+RN  - 0 (Nerve Growth Factors)
+SB  - IM
+MH  - Humans
+MH  - Animals
+MH  - Mice
+MH  - *Influenza A virus/pathogenicity/genetics
+MH  - *Influenza, Human/genetics/pathology/virology/metabolism
+MH  - *Cell Adhesion Molecules, Neuronal/genetics/metabolism/immunology
+MH  - *COVID-19/genetics/pathology/virology/metabolism/immunology
+MH  - Inflammation/genetics/pathology/virology
+MH  - *Orthomyxoviridae Infections/genetics/pathology/virology
+MH  - SARS-CoV-2/pathogenicity/genetics
+MH  - Interleukin-1beta/genetics
+MH  - *Necroptosis/genetics
+MH  - Male
+MH  - Female
+MH  - Macrophages/virology/pathology/metabolism
+MH  - Mice, Knockout
+MH  - Nerve Growth Factors
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:18
+CRDT- 2025/09/22 23:15
+PHST- 2025/01/24 00:00 [received]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/07/08 00:00 [revised]
+PHST- 2025/09/23 03:18 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:15 [entrez]
+AID - 10.1038/s41392-025-02391-9 [pii]
+AID - 10.1038/s41392-025-02391-9 [doi]
+PST - epublish
+SO  - Signal Transduct Target Ther. 2025 Sep 23;10(1):307. doi: 
+      10.1038/s41392-025-02391-9.

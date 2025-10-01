@@ -1,0 +1,126 @@
+PMID- 40975475
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1879-0712 (Electronic)
+IS  - 0014-2999 (Linking)
+VI  - 1006
+DP  - 2025 Sep 18
+TI  - Transcriptomic profiling unveils novel therapeutic options for drug-resistant 
+      temporal lobe epilepsy.
+PG  - 178146
+LID - S0014-2999(25)00900-8 [pii]
+LID - 10.1016/j.ejphar.2025.178146 [doi]
+AB  - BACKGROUND: Epilepsy drug treatments fail in 25-30 % of patients, leading to drug 
+      resistance. Temporal lobe epilepsy is the most prevalent subtype associated with 
+      drug resistance. Classical drug discovery is a long and extremely costly process 
+      with a high failure rate in clinical trials. Drug repurposing is a more cost- and 
+      time-effective strategy. Hence, the main objective of this study is to propose 
+      drug candidates for the treatment of drug-resistant temporal lobe epilepsy 
+      (DR-TLE) through drug repurposing based on transcriptomic profiling. METHODS: 
+      Total RNA-sequencing (RNA-Seq) was performed on 45 formalin-fixed 
+      paraffin-embedded (FFPE) hippocampi of DR-TLE patients and 36 FFPE hippocampi of 
+      post-mortem biobank donors. RNA-Seq was carried out on an Illumina NovaSeq 6000 
+      platform in 100bp paired-end. Drug repurposing based on transcriptomic analysis 
+      top candidates was performed against these databases: Pandrugs2, PharmOmics, 
+      DGIdb, ToppGene, L1000CDS(2) and Connectivity Map. RESULTS: We identified 887 
+      genes differentially expressed between DR-TLE patients and post-mortem controls. 
+      We observed 74 potential drug candidates in at least two independent databases. 
+      Of these, we selected only the 11 which can cross the blood-brain barrier: 
+      cobimetinib, panobinostat, melphalan, rucaparib, alectinib, ponatinib, danazol, 
+      carboplatin, vandetanib, erlotinib, and gefitinib. After analyzing their 
+      mechanisms to modulate epileptogenesis, their safety and efficacy profiles from 
+      previous publications, we provide a list of the top 5 candidates. CONCLUSION: 
+      Based on differential RNA-Seq profiling, we therefore propose erlotinib, danazol, 
+      rucaparib, ponatinib, and panobinostat.
+CI  - Copyright © 2025 Elsevier B.V. All rights reserved.
+FAU - Sánchez-Jiménez, Patricia
+AU  - Sánchez-Jiménez P
+AD  - Clinical Pharmacology Department, Hospital Universitario de La Princesa, 
+      Instituto de Investigaciones Sanitarias la Princesa (IIS-IP), Universidad 
+      Autónoma de Madrid, Madrid, Spain; NIMGenetics Genómica y Medicina S.L., Madrid, 
+      Spain.
+FAU - Alonso-Guirado, Lola
+AU  - Alonso-Guirado L
+AD  - Genetic & Molecular Epidemiology Group, Spanish National Cancer Research Center 
+      (CNIO), Madrid, Spain.
+FAU - Cerrada-Gálvez, Laura
+AU  - Cerrada-Gálvez L
+AD  - Departamento de Ciencias Farmacéuticas y de la Salud, Facultad de Farmacia, 
+      Universidad San Pablo-CEU, CEU Universities, Spain.
+FAU - Elizalde-Horcada, Marcos
+AU  - Elizalde-Horcada M
+AD  - Institut d'Investigació Sanitària Pere Virgili (IISPV), Bioinformatics Platform, 
+      Reus, Tarragona, Spain.
+FAU - Granero-Cremades, Inmaculada
+AU  - Granero-Cremades I
+AD  - Clinical Analysis Department, Hospital Universitario de La Princesa, Madrid, 
+      Spain.
+FAU - Maietta, Paolo
+AU  - Maietta P
+AD  - GenomCore S.L., Barcelona, Spain.
+FAU - Gómez-Martín, Antonio
+AU  - Gómez-Martín A
+AD  - Andalusian School of Public Health (EASP), Granada, Spain; Instituto de 
+      Investigación Biosanitaria ibs.GRANADA, Granada, Spain.
+FAU - Abad-Santos, Francisco
+AU  - Abad-Santos F
+AD  - Clinical Pharmacology Department, Hospital Universitario de La Princesa, 
+      Instituto de Investigaciones Sanitarias la Princesa (IIS-IP), Universidad 
+      Autónoma de Madrid, Madrid, Spain.
+FAU - Torres-Díaz, Cristina Virginia
+AU  - Torres-Díaz CV
+AD  - Neurosurgery Department, Hospital Universitario de La Princesa, Madrid, Spain.
+FAU - de Toledo, Maria
+AU  - de Toledo M
+AD  - Neurology Deparment, Hospital Universitario de La Princesa, Madrid, Spain.
+FAU - Frade-Porto, Natalia
+AU  - Frade-Porto N
+AD  - Hospital Central de la Defensa "Gómez Ulla"., Madrid, Spain.
+FAU - Gonzalez-Tarno, Patricia
+AU  - Gonzalez-Tarno P
+AD  - Neurosurgery Department, Hospital Universitario de La Princesa, Madrid, Spain.
+FAU - Pulido, Paloma
+AU  - Pulido P
+AD  - Neurosurgery Department, Hospital Universitario de La Princesa, Madrid, Spain.
+FAU - Ovejero-Benito, María C
+AU  - Ovejero-Benito MC
+AD  - Departamento de Ciencias Farmacéuticas y de la Salud, Facultad de Farmacia, 
+      Universidad San Pablo-CEU, CEU Universities, Spain. Electronic address: 
+      maria.ovejerobenito@ceu.es.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - Netherlands
+TA  - Eur J Pharmacol
+JT  - European journal of pharmacology
+JID - 1254354
+SB  - IM
+OTO - NOTNLM
+OT  - Drug discovery
+OT  - Drug repurposing
+OT  - Drug-resistant epilepsy
+OT  - RNA-Seq
+OT  - Refractory epilepsy
+OT  - Transcriptomics
+COIS- Declaration of competing interest F Abad-Santos has been a consultant or 
+      investigator in clinical trials sponsored by the following pharmaceutical 
+      companies: Abbott, Alter, aptaTargerts, Chemo, Farmalíder, Ferrer, 
+      GlaxoSmithKline, Gilead, Janssen-Cilag, Kern, Normon, Novartis, Servier, Teva, 
+      and Zambon. MC Ovejero-Benito has potential conflicts of interest (research 
+      support) with Leo Pharma. None of the conflicts of interest disclosed relate to 
+      this publication. The rest of the authors have no relevant financial or 
+      non-financial interests to disclose.
+EDAT- 2025/09/21 00:29
+MHDA- 2025/09/21 00:29
+CRDT- 2025/09/20 19:42
+PHST- 2024/11/04 00:00 [received]
+PHST- 2025/09/08 00:00 [revised]
+PHST- 2025/09/11 00:00 [accepted]
+PHST- 2025/09/21 00:29 [pubmed]
+PHST- 2025/09/21 00:29 [medline]
+PHST- 2025/09/20 19:42 [entrez]
+AID - S0014-2999(25)00900-8 [pii]
+AID - 10.1016/j.ejphar.2025.178146 [doi]
+PST - aheadofprint
+SO  - Eur J Pharmacol. 2025 Sep 18;1006:178146. doi: 10.1016/j.ejphar.2025.178146.

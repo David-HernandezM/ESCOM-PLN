@@ -1,0 +1,141 @@
+PMID- 40973484
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1523-5866 (Electronic)
+IS  - 1522-8517 (Linking)
+DP  - 2025 Sep 18
+TI  - Multiple patient-derived glioblastoma models reveal synthetic lethality through 
+      concurrent PI3K and CDK4/6 inhibition by blocking trans-active cooperation.
+LID - noaf224 [pii]
+LID - 10.1093/neuonc/noaf224 [doi]
+AB  - BACKGROUND: Dysregulation of the PI3K signaling pathway has been recognized as a 
+      pivotal oncogenic driver in GBM progression. Although PI3K inhibitors have 
+      demonstrated initial therapeutic efficacy, the development of resistance through 
+      compensatory upregulation of alternative signaling pathways substantially limits 
+      their clinical benefits. However, the molecular mechanisms underlying this 
+      resistance to PI3K monotherapy in GBM remain incompletely understood. METHODS: 
+      Multiple patient-derived glioblastoma models including organoids (GBOs), primary 
+      dissociated cells (PDCs) and xenografts (PDCX) were established as clinically 
+      relevant platforms to evaluate the feasibility of tailored therapy. Comprehensive 
+      molecular profiling and functional analyses were conducted across these 
+      patient-derived models. RNA sequencing, mass spectrometry, DNA spreading assays, 
+      HR /NHEJ reporter assays and mIF were performed to elucidate the molecular 
+      underpinnings of PI3K and CDK4/6 co-activation in driving tumor evolution, and to 
+      reveal the synthetic lethality efficacy of the concurrent strategy. RESULTS: Our 
+      findings demonstrate that PI3K monoinhibition induces aberrant CDK4/6 activation, 
+      and co-activation of PI3K-CDK4/6 signaling positively correlates with monotherapy 
+      resistance, which is driven by tumor evolution. The concurrent strategies with 
+      PI3K and CDK4/6 inhibition synergistically achieve therapeutic efficacy in 
+      suppressing the growth of GBOs, PDCs and PDCX. Mechanistically, insufficient DNA 
+      damage response under PI3Ki mono-therapy upregulated CDK4/6, driving aberrant 
+      cell cycle progression. The small-molecule inhibitors paxalisib and ribociclib 
+      potently suppress tumor proliferation, which induced persistent replication 
+      stress and genomic instability. CONCLUSIONS: Employing multiple patient-derived 
+      models, our study uncovers clinically relevant PI3Ki resistance mechanisms and 
+      advocates a rationale for synthetic lethality through combined PI3K-CDK4/6 
+      inhibition, offering substantial therapeutic potential for GBM patients.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Society for Neuro-Oncology. All rights reserved. For commercial re-use, please 
+      contact reprints@oup.com for reprints and translation rights for reprints. All 
+      other permissions can be obtained through our RightsLink service via the 
+      Permissions link on the article page on our site—for further information please 
+      contact journals.permissions@oup.com.
+FAU - Zhang, Jing
+AU  - Zhang J
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+AD  - State Key Laboratory of Cardiovascular Diseases and Medical Innovation Center, 
+      Shanghai East Hospital, School of Medicine, Tongji University, Shanghai 200120, 
+      China.
+AD  - Institute for Advanced Study, Tongji University, Shanghai, 20092, China.
+FAU - Chen, Xu
+AU  - Chen X
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Cheng, Meng
+AU  - Cheng M
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Wang, Jingzhe
+AU  - Wang J
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Wu, Yueyao
+AU  - Wu Y
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Xie, Han
+AU  - Xie H
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Zhang, Chunyu
+AU  - Zhang C
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Wang, Honghao
+AU  - Wang H
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Pang, Ying
+AU  - Pang Y
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Ji, Tongjie
+AU  - Ji T
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Yang, Yuntong
+AU  - Yang Y
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Yang, Junyu
+AU  - Yang J
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Xu, Siyi
+AU  - Xu S
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Wang, Zhigang
+AU  - Wang Z
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Wang, Qi
+AU  - Wang Q
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Liu, Min
+AU  - Liu M
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+FAU - Zhong, Chunlong
+AU  - Zhong C
+AD  - Department of Neurosurgery, Shanghai East Hospital, School of Medicine, Tongji 
+      University, Shanghai 200120, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250918
+PL  - England
+TA  - Neuro Oncol
+JT  - Neuro-oncology
+JID - 100887420
+SB  - IM
+OTO - NOTNLM
+OT  - DNA damage repair
+OT  - Glioblastoma
+OT  - drug resistance
+OT  - patient-derived 3D models
+OT  - synthetic lethality
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 21:27
+PHST- 2025/05/09 00:00 [received]
+PHST- 2025/09/15 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 21:27 [entrez]
+AID - 8257822 [pii]
+AID - 10.1093/neuonc/noaf224 [doi]
+PST - aheadofprint
+SO  - Neuro Oncol. 2025 Sep 18:noaf224. doi: 10.1093/neuonc/noaf224.

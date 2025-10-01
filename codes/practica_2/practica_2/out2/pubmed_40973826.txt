@@ -1,0 +1,120 @@
+PMID- 40973826
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1759-4782 (Electronic)
+IS  - 1759-4774 (Linking)
+DP  - 2025 Sep 19
+TI  - Next-generation T cell immunotherapies engineered with CRISPR base and prime 
+      editing: challenges and opportunities.
+LID - 10.1038/s41571-025-01072-4 [doi]
+AB  - T cells can be reprogrammed with transgenic antigen recognition receptors, 
+      including chimeric antigen receptors and T cell receptors, to selectively 
+      recognize and kill cancer cells. Such adoptive T cell therapies are effective in 
+      patients with certain haematological cancers but challenges persist, including 
+      primary and secondary resistance, a lack of efficacy in patients with solid 
+      tumours, a narrow range of targetable antigens, and time-consuming and complex 
+      manufacturing processes. CRISPR-based genome editing is a potent strategy to 
+      enhance cellular immunotherapies. Conventional CRISPR-Cas9 systems are useful for 
+      gene editing, transgene knock-in or gene knockout but can result in undesired 
+      editing outcomes, including translocations and chromosomal truncations. Base 
+      editing and prime editing technologies constitute a new generation of CRISPR 
+      platforms and enable highly precise and programmable installation of defined 
+      nucleotide variants in primary T cells. Owing to their high precision and 
+      versatility, base editing and prime editing systems, hereafter collectively 
+      referred to as CRISPR 2.0, are advancing to become the new standard for 
+      precision-engineering of cellular immunotherapies. CRISPR 2.0 can be used to 
+      augment immune cell function, broaden the spectrum of targetable antigens and 
+      facilitate streamlined production of T cell therapies. Notably, CRISPR 2.0 is 
+      reaching clinical maturity, with multiple clinical trials of CRISPR 2.0-modified 
+      cellular therapies currently ongoing. In this Review, we discuss emerging CRISPR 
+      2.0 technologies and their progress towards clinical translation, highlighting 
+      challenges and opportunities, and describe strategies for the use of CRISPR 2.0 
+      to advance cellular immunotherapy for haematological malignancies and solid 
+      tumours in the future.
+CI  - © 2025. Springer Nature Limited.
+FAU - Petri, Karl
+AU  - Petri K
+AUID- ORCID: 0000-0002-9624-3976
+AD  - Chair of Cellular Immunotherapy, Medical Clinic and Policlinic II, University 
+      Hospital Würzburg, Würzburg, Germany. petri_k@ukw.de.
+AD  - National Center for Tumor Diseases (NCT), Site WERA, Würzburg, Germany. 
+      petri_k@ukw.de.
+AD  - Bavarian Center for Cancer Research (BZKF), Lighthouse Cellular Immunotherapies, 
+      Würzburg, Germany. petri_k@ukw.de.
+FAU - D'Ippolito, Elvira
+AU  - D'Ippolito E
+AUID- ORCID: 0000-0003-0113-6797
+AD  - Institute for Medical Microbiology, Immunology and Hygiene, School of Medicine 
+      and Health, Technical University of Munich, Munich, Germany.
+AD  - German Center for Infection Research, Partner Site Munich, Munich, Germany.
+FAU - Künkele, Annette
+AU  - Künkele A
+AD  - Department of Pediatric Oncology/Hematology, Charité-Universitätsmedizin Berlin, 
+      Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, 
+      Berlin, Germany.
+AD  - German Cancer Consortium, Partner Site Berlin, Berlin, Germany.
+FAU - Köhl, Ulrike
+AU  - Köhl U
+AUID- ORCID: 0000-0002-8159-9160
+AD  - Fraunhofer Institute for Cell Therapy and Immunology IZI, Leipzig, Germany.
+AD  - Institute for Clinical Immunology, University Hospital of Leipzig, Leipzig, 
+      Germany.
+FAU - Busch, Dirk H
+AU  - Busch DH
+AUID- ORCID: 0000-0001-8713-093X
+AD  - Institute for Medical Microbiology, Immunology and Hygiene, School of Medicine 
+      and Health, Technical University of Munich, Munich, Germany.
+AD  - German Center for Infection Research, Partner Site Munich, Munich, Germany.
+FAU - Einsele, Hermann
+AU  - Einsele H
+AUID- ORCID: 0000-0002-7680-0819
+AD  - National Center for Tumor Diseases (NCT), Site WERA, Würzburg, Germany.
+AD  - Bavarian Center for Cancer Research (BZKF), Lighthouse Cellular Immunotherapies, 
+      Würzburg, Germany.
+AD  - Medical Clinic and Policlinic II, University Hospital Würzburg, Würzburg, 
+      Germany.
+FAU - Hudecek, Michael
+AU  - Hudecek M
+AD  - Chair of Cellular Immunotherapy, Medical Clinic and Policlinic II, University 
+      Hospital Würzburg, Würzburg, Germany. Hudecek_M@ukw.de.
+AD  - National Center for Tumor Diseases (NCT), Site WERA, Würzburg, Germany. 
+      Hudecek_M@ukw.de.
+AD  - Bavarian Center for Cancer Research (BZKF), Lighthouse Cellular Immunotherapies, 
+      Würzburg, Germany. Hudecek_M@ukw.de.
+AD  - Fraunhofer Institute for Cell Therapy and Immunology IZI, Branch Site Cellular 
+      Immunotherapy, Würzburg, Germany. Hudecek_M@ukw.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250919
+PL  - England
+TA  - Nat Rev Clin Oncol
+JT  - Nature reviews. Clinical oncology
+JID - 101500077
+SB  - IM
+COIS- Competing interests: K.P. has a financial interest in and is an equity owner of 
+      SeQure Dx and is listed as an inventor on granted patents related to CRISPR 
+      technologies that have been filed by Massachusetts General Hospital. U.K. had 
+      received consultancy and/or speaker fees from Affimed, AstraZeneca, Bristol Myers 
+      Squibb (BMS) GammaDelta, Glycostem, Miltenyi Biotec, Novartis and Zelluna. H.E. 
+      declares consulting or advisory roles for and has received honoraria from Amgen, 
+      BMS/Celgene, GSK, Janssen, Novartis, Sanofi and Takeda; research funding from 
+      Amgen, BMS/Celgene, GSK, Janssen and Sanofi; and travel support from Amgen, 
+      BMS/Celgene, Janssen, Novartis, Sanofi and Takeda. M.H. is listed as an inventor 
+      on patent applications and granted patents related to CAR T cell technologies 
+      that have been filed by the Fred Hutchinson Cancer Research Center and by the 
+      University of Würzburg; is a cofounder and equity owner of T-CURX; has received 
+      honoraria from BMS/Celgene, Janssen and Kite/Gilead. E.D., A.K. and D.H.B. 
+      declare no competing interests.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 23:58
+PHST- 2025/08/20 00:00 [accepted]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:58 [entrez]
+AID - 10.1038/s41571-025-01072-4 [pii]
+AID - 10.1038/s41571-025-01072-4 [doi]
+PST - aheadofprint
+SO  - Nat Rev Clin Oncol. 2025 Sep 19. doi: 10.1038/s41571-025-01072-4.

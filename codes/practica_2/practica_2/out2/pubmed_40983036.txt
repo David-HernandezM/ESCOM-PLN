@@ -1,0 +1,151 @@
+PMID- 40983036
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 1528-0020 (Electronic)
+IS  - 0006-4971 (Linking)
+DP  - 2025 Sep 22
+TI  - Talquetamab plus daratumumab for the treatment of relapsed or refractory multiple 
+      myeloma in the TRIMM-2 study.
+LID - blood.2025029360 [pii]
+LID - 10.1182/blood.2025029360 [doi]
+AB  - Talquetamab, a GPRC5D-targeting bispecific antibody for relapsed/refractory 
+      multiple myeloma (RRMM), plus daratumumab may lead to deeper and more durable 
+      responses than either therapy alone. In the phase 1b TRIMM-2 study, patients with 
+      RRMM (at least 3 prior lines of therapy or double refractory to a proteasome 
+      inhibitor and an immunomodulatory drug) received subcutaneous talquetamab 0.4 
+      mg/kg weekly (QW; "QW cohort") or 0.8 mg/kg every other week (Q2W; "Q2W cohort") 
+      plus daratumumab 1800 mg per the approved schedule. The primary end point was 
+      safety. Secondary end points included overall response and duration of response. 
+      Progression-free survival was an exploratory end point. Sixty-five patients 
+      (median 5 prior lines of therapy; 61.5% triple-class refractory; 24.6% bispecific 
+      antibody-exposed) received talquetamab plus daratumumab (QW, n = 14; Q2W, n = 51; 
+      median follow-up: 18.6 months). Most common adverse events were oral events, skin 
+      events, cytokine release syndrome, and infections. Grade 3/4 events occurred in 
+      81.5%. Two patients had dose-limiting toxicities, both in the Q2W cohort (grade 3 
+      stomatitis/oral mucositis and grade 3 maculopapular rash). Responses occurred in 
+      71.4% (QW cohort) and 82.4% (Q2W cohort) of patients. Median progression-free 
+      survival was 23.3 and 21.2 months, respectively, in each cohort. Pharmacodynamic 
+      results suggest the immunomodulatory action of daratumumab contributes to a 
+      conducive environment for talquetamab by reducing immunosuppressive cells. 
+      Talquetamab plus daratumumab demonstrated promising efficacy outcomes in heavily 
+      pretreated patients, with a safety profile consistent with each agent as 
+      monotherapy. ClinicalTrials.gov ID: NCT04108195.
+CI  - Copyright © 2025 American Society of Hematology.
+FAU - Chari, Ajai
+AU  - Chari A
+AD  - Univeristy of California, San Francisco, San Francisco, California, United 
+      States.
+FAU - van de Donk, Niels W C J
+AU  - van de Donk NWCJ
+AD  - Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam, Netherlands.
+FAU - Dholaria, Bhagirathbhai
+AU  - Dholaria B
+AUID- ORCID: 0000-0003-2371-3655
+AD  - Vanderbilt University Medical Center, Nashville, Tennessee, United States.
+FAU - Weisel, Katja C
+AU  - Weisel KC
+AD  - University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Mateos, Maria-Victoria
+AU  - Mateos MV
+AUID- ORCID: 0000-0003-2390-1218
+AD  - Hospital Universitario de Salamanca, Instituto de Investigacion Biomedica de 
+      Salamanca, Instituto de Biologia Molecular y Celular del Cancer (Universidad de 
+      Salamanca-Consejo Superior de Investigacion, Salamanca, Spain.
+FAU - Goldschmidt, Hartmut
+AU  - Goldschmidt H
+AUID- ORCID: 0000-0003-0961-0035
+AD  - Universitätsklinikum Heidelberg, Med. Klinik V, GMMG-Studygroup, Heidelberg, 
+      Germany.
+FAU - Martin, Tom G
+AU  - Martin TG
+AUID- ORCID: 0000-0002-9133-9813
+AD  - UCSF, San Francisco, California, United States.
+FAU - Morillo, Daniel
+AU  - Morillo D
+AD  - Hospital Universitario Fundación Jiménez Díaz, Madrid, Spain.
+FAU - Reece, Donna
+AU  - Reece D
+AD  - Princess Margaret Cancer Centre, Toronto, Ontario, Canada.
+FAU - Rodriguez-Otero, Paula
+AU  - Rodriguez-Otero P
+AUID- ORCID: 0000-0001-5236-7785
+AD  - Cancer Center Clínica Universidad de Navarra, Pamplona, Spain.
+FAU - Bhutani, Manisha
+AU  - Bhutani M
+AUID- ORCID: 0000-0002-9019-7438
+AD  - Atrium Health Levine Cancer Institute, Charlotte, North Carolina, United States.
+FAU - D'Souza, Anita
+AU  - D'Souza A
+AD  - Medical College of Wisconsin, Milwaukee, Wisconsin, United States.
+FAU - Oriol, Albert
+AU  - Oriol A
+AUID- ORCID: 0000-0001-6804-2221
+AD  - ICO - Hosp Germans Trias i Pujol, Badalona, Spain.
+FAU - Rosiñol, Laura
+AU  - Rosiñol L
+AUID- ORCID: 0000-0002-2534-9239
+AD  - Hospital Clínic, IDIBAPS, Barcelona, Spain.
+FAU - Bahlis, Nizar J
+AU  - Bahlis NJ
+AUID- ORCID: 0000-0001-7353-7034
+AD  - Arnie Charbonneau Cancer Institute, University of Calgary, Calgary, Alberta, 
+      Canada.
+FAU - Vishwamitra, Deeksha
+AU  - Vishwamitra D
+AD  - Johnson & Johnson, United States.
+FAU - Skerget, Sheri
+AU  - Skerget S
+AD  - Johnson & Jphnson, United States.
+FAU - Verona, Raluca I
+AU  - Verona RI
+AUID- ORCID: 0000-0003-0044-4341
+AD  - Johnson & Johnson, United States.
+FAU - Bakshi, Kalpana K
+AU  - Bakshi KK
+AD  - Johnson & Johnson, Spring House, Pennsylvania, United States.
+FAU - Kang, Lijuan
+AU  - Kang L
+AD  - Johnson & Johnson, Spring House, Pennsylvania, United States.
+FAU - Prior, Thomas J
+AU  - Prior TJ
+AUID- ORCID: 0000-0001-5220-7730
+AD  - Johnson & Johnson, United States.
+FAU - Vandenberk, Lien
+AU  - Vandenberk L
+AD  - Johnson & Johnson, Beerse, Belgium.
+FAU - Tolbert, Jaszianne
+AU  - Tolbert J
+AD  - Johnson & Johnson, Raritan, New Jersey, United States.
+FAU - Lee, Sangmin
+AU  - Lee S
+AD  - Johnson & Johnson, Spring House, Pennsylvania, United States.
+FAU - Smit, Damiette
+AU  - Smit D
+AD  - Enliven Therapeutics, Boulder, Colorado, United States.
+FAU - Wäsch, Ralph
+AU  - Wäsch R
+AUID- ORCID: 0000-0002-0813-3444
+AD  - University Medical Center, Freiburg, Germany.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04108195
+PT  - Journal Article
+DEP - 20250922
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+SB  - IM
+EDAT- 2025/09/22 18:38
+MHDA- 2025/09/22 18:38
+CRDT- 2025/09/22 18:02
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/04/01 00:00 [received]
+PHST- 2025/07/28 00:00 [revised]
+PHST- 2025/09/22 18:38 [medline]
+PHST- 2025/09/22 18:38 [pubmed]
+PHST- 2025/09/22 18:02 [entrez]
+AID - 547408 [pii]
+AID - 10.1182/blood.2025029360 [doi]
+PST - aheadofprint
+SO  - Blood. 2025 Sep 22:blood.2025029360. doi: 10.1182/blood.2025029360.

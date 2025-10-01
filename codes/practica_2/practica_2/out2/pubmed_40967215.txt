@@ -1,0 +1,202 @@
+PMID- 40967215
+OWN - NLM
+STAT- Publisher
+LR  - 20250923
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+DP  - 2025 Sep 17
+TI  - Creeping fat-derived mechanosensitive fibroblasts drive intestinal fibrosis in 
+      Crohn's disease strictures.
+LID - S0092-8674(25)01018-9 [pii]
+LID - 10.1016/j.cell.2025.08.029 [doi]
+AB  - A significant complication of Crohn's disease (CD) is intestinal fibrosis, which 
+      narrows the bowel lumen to form a stricture. Creeping fat (CF) is the wrapping of 
+      mesenteric adipose tissue around diseased bowel, of which the role in CD 
+      stricture progression is unclear. By constructing a human single-cell CD 
+      fibroblast atlas, we identified CF-derived, CTHRC1+ fibroblasts enriched for 
+      Yes-associated protein (YAP)/transcriptional co-activator with PDZ-binding motif 
+      (TAZ) signatures and localized to a fibrotic CF-bowel wall interface within the 
+      stricture. We further showed that analogous Cthrc1+ mouse fibroblasts derive from 
+      mesenteric adipose tissue stromal cells, infiltrate fibrotic bowel, and deposit 
+      extracellular matrix in a YAP/TAZ-dependent manner in a mouse model of intestinal 
+      fibrosis. Our findings identify CF as a key source of pro-fibrotic fibroblasts 
+      and raise the possibility of improving future clinical management of stricture 
+      progression by targeting not only the bowel but also CF.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Bauer-Rowe, Khristian E
+AU  - Bauer-Rowe KE
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA; Institute for Stem Cell Biology and Regenerative 
+      Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.
+FAU - Pham, Benjamin
+AU  - Pham B
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Griffin, Michelle
+AU  - Griffin M
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Liang, Norah E
+AU  - Liang NE
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Kim, Alexia
+AU  - Kim A
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Lu, John M
+AU  - Lu JM
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA; Institute for Stem Cell Biology and Regenerative 
+      Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.
+FAU - Januszyk, Michael
+AU  - Januszyk M
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Guo, Jason L
+AU  - Guo JL
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - De Santis, Stefania
+AU  - De Santis S
+AD  - Department of Pathology, Case Western Reserve University School of Medicine, 
+      Cleveland, OH 44106, USA.
+FAU - Xing, Yue
+AU  - Xing Y
+AD  - Department of Immunology and Immunotherapy, Department of Dermatology, Icahn 
+      School of Medicine, Mt. Sinai, New York, NY, USA.
+FAU - Prystupa, Aleksandr
+AU  - Prystupa A
+AD  - Department of Immunology and Immunotherapy, Department of Dermatology, Icahn 
+      School of Medicine, Mt. Sinai, New York, NY, USA.
+FAU - Sidhu, Ikjot
+AU  - Sidhu I
+AD  - Department of Immunology and Immunotherapy, Department of Dermatology, Icahn 
+      School of Medicine, Mt. Sinai, New York, NY, USA.
+FAU - Suh, Elijah J
+AU  - Suh EJ
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Foster, Deshka S
+AU  - Foster DS
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Korah, Maria
+AU  - Korah M
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA; Institute for Stem Cell Biology and Regenerative 
+      Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.
+FAU - Goyal, Alka
+AU  - Goyal A
+AD  - Department of Pediatrics, Stanford University School of Medicine, Stanford, CA 
+      94305, USA.
+FAU - Wan, Derrick C
+AU  - Wan DC
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Norton, Jeffrey A
+AU  - Norton JA
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Delitto, Daniel
+AU  - Delitto D
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA.
+FAU - Pizarro, Theresa T
+AU  - Pizarro TT
+AD  - Department of Pathology, Case Western Reserve University School of Medicine, 
+      Cleveland, OH 44106, USA.
+FAU - Naik, Shruti L
+AU  - Naik SL
+AD  - Department of Immunology and Immunotherapy, Department of Dermatology, Icahn 
+      School of Medicine, Mt. Sinai, New York, NY, USA.
+FAU - Hyun, Jeong S
+AU  - Hyun JS
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA. Electronic address: jhyun1@stanford.edu.
+FAU - Longaker, Michael T
+AU  - Longaker MT
+AD  - Hagey Laboratory for Pediatric Regenerative Medicine, Division of Plastic and 
+      Reconstructive Surgery, Stanford University School of Medicine, Stanford, CA 
+      94305, USA; Department of Surgery, Stanford University School of Medicine, 
+      Stanford, CA 94305, USA; Institute for Stem Cell Biology and Regenerative 
+      Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA. 
+      Electronic address: longaker@stanford.edu.
+LA  - eng
+GR  - R01 AI168462/AI/NIAID NIH HHS/United States
+GR  - R01 DK125293/DK/NIDDK NIH HHS/United States
+GR  - R01 DE021683/DE/NIDCR NIH HHS/United States
+GR  - S10 OD016164/OD/NIH HHS/United States
+GR  - R01 AI184905/AI/NIAID NIH HHS/United States
+GR  - R01 AR081343/AR/NIAMS NIH HHS/United States
+GR  - R01 GM136659/GM/NIGMS NIH HHS/United States
+GR  - R01 DE032677/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+DEP - 20250917
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+SB  - IM
+PMC - PMC12453597
+MID - NIHMS2107620
+OTO - NOTNLM
+OT  - Crohn’s disease
+OT  - Yes-associated protein
+OT  - creeping fat
+OT  - fibroblasts
+OT  - fibrosis
+OT  - inflammatory bowel disease
+OT  - meta-analysis
+OT  - scRNA-seq
+OT  - strictures
+COIS- Declaration of interests S.L.N. is on the SAB of Seed Inc. and is a co-founder of 
+      Stara Biosciences. Stanford Provisional patent: “YAP Inhibition for Intestinal 
+      Fibrosis,” serial number 63/818,707 (M.T.L., J.S.H., A.K., B.P., N.E.L., and 
+      K.E.B.-R.).
+EDAT- 2025/09/19 00:36
+MHDA- 2025/09/19 00:36
+PMCR- 2026/09/17
+CRDT- 2025/09/18 18:41
+PHST- 2024/08/20 00:00 [received]
+PHST- 2025/05/23 00:00 [revised]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2026/09/17 00:00 [pmc-release]
+PHST- 2025/09/19 00:36 [medline]
+PHST- 2025/09/19 00:36 [pubmed]
+PHST- 2025/09/18 18:41 [entrez]
+AID - S0092-8674(25)01018-9 [pii]
+AID - 10.1016/j.cell.2025.08.029 [doi]
+PST - aheadofprint
+SO  - Cell. 2025 Sep 17:S0092-8674(25)01018-9. doi: 10.1016/j.cell.2025.08.029.

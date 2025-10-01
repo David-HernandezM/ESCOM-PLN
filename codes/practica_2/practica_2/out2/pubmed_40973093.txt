@@ -1,0 +1,116 @@
+PMID- 40973093
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1523-5866 (Electronic)
+IS  - 1522-8517 (Linking)
+DP  - 2025 Sep 17
+TI  - Transcriptomics-Guided High-Throughput Drug Screening Identifies Potent Therapies 
+      for P53 Pathway Alterated DIPG/DMG.
+LID - noaf216 [pii]
+LID - 10.1093/neuonc/noaf216 [doi]
+AB  - BACKGROUND: Diffuse midline gliomas (DMGs), particularly diffuse intrinsic 
+      pontine gliomas (DIPGs), are aggressive pediatric brain tumors with a median 
+      survival of less than 12 months. Notably, approximately 70% of these tumors 
+      harbor P53 pathway alterations, including TP53 or PPM1D mutations. Identifying 
+      precision therapies for this subset is crucial. This study aims to employ 
+      transcriptomics-guided high-throughput drug screening to identify effective 
+      treatments for DIPG/DMG with P53 pathway alterations. METHODS: Transcriptomic 
+      profiling of 98 patient samples containing 31 DIPGs revealed key activated 
+      pathways. Patient-derived cell lines were subjected to high-throughput screening 
+      using a cell cycle-targeting drug library. Lead candidates were validated both in 
+      vitro and in orthotopic xenograft models, while combination therapies were 
+      assessed for their ability to overcome TP53-mutant resistance. RESULTS: 
+      Transcriptomic analysis revealed activation of P53 and cell cycle pathways in 
+      DIPGs. High-throughput drug screening identified SN-38, a topoisomerase I 
+      inhibitor, as selectively targeting TP53 wild-type tumor cells by inducing G2 
+      arrest and apoptosis. TP53 knockdown abolished SN-38's efficacy, while PPM1D 
+      knockdown enhanced sensitivity, confirming a TP53-dependent mechanism. 
+      Conversely, TP53-mutated cells exhibited SN-38 resistance via ATR pathway 
+      activation. Combining SN-38 with the ATR inhibitor AZ20 restored apoptosis and 
+      suppressed TP53-mutant tumor growth in vitro and in vivo. CONCLUSIONS: Guided by 
+      transcriptomic profiling, this study utilized high-throughput drug screening to 
+      identify SN-38 as a potential therapy for TP53 wild-type DIPG/DMG, while the 
+      SN-38 and AZ20 combination was effective against TP53-mutant tumors. This 
+      approach provides a promising treatment strategy for this malignancy and 
+      establishes a novel paradigm for drug screening in DIPG/DMG.
+CI  - © The Author(s) 2025. Published by Oxford University Press on behalf of the 
+      Society for Neuro-Oncology.
+FAU - Jiang, Zhuang
+AU  - Jiang Z
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Xie, Luyang
+AU  - Xie L
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+AD  - Chinese Institutes for Medical Research, Beijing (CIMR), Capital Medical 
+      University, Beijing, 100070, China.
+FAU - Zhou, Hang
+AU  - Zhou H
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Geng, Yibo
+AU  - Geng Y
+AD  - Department of Neurosurgery, Beijing Chaoyang Hospital, Capital Medical 
+      University, Beijing, 100020, China.
+FAU - Xiao, Xiong
+AU  - Xiao X
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Li, Tian
+AU  - Li T
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Deng, Yuxuan
+AU  - Deng Y
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Zhang, Mingxin
+AU  - Zhang M
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+AD  - Chinese Institutes for Medical Research, Beijing (CIMR), Capital Medical 
+      University, Beijing, 100070, China.
+FAU - Shan, Shaobo
+AU  - Shan S
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Xu, Cheng
+AU  - Xu C
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+FAU - Zhang, Liwei
+AU  - Zhang L
+AD  - Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100070, China.
+AD  - Chinese Institutes for Medical Research, Beijing (CIMR), Capital Medical 
+      University, Beijing, 100070, China.
+AD  - Beijing Neurosurgical Institute, Beijing Tiantan Hospital, Capital Medical 
+      University, Beijing, 100070, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250917
+PL  - England
+TA  - Neuro Oncol
+JT  - Neuro-oncology
+JID - 100887420
+SB  - IM
+OTO - NOTNLM
+OT  - TP53
+OT  - AZ20
+OT  - DIPG/DMG
+OT  - Drug Screening
+OT  - SN-38
+EDAT- 2025/09/20 00:31
+MHDA- 2025/09/20 00:31
+CRDT- 2025/09/19 19:51
+PHST- 2025/04/03 00:00 [received]
+PHST- 2025/09/10 00:00 [accepted]
+PHST- 2025/09/20 00:31 [medline]
+PHST- 2025/09/20 00:31 [pubmed]
+PHST- 2025/09/19 19:51 [entrez]
+AID - 8256736 [pii]
+AID - 10.1093/neuonc/noaf216 [doi]
+PST - aheadofprint
+SO  - Neuro Oncol. 2025 Sep 17:noaf216. doi: 10.1093/neuonc/noaf216.

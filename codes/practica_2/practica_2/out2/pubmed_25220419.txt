@@ -1,0 +1,82 @@
+PMID- 25220419
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150831
+LR  - 20181113
+IS  - 1476-5594 (Electronic)
+IS  - 0950-9232 (Linking)
+VI  - 34
+IP  - 25
+DP  - 2015 Jun
+TI  - Cancer systems biology: embracing complexity to develop better anticancer 
+      therapeutic strategies.
+PG  - 3215-25
+LID - 10.1038/onc.2014.291 [doi]
+AB  - The transformation of normal cells into cancer cells and maintenance of the 
+      malignant state and phenotypes are associated with genetic and epigenetic 
+      deregulations, altered cellular signaling responses and aberrant interactions 
+      with the microenvironment. These alterations are constantly evolving as tumor 
+      cells face changing selective pressures induced by the cells themselves, the 
+      microenvironment and drug treatments. Tumors are also complex ecosystems where 
+      different, sometime heterogeneous, subclonal tumor populations and a variety of 
+      nontumor cells coexist in a constantly evolving manner. The interactions between 
+      molecules and between cells that arise as a result of these alterations and 
+      ecosystems are even more complex. The cancer research community is increasingly 
+      embracing this complexity and adopting a combination of systems biology methods 
+      and integrated analyses to understand and predictively model the activity of 
+      cancer cells. Systems biology approaches are helping to understand the mechanisms 
+      of tumor progression and design more effective cancer therapies. These approaches 
+      work in tandem with rapid technological advancements that enable data acquisition 
+      on a broader scale, with finer accuracy, higher dimensionality and higher 
+      throughput than ever. Using such data, computational and mathematical models help 
+      identify key deregulated functions and processes, establish predictive biomarkers 
+      and optimize therapeutic strategies. Moving forward, implementing 
+      patient-specific computational and mathematical models of cancer will 
+      significantly improve the specificity and efficacy of targeted therapy, and will 
+      accelerate the adoption of personalized and precision cancer medicine.
+FAU - Du, W
+AU  - Du W
+AD  - Laboratory of Cancer Systems Biology, Sandra and Edward Meyer Cancer Center, 
+      Department of Physiology and Biophysics, Institute for Computational Biomedicine 
+      and Institute for Precision Medicine, Weill Cornell Medical College, New York, 
+      NY, USA.
+FAU - Elemento, O
+AU  - Elemento O
+AD  - Laboratory of Cancer Systems Biology, Sandra and Edward Meyer Cancer Center, 
+      Department of Physiology and Biophysics, Institute for Computational Biomedicine 
+      and Institute for Precision Medicine, Weill Cornell Medical College, New York, 
+      NY, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20140915
+PL  - England
+TA  - Oncogene
+JT  - Oncogene
+JID - 8711562
+RN  - 0 (Antineoplastic Agents)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Agents/*pharmacology/therapeutic use
+MH  - Drug Discovery/*methods
+MH  - Genomics
+MH  - Humans
+MH  - Neoplasms/*drug therapy/genetics/metabolism/pathology
+MH  - Precision Medicine/trends
+MH  - Systems Biology/*methods
+EDAT- 2014/09/16 06:00
+MHDA- 2015/09/01 06:00
+CRDT- 2014/09/16 06:00
+PHST- 2014/06/06 00:00 [received]
+PHST- 2014/08/11 00:00 [revised]
+PHST- 2014/08/11 00:00 [accepted]
+PHST- 2014/09/16 06:00 [entrez]
+PHST- 2014/09/16 06:00 [pubmed]
+PHST- 2015/09/01 06:00 [medline]
+AID - onc2014291 [pii]
+AID - 10.1038/onc.2014.291 [doi]
+PST - ppublish
+SO  - Oncogene. 2015 Jun;34(25):3215-25. doi: 10.1038/onc.2014.291. Epub 2014 Sep 15.

@@ -1,0 +1,123 @@
+PMID- 31254460
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200626
+LR  - 20210110
+IS  - 2324-9269 (Electronic)
+IS  - 2324-9269 (Linking)
+VI  - 7
+IP  - 8
+DP  - 2019 Aug
+TI  - Genetics and genetic counseling in psychiatry: Results from an opinion survey of 
+      professionals and users.
+PG  - e830
+LID - 10.1002/mgg3.830 [doi]
+LID - e830
+AB  - BACKGROUND: The heritability of several psychiatric disorders is high, and 
+      specific at-risk variants have been identified. Therefore, genetic counseling and 
+      genetic testing can be prescribed to some psychiatric patients, but these 
+      services are not standardized for most of the population. The aims of the study 
+      were to gather opinions from mental health professionals and users regarding (a) 
+      the genetics of psychiatric disorders and (b) the usefulness of a genetic 
+      counseling unit in psychiatry. METHODS: The survey was conducted in the province 
+      of Tarragona (Spain), and we analyzed 152 valid questionnaires from professionals 
+      and 959 from users. RESULTS: Sixty-one percent of professionals strongly believed 
+      that psychiatric disorders have a genetic basis, and 59% rated a genetic 
+      counseling unit in psychiatry as very or extremely useful. However, only a few 
+      professionals reported that patients asked them about the genetics of their 
+      diseases (12%) or the possibility of transmitting the disease to offspring (19%). 
+      Forty-seven percent of users strongly believed that psychiatric disorders have a 
+      genetic basis, 30% responded that they talked with their families about the 
+      genetics of their diseases, and 43% were worried about transmitting the disease 
+      to offspring; however, only 14% reported that their psychiatrist had talked to 
+      them about this topic. Remarkably, 80% of users would consider a genetic 
+      counseling unit very or extremely useful. CONCLUSIONS: The present study showed 
+      that mental health professionals were more aware of the genetic basis of 
+      psychiatric disorders than users, and both considered the implementation of a 
+      genetic counseling service very useful.
+CI  - © 2019 The Authors. Molecular Genetics & Genomic Medicine published by Wiley 
+      Periodicals, Inc.
+FAU - Martorell, Lourdes
+AU  - Martorell L
+AUID- ORCID: 0000-0003-4999-2197
+AD  - Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i Virgili, 
+      Reus, Spain.
+AD  - Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM), Madrid, 
+      Spain.
+FAU - Sanfeliu, Annabel
+AU  - Sanfeliu A
+AD  - Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i Virgili, 
+      Reus, Spain.
+FAU - Blázquez, Ana
+AU  - Blázquez A
+AD  - Department of Child and Adolescent Psychiatry and Psychology, Clinic Institute of 
+      Neurosciences, Hospital Clínic de Barcelona, Barcelona, Spain.
+FAU - Lojo, Elia
+AU  - Lojo E
+AD  - Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i Virgili, 
+      Reus, Spain.
+FAU - Cortés, Maria José
+AU  - Cortés MJ
+AD  - Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i Virgili, 
+      Reus, Spain.
+AD  - Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM), Madrid, 
+      Spain.
+FAU - de Pablo, Joan
+AU  - de Pablo J
+AD  - Germans Trias i Pujol Hospital. UAB, Badalona, Spain.
+FAU - Vilella, Elisabet
+AU  - Vilella E
+AUID- ORCID: 0000-0002-1887-5919
+AD  - Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i Virgili, 
+      Reus, Spain.
+AD  - Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM), Madrid, 
+      Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20190629
+PL  - United States
+TA  - Mol Genet Genomic Med
+JT  - Molecular genetics & genomic medicine
+JID - 101603758
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Attitude of Health Personnel
+MH  - Clinical Competence
+MH  - Family
+MH  - Female
+MH  - *Genetic Counseling
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Health Personnel/statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/diagnosis/*genetics
+MH  - Middle Aged
+MH  - Psychiatry/*methods
+MH  - Surveys and Questionnaires/statistics & numerical data
+MH  - Young Adult
+PMC - PMC6687663
+OTO - NOTNLM
+OT  - genetic counseling
+OT  - genetics
+OT  - patients
+OT  - professionals
+OT  - psychiatry
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/06/30 06:00
+MHDA- 2020/06/27 06:00
+PMCR- 2019/06/29
+CRDT- 2019/06/30 06:00
+PHST- 2019/01/21 00:00 [received]
+PHST- 2019/05/08 00:00 [revised]
+PHST- 2019/05/17 00:00 [accepted]
+PHST- 2019/06/30 06:00 [pubmed]
+PHST- 2020/06/27 06:00 [medline]
+PHST- 2019/06/30 06:00 [entrez]
+PHST- 2019/06/29 00:00 [pmc-release]
+AID - MGG3830 [pii]
+AID - 10.1002/mgg3.830 [doi]
+PST - ppublish
+SO  - Mol Genet Genomic Med. 2019 Aug;7(8):e830. doi: 10.1002/mgg3.830. Epub 2019 Jun 
+      29.

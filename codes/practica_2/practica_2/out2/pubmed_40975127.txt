@@ -1,0 +1,160 @@
+PMID- 40975127
+OWN - NLM
+STAT- Publisher
+LR  - 20250920
+IS  - 2090-1224 (Electronic)
+IS  - 2090-1224 (Linking)
+DP  - 2025 Sep 18
+TI  - Dynamic remodeling of amino acid metabolism in tumor-associated macrophages: 
+      Fueling immunosuppression, reshaping tumor niches, and unlocking metabolic 
+      checkpoints.
+LID - S2090-1232(25)00729-5 [pii]
+LID - 10.1016/j.jare.2025.09.025 [doi]
+AB  - BACKGROUND: Tumor-associated macrophages depend on their amino acid metabolism to 
+      determine their properties and immune function and play important roles in the 
+      tumor microenvironment (TME). Although in previous studies, targeting amino acid 
+      metabolism to transform the protumor function of tumor-associated macrophages 
+      (TAMs) into antitumor immune function has shown promising application as a tumor 
+      therapy, current clinical research is still limited. There is a lack of 
+      discussion on the mechanism and treatment strategy for determining tumor 
+      progression by controlling amino acid metabolism in TAMs, as does a summary of 
+      studies on promoting tumor progression by reshaping amino acid metabolism in 
+      TAMs. AIM OF REVIEW: This review aims to systematically review and summarize the 
+      crosstalk between amino acid metabolism in TAMs and the TME, analyze the 
+      determining role of its metabolic network in tumor occurrence and development, 
+      and summarize therapies on this basis to help determine the development status 
+      and emerging technologies in the field of amino acid metabolism in TAMs for tumor 
+      therapy. KEY SCIENTIFIC CONCEPTS OF REVIEW: This review dissects how TAMs exploit 
+      amino acid dynamics via transporters, enzymes, and sensors to adopt protumoral 
+      phenotypes, depleting critical metabolites and crippling antitumor T-cell 
+      responses. We map the immunometabolic crosstalk through which TAMs reshape 
+      immunity, highlighting nutrient competition and metabolic byproducts as dual 
+      drivers of immune dysfunction. Emerging therapeutic strategies targeting these 
+      pathways (IFN-γ-JAK-STAT1 and IL-6/JAK2/STAT3) have been critically evaluated for 
+      their potential to reprogram TAMs and reverse immunosuppression. Key challenges, 
+      such as TAM heterogeneity, metabolic plasticity, and therapy resistance, are 
+      addressed, emphasizing the need for single-cell-resolution mapping of TAM 
+      metabolic states to identify context-dependent vulnerabilities. Finally, we 
+      advocate for combinatorial approaches that couple metabolic rewiring with 
+      immunotherapies, proposing that disrupting amino acid dependencies in TAMs could 
+      dismantle the immunosuppressive TME.
+CI  - Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Ran, Beibei
+AU  - Ran B
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Xiao, Lingjun
+AU  - Xiao L
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Liu, Yan
+AU  - Liu Y
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Zhang, Chenglin
+AU  - Zhang C
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Kong, Lingkai
+AU  - Kong L
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Zhang, Yuxin
+AU  - Zhang Y
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China.
+FAU - Gu, Xiaosong
+AU  - Gu X
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China. Electronic address: 
+      nervegu@ntu.edu.cn.
+FAU - Jiang, Chunping
+AU  - Jiang C
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China; 
+      Department of Hepatobiliary and Pancreatic Surgery, The Second Affiliated 
+      Hospital of Fujian Medical University, 362000 Quanzhou, Fujian Province, China. 
+      Electronic address: chunpingjiang@nju.edu.cn.
+FAU - Wu, Junhua
+AU  - Wu J
+AD  - State Key Laboratory of Pharmaceutical Biotechnology, Department of General 
+      Surgery Nanjing Drum Tower Hospital, The Affiliated Hospital of Medical School, 
+      Medical School, Nanjing University, Nanjing 210008, China; Jinan Microecological 
+      Biomedicine Shandong Laboratory, Jinan 250021, China; "Nanjing University-Gulou" 
+      Joint Laboratory of AI and Healthcare BigData, National Institute of Healthcare 
+      Data Science at Nanjing University, School of Life Sciences, Jiangsu Key 
+      Laboratory of Molecular Medicine, Nanjing University, Nanjing 210093, China. 
+      Electronic address: wujunhua@nju.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250918
+PL  - Egypt
+TA  - J Adv Res
+JT  - Journal of advanced research
+JID - 101546952
+SB  - IM
+OTO - NOTNLM
+OT  - Amino acid
+OT  - Immunometabolic crosstalk
+OT  - Immunotherapy
+OT  - M1-like TAMs
+OT  - M2-like TAMs
+OT  - Metabolic crosstalk
+OT  - Metabolic reprogramming
+OT  - Therapeutic target
+OT  - Tumor microenvironment (TME)
+OT  - Tumor-associated macrophages (TAMs)
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/09/21 00:30
+MHDA- 2025/09/21 00:30
+CRDT- 2025/09/20 19:36
+PHST- 2025/04/20 00:00 [received]
+PHST- 2025/08/18 00:00 [revised]
+PHST- 2025/09/13 00:00 [accepted]
+PHST- 2025/09/21 00:30 [medline]
+PHST- 2025/09/21 00:30 [pubmed]
+PHST- 2025/09/20 19:36 [entrez]
+AID - S2090-1232(25)00729-5 [pii]
+AID - 10.1016/j.jare.2025.09.025 [doi]
+PST - aheadofprint
+SO  - J Adv Res. 2025 Sep 18:S2090-1232(25)00729-5. doi: 10.1016/j.jare.2025.09.025.

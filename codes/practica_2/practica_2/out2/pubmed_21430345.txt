@@ -1,0 +1,67 @@
+PMID- 21430345
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110715
+LR  - 20110324
+IS  - 2384-8553 (Electronic)
+IS  - 0021-2571 (Linking)
+VI  - 47
+IP  - 1
+DP  - 2011
+TI  - Rare diseases and orphan drugs.
+PG  - 83-93
+LID - 10.4415/ANN_11_01_17 [doi]
+AB  - According to the Regulation (EC) N. 141/2000 of the European Parliament and of 
+      the Council, rare diseases are life-threatening or chronically debilitating 
+      conditions, affecting no more than 5 in 10 000 persons in the European Community. 
+      It is estimated that between 6000 to 8000 distinct rare diseases affect up to 6% 
+      of the total EU population. Therefore, these conditions can be considered rare if 
+      taken individually but they affect a significant proportion of the European 
+      population when considered as a single group. Several initiatives have been 
+      undertaken at international, European and national level to tackle public health 
+      as well as research issues related to the prevention, diagnosis, treatment and 
+      surveillance of these diseases. The development of innovative and effective 
+      medical products for their diagnosis and treatment is frequently hampered by 
+      several factors, including the limited knowledge of their natural history, the 
+      difficulties in setting up clinical studies due to the limited numbers of 
+      patients affected by a specific disease, the weak interest of sponsors due to the 
+      restricted market opportunities. Therefore, incentives and other facilitations 
+      have been adopted in many parts of the world, including in the EU, in order to 
+      facilitate the development and commercialization of diagnostic tools and 
+      treatments devoted to rare diseases. This paper illustrates mainly the European 
+      initiatives and will discuss the problematic and controversial aspects 
+      surrounding orphan drugs. Finally, activities and measures adopted in Italy are 
+      presented.
+FAU - Taruscio, Domenica
+AU  - Taruscio D
+AD  - Centro Nazionale Malattie Rare, Istituto Superiore di Sanità, Rome, Italy. 
+      domenica.taruscio@iss.it
+FAU - Capozzoli, Fiorentino
+AU  - Capozzoli F
+FAU - Frank, Claudio
+AU  - Frank C
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Italy
+TA  - Ann Ist Super Sanita
+JT  - Annali dell'Istituto superiore di sanita
+JID - 7502520
+SB  - IM
+MH  - Academies and Institutes
+MH  - Drug Industry/economics
+MH  - Europe
+MH  - European Union
+MH  - Humans
+MH  - Italy
+MH  - *Orphan Drug Production/economics/legislation & jurisprudence
+MH  - *Rare Diseases
+EDAT- 2011/03/25 06:00
+MHDA- 2011/07/16 06:00
+CRDT- 2011/03/25 06:00
+PHST- 2011/03/25 06:00 [entrez]
+PHST- 2011/03/25 06:00 [pubmed]
+PHST- 2011/07/16 06:00 [medline]
+AID - 10.4415/ANN_11_01_17 [doi]
+PST - ppublish
+SO  - Ann Ist Super Sanita. 2011;47(1):83-93. doi: 10.4415/ANN_11_01_17.

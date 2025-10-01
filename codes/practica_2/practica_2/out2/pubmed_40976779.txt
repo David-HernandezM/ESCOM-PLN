@@ -1,0 +1,126 @@
+PMID- 40976779
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250921
+LR  - 20250921
+IS  - 1552-5279 (Electronic)
+IS  - 1552-5260 (Print)
+IS  - 1552-5260 (Linking)
+VI  - 21
+IP  - 9
+DP  - 2025 Sep
+TI  - Caregivers' perspectives on lecanemab use for Alzheimer's disease: A national 
+      survey in China.
+PG  - e70680
+LID - 10.1002/alz.70680 [doi]
+LID - e70680
+AB  - INTRODUCTION: Caregivers' decisions significantly influence Alzheimer's disease 
+      progression, yet research on the benefits of disease-modifying therapy (DMT) from 
+      their perspective is limited. METHODS: This cross-sectional survey included 345 
+      informal caregivers of lecanemab-treated patients. We collected online 
+      questionnaires from 37 tertiary hospitals across 31 provinces/autonomous 
+      regions/municipalities in China (2024/06/24 ∼ 2024/12/24). RESULTS: Approximately 
+      94.5% of the caregivers opined that the burden of care did not intensify 
+      (including remaining constant or being alleviated) subsequent to the 
+      administration of lecanemab, among which 25.8% of the caregivers stated that the 
+      burden of care was mitigated. Those caregivers with a higher annual family income 
+      (≥¥400,000, p < 0.01) and filial caregivers exhibited greater confidence in the 
+      therapeutic efficacy of lecanemab. DISCUSSION: Most caregivers hold a positive 
+      attitude toward lecanemab, particularly filial caregivers. The application of 
+      lecanemab may alleviate the care burden on caregivers. HIGHLIGHTS: We conducted 
+      the first China national survey on Alzheimer's disease (AD) caregiver 
+      decision-making and lecanemab experience, collecting 345 questionnaires. The 
+      majority of caregivers in China hold a favorable attitude toward lecanemab. 
+      Higher education, younger age, and filial relationships are associated with 
+      reduced caregiver burden. Higher income is linked to increased caregiver 
+      confidence and better lecanemab adherence. There is a low adoption rate of 
+      blood-based AD biomarkers in caregiver decisions.
+CI  - © 2025 The Author(s). Alzheimer's & Dementia published by Wiley Periodicals LLC 
+      on behalf of Alzheimer's Association.
+FAU - Liu, Shuai
+AU  - Liu S
+AD  - Department of Neurology, Huanhu Hospital Affiliated to Tianjin Medical 
+      University, Tianjin Key Laboratory of Cerebrovascular and Neurodegenerative 
+      Diseases, Tianjin, China.
+FAU - Fan, Shiyu
+AU  - Fan S
+AD  - Department of Neurology, Huanhu Hospital Affiliated to Tianjin Medical 
+      University, Tianjin Key Laboratory of Cerebrovascular and Neurodegenerative 
+      Diseases, Tianjin, China.
+FAU - Gan, Jinghuan
+AU  - Gan J
+AD  - Department of Neurology, Beijing Friendship Hospital, Capital Medical University, 
+      Xicheng District, Beijing, China.
+FAU - Liao, Wang
+AU  - Liao W
+AD  - Department of Neurology, Institute of Neuroscience, Key Laboratory of 
+      Neurogenetics and Channelopathies of Guangdong Province and the Ministry of 
+      Education of China, The Second Affiliated Hospital, Guangzhou Medical University, 
+      Guangzhou, China.
+FAU - Chen, Qin
+AU  - Chen Q
+AD  - Department of Neurology, West China Hospital of Sichuan University, Chengdu, 
+      Sichuan, China.
+FAU - Li, Xia
+AU  - Li X
+AD  - Department of Psychogeriatrics, Shanghai Mental Health Center, Shanghai Jiaotong 
+      University School of Medicine, Shanghai, China.
+FAU - Zhang, Jiewen
+AU  - Zhang J
+AD  - Department of Neurology, Zhengzhou University People's Hospital (Henan Provincial 
+      People's Hospital), Zhengzhou, China.
+FAU - Chen, Xiaochun
+AU  - Chen X
+AD  - Department of Neurology, Fujian Medical University Union Hospital, Fujian Key 
+      Laboratory of Molecular Neurology and Institute of Neuroscience, Fujian Medical 
+      University, Fuzhou, Fujian, China.
+FAU - Ji, Yong
+AU  - Ji Y
+AD  - Department of Neurology, Huanhu Hospital Affiliated to Tianjin Medical 
+      University, Tianjin Key Laboratory of Cerebrovascular and Neurodegenerative 
+      Diseases, Tianjin, China.
+LA  - eng
+GR  - 2025017/Tianjin Scientific Research Projects in Key Areas of Traditional Chinese 
+      Medicine/
+PT  - Journal Article
+PL  - United States
+TA  - Alzheimers Dement
+JT  - Alzheimer's & dementia : the journal of the Alzheimer's Association
+JID - 101231978
+SB  - IM
+MH  - Humans
+MH  - *Caregivers/psychology
+MH  - *Alzheimer Disease/drug therapy
+MH  - China
+MH  - Female
+MH  - Male
+MH  - Cross-Sectional Studies
+MH  - Surveys and Questionnaires
+MH  - Middle Aged
+MH  - Aged
+MH  - Adult
+MH  - Decision Making
+MH  - Cost of Illness
+PMC - PMC12450581
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - attitude
+OT  - informal caregivers
+OT  - lecanemab
+COIS- The authors declare no conflict of interest. Any author disclosures are available 
+      in the Supporting Information.
+EDAT- 2025/09/22 00:29
+MHDA- 2025/09/22 00:30
+PMCR- 2025/09/21
+CRDT- 2025/09/21 23:03
+PHST- 2025/07/13 00:00 [revised]
+PHST- 2025/04/22 00:00 [received]
+PHST- 2025/08/05 00:00 [accepted]
+PHST- 2025/09/22 00:30 [medline]
+PHST- 2025/09/22 00:29 [pubmed]
+PHST- 2025/09/21 23:03 [entrez]
+PHST- 2025/09/21 00:00 [pmc-release]
+AID - ALZ70680 [pii]
+AID - 10.1002/alz.70680 [doi]
+PST - ppublish
+SO  - Alzheimers Dement. 2025 Sep;21(9):e70680. doi: 10.1002/alz.70680.

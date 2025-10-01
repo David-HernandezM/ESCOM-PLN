@@ -1,0 +1,106 @@
+PMID- 40983949
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250922
+LR  - 20250922
+IS  - 2047-9158 (Print)
+IS  - 2047-9158 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2025 Sep 22
+TI  - Glycosylation in neuroinflammation: mechanisms, implications, and therapeutic 
+      strategies for neurodegenerative diseases.
+PG  - 47
+LID - 10.1186/s40035-025-00506-4 [doi]
+AB  - Neuroinflammation is a key pathological mechanism underlying neurodegenerative 
+      diseases, and intricately interacts with protein glycosylation. Emerging evidence 
+      suggests that aberrant glycosylation disrupts immune homeostasis, activates 
+      microglia, and promotes the release of inflammatory mediators, thereby 
+      exacerbating neuroinflammatory responses. In addition, the inflammatory 
+      microenvironment can further dysregulate glycosylation patterns, creating a 
+      vicious cycle that amplifies disease pathology. Although the regulatory role of 
+      glycosylation in neuroinflammation associated with neurodegenerative diseases has 
+      been recognized, the precise molecular and cellular mechanisms remain 
+      incompletely understood. This review systematically examines the complex 
+      crosstalk between glycosylation and neuroinflammation, with a particular focus on 
+      the critical roles of glycosylation in key neurodegenerative diseases, including 
+      Alzheimer's disease, Parkinson's disease, multiple sclerosis, and amyotrophic 
+      lateral sclerosis. We explore how glycosylation abnormalities contribute to 
+      disease pathogenesis through effects on immune recognition, protein aggregation, 
+      and cellular functions. Understanding the molecular underpinnings of these 
+      diseases may pave the way for the development of therapeutic strategies targeting 
+      glycosylation pathways, ultimately improving clinical outcomes for patients.
+CI  - © 2025. The Author(s).
+FAU - Cheng, Shenglan
+AU  - Cheng S
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, 
+      410008, China.
+AD  - Xiangya School of Medicine, Central South University, Changsha, 410013, China.
+FAU - Xiao, Bo
+AU  - Xiao B
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, 
+      410008, China.
+AD  - National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, 
+      Central South University, Changsha, 410008, China.
+AD  - Clinical Research Center for Epileptic Disease of Hunan Province, Central South 
+      University, Changsha, 410008, China.
+FAU - Luo, Zhaohui
+AU  - Luo Z
+AUID- ORCID: 0000-0002-3189-3361
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Changsha, 
+      410008, China. luozhaohui_xy@csu.edu.cn.
+AD  - National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, 
+      Central South University, Changsha, 410008, China. luozhaohui_xy@csu.edu.cn.
+AD  - Clinical Research Center for Epileptic Disease of Hunan Province, Central South 
+      University, Changsha, 410008, China. luozhaohui_xy@csu.edu.cn.
+AD  - Research Center for Neuroimmune and Neuromuscular Disorders, Xiangya Hospital, 
+      Central South University, Changsha, 410008, China. luozhaohui_xy@csu.edu.cn.
+AD  - Department of Neurology, Xiangya Hospital, Central South University, Jiangxi 
+      (National Regional Center for Neurological Diseases), Nanchang, 330000, China. 
+      luozhaohui_xy@csu.edu.cn.
+LA  - eng
+GR  - 2022YFC2503802/the National Key Research and Development Program of China/
+GR  - z027001/The National Multidisciplinary Cooperative Diagnosis and Treatment 
+      Capacity Project for Major Diseases of Xiangya Hospital, Central South 
+      University/
+GR  - 2021SK4001/the Innovative Construction Foundation of Hunan Province/
+GR  - 2023JJ30924/the National Natural Science Foundation of Hunan province, China/
+GR  - B202303076019/Scientific research project of Health Commission of Hunan Province/
+PT  - Journal Article
+PT  - Review
+DEP - 20250922
+PL  - England
+TA  - Transl Neurodegener
+JT  - Translational neurodegeneration
+JID - 101591861
+SB  - IM
+MH  - Humans
+MH  - Glycosylation
+MH  - *Neurodegenerative Diseases/metabolism/immunology/therapy
+MH  - Animals
+MH  - *Neuroinflammatory Diseases/metabolism
+MH  - Inflammation/metabolism
+MH  - Microglia/metabolism
+OTO - NOTNLM
+OT  - Glycosylation
+OT  - IgG
+OT  - Lectins
+OT  - Microglia
+OT  - Neurodegenerative diseases
+OT  - Neuroinflammation
+OT  - Targeted therapy
+COIS- Declarations. Ethics approval and consent to participate: Not applicable. Consent 
+      for publication: Not applicable. Competing interests: The authors declare that 
+      they have no competing interests.
+EDAT- 2025/09/23 03:16
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:35
+PHST- 2025/03/18 00:00 [received]
+PHST- 2025/08/13 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:16 [pubmed]
+PHST- 2025/09/22 23:35 [entrez]
+AID - 10.1186/s40035-025-00506-4 [pii]
+AID - 10.1186/s40035-025-00506-4 [doi]
+PST - epublish
+SO  - Transl Neurodegener. 2025 Sep 22;14(1):47. doi: 10.1186/s40035-025-00506-4.

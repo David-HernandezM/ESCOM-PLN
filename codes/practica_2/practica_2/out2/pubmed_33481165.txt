@@ -1,0 +1,114 @@
+PMID- 33481165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220308
+LR  - 20220308
+IS  - 1869-1889 (Electronic)
+IS  - 1674-7305 (Linking)
+VI  - 64
+IP  - 10
+DP  - 2021 Oct
+TI  - Genome-wide signatures of mammalian skin covering evolution.
+PG  - 1765-1780
+LID - 10.1007/s11427-020-1841-5 [doi]
+AB  - Animal body coverings provide protection and allow for adaptation to 
+      environmental pressures such as heat, ultraviolet radiation, water loss, and 
+      mechanical forces. Here, using a comparative genomics analysis of 39 mammal 
+      species spanning three skin covering types (hairless, scaly and spiny), we found 
+      some genes (e.g., UVRAG, POLH, and XPC) involved in skin inflammation, skin 
+      innate immunity, and ultraviolet radiation damage repair were under selection in 
+      hairless ocean mammals (e.g., whales and manatees). These signatures might be 
+      associated with a high risk of skin diseases from pathogens and ultraviolet 
+      radiation. Moreover, the genomes from three spiny mammal species shared 
+      convergent genomic regions (EPHB2, EPHA4, and NIN) and unique positively selected 
+      genes (FZD6, INVS, and CDC42) involved in skin cell polarity, which might be 
+      related to the development of spines. In scaly mammals, the shared convergent 
+      genomic regions (e.g., FREM2) were associated with the integrity of the skin 
+      epithelium and epidermal adhesion. This study identifies potential convergent 
+      genomic features among distantly related mammals with the same skin covering 
+      type.
+CI  - © 2021. Science China Press and Springer-Verlag GmbH Germany, part of Springer 
+      Nature.
+FAU - Cao, Peng
+AU  - Cao P
+AD  - Key Laboratory of Drug Targets and Drug Leads for Degenerative Diseases, 
+      Affiliated Hospital of Integrated Traditional Chinese and Western Medicine, 
+      Nanjing University of Chinese Medicine, Nanjing, 210023, China. pcao79@yahoo.com.
+FAU - Dai, Qinlong
+AU  - Dai Q
+AD  - Shimian Research Center of Giant Panda Small Population Conservation and 
+      Rejuvenation, Shimian, 625400, China.
+AD  - Liziping Natural Reserve, Shimian, 625400, China.
+FAU - Deng, Cao
+AU  - Deng C
+AD  - DNA Stories Bioinformatics Center, Chengdu, 610021, China.
+FAU - Zhao, Xiang
+AU  - Zhao X
+AD  - PubBio-Tech Services Corporation, Wuhan, 430070, China.
+FAU - Qin, Shishan
+AU  - Qin S
+AD  - DNA Stories Bioinformatics Center, Chengdu, 610021, China.
+FAU - Yang, Jian
+AU  - Yang J
+AD  - DNA Stories Bioinformatics Center, Chengdu, 610021, China.
+FAU - Ju, Ran
+AU  - Ju R
+AD  - Nanjing Foreign Language School Xianlin Branch, Nanjing, 210023, China.
+FAU - Wang, Zhiwen
+AU  - Wang Z
+AD  - PubBio-Tech Services Corporation, Wuhan, 430070, China.
+FAU - Lu, Guoqing
+AU  - Lu G
+AD  - University of Nebraska at Omaha, Omaha, 68181, USA.
+FAU - Gu, Xiaodong
+AU  - Gu X
+AD  - Sichuan Station of Wildlife survey and Management, Chengdu, 610082, China.
+FAU - Yang, Zhisong
+AU  - Yang Z
+AD  - Key Laboratory of Southwest China Wildlife Resources Conservation (Ministry of 
+      Education), China West Normal University, Nanchong, 637002, China.
+FAU - Zhu, Lifeng
+AU  - Zhu L
+AD  - College of Life Sciences, Nanjing Normal University, Nanjing, 210046, China. 
+      zhulf2020@126.com.
+AD  - University of Nebraska at Omaha, Omaha, 68181, USA. zhulf2020@126.com.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20210119
+PL  - China
+TA  - Sci China Life Sci
+JT  - Science China. Life sciences
+JID - 101529880
+SB  - IM
+MH  - Adaptation, Physiological
+MH  - Amino Acid Substitution
+MH  - Animals
+MH  - Evolution, Molecular
+MH  - Genome/*genetics
+MH  - Genomics
+MH  - Hair Follicle/growth & development
+MH  - Integumentary System/*physiology
+MH  - Mammals/classification/*genetics
+MH  - Phylogeny
+MH  - Selection, Genetic
+OTO - NOTNLM
+OT  - comparative genomics
+OT  - convergent evolution
+OT  - hairless mammals
+OT  - scaly mammals
+OT  - skin coverings
+OT  - spiny mammals
+EDAT- 2021/01/23 06:00
+MHDA- 2022/03/09 06:00
+CRDT- 2021/01/22 12:18
+PHST- 2020/08/15 00:00 [received]
+PHST- 2020/10/15 00:00 [accepted]
+PHST- 2021/01/23 06:00 [pubmed]
+PHST- 2022/03/09 06:00 [medline]
+PHST- 2021/01/22 12:18 [entrez]
+AID - 10.1007/s11427-020-1841-5 [pii]
+AID - 10.1007/s11427-020-1841-5 [doi]
+PST - ppublish
+SO  - Sci China Life Sci. 2021 Oct;64(10):1765-1780. doi: 10.1007/s11427-020-1841-5. 
+      Epub 2021 Jan 19.

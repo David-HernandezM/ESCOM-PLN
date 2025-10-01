@@ -1,0 +1,153 @@
+PMID- 40973793
+OWN - NLM
+STAT- Publisher
+LR  - 20250919
+IS  - 1476-5594 (Electronic)
+IS  - 0950-9232 (Linking)
+DP  - 2025 Sep 19
+TI  - Cancer-associated fibroblasts drive lung adenocarcinoma progression via 
+      THBS2-mediated epithelial-mesenchymal transition.
+LID - 10.1038/s41388-025-03569-9 [doi]
+AB  - The role of cancer-associated fibroblasts (CAFs) in the initiation and invasion 
+      phases of human lung adenocarcinoma (LUAD) development is not fully understood. 
+      In this study, we utilized single-cell RNA sequencing, spatial transcriptomics, 
+      and a combination of in vivo and in vitro models to decode the dynamics of 
+      tumor-stroma interactions during human LUAD progression, focusing primarily on 
+      adenocarcinoma in situ (AIS), minimally invasive adenocarcinoma (MIA), and 
+      invasive adenocarcinoma (IAC). We identified a matrix CAF (mCAF) subtype 
+      characterized by high THBS2 expression, which was closely associated with poor 
+      clinical outcomes, tumor recurrence, and the invasive dynamics of LUAD. Spatial 
+      transcriptomics and multiplex immunohistochemistry analysis revealed that this 
+      CAF subpopulation was closely associated with tumor cells, with clear spatial 
+      colocalization. In vivo and in vitro experiments demonstrated that THBS2 secreted 
+      by these mCAFs directly binds to SDC4 on tumor cells, enhancing tumor 
+      epithelial-mesenchymal transition (EMT) programs. This study highlights THBS2+ 
+      mCAFs as key regulators of tumor-stroma interactions and identifies the 
+      THBS2-SDC4-EMT axis as a potential therapeutic target in LUAD.
+CI  - © 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+FAU - Ren, Yuqing
+AU  - Ren Y
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+AD  - Department of Respiratory and Critical Care Medicine, The First Affiliated 
+      Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+AD  - Interventional Institute of Zhengzhou University, Zhengzhou, Henan, China.
+AD  - Interventional Treatment and Clinical Research Center of Henan Province, 
+      Zhengzhou, Henan, China.
+AD  - Department of Pulmonary and Critical Care Medicine, The First Affiliated 
+      Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+FAU - Ming, Ruijie
+AU  - Ming R
+AD  - Department of Oncology, Chongqing University Three Gorges Hospital, Chongqing, 
+      China.
+AD  - School of Medicine, Chongqing University, Chongqing, China.
+FAU - Zuo, Anning
+AU  - Zuo A
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Liu, Shutong
+AU  - Liu S
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Ba, Yuhao
+AU  - Ba Y
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Zhang, Yuyuan
+AU  - Zhang Y
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+AD  - Interventional Institute of Zhengzhou University, Zhengzhou, Henan, China.
+AD  - Interventional Treatment and Clinical Research Center of Henan Province, 
+      Zhengzhou, Henan, China.
+FAU - Chen, Yukang
+AU  - Chen Y
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Pan, Teng
+AU  - Pan T
+AD  - Longgang District Maternity & Child Healthcare Hospital of Shenzhen City 
+      (Longgang Maternity and Child Institute of Shantou University Medical College), 
+      Shantou, China.
+FAU - Luo, Peng
+AU  - Luo P
+AD  - The Department of Oncology, Zhujiang Hospital, Southern Medical University, 
+      Guangzhou, China.
+FAU - Cheng, Quan
+AU  - Cheng Q
+AUID- ORCID: 0000-0003-2401-5349
+AD  - Department of Neurosurgery, Xiangya Hospital, Central South University, Changsha, 
+      Hunan, China.
+FAU - Deng, Jinhai
+AU  - Deng J
+AD  - Richard Dimbleby Department of Cancer Research, Comprehensive Cancer Centre, 
+      Kings College London, London, United Kingdom.
+FAU - Yue, Yi
+AU  - Yue Y
+AD  - Department of Respiratory and Critical Care Medicine, The First Affiliated 
+      Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Xu, Hui
+AU  - Xu H
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China.
+FAU - Weng, Siyuan
+AU  - Weng S
+AD  - National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+      Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+      Beijing, China.
+FAU - Han, Xinwei
+AU  - Han X
+AUID- ORCID: 0000-0003-4407-4864
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China. fcchanxw@zzu.edu.cn.
+AD  - Interventional Institute of Zhengzhou University, Zhengzhou, Henan, China. 
+      fcchanxw@zzu.edu.cn.
+AD  - Interventional Treatment and Clinical Research Center of Henan Province, 
+      Zhengzhou, Henan, China. fcchanxw@zzu.edu.cn.
+FAU - Zhou, Dongdong
+AU  - Zhou D
+AD  - Department of Breast Medical Oncology, Cancer Research Center, Shandong Cancer 
+      Hospital and Institute, Shandong First Medical University and Shandong Academy of 
+      Medical Sciences, Jinan, Shandong Province, China. wasabi1214@163.com.
+FAU - Liu, Zaoqu
+AU  - Liu Z
+AUID- ORCID: 0000-0002-0452-742X
+AD  - Department of Interventional Radiology, The First Affiliated Hospital of 
+      Zhengzhou University, Zhengzhou, Henan, China. liuzaoqu@163.com.
+AD  - Interventional Institute of Zhengzhou University, Zhengzhou, Henan, China. 
+      liuzaoqu@163.com.
+AD  - Interventional Treatment and Clinical Research Center of Henan Province, 
+      Zhengzhou, Henan, China. liuzaoqu@163.com.
+AD  - Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences and 
+      Peking Union Medical College, Beijing, China. liuzaoqu@163.com.
+LA  - eng
+GR  - 221100310100/Science and Technology Department of Henan Province (Henan 
+      Provincial Department of Science and Technology)/
+PT  - Journal Article
+DEP - 20250919
+PL  - England
+TA  - Oncogene
+JT  - Oncogene
+JID - 8711562
+SB  - IM
+COIS- Competing interests: The authors declare no competing interests. Ethics approval 
+      and consent to participate: All human tissue samples were obtained with written 
+      informed consent from each patient and approved by the Ethics Committee (Approval 
+      Nos. HLugA120PG01: 2020-0930; HLugA030PG04-2: 2021-0215; HLugA180Su07: 
+      2022-0401). All animal experiments were approved by the Institutional Animal Care 
+      and Use Committee of Zhengzhou University (Ethical Approval No. 2019-KY-383) and 
+      conducted in strict accordance with the National Institutes of Health (NIH) 
+      guidelines for animal care and use.
+EDAT- 2025/09/20 00:32
+MHDA- 2025/09/20 00:32
+CRDT- 2025/09/19 23:50
+PHST- 2025/03/12 00:00 [received]
+PHST- 2025/09/03 00:00 [accepted]
+PHST- 2025/08/20 00:00 [revised]
+PHST- 2025/09/20 00:32 [medline]
+PHST- 2025/09/20 00:32 [pubmed]
+PHST- 2025/09/19 23:50 [entrez]
+AID - 10.1038/s41388-025-03569-9 [pii]
+AID - 10.1038/s41388-025-03569-9 [doi]
+PST - aheadofprint
+SO  - Oncogene. 2025 Sep 19. doi: 10.1038/s41388-025-03569-9.

@@ -1,0 +1,358 @@
+PMID- 40983647
+OWN - NLM
+STAT- Publisher
+LR  - 20250922
+IS  - 2157-846X (Electronic)
+IS  - 2157-846X (Linking)
+DP  - 2025 Sep 22
+TI  - Intranasal vaccine combining adenovirus and trimeric subunit protein provides 
+      superior immunity against SARS-CoV-2 Omicron variant.
+LID - 10.1038/s41551-025-01517-2 [doi]
+AB  - Mucosal immunity provides efficient protection against upper-airway infections, 
+      limiting viral shedding and transmission. However, currently, no nasal spray 
+      COVID-19 vaccines are approved by WHO for global use. Here we develop a 
+      two-component intranasal vaccine that combines an adenovirus vector expressing 
+      the spike protein of the XBB.1.5 variant (Ad5(XBB.1.5)) with a self-assembled 
+      trimeric recombinant protein derived from the receptor binding domain 
+      (RBD(XBB.1.5)-HR). This two-component vaccine elicits superior humoral and 
+      cellular immunity against XBB.1.5 variants compared with the individual 
+      components. It also provides protective immunity against live XBB.1.16 virus 
+      challenges in mice, and prevents XBB.1.5 virus transmission in a hamster model. 
+      Notably, the activation of the STING signalling pathway in mucosal dendritic 
+      cells is essential for the adjuvant effect of the adenovirus vector. We also 
+      incorporate another trimeric protein from the BA.5 variant (RBD(BA.5)-HR), 
+      creating a three-component vaccine 
+      (Ad5(XBB.1.5) + RBD(XBB.1.5)-HR + RBD(BA.5)-HR) that shows enhanced 
+      broad-spectrum neutralization. The two-component vaccine demonstrates high 
+      tolerability and safety in humans, inducing enhanced mucosal immunity and high 
+      levels of neutralizing antibodies in all participants. Our findings underscore 
+      this strategy for clinical COVID-19 intranasal vaccine development.
+CI  - © 2025. The Author(s).
+FAU - Hong, Weiqi
+AU  - Hong W
+AUID- ORCID: 0000-0003-1668-2301
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Cheng, Ping
+AU  - Cheng P
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Yang, Jingyun
+AU  - Yang J
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Shi, Huashan
+AU  - Shi H
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Wang, Zhenling
+AU  - Wang Z
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Li, Jiong
+AU  - Li J
+AUID- ORCID: 0000-0002-3742-630X
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Lei, Hong
+AU  - Lei H
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Peng, Dandan
+AU  - Peng D
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - He, Cai
+AU  - He C
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Ren, Wenyan
+AU  - Ren W
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Pan, Xiangyu
+AU  - Pan X
+AUID- ORCID: 0000-0002-2537-6616
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Huang, Yuhe
+AU  - Huang Y
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Alu, Aqu
+AU  - Alu A
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Qin, Furong
+AU  - Qin F
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Wang, Binhan
+AU  - Wang B
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Zhou, Yanan
+AU  - Zhou Y
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Yang, Yun
+AU  - Yang Y
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Yu, Wenhai
+AU  - Yu W
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Tang, Cong
+AU  - Tang C
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Huang, Qing
+AU  - Huang Q
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Yang, Mengli
+AU  - Yang M
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Li, Bai
+AU  - Li B
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Li, Jingmei
+AU  - Li J
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Wang, Junbin
+AU  - Wang J
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China.
+FAU - Ai, Jiayuan
+AU  - Ai J
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Chen, Li
+AU  - Chen L
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Que, Haiying
+AU  - Que H
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Zeng, Zhen
+AU  - Zeng Z
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Liu, Jian
+AU  - Liu J
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Hao, Ying
+AU  - Hao Y
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Ao, Danyi
+AU  - Ao D
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Zhang, Yu
+AU  - Zhang Y
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Huang, Xiya
+AU  - Huang X
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Ye, Chunjun
+AU  - Ye C
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Fu, MinYang
+AU  - Fu M
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - He, Xuemei
+AU  - He X
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Bi, Zhenfei
+AU  - Bi Z
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Han, Xuejiao
+AU  - Han X
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Luo, Min
+AU  - Luo M
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Hu, Hongbo
+AU  - Hu H
+AUID- ORCID: 0000-0002-8177-7641
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Cheng, Wei
+AU  - Cheng W
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Dong, Haohao
+AU  - Dong H
+AUID- ORCID: 0000-0002-5022-3494
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Lei, Jian
+AU  - Lei J
+AUID- ORCID: 0000-0001-9326-0554
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Chen, Lu
+AU  - Chen L
+AUID- ORCID: 0000-0002-1083-9729
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Zhou, Xikun
+AU  - Zhou X
+AUID- ORCID: 0000-0001-6768-2382
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Wang, Wei
+AU  - Wang W
+AUID- ORCID: 0000-0001-7788-1895
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Shen, Guobo
+AU  - Shen G
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Yang, Jinliang
+AU  - Yang J
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Song, Xiangrong
+AU  - Song X
+AUID- ORCID: 0000-0002-2853-2696
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Wei, Yuquan
+AU  - Wei Y
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China.
+FAU - Lu, Shuaiyao
+AU  - Lu S
+AUID- ORCID: 0000-0003-1675-9735
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China. lushuaiyao-km@163.com.
+FAU - Sun, Qiangming
+AU  - Sun Q
+AUID- ORCID: 0000-0003-1376-3827
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China. qsun@imbcams.com.cn.
+FAU - Lu, Guangwen
+AU  - Lu G
+AUID- ORCID: 0000-0001-7568-592X
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China. lugw@scu.edu.cn.
+FAU - Wang, Youchun
+AU  - Wang Y
+AUID- ORCID: 0000-0001-9769-5141
+AD  - National Kunming High-level Biosafety Primate Research Center, Institute of 
+      Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical 
+      College, Kunming, China. wangyc@imbcams.com.cn.
+FAU - Yang, Li
+AU  - Yang L
+AUID- ORCID: 0000-0002-7880-2113
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China. yl_tracy@scu.edu.cn.
+FAU - Li, Weimin
+AU  - Li W
+AUID- ORCID: 0000-0003-0985-0311
+AD  - Department of Respiratory and Critical Care Medicine, Med-X Center for 
+      Manufacturing, Center of Precision Medicine, Precision Medicine Key Laboratory of 
+      Sichuan Province, Frontiers Science Center for Disease-related Molecular Network, 
+      West China Hospital, West China Medical School, Sichuan University, Chengdu, 
+      China. weimi003@scu.edu.cn.
+FAU - Wei, Xiawei
+AU  - Wei X
+AUID- ORCID: 0000-0002-6513-6422
+AD  - Laboratory of Aging Research and Cancer Drug Target, State Key Laboratory of 
+      Biotherapy and Cancer Center, National Clinical Research Center for Geriatrics, 
+      West China Hospital, Sichuan University, Chengdu, China. xiaweiwei@scu.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20250922
+PL  - England
+TA  - Nat Biomed Eng
+JT  - Nature biomedical engineering
+JID - 101696896
+SB  - IM
+COIS- Competing interests: This work was supported by WestVac Biopharma Co. Ltd. P.C., 
+      Jingyun Yang, Z.W., Jiong Li, W.W., G.S., Jinliang Yang, Y. Wei, G.L., L.Y. and 
+      X.W. are employees of WestVac Biopharma Co. Ltd. The other authors declare no 
+      competing interests.
+EDAT- 2025/09/23 03:17
+MHDA- 2025/09/23 03:17
+CRDT- 2025/09/22 23:18
+PHST- 2024/02/11 00:00 [received]
+PHST- 2025/08/22 00:00 [accepted]
+PHST- 2025/09/23 03:17 [medline]
+PHST- 2025/09/23 03:17 [pubmed]
+PHST- 2025/09/22 23:18 [entrez]
+AID - 10.1038/s41551-025-01517-2 [pii]
+AID - 10.1038/s41551-025-01517-2 [doi]
+PST - aheadofprint
+SO  - Nat Biomed Eng. 2025 Sep 22. doi: 10.1038/s41551-025-01517-2.
